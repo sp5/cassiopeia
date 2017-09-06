@@ -83,7 +83,7 @@ Dialogue: 0,0:03:20.18,0:03:22.18,Nanoha Dialogue1,,0,0,0,,I'm going to head on-
 Dialogue: 0,0:03:22.18,0:03:25.11,Nanoha Dialogue1,,0,0,0,,I will trust you all with the arrest of Presea Testarossa!
 Dialogue: 0,0:03:25.11,0:03:26.51,Nanoha Dialogue1,,0,0,0,,Roger!
 Dialogue: 0,0:03:33.52,0:03:39.48,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,240)}{\b1}Episode 12{\b0}
-Dialogue: 0,0:03:33.52,0:03:39.48,Nanoha Dialogue2,,0,0,0,,{\blur0.5\an5\pos(480,480)}{\b1}When Our Fates are Sealed{\b0}
+Dialogue: 0,0:03:33.52,0:03:39.48,Nanoha Dialogue2,,0,0,0,,{\blur0.5\an5\pos(480,480)}{\b1}When Our Fates Are Sealed{\b0}
 Dialogue: 0,0:04:10.09,0:04:11.89,Nanoha Dialogue1,,0,0,0,,There's lots of them.
 Dialogue: 0,0:04:11.89,0:04:13.56,Nanoha Dialogue1,,0,0,0,,This is only the entrance.
 Dialogue: 0,0:04:13.56,0:04:15.36,Nanoha Dialogue1,,0,0,0,,There are many more inside.
@@ -327,10 +327,10 @@ Dialogue: 0,0:24:45.87,0:24:47.40,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.40,0:24:52.86,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:53.24,0:25:03.24,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 0,0:25:13.46,0:25:15.93,Nanoha Narration1,,0,0,0,,The incident has finally come to an end.
-Dialogue: 0,0:25:15.93,0:25:19.39,Nanoha Narration1,,0,0,0,,Finally, the ending that arrives, and the time of parting.
+Dialogue: 0,0:25:15.93,0:25:19.39,Nanoha Narration1,,0,0,0,,Finally, the ending that arrives, and the parting of the ways.
 Dialogue: 0,0:25:20.60,0:25:26.37,Nanoha Narration1,,0,0,0,,But an ending is always the beginning of something else.
 Dialogue: 0,0:25:27.51,0:25:30.08,Nanoha Narration1,,0,0,0,,Next episode of {\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 0,0:25:27.41,0:25:35.75,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5}Episode 13
-Dialogue: 0,0:25:27.41,0:25:35.75,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5s}Call My Name
+Dialogue: 0,0:25:27.41,0:25:35.75,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5}Call My Name
 Dialogue: 0,0:25:30.08,0:25:33.48,Nanoha Narration1,,0,0,0,,Final episode: Call My Name
 Dialogue: 0,0:25:33.92,0:25:36.91,Nanoha Narration1,,0,0,0,,Lyrical, magical,\NI'll see you again, right?
