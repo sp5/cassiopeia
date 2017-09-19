@@ -17,22 +17,20 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 960x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha - 08 (BDRip 960x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 354
-Active Line: 357
-Video Position: 36653
+Video Zoom Percent: 1.000000
+Scroll Position: 352
+Active Line: 356
+Video Position: 36871
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha Dialogue1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.5,2,14,14,13,1
-Style: Nanoha Dialogue2,Noto Serif,54,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.1,2.5,4,14,14,13,1
+Style: Nanoha Dialogue1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
-Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.5,7,14,14,13,1
+Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha Narration1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.5,8,14,14,13,1
-Style: Nanoha Narration2,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.5,8,14,14,6,1
-Style: Nanoha Device1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.5,2,14,14,13,1
+Style: Nanoha Narration1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
+Style: Nanoha Device1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -47,20 +45,20 @@ Dialogue: 0,0:00:24.97,0:00:27.74,Nanoha Narration1,,0,0,0,,is most likely found
 Dialogue: 0,0:00:28.14,0:00:30.84,Nanoha Narration1,,0,0,0,,Because I decided to believe, and move forward,
 Dialogue: 0,0:00:30.84,0:00:34.07,Nanoha Narration1,,0,0,0,,even if I am headed towards a shadowed sky.
 Dialogue: 0,0:00:35.55,0:00:39.08,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha{\i1} will now begin.
-Dialogue: 0,0:00:56.57,0:01:00.51,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
-Dialogue: 0,0:01:00.51,0:01:04.04,Nanoha OP,,0,0,0,,I always shivered from uncertainty
-Dialogue: 0,0:01:04.04,0:01:11.08,Nanoha OP,,0,0,0,,I was scared of learning the truth,\Nso I closed the door
-Dialogue: 0,0:01:11.08,0:01:18.42,Nanoha OP,,0,0,0,,I found my own place within a kind lie and I fled inside my dreams
-Dialogue: 0,0:01:18.42,0:01:27.00,Nanoha OP,,0,0,0,,I dye a sea of loneliness that nobody knows of into a deep blue
-Dialogue: 0,0:01:27.00,0:01:32.77,Nanoha OP,,0,0,0,,An intense feeling to hide the loneliness
-Dialogue: 0,0:01:32.77,0:01:39.04,Nanoha OP,,0,0,0,,Is continually injuring your heart
-Dialogue: 0,0:01:39.04,0:01:43.72,Nanoha OP,,0,0,0,,The secret hidden deep within the eyes
-Dialogue: 0,0:01:43.72,0:01:48.25,Nanoha OP,,0,0,0,,To the truth behind the smile that draws me in
-Dialogue: 0,0:01:48.25,0:01:53.69,Nanoha OP,,0,0,0,,I will deliver a love so soft
-Dialogue: 0,0:01:53.69,0:01:58.23,Nanoha OP,,0,0,0,,Right now, a warmth that might break upon touching it
-Dialogue: 0,0:01:58.23,0:02:02.80,Nanoha OP,,0,0,0,,Parts itself from the past, and overflows
-Dialogue: 0,0:02:02.80,0:02:07.37,Nanoha OP,,0,0,0,,I'll be by your side forever
-Dialogue: 0,0:02:07.37,0:02:17.37,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
+Dialogue: 0,0:00:56.62,0:01:00.56,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
+Dialogue: 0,0:01:00.56,0:01:04.09,Nanoha OP,,0,0,0,,I always shivered from uncertainty
+Dialogue: 0,0:01:04.09,0:01:11.13,Nanoha OP,,0,0,0,,I was scared of learning the truth,\Nso I closed the door
+Dialogue: 0,0:01:11.13,0:01:18.47,Nanoha OP,,0,0,0,,I found my own place within a kind lie and I fled inside my dreams
+Dialogue: 0,0:01:18.47,0:01:27.05,Nanoha OP,,0,0,0,,I dye a sea of loneliness that nobody knows of into a deep blue
+Dialogue: 0,0:01:27.05,0:01:32.82,Nanoha OP,,0,0,0,,An intense feeling to hide the loneliness
+Dialogue: 0,0:01:32.82,0:01:39.09,Nanoha OP,,0,0,0,,Is continually injuring your heart
+Dialogue: 0,0:01:39.09,0:01:43.77,Nanoha OP,,0,0,0,,The secret hidden deep within the eyes
+Dialogue: 0,0:01:43.77,0:01:48.30,Nanoha OP,,0,0,0,,To the truth behind the smile that draws me in
+Dialogue: 0,0:01:48.30,0:01:53.74,Nanoha OP,,0,0,0,,I will deliver a love so soft
+Dialogue: 0,0:01:53.74,0:01:58.28,Nanoha OP,,0,0,0,,Right now, a warmth that might break upon touching it
+Dialogue: 0,0:01:58.28,0:02:02.85,Nanoha OP,,0,0,0,,Parts itself from the past, and overflows
+Dialogue: 0,0:02:02.85,0:02:07.42,Nanoha OP,,0,0,0,,I'll be by your side forever
+Dialogue: 0,0:02:07.42,0:02:17.42,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
 Dialogue: 0,0:02:30.99,0:02:34.66,Nanoha Dialogue1,,0,0,0,,The battle between the two has already started on-site.
 Dialogue: 0,0:02:36.06,0:02:38.83,Nanoha Dialogue1,,0,0,0,,The Lost Logia in the center of it is Class A+.
 Dialogue: 0,0:02:39.33,0:02:40.84,Nanoha Dialogue1,,0,0,0,,Its mannerisms are quite unstable.
@@ -77,8 +75,8 @@ Dialogue: 0,0:03:03.36,0:03:05.76,Nanoha Dialogue1,,0,0,0,,and get a detailed re
 Dialogue: 0,0:03:05.76,0:03:07.29,Nanoha Dialogue1,,0,0,0,,Roger that, Captain!
 Dialogue: 0,0:03:11.17,0:03:12.76,Nanoha Dialogue1,,0,0,0,,Oh, and be careful!
 Dialogue: 0,0:03:13.34,0:03:15.17,Nanoha Dialogue1,,0,0,0,,Okay... I'll be going now.
-Dialogue: 0,0:03:28.35,0:03:34.35,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,143)}Episode 8
-Dialogue: 0,0:03:28.35,0:03:34.35,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(480,522)}There's a Really Big Crisis?
+Dialogue: 0,0:03:28.46,0:03:34.54,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,143)}Episode 8
+Dialogue: 0,0:03:28.46,0:03:34.54,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(480,522)}There's a Really Big Crisis?
 Dialogue: 0,0:03:54.08,0:03:54.97,Nanoha Dialogue1,,0,0,0,,Stop!
 Dialogue: 0,0:03:58.05,0:04:00.41,Nanoha Dialogue1,,0,0,0,,Combat here is too dangerous.
 Dialogue: 0,0:04:03.82,0:04:05.45,Nanoha Dialogue1,,0,0,0,,I'm an Enforcer with the\NTime-Space Administration Bureau,
@@ -370,29 +368,29 @@ Dialogue: 0,0:23:03.52,0:23:05.89,Nanoha Dialogue1,,0,0,0,,Hurry up, Fate.
 Dialogue: 0,0:23:09.90,0:23:12.57,Nanoha Dialogue1,,0,0,0,,The promised land...
 Dialogue: 0,0:23:12.57,0:23:15.00,Nanoha Dialogue1,,0,0,0,,Alhazred is waiting for me.
 Dialogue: 0,0:23:15.00,0:23:18.80,Nanoha Dialogue1,,0,0,0,,The land of my... our... salvation.
-Dialogue: 0,0:23:24.65,0:23:25.59,Nanoha ED,,0,0,0,,Make a little wish
-Dialogue: 0,0:23:25.59,0:23:31.08,Nanoha ED,,0,0,0,,Even though at times\NI'll trip or get lost
-Dialogue: 0,0:23:31.56,0:23:41.56,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
-Dialogue: 0,0:23:46.74,0:23:53.75,Nanoha ED,,0,0,0,,Ah, going over the sea of cellophane and over the forests
-Dialogue: 0,0:23:53.75,0:23:57.25,Nanoha ED,,0,0,0,,Passing through the silver wind
-Dialogue: 0,0:23:57.25,0:24:01.29,Nanoha ED,,0,0,0,,I was looking for something neither of us had
-Dialogue: 0,0:24:01.29,0:24:08.10,Nanoha ED,,0,0,0,,Ah, I was just crying inside a diorama of a city
-Dialogue: 0,0:24:08.10,0:24:15.64,Nanoha ED,,0,0,0,,Until I met that warm hand that reached out to me that day
-Dialogue: 0,0:24:15.64,0:24:22.81,Nanoha ED,,0,0,0,,Among the swaying days,\NI felt a strong gaze
-Dialogue: 0,0:24:22.81,0:24:31.22,Nanoha ED,,0,0,0,,Hey, I finally, finally found the secret key
-Dialogue: 0,0:24:31.22,0:24:32.85,Nanoha ED,,0,0,0,,Make a little wish
-Dialogue: 0,0:24:32.85,0:24:38.12,Nanoha ED,,0,0,0,,Collecting the lemon-colored drops from the moon
-Dialogue: 0,0:24:38.79,0:24:45.87,Nanoha ED,,0,0,0,,I want to keep a light shining on the road that you travel down
-Dialogue: 0,0:24:45.87,0:24:47.40,Nanoha ED,,0,0,0,,Make a little wish
-Dialogue: 0,0:24:47.40,0:24:52.86,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
-Dialogue: 0,0:24:53.24,0:25:03.24,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
-Dialogue: 0,0:25:11.70,0:25:14.70,Nanoha Narration1,,0,0,0,,The flagship of the Time-Space\NAdministration Bureau, the {\i0}Arthra{\i1},
-Dialogue: 0,0:25:14.70,0:25:17.63,Nanoha Narration1,,0,0,0,,is now going to take care of me and Yuuno.
-Dialogue: 0,0:25:17.63,0:25:21.11,Nanoha Narration1,,0,0,0,,An abnormal, unprecedented reaction from the Jewel Seeds,
-Dialogue: 0,0:25:21.11,0:25:24.01,Nanoha Narration1,,0,0,0,,and the reunion of Nanoha and Fate.
-Dialogue: 0,0:25:24.01,0:25:26.37,Nanoha Narration1,,0,0,0,,What is the wish that Fate's mother has?
-Dialogue: 0,0:25:27.48,0:25:30.15,Nanoha Narration1,,0,0,0,,Next episode of {\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:27.66,0:25:35.25,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,259)}Episode 9
-Dialogue: 0,0:25:27.66,0:25:35.25,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,500)}The Decisive Battle Above the Ocean
-Dialogue: 0,0:25:30.15,0:25:34.38,Nanoha Narration1,,0,0,0,,Episode 9: The Decisive Battle Above the Ocean
-Dialogue: 0,0:25:34.38,0:25:36.98,Nanoha Narration1,,0,0,0,,Lyrical, magical, hoping I don't lose!
+Dialogue: 0,0:23:24.03,0:23:24.97,Nanoha ED,,0,0,0,,Make a little wish
+Dialogue: 0,0:23:25.47,0:23:30.96,Nanoha ED,,0,0,0,,Even though at times\NI'll trip or get lost
+Dialogue: 0,0:23:31.44,0:23:41.44,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
+Dialogue: 0,0:23:46.62,0:23:53.63,Nanoha ED,,0,0,0,,Ah, going over the sea of cellophane and over the forests
+Dialogue: 0,0:23:53.63,0:23:57.13,Nanoha ED,,0,0,0,,Passing through the silver wind
+Dialogue: 0,0:23:57.13,0:24:01.17,Nanoha ED,,0,0,0,,I was looking for something neither of us had
+Dialogue: 0,0:24:01.17,0:24:07.98,Nanoha ED,,0,0,0,,Ah, I was just crying inside a diorama of a city
+Dialogue: 0,0:24:07.98,0:24:15.52,Nanoha ED,,0,0,0,,Until I met that warm hand that reached out to me that day
+Dialogue: 0,0:24:15.52,0:24:22.69,Nanoha ED,,0,0,0,,Among the swaying days,\NI felt a strong gaze
+Dialogue: 0,0:24:22.69,0:24:31.10,Nanoha ED,,0,0,0,,Hey, I finally, finally found the secret key
+Dialogue: 0,0:24:31.10,0:24:32.73,Nanoha ED,,0,0,0,,Make a little wish
+Dialogue: 0,0:24:32.73,0:24:38.00,Nanoha ED,,0,0,0,,Collecting the lemon-colored drops from the moon
+Dialogue: 0,0:24:38.67,0:24:45.75,Nanoha ED,,0,0,0,,I want to keep a light shining on the road that you travel down
+Dialogue: 0,0:24:45.75,0:24:47.28,Nanoha ED,,0,0,0,,Make a little wish
+Dialogue: 0,0:24:47.28,0:24:52.74,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
+Dialogue: 0,0:24:53.12,0:25:03.12,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
+Dialogue: 0,0:25:11.81,0:25:14.81,Nanoha Narration1,,0,0,0,,The flagship of the Time-Space\NAdministration Bureau, the {\i0}Arthra{\i1},
+Dialogue: 0,0:25:14.81,0:25:17.74,Nanoha Narration1,,0,0,0,,is now going to take care of me and Yuuno.
+Dialogue: 0,0:25:17.74,0:25:21.22,Nanoha Narration1,,0,0,0,,An abnormal, unprecedented reaction from the Jewel Seeds,
+Dialogue: 0,0:25:21.22,0:25:24.12,Nanoha Narration1,,0,0,0,,and the reunion of Nanoha and Fate.
+Dialogue: 0,0:25:24.12,0:25:26.48,Nanoha Narration1,,0,0,0,,What is the wish that Fate's mother has?
+Dialogue: 0,0:25:27.59,0:25:30.26,Nanoha Narration1,,0,0,0,,Next episode of {\i0}Magical Girl Lyrical Nanoha:{\i1}
+Dialogue: 0,0:25:27.78,0:25:35.36,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,259)}Episode 9
+Dialogue: 0,0:25:27.78,0:25:35.36,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,500)}The Decisive Battle Above the Ocean
+Dialogue: 0,0:25:30.26,0:25:34.49,Nanoha Narration1,,0,0,0,,Episode 9: The Decisive Battle Above the Ocean
+Dialogue: 0,0:25:34.49,0:25:37.09,Nanoha Narration1,,0,0,0,,Lyrical, magical, hoping I don't lose!
