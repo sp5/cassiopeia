@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 294
-Active Line: 296
-Video Position: 36902
+Scroll Position: 252
+Active Line: 254
+Video Position: 31048
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -290,7 +290,7 @@ Dialogue: 0,0:20:58.15,0:21:00.29,Nanoha Dialogue1,,0,0,0,,Let's go, Raising Hea
 Dialogue: 0,0:21:09.71,0:21:11.01,Nanoha Dialogue1,,0,0,0,,Shoot through it!
 Dialogue: 0,0:21:12.81,0:21:13.68,Nanoha Dialogue1,,0,0,0,,{\b1}Divine...{\b0}
 Dialogue: 0,0:21:13.68,0:21:15.15,Nanoha Device1,,0,0,0,,...Buster
-Dialogue: 0,0:21:27.23,0:21:28.53,Nanoha Dialogue1,,0,0,0,,Pierce it, lightning!
+Dialogue: 0,0:21:27.23,0:21:28.43,Nanoha Dialogue1,,0,0,0,,Pierce through, lightning!
 Dialogue: 0,0:21:28.43,0:21:30.12,Nanoha Device1,,0,0,0,,Thunder Smasher
 Dialogue: 0,0:21:45.71,0:21:47.81,Nanoha Device1,,0,0,0,,Sealing Mode, set up.
 Dialogue: 0,0:21:47.81,0:21:49.64,Nanoha Device1,,0,0,0,,Sealing Form, set up.

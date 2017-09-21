@@ -18,9 +18,8 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 332
-Active Line: 337
-Video Position: 36799
+Active Line: 3
+Video Position: 451
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +36,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:05.56,0:00:09.00,Nanoha Narration1,,0,0,0,,A sudden incident has befallen me,\NNanoha Takamachi,
 Dialogue: 0,0:00:09.00,0:00:12.13,Nanoha Narration1,,0,0,0,,a girl who was supposed to be an ordinary third-grader.
 Dialogue: 0,0:00:12.93,0:00:17.93,Nanoha Narration1,,0,0,0,,I was handed a red gem, and with it\NI was given magical powers.
-Dialogue: 0,0:00:18.77,0:00:23.61,Nanoha Narration1,,0,0,0,,Coincidences led by new meetings now emit light, and begin to move.
+Dialogue: 0,0:00:18.77,0:00:23.61,Nanoha Narration1,,0,0,0,,Coincidences led by new meetings now emit light and pick up speed.
 Dialogue: 0,0:00:25.35,0:00:28.75,Nanoha Narration1,,0,0,0,,Feelings that intertwine, and the story that begins...
 Dialogue: 0,0:00:29.68,0:00:33.64,Nanoha Narration1,,0,0,0,,The start of the days where magic and ordinary life are in parallel.
 Dialogue: 0,0:00:35.59,0:00:39.08,Nanoha Dialogue1,,0,0,0,,{\i1}Magical Girl Lyrical Nanoha{\i0} will now begin.
@@ -275,7 +274,7 @@ Dialogue: 0,0:16:50.50,0:16:54.53,Nanoha Narration1,,0,0,0,,It's lonely to be al
 Dialogue: 0,0:16:58.18,0:17:00.55,Nanoha Narration1,,0,0,0,,If someone needs your help,
 Dialogue: 0,0:17:00.55,0:17:03.52,Nanoha Narration1,,0,0,0,,and you have the power to help them out,
 Dialogue: 0,0:17:03.52,0:17:05.99,Nanoha Narration1,,0,0,0,,you shouldn't debate whether to help or not.
-Dialogue: 0,0:17:05.99,0:17:08.18,Nanoha Narration1,,0,0,0,,That's what Dad taught me.
+Dialogue: 0,0:17:05.99,0:17:08.18,Nanoha Narration1,,0,0,0,,That's what my dad taught me.
 Dialogue: 0,0:17:13.66,0:17:15.60,Nanoha Narration1,,0,0,0,,Yuuno, you're in trouble,
 Dialogue: 0,0:17:16.60,0:17:21.56,Nanoha Narration1,,0,0,0,,and I can help you out, right?\NWith the power of magic.
 Dialogue: 0,0:17:24.50,0:17:25.71,Nanoha Narration1,,0,0,0,,Yeah...
