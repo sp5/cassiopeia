@@ -159,7 +159,7 @@ Dialogue: 0,0:10:44.08,0:10:53.58,Nanoha Dialogue1,,0,0,0,,3312D699... 3583A1460
 Dialogue: 0,0:10:56.83,0:10:58.85,Nanoha Dialogue1,,0,0,0,,Open, doors of luring.
 Dialogue: 0,0:10:59.40,0:11:02.80,Nanoha Dialogue1,,0,0,0,,To the Garden of Time, to the head of the House of Testarossa!
 Dialogue: 0,0:11:16.55,0:11:20.34,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,876)\an5\pos(480.008,485)}{\fs45\b1}Same day, same time\NThe Dimensional Sea{\b0}
-Dialogue: 0,0:11:20.55,0:11:23.43,Nanoha Dialogue2,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(417,0)\an5\pos(484.013,422)}{\fs45\b1}Time-Space Administration Bureau\NInterdimensional Flagship\N{\i1}Arthra{\b0\i0}
+Dialogue: 0,0:11:20.55,0:11:23.43,Nanoha Dialogue2,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(417,0)\an5\pos(484.013,422)}{\fs45\b1}Time-Space Administrative Bureau\NInterdimensional Flagship\N{\i1}Arthra{\b0\i0}
 Dialogue: 0,0:11:36.77,0:11:39.97,Nanoha Dialogue1,,0,0,0,,How is everyone doing?\NIs this journey going well?
 Dialogue: 0,0:11:39.97,0:11:44.14,Nanoha Dialogue1,,0,0,0,,We're currently cruising at triple ship speed.
 Dialogue: 0,0:11:44.14,0:11:46.28,Nanoha Dialogue1,,0,0,0,,We will be arriving at the destination dimension
@@ -170,13 +170,13 @@ Dialogue: 0,0:11:53.75,0:11:58.12,Nanoha Dialogue1,,0,0,0,,but the danger of two
 Dialogue: 0,0:12:00.79,0:12:01.73,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:12:01.73,0:12:04.16,Nanoha Dialogue1,,0,0,0,,Excuse me, Captain Lindy.
 Dialogue: 0,0:12:06.20,0:12:07.72,Nanoha Dialogue1,,0,0,0,,Thank you, Amy.
-Dialogue: 0,0:12:07.73,0:12:11.94,Nanoha Dialogue2,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(417,876)\an5\pos(475.664,426)}{\fs45\b1}Commodore, Time-Space Administration Bureau\NCaptain of the {\i1}Arthra{\i0}\NLindy Harlaown{\b0}
+Dialogue: 0,0:12:07.73,0:12:11.94,Nanoha Dialogue2,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(417,876)\an5\pos(475.664,426)}{\fs45\b1}Commodore, Time-Space Administrative Bureau\NCaptain of the {\i1}Arthra{\i0}\NLindy Harlaown{\b0}
 Dialogue: 0,0:12:11.17,0:12:12.19,Nanoha Dialogue1,,0,0,0,,You're right.
 Dialogue: 0,0:12:13.24,0:12:16.33,Nanoha Dialogue1,,0,0,0,,Even if it's small, the creation of a dimensional tremor...
 Dialogue: 0,0:12:18.38,0:12:20.18,Nanoha Dialogue1,,0,0,0,,...is rather troublesome.
 Dialogue: 0,0:12:20.18,0:12:23.98,Nanoha Dialogue1,,0,0,0,,If it gets dangerous, you must hurry over to the site.
 Dialogue: 0,0:12:24.28,0:12:25.77,Nanoha Dialogue1,,0,0,0,,Right, Chrono?
-Dialogue: 0,0:12:26.08,0:12:28.99,Nanoha Dialogue2,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(667,0)\pos(526.717,235.5)}{\fs32\b1}Time-Space Administration Bureau\NEnforcer\NChrono Harlaown{\b0}
+Dialogue: 0,0:12:26.08,0:12:28.99,Nanoha Dialogue2,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(667,0)\pos(526.717,235.5)}{\fs32\b1}Time-Space Administrative Bureau\NEnforcer\NChrono Harlaown{\b0}
 Dialogue: 0,0:12:26.25,0:12:29.18,Nanoha Dialogue1,,0,0,0,,It's all right. I understand, Captain.
 Dialogue: 0,0:12:30.86,0:12:33.76,Nanoha Dialogue1,,0,0,0,,That is the reason I'm here.
 Dialogue: 0,0:12:49.10,0:12:53.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,918)\an5\pos(483.003,481.5)}{\fs45\b1}Somewhere in the Dimensional Sea\NGarden of Time{\b0}
@@ -308,7 +308,7 @@ Dialogue: 0,0:22:40.63,0:22:43.97,Nanoha Dialogue1,,0,0,0,,If you can understand
 Dialogue: 0,0:22:44.44,0:22:47.34,Nanoha Dialogue1,,0,0,0,,will you listen to my story?
 Dialogue: 0,0:23:04.69,0:23:06.28,Nanoha Dialogue1,,0,0,0,,Stop!
 Dialogue: 0,0:23:08.89,0:23:11.26,Nanoha Dialogue1,,0,0,0,,Combat here is too dangerous.
-Dialogue: 0,0:23:13.53,0:23:16.27,Nanoha Dialogue1,,0,0,0,,I'm an Enforcer with the\NTime-Space Administration Bureau,
+Dialogue: 0,0:23:13.53,0:23:16.27,Nanoha Dialogue1,,0,0,0,,I'm an Enforcer with the\NTime-Space Administrative Bureau,
 Dialogue: 0,0:23:16.27,0:23:18.26,Nanoha Dialogue1,,0,0,0,,Chrono Harlaown.
 Dialogue: 0,0:23:19.40,0:23:21.50,Nanoha Dialogue1,,0,0,0,,Would you tell me the details of this case?
 Dialogue: 0,0:23:24.07,0:23:25.01,Nanoha ED,,0,0,0,,Make a little wish

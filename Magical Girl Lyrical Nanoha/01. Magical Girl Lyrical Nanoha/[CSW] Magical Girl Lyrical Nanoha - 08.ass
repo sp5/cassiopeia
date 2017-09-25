@@ -79,10 +79,10 @@ Dialogue: 0,0:03:28.46,0:03:34.54,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,
 Dialogue: 0,0:03:28.46,0:03:34.54,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(480,522)}There's a Really Big Crisis?
 Dialogue: 0,0:03:54.08,0:03:54.97,Nanoha Dialogue1,,0,0,0,,Stop!
 Dialogue: 0,0:03:58.05,0:04:00.41,Nanoha Dialogue1,,0,0,0,,Combat here is too dangerous.
-Dialogue: 0,0:04:03.82,0:04:05.45,Nanoha Dialogue1,,0,0,0,,I'm an Enforcer with the\NTime-Space Administration Bureau,
+Dialogue: 0,0:04:03.82,0:04:05.45,Nanoha Dialogue1,,0,0,0,,I'm an Enforcer with the\NTime-Space Administrative Bureau,
 Dialogue: 0,0:04:05.45,0:04:06.92,Nanoha Dialogue1,,0,0,0,,Chrono Harlaown.
 Dialogue: 0,0:04:07.72,0:04:09.82,Nanoha Dialogue1,,0,0,0,,Would you tell me the details of this case?
-Dialogue: 0,0:04:12.13,0:04:13.76,Nanoha Dialogue1,,0,0,0,,Time-Space Administration Bureau?
+Dialogue: 0,0:04:12.13,0:04:13.76,Nanoha Dialogue1,,0,0,0,,Time-Space Administrative Bureau?
 Dialogue: 0,0:04:16.23,0:04:18.33,Nanoha Dialogue1,,0,0,0,,First off, both of you, stow your weapons.
 Dialogue: 0,0:04:21.97,0:04:24.30,Nanoha Dialogue1,,0,0,0,,If you were to continue fighting...
 Dialogue: 0,0:04:36.38,0:04:39.08,Nanoha Narration1,,0,0,0,,Fate, we're going to retreat!\NStep away!
@@ -109,7 +109,7 @@ Dialogue: 0,0:06:25.49,0:06:27.96,Nanoha Dialogue1,,0,0,0,,Roger that. I'll retu
 Dialogue: 0,0:06:43.24,0:06:44.35,Nanoha Dialogue1,,0,0,0,,Yuuno...
 Dialogue: 0,0:06:44.35,0:06:47.15,Nanoha Dialogue1,,0,0,0,,Yuuno, what in the world is this?
 Dialogue: 0,0:06:47.15,0:06:48.85,Nanoha Dialogue1,,0,0,0,,This is inside a dimensional transport
-Dialogue: 0,0:06:48.85,0:06:51.05,Nanoha Dialogue1,,0,0,0,,owned by the Time-Space Administration Bureau.
+Dialogue: 0,0:06:48.85,0:06:51.05,Nanoha Dialogue1,,0,0,0,,owned by the Time-Space Administrative Bureau.
 Dialogue: 0,0:06:51.05,0:06:55.09,Nanoha Dialogue1,,0,0,0,,Well, to put it simply, it's a ship that can freely move
 Dialogue: 0,0:06:55.09,0:06:57.89,Nanoha Dialogue1,,0,0,0,,through the many dimensions that exist in the multiverse.
 Dialogue: 0,0:06:58.59,0:07:01.93,Nanoha Dialogue1,,0,0,0,,I don't think that's really simple.
@@ -118,7 +118,7 @@ Dialogue: 0,0:07:04.00,0:07:06.33,Nanoha Dialogue1,,0,0,0,,Other than the world 
 Dialogue: 0,0:07:06.33,0:07:08.64,Nanoha Dialogue1,,0,0,0,,there are many other worlds,
 Dialogue: 0,0:07:08.64,0:07:10.97,Nanoha Dialogue1,,0,0,0,,and my world is one of them.
 Dialogue: 0,0:07:11.51,0:07:14.14,Nanoha Dialogue1,,0,0,0,,This ship can cross between those worlds.
-Dialogue: 0,0:07:14.14,0:07:17.55,Nanoha Dialogue1,,0,0,0,,And it's them, the Time-Space Administration Bureau,
+Dialogue: 0,0:07:14.14,0:07:17.55,Nanoha Dialogue1,,0,0,0,,And it's them, the Time-Space Administrative Bureau,
 Dialogue: 0,0:07:17.55,0:07:20.35,Nanoha Dialogue1,,0,0,0,,that controls events that affect those worlds.
 Dialogue: 0,0:07:20.35,0:07:21.61,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:07:26.62,0:07:30.22,Nanoha Dialogue1,,0,0,0,,You must be uncomfortable wearing that outfit for such a long time.
@@ -199,7 +199,7 @@ Dialogue: 0,0:11:58.19,0:12:01.80,Nanoha Dialogue1,,0,0,0,,Many neighboring para
 Dialogue: 0,0:12:01.80,0:12:03.89,Nanoha Dialogue1,,0,0,0,,A tragedy that left its mark on history.
 Dialogue: 0,0:12:26.45,0:12:28.18,Nanoha Dialogue1,,0,0,0,,We can't let it happen again.
 Dialogue: 0,0:12:34.23,0:12:38.23,Nanoha Dialogue1,,0,0,0,,From here on, the retrieval of these Lost Logia, the Jewel Seeds,
-Dialogue: 0,0:12:38.23,0:12:40.90,Nanoha Dialogue1,,0,0,0,,will be performed by the\NTime-Space Administration Bureau.
+Dialogue: 0,0:12:38.23,0:12:40.90,Nanoha Dialogue1,,0,0,0,,will be performed by the\NTime-Space Administrative Bureau.
 Dialogue: 0,0:12:41.54,0:12:44.21,Nanoha Dialogue1,,0,0,0,,You guys should just forget this incident,
 Dialogue: 0,0:12:44.21,0:12:45.64,Nanoha Dialogue1,,0,0,0,,return to your respective worlds,
 Dialogue: 0,0:12:45.64,0:12:47.44,Nanoha Dialogue1,,0,0,0,,and go back to your normal lives.
@@ -312,7 +312,7 @@ Dialogue: 0,0:19:00.82,0:19:02.72,Nanoha Dialogue1,,0,0,0,,Right, Enforcer Chron
 Dialogue: 0,0:19:03.75,0:19:04.88,Nanoha Dialogue1,,0,0,0,,Yes, ma'am...
 Dialogue: 0,0:19:08.82,0:19:10.62,Nanoha Dialogue1,,0,0,0,,I have two conditions.
 Dialogue: 0,0:19:10.62,0:19:12.36,Nanoha Dialogue1,,0,0,0,,Both of you need to be under the custody of
-Dialogue: 0,0:19:12.36,0:19:15.36,Nanoha Dialogue1,,0,0,0,,the Time-Space Administration Bureau during this period.
+Dialogue: 0,0:19:12.36,0:19:15.36,Nanoha Dialogue1,,0,0,0,,the Time-Space Administrative Bureau during this period.
 Dialogue: 0,0:19:15.36,0:19:17.99,Nanoha Dialogue1,,0,0,0,,That, and you must obey every order given to you.
 Dialogue: 0,0:19:18.70,0:19:20.00,Nanoha Dialogue1,,0,0,0,,Got it?
 Dialogue: 0,0:19:20.74,0:19:22.03,Nanoha Dialogue1,,0,0,0,,Understood.
@@ -384,7 +384,7 @@ Dialogue: 0,0:24:38.67,0:24:45.75,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:45.75,0:24:47.28,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.28,0:24:52.74,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:53.12,0:25:03.12,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
-Dialogue: 0,0:25:11.81,0:25:14.81,Nanoha Narration1,,0,0,0,,The flagship of the Time-Space\NAdministration Bureau, the {\i0}Arthra{\i1},
+Dialogue: 0,0:25:11.81,0:25:14.81,Nanoha Narration1,,0,0,0,,The flagship of the Time-Space\NAdministrative Bureau, the {\i0}Arthra{\i1},
 Dialogue: 0,0:25:14.81,0:25:17.74,Nanoha Narration1,,0,0,0,,is now going to take care of me and Yuuno.
 Dialogue: 0,0:25:17.74,0:25:21.22,Nanoha Narration1,,0,0,0,,An abnormal, unprecedented reaction from the Jewel Seeds,
 Dialogue: 0,0:25:21.22,0:25:24.12,Nanoha Narration1,,0,0,0,,and the reunion of Nanoha and Fate.
