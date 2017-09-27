@@ -20,17 +20,17 @@ Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
 Scroll Position: 228
 Active Line: 230
-Video Position: 36882
+Video Position: 36658
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha Dialogue1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha Narration1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
-Style: Nanoha Device1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
+Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -40,7 +40,7 @@ Dialogue: 0,0:00:20.04,0:00:25.07,Nanoha Narration1,,0,0,0,,I accepted the coura
 Dialogue: 0,0:00:25.51,0:00:27.85,Nanoha Narration1,,0,0,0,,New introductions guided by magic...
 Dialogue: 0,0:00:27.85,0:00:30.51,Nanoha Narration1,,0,0,0,,Are they coincidence, or are they destiny?
 Dialogue: 0,0:00:31.45,0:00:34.12,Nanoha Narration1,,0,0,0,,Right now, I'm not sure which.
-Dialogue: 0,0:00:35.72,0:00:39.18,Nanoha Dialogue1,,0,0,0,,{\i1}Magical Girl Lyrical Nanoha{\i0} will now begin.
+Dialogue: 0,0:00:35.72,0:00:39.18,Nanoha Dialogue1,,0,0,0,,{\i1}Magical Girl Lyrical Nanoha{\i0}\Nwill now begin.
 Dialogue: 0,0:00:56.65,0:01:00.59,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
 Dialogue: 0,0:01:00.59,0:01:04.12,Nanoha OP,,0,0,0,,I always shivered from uncertainty
 Dialogue: 0,0:01:04.12,0:01:11.16,Nanoha OP,,0,0,0,,I was scared of learning the truth,\Nso I closed the door
@@ -60,8 +60,8 @@ Dialogue: 0,0:02:47.10,0:02:49.40,Nanoha Dialogue1,,0,0,0,,The form is a blue ge
 Dialogue: 0,0:02:49.40,0:02:51.63,Nanoha Dialogue1,,0,0,0,,Normally called a Jewel Seed.
 Dialogue: 0,0:02:56.81,0:02:57.80,Nanoha Dialogue1,,0,0,0,,Right.
 Dialogue: 0,0:02:58.44,0:03:00.27,Nanoha Dialogue1,,0,0,0,,I'll have them in my hands in no time.
-Dialogue: 0,0:03:05.75,0:03:11.71,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,143)}Episode 4
-Dialogue: 0,0:03:05.75,0:03:11.71,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(480,515)}A Rival!? Another Magical Girl!
+Dialogue: 0,0:03:05.86,0:03:11.90,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,143)}Episode 4
+Dialogue: 0,0:03:05.86,0:03:11.90,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(480,515)}A Rival!? Another Magical Girl!
 Dialogue: 0,0:03:13.42,0:03:16.02,Nanoha Dialogue1,,0,0,0,,Here, Yuuno, over here!
 Dialogue: 0,0:03:19.80,0:03:22.77,Nanoha Dialogue1,,0,0,0,,Good job! Yuuno, you're so smart!
 Dialogue: 0,0:03:25.13,0:03:27.04,Nanoha Dialogue1,,0,0,0,,Still not ready, Nanoha?
@@ -241,8 +241,8 @@ Dialogue: 0,0:22:49.63,0:22:53.97,Nanoha Dialogue1,,0,0,0,,I wonder if she has a
 Dialogue: 0,0:22:58.34,0:23:01.37,Nanoha Dialogue1,,0,0,0,,It's all right. I won't lose my way.
 Dialogue: 0,0:23:08.52,0:23:10.78,Nanoha Dialogue1,,0,0,0,,Wait for me, Mother.
 Dialogue: 0,0:23:13.72,0:23:16.21,Nanoha Dialogue1,,0,0,0,,I'll be home soon.
-Dialogue: 0,0:23:24.03,0:23:24.97,Nanoha ED,,0,0,0,,Make a little wish
-Dialogue: 0,0:23:24.97,0:23:30.46,Nanoha ED,,0,0,0,,Even though at times\NI'll trip or get lost
+Dialogue: 0,0:23:24.03,0:23:25.62,Nanoha ED,,0,0,0,,Make a little wish
+Dialogue: 0,0:23:25.62,0:23:30.94,Nanoha ED,,0,0,0,,Even though at times\NI'll trip or get lost
 Dialogue: 0,0:23:30.94,0:23:40.94,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 0,0:23:46.12,0:23:53.13,Nanoha ED,,0,0,0,,Ah, going over the sea of cellophane and over the forests
 Dialogue: 0,0:23:53.13,0:23:56.63,Nanoha ED,,0,0,0,,Passing through the silver wind
@@ -263,8 +263,8 @@ Dialogue: 0,0:25:15.48,0:25:19.85,Nanoha Narration1,,0,0,0,,And so we're here at
 Dialogue: 0,0:25:19.85,0:25:23.85,Nanoha Narration1,,0,0,0,,Just when we're relaxing, who's getting in our way?!
 Dialogue: 0,0:25:23.85,0:25:25.79,Nanoha Narration1,,0,0,0,,And what is the objective and intentions
 Dialogue: 0,0:25:25.79,0:25:28.15,Nanoha Narration1,,0,0,0,,of that mysterious magical girl in black?!
-Dialogue: 0,0:25:28.92,0:25:31.73,Nanoha Narration1,,0,0,0,,Next episode of {\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:28.99,0:25:35.24,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(498.019,262)\blur0.5}Episode 5
-Dialogue: 0,0:25:28.99,0:25:35.24,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(496.031,551)\blur0.5}This is a Town of Hot Water,\NUminari Hot Springs!
+Dialogue: 0,0:25:28.92,0:25:31.73,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
+Dialogue: 0,0:25:28.91,0:25:35.20,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(498.019,262)\blur0.5}Episode 5
+Dialogue: 0,0:25:28.91,0:25:35.20,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(496.031,551)\blur0.5}This is a Town of Hot Water,\NUminari Hot Springs!
 Dialogue: 0,0:25:31.73,0:25:36.00,Nanoha Narration1,,0,0,0,,Episode 5: This is a Town of Hot Water,\NUminari Hot Springs!
 Dialogue: 0,0:25:36.00,0:25:38.36,Nanoha Narration1,,0,0,0,,Lyrical, magical, I'll do my best!

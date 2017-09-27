@@ -20,18 +20,17 @@ Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
 Scroll Position: 33
 Active Line: 36
-Video Position: 4709
+Video Position: 4701
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha Dialogue1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha Narration1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
-Style: Nanoha Narration2,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.5,8,14,14,6,1
-Style: Nanoha Device1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
+Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -44,7 +43,7 @@ Dialogue: 0,0:00:20.80,0:00:23.07,Nanoha Narration1,,0,0,0,,But even if the word
 Dialogue: 0,0:00:23.07,0:00:26.90,Nanoha Narration1,,0,0,0,,I felt that I wanted to share the wishes, and the sadness.
 Dialogue: 0,0:00:27.84,0:00:30.04,Nanoha Narration1,,0,0,0,,There is a feeling I want to deliver to your heart,
 Dialogue: 0,0:00:30.04,0:00:33.84,Nanoha Narration1,,0,0,0,,to the only you in this world.
-Dialogue: 0,0:00:35.51,0:00:39.42,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha{\i1} will now begin.
+Dialogue: 0,0:00:35.51,0:00:39.42,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha{\i1}\Nwill now begin.
 Dialogue: 0,0:00:56.66,0:01:00.60,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
 Dialogue: 0,0:01:00.60,0:01:04.13,Nanoha OP,,0,0,0,,I always shivered from uncertainty
 Dialogue: 0,0:01:04.13,0:01:11.17,Nanoha OP,,0,0,0,,I was scared of learning the truth,\Nso I closed the door
@@ -71,7 +70,7 @@ Dialogue: 0,0:02:58.86,0:03:00.96,Nanoha Dialogue1,,0,0,0,,I'm Nanoha Takamachi!
 Dialogue: 0,0:03:00.96,0:03:03.56,Nanoha Dialogue1,,0,0,0,,These two members will be treated as temporary staff
 Dialogue: 0,0:03:03.56,0:03:05.36,Nanoha Dialogue1,,0,0,0,,to help with the mission.
 Dialogue: 0,0:03:05.36,0:03:07.26,Nanoha Dialogue1,,0,0,0,,Nice to meet you all!
-Dialogue: 1,0:03:16.03,0:03:22.07,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,146)}Episode 9
+Dialogue: 0,0:03:16.03,0:03:22.07,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,146)}Episode 9
 Dialogue: 0,0:03:16.03,0:03:22.07,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(480,537)}The Decisive Battle\NAbove the Ocean
 Dialogue: 0,0:03:27.55,0:03:31.82,Nanoha Dialogue1,,0,0,0,,We will determine the locations of the Jewel Seeds.
 Dialogue: 0,0:03:31.82,0:03:34.53,Nanoha Dialogue1,,0,0,0,,When we find them, we'll have you head to the site.
@@ -236,9 +235,9 @@ Dialogue: 0,0:15:30.21,0:15:32.31,Nanoha Dialogue1,,0,0,0,,Nanoha Takamachi is g
 Dialogue: 0,0:15:32.31,0:15:34.04,Nanoha Dialogue1,,0,0,0,,and take action on her own!
 Dialogue: 0,0:15:35.35,0:15:37.98,Nanoha Dialogue1,,0,0,0,,Transport to a location within that girl's barrier!
 Dialogue: 0,0:15:51.17,0:15:53.23,Nanoha Dialogue1,,0,0,0,,Let's go, Raising Heart!
-Dialogue: 0,0:15:53.23,0:15:56.07,Nanoha Dialogue1,,0,0,0,,Winds to the sky, stars to the heavens.
-Dialogue: 0,0:15:56.07,0:15:58.17,Nanoha Dialogue1,,0,0,0,,Glimmering light to these arms...
-Dialogue: 0,0:15:58.17,0:16:00.41,Nanoha Dialogue1,,0,0,0,,And the unyielding soul to this heart!
+Dialogue: 0,0:15:53.23,0:15:56.07,Nanoha Dialogue1,,0,0,0,,Winds in the sky, stars in the heavens.
+Dialogue: 0,0:15:56.07,0:15:58.17,Nanoha Dialogue1,,0,0,0,,Glimmering light in my arms...
+Dialogue: 0,0:15:58.17,0:16:00.41,Nanoha Dialogue1,,0,0,0,,An unvanquishable spirit in my heart!
 Dialogue: 0,0:16:00.41,0:16:04.04,Nanoha Dialogue1,,0,0,0,,Raising Heart, set up!
 Dialogue: 0,0:16:04.04,0:16:05.54,Nanoha Device1,,0,0,0,,Standby, ready.
 Dialogue: 0,0:16:21.03,0:16:23.96,Nanoha Narration1,,0,0,0,,Don't get in Fate's way!
@@ -303,7 +302,7 @@ Dialogue: 0,0:22:52.65,0:22:53.82,Nanoha Dialogue1,,0,0,0,,Prepare for the next 
 Dialogue: 0,0:22:53.82,0:22:55.31,Nanoha Dialogue1,,0,0,0,,Yes, ma'am!
 Dialogue: 0,0:22:56.39,0:22:57.52,Nanoha Dialogue1,,0,0,0,,And also,
 Dialogue: 0,0:22:57.52,0:23:00.96,Nanoha Dialogue1,,0,0,0,,we will retrieve Nanoha,\NYuuno, and Chrono.
-Dialogue: 0,0:23:24.07,0:23:25.01,Nanoha ED,,0,0,0,,Make a little wish
+Dialogue: 0,0:23:24.07,0:23:25.51,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:23:25.51,0:23:31.00,Nanoha ED,,0,0,0,,Even though at times\NI'll trip or get lost
 Dialogue: 0,0:23:31.48,0:23:41.48,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 0,0:23:46.66,0:23:53.67,Nanoha ED,,0,0,0,,Ah, going over the sea of cellophane and over the forests
@@ -323,8 +322,8 @@ Dialogue: 0,0:25:13.45,0:25:15.92,Nanoha Narration1,,0,0,0,,The situation is rea
 Dialogue: 0,0:25:15.92,0:25:18.18,Nanoha Narration1,,0,0,0,,Each hold their own feelings in their heart,
 Dialogue: 0,0:25:18.18,0:25:20.82,Nanoha Narration1,,0,0,0,,in order to withstand the final storm.
 Dialogue: 0,0:25:20.82,0:25:24.15,Nanoha Narration1,,0,0,0,,And I also tell Fate how I really feel.
-Dialogue: 0,0:25:25.76,0:25:28.33,Nanoha Narration1,,0,0,0,,Next episode of {\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:25.81,0:25:35.90,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5}Episode 10
-Dialogue: 0,0:25:25.81,0:25:35.90,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5}Everybody's Separate Heartfelt Vows
-Dialogue: 0,0:25:28.33,0:25:32.13,Nanoha Narration1,,0,0,0,,Episode 10: Everybody's Separate Heartfelt Vows
+Dialogue: 0,0:25:25.76,0:25:28.33,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
+Dialogue: 0,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5}Episode 10
+Dialogue: 0,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5}Everybody's Separate Heartfelt Vows
+Dialogue: 0,0:25:28.33,0:25:32.13,Nanoha Narration1,,0,0,0,,Episode 10:\NEverybody's Separate Heartfelt Vows
 Dialogue: 0,0:25:32.77,0:25:36.70,Nanoha Narration1,,0,0,0,,Lyrical, magical, in order to begin my true self.

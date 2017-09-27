@@ -18,19 +18,19 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 352
-Active Line: 356
-Video Position: 36871
+Scroll Position: 354
+Active Line: 359
+Video Position: 36690
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha Dialogue1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha Narration1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
-Style: Nanoha Device1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
+Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -44,7 +44,7 @@ Dialogue: 0,0:00:22.43,0:00:24.97,Nanoha Narration1,,0,0,0,,while walking throug
 Dialogue: 0,0:00:24.97,0:00:27.74,Nanoha Narration1,,0,0,0,,is most likely found in one's heart.
 Dialogue: 0,0:00:28.14,0:00:30.84,Nanoha Narration1,,0,0,0,,Because I decided to believe, and move forward,
 Dialogue: 0,0:00:30.84,0:00:34.07,Nanoha Narration1,,0,0,0,,even if I am headed towards a shadowed sky.
-Dialogue: 0,0:00:35.55,0:00:39.08,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha{\i1} will now begin.
+Dialogue: 0,0:00:35.55,0:00:39.08,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha{\i1}\Nwill now begin.
 Dialogue: 0,0:00:56.62,0:01:00.56,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
 Dialogue: 0,0:01:00.56,0:01:04.09,Nanoha OP,,0,0,0,,I always shivered from uncertainty
 Dialogue: 0,0:01:04.09,0:01:11.13,Nanoha OP,,0,0,0,,I was scared of learning the truth,\Nso I closed the door
@@ -259,7 +259,7 @@ Dialogue: 0,0:15:52.53,0:15:54.55,Nanoha Dialogue1,,0,0,0,,She's still a young c
 Dialogue: 0,0:15:55.03,0:15:56.76,Nanoha Dialogue1,,0,0,0,,If she has been leading a normal life,
 Dialogue: 0,0:15:56.76,0:16:00.03,Nanoha Dialogue1,,0,0,0,,I'm sure she's young enough to want to be spoiled by her mom.
 Dialogue: 0,0:16:15.02,0:16:16.15,Nanoha Dialogue1,,0,0,0,,You can't!
-Dialogue: 0,0:16:16.15,0:16:18.42,Nanoha Dialogue1,,0,0,0,,If the Time-Space Administration\NBureau has stepped in,
+Dialogue: 0,0:16:16.15,0:16:18.42,Nanoha Dialogue1,,0,0,0,,If the Time-Space Administrative Bureau has stepped in,
 Dialogue: 0,0:16:18.42,0:16:20.18,Nanoha Dialogue1,,0,0,0,,we can't do anything about it!
 Dialogue: 0,0:16:20.69,0:16:23.78,Nanoha Dialogue1,,0,0,0,,Let's make a run for it.\NThe two of us, somewhere...
 Dialogue: 0,0:16:24.49,0:16:26.66,Nanoha Dialogue1,,0,0,0,,We can't do that.
@@ -325,9 +325,9 @@ Dialogue: 0,0:19:44.23,0:19:45.13,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:19:45.13,0:19:46.66,Nanoha Dialogue1,,0,0,0,,Be careful!
 Dialogue: 0,0:19:46.66,0:19:47.73,Nanoha Dialogue1,,0,0,0,,Right.
 Dialogue: 0,0:19:47.73,0:19:48.66,Nanoha Dialogue1,,0,0,0,,Okay, let's go.
-Dialogue: 0,0:19:48.66,0:19:49.66,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Sure!
+Dialogue: 0,0:19:48.66,0:19:49.40,Nanoha Dialogue1,,0,0,0,,Sure!
 Dialogue: 0,0:19:49.40,0:19:50.77,Nanoha Dialogue1,,0,0,0,,It's been a while,
-Dialogue: 0,0:19:50.77,0:19:52.32,Nanoha Dialogue1,,0,0,0,,so I'm going to give you a work-out!
+Dialogue: 0,0:19:50.77,0:19:52.32,Nanoha Dialogue1,,0,0,0,,so I'm going to give you a workout!
 Dialogue: 0,0:19:53.67,0:19:55.70,Nanoha Dialogue1,,0,0,0,,Hey, wait!
 Dialogue: 0,0:19:55.70,0:19:57.00,Nanoha Dialogue1,,0,0,0,,I'm going to come watch!
 Dialogue: 0,0:19:57.00,0:19:58.24,Nanoha Dialogue1,,0,0,0,,If you're coming, hurry up!
@@ -368,7 +368,7 @@ Dialogue: 0,0:23:03.52,0:23:05.89,Nanoha Dialogue1,,0,0,0,,Hurry up, Fate.
 Dialogue: 0,0:23:09.90,0:23:12.57,Nanoha Dialogue1,,0,0,0,,The promised land...
 Dialogue: 0,0:23:12.57,0:23:15.00,Nanoha Dialogue1,,0,0,0,,Alhazred is waiting for me.
 Dialogue: 0,0:23:15.00,0:23:18.80,Nanoha Dialogue1,,0,0,0,,The land of my... our... salvation.
-Dialogue: 0,0:23:24.03,0:23:24.97,Nanoha ED,,0,0,0,,Make a little wish
+Dialogue: 0,0:23:24.03,0:23:25.47,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:23:25.47,0:23:30.96,Nanoha ED,,0,0,0,,Even though at times\NI'll trip or get lost
 Dialogue: 0,0:23:31.44,0:23:41.44,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 0,0:23:46.62,0:23:53.63,Nanoha ED,,0,0,0,,Ah, going over the sea of cellophane and over the forests
@@ -384,13 +384,14 @@ Dialogue: 0,0:24:38.67,0:24:45.75,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:45.75,0:24:47.28,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.28,0:24:52.74,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:53.12,0:25:03.12,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
-Dialogue: 0,0:25:11.81,0:25:14.81,Nanoha Narration1,,0,0,0,,The flagship of the Time-Space\NAdministrative Bureau, the {\i0}Arthra{\i1},
+Dialogue: 0,0:25:11.81,0:25:13.67,Nanoha Narration1,,0,0,0,,The flagship of the Time-Space
+Dialogue: 0,0:25:13.67,0:25:14.81,Nanoha Narration1,,0,0,0,,Administrative Bureau, the {\i0}Arthra,{\i1}
 Dialogue: 0,0:25:14.81,0:25:17.74,Nanoha Narration1,,0,0,0,,is now going to take care of me and Yuuno.
 Dialogue: 0,0:25:17.74,0:25:21.22,Nanoha Narration1,,0,0,0,,An abnormal, unprecedented reaction from the Jewel Seeds,
 Dialogue: 0,0:25:21.22,0:25:24.12,Nanoha Narration1,,0,0,0,,and the reunion of Nanoha and Fate.
 Dialogue: 0,0:25:24.12,0:25:26.48,Nanoha Narration1,,0,0,0,,What is the wish that Fate's mother has?
-Dialogue: 0,0:25:27.59,0:25:30.26,Nanoha Narration1,,0,0,0,,Next episode of {\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:27.78,0:25:35.36,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,259)}Episode 9
-Dialogue: 0,0:25:27.78,0:25:35.36,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,500)}The Decisive Battle Above the Ocean
-Dialogue: 0,0:25:30.26,0:25:34.49,Nanoha Narration1,,0,0,0,,Episode 9: The Decisive Battle Above the Ocean
+Dialogue: 0,0:25:27.59,0:25:30.26,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
+Dialogue: 0,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,259)}Episode 9
+Dialogue: 0,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,500)}The Decisive Battle Above the Ocean
+Dialogue: 0,0:25:30.26,0:25:34.49,Nanoha Narration1,,0,0,0,,Episode 9:\NThe Decisive Battle Above the Ocean
 Dialogue: 0,0:25:34.49,0:25:37.09,Nanoha Narration1,,0,0,0,,Lyrical, magical, hoping I don't lose!

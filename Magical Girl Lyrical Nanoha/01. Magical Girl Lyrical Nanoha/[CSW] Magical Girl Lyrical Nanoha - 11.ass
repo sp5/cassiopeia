@@ -18,20 +18,20 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 257
-Active Line: 261
-Video Position: 36630
+Scroll Position: 263
+Active Line: 264
+Video Position: 36793
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha Dialogue1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Dialogue2,Noto Sans,54,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.1,2.5,4,14,14,13,1
-Style: Nanoha Narration1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
-Style: Nanoha Device1,Noto Serif,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
+Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -45,7 +45,7 @@ Dialogue: 0,0:00:24.30,0:00:28.03,Nanoha Narration1,,0,0,0,,That's why, right no
 Dialogue: 0,0:00:28.03,0:00:30.44,Nanoha Narration1,,0,0,0,,Risking everything we have on our magic!
 Dialogue: 0,0:00:31.47,0:00:33.27,Nanoha Narration1,,0,0,0,,I'll tell you over and over.
 Dialogue: 0,0:00:33.27,0:00:35.33,Nanoha Narration1,,0,0,0,,Because I want to see you smile.
-Dialogue: 0,0:00:36.74,0:00:40.65,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha{\i1} will now begin.
+Dialogue: 0,0:00:36.74,0:00:40.65,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha{\i1}\Nwill now begin.
 Dialogue: 0,0:00:57.53,0:01:01.47,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
 Dialogue: 0,0:01:01.47,0:01:05.00,Nanoha OP,,0,0,0,,I always shivered from uncertainty
 Dialogue: 0,0:01:05.00,0:01:12.04,Nanoha OP,,0,0,0,,I was scared of learning the truth,\Nso I closed the door
@@ -177,7 +177,7 @@ Dialogue: 0,0:14:42.99,0:14:45.92,Nanoha Dialogue1,,0,0,0,,Fate, if you'd like, 
 Dialogue: 0,0:14:47.26,0:14:49.30,Nanoha Dialogue1,,0,0,0,,All men have entered the throne room
 Dialogue: 0,0:14:49.30,0:14:50.76,Nanoha Dialogue1,,0,0,0,,and have confirmed the target!
 Dialogue: 0,0:14:51.30,0:14:53.57,Nanoha Dialogue1,,0,0,0,,Presea Testarossa, you are under arrest
-Dialogue: 0,0:14:53.57,0:14:55.63,Nanoha Dialogue1,,0,0,0,,for violation of the time-space laws
+Dialogue: 0,0:14:53.57,0:14:55.63,Nanoha Dialogue1,,0,0,0,,for violation of dimensional law
 Dialogue: 0,0:14:55.63,0:14:58.54,Nanoha Dialogue1,,0,0,0,,and charges of attacking a Bureau flagship!
 Dialogue: 0,0:14:58.87,0:15:00.90,Nanoha Dialogue1,,0,0,0,,Disarm yourself and come here.
 Dialogue: 0,0:15:11.35,0:15:12.62,Nanoha Dialogue1,,0,0,0,,Cover that side!
@@ -216,7 +216,7 @@ Dialogue: 0,0:17:52.85,0:17:55.84,Nanoha Dialogue1,,0,0,0,,that she had assigned
 Dialogue: 0,0:17:57.05,0:17:59.32,Nanoha Dialogue1,,0,0,0,,I'm impressed you were able to find out that much.
 Dialogue: 0,0:17:59.32,0:18:01.48,Nanoha Dialogue1,,0,0,0,,You're right. That's correct.
 Dialogue: 0,0:18:02.49,0:18:06.36,Nanoha Dialogue1,,0,0,0,,But it wasn't good enough.\NIt didn't go well at all.
-Dialogue: 0,0:18:06.89,0:18:09.99,Nanoha Dialogue1,,0,0,0,,An artificial life is nothing but a fake.
+Dialogue: 0,0:18:06.89,0:18:09.99,Nanoha Dialogue1,,0,0,0,,An artificial life is nothing but a fake life.
 Dialogue: 0,0:18:10.80,0:18:13.70,Nanoha Dialogue1,,0,0,0,,It doesn't take the place of something that you've lost.
 Dialogue: 0,0:18:15.87,0:18:19.50,Nanoha Dialogue1,,0,0,0,,Alicia smiled at me more kindly.
 Dialogue: 0,0:18:20.07,0:18:23.01,Nanoha Dialogue1,,0,0,0,,Sometimes Alicia was selfish,
@@ -291,10 +291,11 @@ Dialogue: 0,0:24:46.83,0:24:48.36,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:48.36,0:24:53.82,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:54.20,0:25:04.20,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 0,0:25:12.52,0:25:14.82,Nanoha Narration1,,0,0,0,,The dimensional tremor has been set off.
-Dialogue: 0,0:25:14.82,0:25:18.92,Nanoha Narration1,,0,0,0,,We head into the Garden of Time to stop Presea.
+Dialogue: 0,0:25:14.82,0:25:15.89,Nanoha Narration1,,0,0,0,,We head into the
+Dialogue: 0,0:25:15.89,0:25:18.92,Nanoha Narration1,,0,0,0,,Garden of Time to stop Presea.
 Dialogue: 0,0:25:18.92,0:25:24.73,Nanoha Narration1,,0,0,0,,So that many worlds aren't destroyed, including Nanoha's world and ours...
 Dialogue: 0,0:25:24.73,0:25:27.40,Nanoha Narration1,,0,0,0,,And at that moment, Fate...
-Dialogue: 0,0:25:27.40,0:25:30.27,Nanoha Narration1,,0,0,0,,Next episode of {\i0}Magical Girl Lyrical Nanoha:{\i1}
+Dialogue: 0,0:25:27.40,0:25:30.27,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 0,0:25:30.27,0:25:34.57,Nanoha Narration1,,0,0,0,,Episode 12: When Our Fates Are Sealed
 Dialogue: 0,0:25:27.45,0:25:35.70,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5}Episode 12
 Dialogue: 0,0:25:27.45,0:25:35.70,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5}When Our Fates Are Sealed
