@@ -17,9 +17,9 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 960x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha - 01 (BDRip 960x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 338
-Active Line: 244
-Video Position: 23389
+Scroll Position: 59
+Active Line: 60
+Video Position: 8904
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,7 +71,8 @@ Dialogue: 0,0:04:14.22,0:04:20.26,Nanoha Title1,,0,0,0,,{\frx30\pos(480,149)\blu
 Dialogue: 0,0:04:14.22,0:04:20.26,Nanoha Title1,,0,0,0,,{\an5\frx-30\pos(484.004,542)\blur0.5}Is This What You'd Call a Mysterious Encounter?
 Dialogue: 0,0:04:43.64,0:04:46.31,Nanoha Dialogue1,,0,0,0,,That was a pretty strange dream I just had.
 Dialogue: 0,0:04:52.65,0:04:55.16,Nanoha Narration1,,0,0,0,,I'm Nanoha Takamachi.
-Dialogue: 0,0:04:55.16,0:04:59.23,Nanoha Narration1,,0,0,0,,I'm a third-grader at Seishō University Magnet Elementary School, a private school.
+Dialogue: 0,0:04:55.16,0:04:57.00,Nanoha Narration1,,0,0,0,,I'm a third-grader at
+Dialogue: 0,0:04:57.00,0:04:59.23,Nanoha Narration1,,0,0,0,,Seishō University Magnet Elementary School, a private school.
 Dialogue: 0,0:05:00.16,0:05:04.53,Nanoha Narration1,,0,0,0,,And in the Takamachi family,\NI'm the youngest of three children.
 Dialogue: 0,0:05:05.63,0:05:06.67,Nanoha Dialogue1,,0,0,0,,Good morning!
 Dialogue: 0,0:05:06.67,0:05:08.47,Nanoha Dialogue1,,0,0,0,,Oh, Nanoha! Good morning!
@@ -95,7 +96,7 @@ Dialogue: 0,0:05:51.98,0:05:54.35,Nanoha Narration1,,0,0,0,,It's a favorite afte
 Dialogue: 0,0:05:54.35,0:05:56.32,Nanoha Narration1,,0,0,0,,as well as for all the ladies of the neighborhood.
 Dialogue: 0,0:05:57.29,0:05:59.25,Nanoha Dialogue1,,0,0,0,,Where are my brother and sister?
 Dialogue: 0,0:06:00.29,0:06:01.85,Nanoha Dialogue1,,0,0,0,,They might be over at the dojo.
-Dialogue: 0,0:06:08.30,0:06:11.29,Nanoha Dialogue1,,0,0,0,,Good morning, you two!\NIt's time for breakfast!
+Dialogue: 0,0:06:08.00,0:06:10.99,Nanoha Dialogue1,,0,0,0,,Good morning, you two!\NIt's time for breakfast!
 Dialogue: 0,0:06:11.70,0:06:12.53,Nanoha Dialogue1,,0,0,0,,Morning.
 Dialogue: 0,0:06:12.53,0:06:14.64,Nanoha Dialogue1,,0,0,0,,Oh, Nanoha. Good morning.
 Dialogue: 0,0:06:14.64,0:06:15.47,Nanoha Dialogue1,,0,0,0,,Here.
