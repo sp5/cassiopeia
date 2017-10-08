@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 168
-Active Line: 171
-Video Position: 25414
+Scroll Position: 24
+Active Line: 27
+Video Position: 4457
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,8 +60,8 @@ Dialogue: 0,0:02:46.80,0:02:49.40,Nanoha Dialogue1,,0,0,0,,The form is a blue ge
 Dialogue: 0,0:02:49.40,0:02:51.30,Nanoha Dialogue1,,0,0,0,,Normally called a Jewel Seed.
 Dialogue: 0,0:02:56.81,0:02:58.10,Nanoha Dialogue1,,0,0,0,,Right.
 Dialogue: 0,0:02:58.10,0:02:59.88,Nanoha Dialogue1,,0,0,0,,I'll have them in my hands in no time.
-Dialogue: 0,0:03:05.86,0:03:11.90,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,143)}Episode 4
-Dialogue: 0,0:03:05.86,0:03:11.90,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(480,515)}A Rival!? Another Magical Girl!
+Dialogue: 0,0:03:05.86,0:03:11.90,Nanoha Title1,,0,0,0,,{\blur2\frx30\pos(480,143)}Episode 4
+Dialogue: 0,0:03:05.86,0:03:11.90,Nanoha Title1,,0,0,0,,{\an5\blur2\frx-30\pos(480,515)}A Rival!? Another Magical Girl!
 Dialogue: 0,0:03:13.42,0:03:16.38,Nanoha Dialogue1,,0,0,0,,Here, Yuuno, over here!
 Dialogue: 0,0:03:19.80,0:03:23.22,Nanoha Dialogue1,,0,0,0,,Good job! Yuuno, you're so smart!
 Dialogue: 0,0:03:25.13,0:03:27.34,Nanoha Dialogue1,,0,0,0,,Still not ready, Nanoha?

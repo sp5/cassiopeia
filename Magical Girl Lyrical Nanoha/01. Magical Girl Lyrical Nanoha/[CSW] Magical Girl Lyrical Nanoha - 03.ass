@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 248
-Active Line: 253
-Video Position: 36818
+Scroll Position: 30
+Active Line: 34
+Video Position: 5643
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,8 +68,8 @@ Dialogue: 0,0:03:26.46,0:03:30.73,Nanoha Narration1,,0,0,0,,Well, I'm now workin
 Dialogue: 0,0:03:44.11,0:03:46.04,Nanoha Dialogue1,,0,0,0,,Nanoha, are you all right?
 Dialogue: 0,0:03:46.04,0:03:50.66,Nanoha Dialogue1,,0,0,0,,I'm all right, but I'm a bit tired.
 Dialogue: 0,0:03:52.88,0:03:54.62,Nanoha Dialogue1,,0,0,0,,Nanoha! Nanoha, are you all right?
-Dialogue: 0,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(478.999,145)}Episode 3
-Dialogue: 0,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(482.671,506)}The City's in a Lot of Danger?
+Dialogue: 0,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\blur2\frx30\pos(478.999,145)}Episode 3
+Dialogue: 0,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\an5\blur2\frx-30\pos(482.671,506)}The City's in a Lot of Danger?
 Dialogue: 0,0:04:09.84,0:04:13.76,Nanoha Dialogue1,,0,0,0,,Nanoha, it's morning.\NYou should get up soon.
 Dialogue: 0,0:04:13.76,0:04:19.04,Nanoha Dialogue1,,0,0,0,,Today's Sunday, so let me sleep in just a bit more.
 Dialogue: 0,0:04:19.04,0:04:20.28,Nanoha Dialogue1,,0,0,0,,Nanoha!

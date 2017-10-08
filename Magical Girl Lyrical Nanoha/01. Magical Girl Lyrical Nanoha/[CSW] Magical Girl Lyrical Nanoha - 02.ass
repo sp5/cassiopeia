@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 334
-Active Line: 338
-Video Position: 36820
+Scroll Position: 21
+Active Line: 24
+Video Position: 3881
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,8 +57,8 @@ Dialogue: 0,0:02:02.80,0:02:07.37,Nanoha OP,,0,0,0,,I'll be by your side forever
 Dialogue: 0,0:02:07.37,0:02:17.37,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
 Dialogue: 0,0:02:27.34,0:02:29.96,Nanoha Dialogue1,,0,0,0,,You're kidding. What is this?!
 Dialogue: 0,0:02:39.84,0:02:41.84,Nanoha Dialogue1,,0,0,0,,What?!
-Dialogue: 0,0:02:41.83,0:02:47.87,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,148)}Episode 2
-Dialogue: 0,0:02:41.83,0:02:47.87,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(485,503)}My Magical Incantation is Lyrical?
+Dialogue: 0,0:02:41.83,0:02:47.87,Nanoha Title1,,0,0,0,,{\blur2\frx30\pos(480,148)}Episode 2
+Dialogue: 0,0:02:41.83,0:02:47.87,Nanoha Title1,,0,0,0,,{\an5\blur2\frx-30\pos(485,503)}My Magical Incantation is Lyrical?
 Dialogue: 0,0:02:52.67,0:02:54.06,Nanoha Dialogue1,,0,0,0,,What is this?
 Dialogue: 0,0:02:55.74,0:02:57.13,Nanoha Dialogue1,,0,0,0,,It's coming!
 Dialogue: 0,0:03:05.98,0:03:07.91,Nanoha Device1,,0,0,0,,Protection

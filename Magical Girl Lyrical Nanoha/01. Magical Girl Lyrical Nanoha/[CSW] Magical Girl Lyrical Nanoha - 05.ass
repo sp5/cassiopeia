@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 62
-Active Line: 63
-Video Position: 36943
+Scroll Position: 26
+Active Line: 28
+Video Position: 4622
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,8 +62,8 @@ Dialogue: 0,0:02:41.64,0:02:45.22,Nanoha Narration1,,0,0,0,,I think that's how e
 Dialogue: 0,0:02:53.72,0:02:56.54,Nanoha Narration1,,0,0,0,,The current days of my life may have begun just by coincidence.
 Dialogue: 0,0:02:57.15,0:03:01.24,Nanoha Narration1,,0,0,0,,That's why I want to keep moving ahead, without making any mistakes.
 Dialogue: 0,0:03:05.36,0:03:09.75,Nanoha Narration1,,0,0,0,,By my own will,\Naccording to my own feelings.
-Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,139)}Episode 5
-Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(487.007,553)}This is a Town of Hot Water,\NUminari Hot Springs!
+Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\blur2\frx30\pos(480,139)}Episode 5
+Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\an5\blur2\frx-30\pos(487.007,553)}This is a Town of Hot Water,\NUminari Hot Springs!
 Dialogue: 0,0:03:19.29,0:03:20.56,Nanoha Narration1,,0,0,0,,Okay!
 Dialogue: 0,0:03:20.56,0:03:23.72,Nanoha Narration1,,0,0,0,,It's vacation season all over Japan!
 Dialogue: 0,0:03:25.83,0:03:30.30,Nanoha Narration1,,0,0,0,,Café Midoriya is always open, but during vacation season,
