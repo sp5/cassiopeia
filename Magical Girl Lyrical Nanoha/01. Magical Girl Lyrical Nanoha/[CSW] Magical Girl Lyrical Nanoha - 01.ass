@@ -17,9 +17,9 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 960x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha - 01 (BDRip 960x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 339
-Active Line: 344
-Video Position: 36711
+Scroll Position: 69
+Active Line: 73
+Video Position: 9369
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -103,12 +103,12 @@ Dialogue: 0,0:06:11.70,0:06:12.53,Nanoha Dialogue1,,0,0,0,,Morning.
 Dialogue: 0,0:06:12.53,0:06:14.64,Nanoha Dialogue1,,0,0,0,,Oh, Nanoha. Good morning.
 Dialogue: 0,0:06:14.64,0:06:15.77,Nanoha Dialogue1,,0,0,0,,Here.
 Dialogue: 0,0:06:15.77,0:06:17.31,Nanoha Dialogue1,,0,0,0,,Thanks.
-Dialogue: 0,0:06:17.31,0:06:20.94,Nanoha Narration1,,0,0,0,,These two are my older siblings.
-Dialogue: 0,0:06:20.94,0:06:23.19,Nanoha Dialogue1,,0,0,0,,Then that's it for this morning, Miyuki.
+Dialogue: 0,0:06:17.31,0:06:20.71,Nanoha Narration1,,0,0,0,,These two are my older siblings.
+Dialogue: 0,0:06:20.71,0:06:23.19,Nanoha Dialogue1,,0,0,0,,Then that's it for this morning, Miyuki.
 Dialogue: 0,0:06:23.64,0:06:25.85,Nanoha Narration1,,0,0,0,,My big brother, Kyōya Takamachi,
 Dialogue: 0,0:06:25.85,0:06:27.71,Nanoha Narration1,,0,0,0,,is a freshman in college.
 Dialogue: 0,0:06:27.71,0:06:29.01,Nanoha Narration1,,0,0,0,,He's a swordsman
-Dialogue: 0,0:06:29.01,0:06:29.95,Nanoha Narration1,,0,0,0,,following in my dad's footsteps,
+Dialogue: 0,0:06:29.01,0:06:29.95,Nanoha Narration1,,0,0,0,,following in Dad's footsteps,
 Dialogue: 0,0:06:29.95,0:06:32.45,Nanoha Narration1,,0,0,0,,and acts as coach to my sister.
 Dialogue: 0,0:06:32.45,0:06:36.52,Nanoha Dialogue1,,0,0,0,,Okay. Then we'll continue once\NI'm done with school for the day.
 Dialogue: 0,0:06:36.52,0:06:39.49,Nanoha Narration1,,0,0,0,,And my sister, Miyuki Takamachi,
