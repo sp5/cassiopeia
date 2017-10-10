@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 178
-Active Line: 182
-Video Position: 20988
+Scroll Position: 223
+Active Line: 228
+Video Position: 27337
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -77,8 +77,8 @@ Dialogue: 0,0:03:10.00,0:03:12.72,Nanoha Dialogue1,,0,0,0,,Arf, you stay by Fate
 Dialogue: 0,0:03:12.72,0:03:14.02,Nanoha Dialogue1,,0,0,0,,Right!
 Dialogue: 0,0:03:14.03,0:03:15.23,Nanoha Dialogue1,,0,0,0,,Let's go!
 Dialogue: 0,0:03:15.23,0:03:16.50,Nanoha Dialogue1,,0,0,0,,Yeah!
-Dialogue: 0,0:03:16.50,0:03:20.27,Nanoha Dialogue1,,0,0,0,,Chrono, Miss Nanoha, Yuuno!
-Dialogue: 0,0:03:20.27,0:03:22.10,Nanoha Dialogue1,,0,0,0,,I'm going to head on-site as well!
+Dialogue: 0,0:03:16.50,0:03:20.08,Nanoha Dialogue1,,0,0,0,,Chrono, Miss Nanoha, Yuuno!
+Dialogue: 0,0:03:20.08,0:03:22.10,Nanoha Dialogue1,,0,0,0,,I'm going to head on-site as well!
 Dialogue: 0,0:03:22.10,0:03:25.20,Nanoha Dialogue1,,0,0,0,,I will trust you all with\Nthe arrest of Presea Testarossa!
 Dialogue: 0,0:03:25.20,0:03:26.26,Nanoha Dialogue1,,0,0,0,,Roger!
 Dialogue: 0,0:03:33.64,0:03:39.67,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,240)}{\b1}Episode 12{\b0}
@@ -123,8 +123,8 @@ Dialogue: 0,0:06:51.41,0:06:54.28,Nanoha Dialogue1,,0,0,0,,And when everything i
 Dialogue: 0,0:06:54.28,0:06:56.14,Nanoha Dialogue1,,0,0,0,,It doesn't matter how slowly,
 Dialogue: 0,0:06:56.14,0:06:59.90,Nanoha Dialogue1,,0,0,0,,but I want you to turn back to the real Fate who I love so much.
 Dialogue: 0,0:07:00.68,0:07:06.19,Nanoha Dialogue1,,0,0,0,,From now on, Fate, you're free to use all the time you have for yourself.
-Dialogue: 0,0:07:32.88,0:07:37.62,Nanoha Narration1,,0,0,0,,My mother didn't smile at me once,\Nto the very end.
-Dialogue: 0,0:07:39.52,0:07:45.09,Nanoha Narration1,,0,0,0,,The only reason I wanted to live was for my mother to accept me.
+Dialogue: 0,0:07:32.78,0:07:37.62,Nanoha Narration1,,0,0,0,,My mother didn't smile at me once,\Nto the very end.
+Dialogue: 0,0:07:39.40,0:07:45.09,Nanoha Narration1,,0,0,0,,The only reason I wanted to live was for my mother to accept me.
 Dialogue: 0,0:07:46.13,0:07:48.83,Nanoha Narration1,,0,0,0,,No matter how much she claimed I lacked,
 Dialogue: 0,0:07:48.83,0:07:51.32,Nanoha Narration1,,0,0,0,,no matter what horrible things she did to me.
 Dialogue: 0,0:07:53.47,0:07:56.28,Nanoha Narration1,,0,0,0,,Still, I wanted her to smile.
@@ -264,7 +264,7 @@ Dialogue: 0,0:18:44.35,0:18:46.18,Nanoha Dialogue1,,0,0,0,,That's right!
 Dialogue: 0,0:18:47.02,0:18:48.58,Nanoha Dialogue1,,0,0,0,,I'm going to bring back into my hands
 Dialogue: 0,0:18:49.72,0:18:54.57,Nanoha Dialogue1,,0,0,0,,the past and the future for Alicia and I!
 Dialogue: 0,0:18:58.13,0:18:59.83,Nanoha Dialogue1,,0,0,0,,I'm going to bring it back.
-Dialogue: 0,0:19:00.83,0:19:02.14,Nanoha Dialogue1,,0,0,0,,This wasn't how it was supposed to be.
+Dialogue: 0,0:18:59.83,0:19:02.14,Nanoha Dialogue1,,0,0,0,,This wasn't how it was supposed to be.
 Dialogue: 0,0:19:02.14,0:19:04.34,Nanoha Dialogue1,,0,0,0,,Everything in the world...
 Dialogue: 0,0:19:11.74,0:19:14.82,Nanoha Dialogue1,,0,0,0,,This world is always full of things
 Dialogue: 0,0:19:14.82,0:19:17.76,Nanoha Dialogue1,,0,0,0,,that weren't supposed to be this way!
@@ -275,8 +275,8 @@ Dialogue: 0,0:19:34.94,0:19:37.61,Nanoha Dialogue1,,0,0,0,,But, nowhere, nobody 
 Dialogue: 0,0:19:37.61,0:19:42.91,Nanoha Dialogue1,,0,0,0,,to rope innocent people into your selfish depression!
 Dialogue: 0,0:19:50.12,0:19:52.01,Nanoha Dialogue1,,0,0,0,,Mom!
 Dialogue: 0,0:19:52.01,0:19:53.98,Nanoha Dialogue1,,0,0,0,,What did you come here for?
-Dialogue: 0,0:19:55.82,0:20:00.55,Nanoha Dialogue1,,0,0,0,,Begone. I have no more use for you.
-Dialogue: 0,0:20:01.66,0:20:04.59,Nanoha Dialogue1,,0,0,0,,I came here because I wanted to say something to you.
+Dialogue: 0,0:19:55.82,0:20:00.96,Nanoha Dialogue1,,0,0,0,,Begone. I have no more use for you.
+Dialogue: 0,0:20:00.96,0:20:04.59,Nanoha Dialogue1,,0,0,0,,I came here because I wanted to say something to you.
 Dialogue: 0,0:20:10.47,0:20:11.72,Nanoha Dialogue1,,0,0,0,,I...
 Dialogue: 0,0:20:16.64,0:20:20.38,Nanoha Dialogue1,,0,0,0,,I am not Alicia Testarossa!
 Dialogue: 0,0:20:20.38,0:20:24.51,Nanoha Dialogue1,,0,0,0,,I may be just a doll\Nthat you have created.
