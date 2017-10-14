@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 58
-Active Line: 63
-Video Position: 8898
+Scroll Position: 158
+Active Line: 160
+Video Position: 23228
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -191,10 +191,10 @@ Dialogue: 0,0:15:24.15,0:15:28.61,Nanoha Narration1,,0,0,0,,Maybe there's nothin
 Dialogue: 0,0:15:39.57,0:15:41.29,Nanoha Dialogue1,,0,0,0,,A similar type of mage.
 Dialogue: 0,0:15:43.37,0:15:45.28,Nanoha Dialogue1,,0,0,0,,One who searches for Lost Logia...
 Dialogue: 0,0:15:47.91,0:15:52.17,Nanoha Dialogue1,,0,0,0,,No doubt about it.\NShe's from the same world as me.
-Dialogue: 0,0:15:52.17,0:15:55.80,Nanoha Dialogue1,,0,0,0,,And she knows the truth about the Jewel Seeds!
-Dialogue: 0,0:15:59.82,0:16:03.23,Nanoha Dialogue1,,0,0,0,,The same type of Intelligent Device as Bardiche...
+Dialogue: 0,0:15:52.17,0:15:55.80,Nanoha Dialogue1,,0,0,0,,And she knows what\Nthe Jewel Seeds really are!
+Dialogue: 0,0:15:59.82,0:16:03.23,Nanoha Dialogue1,,0,0,0,,The same type of\NIntelligent Device as Bardiche...
 Dialogue: 0,0:16:06.39,0:16:08.78,Nanoha Dialogue1,,0,0,0,,Bardiche?
-Dialogue: 0,0:16:08.78,0:16:12.14,Nanoha Dialogue1,,0,0,0,,Lost Logia, Jewel Seeds.
+Dialogue: 0,0:16:08.78,0:16:12.14,Nanoha Dialogue1,,0,0,0,,That Lost Logia, the Jewel Seed.
 Dialogue: 0,0:16:12.14,0:16:14.76,Nanoha Device1,,0,0,0,,Scythe Form, set up.
 Dialogue: 0,0:16:30.46,0:16:33.62,Nanoha Dialogue1,,0,0,0,,I apologize, but I'm taking it with me.
 Dialogue: 0,0:16:37.14,0:16:38.43,Nanoha Device1,,0,0,0,,Evasion
