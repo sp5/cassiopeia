@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 59
-Active Line: 63
-Video Position: 9520
+Scroll Position: 103
+Active Line: 108
+Video Position: 13930
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -125,11 +125,11 @@ Dialogue: 0,0:08:13.53,0:08:14.73,Nanoha Dialogue1,,0,0,0,,Yeah...
 Dialogue: 0,0:08:14.73,0:08:19.23,Nanoha Dialogue1,,0,0,0,,He's gone running with Dad this morning, a little further than usual.
 Dialogue: 0,0:08:21.74,0:08:22.69,Nanoha Dialogue1,,0,0,0,,Um...
 Dialogue: 0,0:08:22.69,0:08:23.48,Nanoha Dialogue1,,0,0,0,,Huh?
-Dialogue: 0,0:08:23.48,0:08:24.68,Nanoha Dialogue1,,0,0,0,,Your practice...
-Dialogue: 0,0:08:25.54,0:08:28.06,Nanoha Dialogue1,,0,0,0,,If I'm not bothering you, can I watch?
+Dialogue: 0,0:08:23.48,0:08:24.68,Nanoha Dialogue1,,0,0,0,,If it won't bother you...
+Dialogue: 0,0:08:25.54,0:08:28.06,Nanoha Dialogue1,,0,0,0,,can I watch your practice?
 Dialogue: 0,0:08:29.58,0:08:32.22,Nanoha Dialogue1,,0,0,0,,I don't think it's very interesting.
 Dialogue: 0,0:08:33.75,0:08:34.99,Nanoha Dialogue1,,0,0,0,,But sure, I don't mind.
-Dialogue: 0,0:08:36.96,0:08:38.45,Nanoha Dialogue1,,0,0,0,,Thanks.
+Dialogue: 0,0:08:36.96,0:08:38.51,Nanoha Dialogue1,,0,0,0,,Thanks.
 Dialogue: 0,0:08:57.74,0:08:59.26,Nanoha Narration1,,0,0,0,,Nanoha?
 Dialogue: 0,0:08:59.26,0:09:00.84,Nanoha Narration1,,0,0,0,,Yuuno?
 Dialogue: 0,0:09:00.84,0:09:03.77,Nanoha Narration1,,0,0,0,,What's wrong?\NIt's so early in the day.
@@ -139,12 +139,12 @@ Dialogue: 0,0:09:12.26,0:09:14.22,Nanoha Narration1,,0,0,0,,I've been thinking.
 Dialogue: 0,0:09:15.78,0:09:17.25,Nanoha Narration1,,0,0,0,,I...
 Dialogue: 0,0:09:17.25,0:09:19.76,Nanoha Narration1,,0,0,0,,That girl...
 Dialogue: 0,0:09:19.76,0:09:22.20,Nanoha Narration1,,0,0,0,,Fate is still on my mind.
-Dialogue: 0,0:09:22.20,0:09:23.93,Nanoha Narration1,,0,0,0,,She's on your mind?
+Dialogue: 0,0:09:22.20,0:09:23.18,Nanoha Narration1,,0,0,0,,She's on your mind?
 Dialogue: 0,0:09:27.32,0:09:29.21,Nanoha Narration1,,0,0,0,,She's really strong,
-Dialogue: 0,0:09:30.21,0:09:32.50,Nanoha Narration1,,0,0,0,,and she seems really cold-hearted,
-Dialogue: 0,0:09:33.88,0:09:37.41,Nanoha Narration1,,0,0,0,,but she has very pretty, gentle eyes.
+Dialogue: 0,0:09:30.21,0:09:32.23,Nanoha Narration1,,0,0,0,,and she seems really cold-hearted,
+Dialogue: 0,0:09:33.88,0:09:37.16,Nanoha Narration1,,0,0,0,,but she has very pretty, gentle eyes.
 Dialogue: 0,0:09:38.38,0:09:40.11,Nanoha Narration1,,0,0,0,,And yet...
-Dialogue: 0,0:09:40.11,0:09:44.32,Nanoha Narration1,,0,0,0,,Somehow, they're very... melancholy.
+Dialogue: 0,0:09:40.11,0:09:44.41,Nanoha Narration1,,0,0,0,,Somehow, they're very... melancholy.
 Dialogue: 0,0:09:50.78,0:09:52.94,Nanoha Narration1,,0,0,0,,I'm sure she has a reason behind it.
 Dialogue: 0,0:09:53.67,0:09:56.33,Nanoha Narration1,,0,0,0,,A reason why she's collecting the Jewel Seeds.
 Dialogue: 0,0:09:57.84,0:09:59.50,Nanoha Narration1,,0,0,0,,That's why I...
