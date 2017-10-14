@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 297
-Active Line: 300
-Video Position: 36677
+Scroll Position: 59
+Active Line: 63
+Video Position: 9520
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -80,7 +80,7 @@ Dialogue: 1,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(
 Dialogue: 0,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\blur0.5\bord0.3\fs42\c&H000000&}Nanoha
 Dialogue: 0,0:04:59.74,0:05:01.31,Nanoha Narration1,,0,0,0,,Raising Heart is a Device
 Dialogue: 0,0:05:01.31,0:05:04.42,Nanoha Narration1,,0,0,0,,that can withstand quite a bit of released power.
-Dialogue: 0,0:05:04.42,0:05:08.27,Nanoha Narration1,,0,0,0,,To think that one attack would damage her this much...
+Dialogue: 0,0:05:04.42,0:05:08.26,Nanoha Narration1,,0,0,0,,To think that one attack would damage her this much...
 Dialogue: 0,0:05:09.35,0:05:12.83,Nanoha Narration1,,0,0,0,,Was it the clash between that girl's and Nanoha's magical power?
 Dialogue: 0,0:05:12.83,0:05:16.69,Nanoha Narration1,,0,0,0,,No... besides, that doesn't explain it all.
 Dialogue: 0,0:05:16.69,0:05:19.88,Nanoha Narration1,,0,0,0,,So it was, after all, the Jewel Seed's...
@@ -96,12 +96,12 @@ Dialogue: 0,0:05:49.82,0:05:53.25,Nanoha Dialogue1,,0,0,0,,I'm so sorry, Raising
 Dialogue: 0,0:05:59.11,0:06:04.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,751)\an5\pos(482.01,483)}{\fs45\\b1}Same day, same time\NCity of Tōmi residential area{\b0}
 Dialogue: 0,0:06:20.22,0:06:22.09,Nanoha Dialogue1,,0,0,0,,I'm sorry, Fate.
 Dialogue: 0,0:06:22.09,0:06:23.91,Nanoha Dialogue1,,0,0,0,,Hang in there a little longer.
-Dialogue: 0,0:06:24.46,0:06:25.85,Nanoha Dialogue1,,0,0,0,,I'm fine.
+Dialogue: 0,0:06:24.46,0:06:25.60,Nanoha Dialogue1,,0,0,0,,I'm fine.
 Dialogue: 0,0:06:26.73,0:06:28.82,Nanoha Dialogue1,,0,0,0,,Thanks, Arf.
-Dialogue: 0,0:06:29.36,0:06:33.03,Nanoha Dialogue1,,0,0,0,,I have to go back tomorrow to report to my mother,
-Dialogue: 0,0:06:33.03,0:06:35.02,Nanoha Dialogue1,,0,0,0,,so I need to heal this quickly.
-Dialogue: 0,0:06:36.07,0:06:39.79,Nanoha Dialogue1,,0,0,0,,I'm sure I'll make her worry if I returned home all torn up.
-Dialogue: 0,0:06:40.37,0:06:45.08,Nanoha Dialogue1,,0,0,0,,Would that woman actually care?
+Dialogue: 0,0:06:28.82,0:06:33.03,Nanoha Dialogue1,,0,0,0,,I have to go back tomorrow to report to my mother,
+Dialogue: 0,0:06:33.03,0:06:34.84,Nanoha Dialogue1,,0,0,0,,so I need to heal this quickly.
+Dialogue: 0,0:06:36.07,0:06:39.98,Nanoha Dialogue1,,0,0,0,,I'm sure I'll make her worry if I returned home all torn up.
+Dialogue: 0,0:06:39.98,0:06:45.08,Nanoha Dialogue1,,0,0,0,,Would that woman actually care?
 Dialogue: 0,0:06:45.84,0:06:49.77,Nanoha Dialogue1,,0,0,0,,My mother is just a little awkward.
 Dialogue: 0,0:06:51.85,0:06:55.10,Nanoha Dialogue1,,0,0,0,,I know that for certain.
 Dialogue: 0,0:06:55.10,0:06:59.78,Nanoha Dialogue1,,0,0,0,,If it's just a report,\NI can just go and do it.
