@@ -18,16 +18,16 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 335
-Active Line: 336
-Video Position: 33356
+Scroll Position: 364
+Active Line: 366
+Video Position: 36616
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Dialogue2,Noto Sans,54,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
-Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
+Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
+Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
@@ -65,8 +65,10 @@ Dialogue: 0,0:02:36.72,0:02:38.52,Nanoha Dialogue1,,0,0,0,,Roger.
 Dialogue: 0,0:02:39.76,0:02:41.00,Nanoha Dialogue1,,0,0,0,,Now...
 Dialogue: 0,0:02:41.00,0:02:42.97,Nanoha Dialogue1,,0,0,0,,Nanoha and Yuuno,
 Dialogue: 0,0:02:42.97,0:02:45.35,Nanoha Dialogue1,,0,0,0,,you'll both receive a very stern lecture directly from me.
-Dialogue: 0,0:02:45.34,0:02:51.38,Nanoha Title1,,0,0,0,,{\blur2\frx30\pos(480,141)}Episode 10
-Dialogue: 0,0:02:45.34,0:02:51.38,Nanoha Title1,,0,0,0,,{\an5\blur2\frx-30\pos(480,543)}Everybody's Separate\NHeartfelt Vows
+Dialogue: 1,0:02:45.34,0:02:51.38,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,141)\bord0}Episode 10
+Dialogue: 0,0:02:45.34,0:02:51.38,Nanoha Title1,,0,0,0,,{\blur3\frx30\pos(480,141)\c&HFFD4FF&}Episode 10
+Dialogue: 1,0:02:45.34,0:02:51.38,Nanoha Title1,,0,0,0,,{\an6\org(480,536)\frx-30\bord0\pos(672.2,543)}Everybody's Separate\NHeartfelt Vows
+Dialogue: 0,0:02:45.34,0:02:51.38,Nanoha Title1,,0,0,0,,{\an6\org(480,536)\blur3\frx-30\c&HFFD4FF&\pos(672.2,543)}Everybody's Separate\NHeartfelt Vows
 Dialogue: 0,0:02:57.40,0:03:01.08,Nanoha Dialogue1,,0,0,0,,Following all instructions and orders is a necessary rule
 Dialogue: 0,0:03:01.08,0:03:03.20,Nanoha Dialogue1,,0,0,0,,to protect an organization, not just individuals.
 Dialogue: 0,0:03:03.20,0:03:07.12,Nanoha Dialogue1,,0,0,0,,Selfish decisions and actions may have put not only you,
@@ -273,7 +275,8 @@ Dialogue: 0,0:16:08.98,0:16:10.59,Nanoha Dialogue1,,0,0,0,,I promise.
 Dialogue: 0,0:16:10.59,0:16:12.19,Nanoha Dialogue1,,0,0,0,,Amy, the recorder.
 Dialogue: 0,0:16:12.19,0:16:13.26,Nanoha Dialogue1,,0,0,0,,Already recording.
 Dialogue: 0,0:16:15.74,0:16:21.75,Nanoha Narration1,,0,0,0,,Fate's mother, Presea Testarossa,\Nis responsible for everything.
-Dialogue: 0,0:16:21.74,0:16:23.27,Nanoha Game,,0,0,0,,{\pos(496,624)\blur0.5}Hero takes 28 points of damage.
+Dialogue: 1,0:16:21.74,0:16:23.27,Nanoha Game,,0,0,0,,{\pos(496,624)\blur0.5\bord0}Hero takes 28 points of damage.
+Dialogue: 0,0:16:21.74,0:16:23.27,Nanoha Game,,0,0,0,,{\pos(496,624)\blur0.5\c&H80875E&}Hero takes 28 points of damage.
 Dialogue: 0,0:16:23.26,0:16:26.20,Nanoha Dialogue1,,0,0,0,,What you got a few minutes ago...\NCorrect. Here!
 Dialogue: 0,0:16:26.20,0:16:27.64,Nanoha Dialogue1,,0,0,0,,Which one?
 Dialogue: 0,0:16:27.64,0:16:29.67,Nanoha Narration1,,0,0,0,,Nanoha, did you hear that?
@@ -397,7 +400,9 @@ Dialogue: 0,0:25:15.08,0:25:19.26,Nanoha Narration1,,0,0,0,,and the two individu
 Dialogue: 0,0:25:20.09,0:25:22.66,Nanoha Narration1,,0,0,0,,The Garden of Time begins to move.
 Dialogue: 0,0:25:22.66,0:25:25.42,Nanoha Narration1,,0,0,0,,What is the Alhazred that Presea is longing for?
 Dialogue: 0,0:25:26.09,0:25:28.80,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5}Episode 11
-Dialogue: 0,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5}Memories That Lie Beyond Time
+Dialogue: 1,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\bord0}Episode 11
+Dialogue: 0,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&}Episode 11
+Dialogue: 1,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}Memories That Lie Beyond Time
+Dialogue: 0,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&}Memories That Lie Beyond Time
 Dialogue: 0,0:25:28.80,0:25:33.84,Nanoha Narration1,,0,0,0,,Episode 11:\NMemories That Lie Beyond Time
 Dialogue: 0,0:25:33.84,0:25:36.77,Nanoha Narration1,,0,0,0,,Lyrical, magical, full power, all-out!

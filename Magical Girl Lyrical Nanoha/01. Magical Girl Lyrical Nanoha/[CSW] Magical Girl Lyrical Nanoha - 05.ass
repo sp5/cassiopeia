@@ -19,14 +19,14 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
 Scroll Position: 26
-Active Line: 28
+Active Line: 29
 Video Position: 4622
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Dialogue2,Junicode,64,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,4,14,14,13,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
+Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
@@ -62,8 +62,10 @@ Dialogue: 0,0:02:41.64,0:02:45.22,Nanoha Narration1,,0,0,0,,I think that's how e
 Dialogue: 0,0:02:53.72,0:02:56.54,Nanoha Narration1,,0,0,0,,The current days of my life may have begun just by coincidence.
 Dialogue: 0,0:02:57.15,0:03:01.24,Nanoha Narration1,,0,0,0,,That's why I want to keep moving ahead, without making any mistakes.
 Dialogue: 0,0:03:05.36,0:03:09.75,Nanoha Narration1,,0,0,0,,By my own will,\Naccording to my own feelings.
-Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\blur2\frx30\pos(480,139)}Episode 5
-Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\an5\blur2\frx-30\pos(487.007,553)}This is a Town of Hot Water,\NUminari Hot Springs!
+Dialogue: 1,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,139)\bord0}Episode 5
+Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\blur3\frx30\pos(480,139)\c&H8352A8&}Episode 5
+Dialogue: 1,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\an6\org(480,536)\blur0.5\frx-30\bord0\pos(779.311,553)}This is a Town of Hot Water,\NUminari Hot Springs!
+Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\an6\org(480,536)\blur3\frx-30\c&H8352A8&\pos(779.311,553)}This is a Town of Hot Water,\NUminari Hot Springs!
 Dialogue: 0,0:03:19.29,0:03:20.56,Nanoha Narration1,,0,0,0,,Okay!
 Dialogue: 0,0:03:20.56,0:03:23.72,Nanoha Narration1,,0,0,0,,It's vacation season all over Japan!
 Dialogue: 0,0:03:25.83,0:03:30.30,Nanoha Narration1,,0,0,0,,Café Midoriya is always open, but during vacation season,
@@ -90,7 +92,8 @@ Dialogue: 0,0:04:57.89,0:04:59.75,Nanoha Dialogue1,,0,0,0,,So big!
 Dialogue: 0,0:05:04.28,0:05:07.00,Nanoha Narration1,,0,0,0,,At least for the next two days,
 Dialogue: 0,0:05:07.00,0:05:09.68,Nanoha Narration1,,0,0,0,,I'm going to act like all the other kids my age.
 Dialogue: 0,0:05:12.07,0:05:15.17,Nanoha Narration1,,0,0,0,,I'm planning to play as much as I can!
-Dialogue: 0,0:05:16.78,0:05:18.98,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,174)\blur0.5}{\c&H616B77&\3c&HE1E1E1&\shad0}Ladies' Bath
+Dialogue: 1,0:05:16.78,0:05:18.98,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,174)\blur0.5\bord0\c&H616B77&\shad0}Ladies' Bath
+Dialogue: 0,0:05:16.78,0:05:18.98,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,174)\blur0.5\c&HE1E1E1&\3c&HE1E1E1&\shad0}Ladies' Bath
 Dialogue: 0,0:05:18.98,0:05:21.71,Nanoha Dialogue1,,0,0,0,,Sorry to keep you waiting!\NShall we go?
 Dialogue: 0,0:05:24.98,0:05:28.09,Nanoha Narration1,,0,0,0,,Have you ever soaked in a hot spring, Yuuno?
 Dialogue: 0,0:05:28.09,0:05:33.79,Nanoha Narration1,,0,0,0,,Uh... well... I've been to\Na public bath before, but...
@@ -327,7 +330,9 @@ Dialogue: 0,0:25:19.38,0:25:22.14,Nanoha Narration1,,0,0,0,,The events of the pa
 Dialogue: 0,0:25:22.14,0:25:24.15,Nanoha Narration1,,0,0,0,,What are the destinies of the two magical girls
 Dialogue: 0,0:25:24.15,0:25:26.42,Nanoha Narration1,,0,0,0,,who meet one another once again?!
 Dialogue: 0,0:25:26.42,0:25:29.62,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.022,263)}Episode 6
-Dialogue: 0,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5}Feelings That Can't Be Understood?
+Dialogue: 1,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.022,263)\bord0}Episode 6
+Dialogue: 0,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.022,263)\c&HFFFFFF&}Episode 6
+Dialogue: 1,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}Feelings That Can't Be Understood?
+Dialogue: 0,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&}Feelings That Can't Be Understood?
 Dialogue: 0,0:25:29.62,0:25:33.86,Nanoha Narration1,,0,0,0,,Episode 6:\NFeelings That Can't be Understood?
 Dialogue: 0,0:25:33.86,0:25:36.79,Nanoha Narration1,,0,0,0,,Lyrical, magical, hoping I can reach her...

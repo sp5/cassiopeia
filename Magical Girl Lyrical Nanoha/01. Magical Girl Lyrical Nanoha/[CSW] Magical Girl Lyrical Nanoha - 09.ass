@@ -18,15 +18,15 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 289
-Active Line: 294
-Video Position: 36860
+Scroll Position: 34
+Active Line: 38
+Video Position: 4701
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
-Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
+Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
+Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
@@ -70,8 +70,10 @@ Dialogue: 0,0:02:58.86,0:03:00.96,Nanoha Dialogue1,,0,0,0,,I'm Nanoha Takamachi!
 Dialogue: 0,0:03:00.96,0:03:03.56,Nanoha Dialogue1,,0,0,0,,These two members will be treated as temporary staff
 Dialogue: 0,0:03:03.56,0:03:05.36,Nanoha Dialogue1,,0,0,0,,to help with the mission.
 Dialogue: 0,0:03:05.36,0:03:07.20,Nanoha Dialogue1,,0,0,0,,Nice to meet you all!
-Dialogue: 0,0:03:16.03,0:03:22.07,Nanoha Title1,,0,0,0,,{\blur2\frx30\pos(480,146)}Episode 9
-Dialogue: 0,0:03:16.03,0:03:22.07,Nanoha Title1,,0,0,0,,{\an5\blur2\frx-30\pos(480,537)}The Decisive Battle\NAbove the Ocean
+Dialogue: 1,0:03:16.03,0:03:22.07,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,146)\bord0}Episode 9
+Dialogue: 0,0:03:16.03,0:03:22.07,Nanoha Title1,,0,0,0,,{\blur3\frx30\pos(480,146)\c&HFFD4FF&}Episode 9
+Dialogue: 1,0:03:16.03,0:03:22.07,Nanoha Title1,,0,0,0,,{\an4\org(480,536)\blur0.5\frx-30\bord0\pos(310.824,537)}The Decisive Battle\NAbove the Ocean
+Dialogue: 0,0:03:16.03,0:03:22.07,Nanoha Title1,,0,0,0,,{\an4\org(480,536)\blur3\frx-30\c&HFFD4FF&\pos(310.824,537)}The Decisive Battle\NAbove the Ocean
 Dialogue: 0,0:03:27.31,0:03:31.82,Nanoha Dialogue1,,0,0,0,,We will determine the locations of the Jewel Seeds.
 Dialogue: 0,0:03:31.82,0:03:34.53,Nanoha Dialogue1,,0,0,0,,When we find them, we'll have you head to the site.
 Dialogue: 0,0:03:34.53,0:03:35.83,Nanoha Dialogue1,,0,0,0,,Okay!
@@ -325,7 +327,9 @@ Dialogue: 0,0:25:15.92,0:25:18.08,Nanoha Narration1,,0,0,0,,Each hold their own 
 Dialogue: 0,0:25:18.08,0:25:20.60,Nanoha Narration1,,0,0,0,,in order to withstand the final storm.
 Dialogue: 0,0:25:20.60,0:25:24.15,Nanoha Narration1,,0,0,0,,And I also tell Fate how I really feel.
 Dialogue: 0,0:25:25.42,0:25:28.33,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5}Episode 10
-Dialogue: 0,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5}Everybody's Separate Heartfelt Vows
+Dialogue: 1,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(483,252)\blur0.5\bord0}Episode 10
+Dialogue: 0,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\c&HFFFFFF&\pos(483,252)}Episode 10
+Dialogue: 1,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}Everybody's Separate Heartfelt Vows
+Dialogue: 0,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&}Everybody's Separate Heartfelt Vows
 Dialogue: 0,0:25:28.33,0:25:32.13,Nanoha Narration1,,0,0,0,,Episode 10:\NEverybody's Separate Heartfelt Vows
 Dialogue: 0,0:25:32.77,0:25:36.70,Nanoha Narration1,,0,0,0,,Lyrical, magical, in order to begin to be my true self.

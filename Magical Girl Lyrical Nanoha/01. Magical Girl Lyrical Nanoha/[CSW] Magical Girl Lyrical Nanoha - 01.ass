@@ -17,16 +17,16 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 960x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha - 01 (BDRip 960x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 69
-Active Line: 73
-Video Position: 9369
+Scroll Position: 29
+Active Line: 33
+Video Position: 6096
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Dialogue2,Noto Sans,40,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
-Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
+Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
+Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
@@ -66,8 +66,10 @@ Dialogue: 0,0:03:48.76,0:03:50.12,Nanoha Dialogue1,,0,0,0,,Someone...
 Dialogue: 0,0:03:50.12,0:03:52.56,Nanoha Dialogue1,,0,0,0,,Listen to my voice...
 Dialogue: 0,0:03:52.56,0:03:54.73,Nanoha Dialogue1,,0,0,0,,Lend me your power!
 Dialogue: 0,0:03:54.73,0:03:59.39,Nanoha Dialogue1,,0,0,0,,Magical... power...
-Dialogue: 0,0:04:14.22,0:04:20.26,Nanoha Title1,,0,0,0,,{\frx30\pos(480,149)\blur2}Episode 1
-Dialogue: 0,0:04:14.22,0:04:20.26,Nanoha Title1,,0,0,0,,{\an5\frx-30\pos(484.004,542)\blur2}Is This What You'd Call a Mysterious Encounter?
+Dialogue: 1,0:04:14.22,0:04:20.26,Nanoha Title1,,0,0,0,,{\frx30\pos(480,149)\blur0.5\bord0}Episode 1
+Dialogue: 0,0:04:14.22,0:04:20.26,Nanoha Title1,,0,0,0,,{\frx30\pos(480,149)\blur3\c&H8352A8&}Episode 1
+Dialogue: 1,0:04:14.22,0:04:20.26,Nanoha Title1,,0,0,0,,{\an5\frx-30\pos(484.004,542)\blur0.5\bord0}Is This What You'd Call a Mysterious Encounter?
+Dialogue: 0,0:04:14.22,0:04:20.26,Nanoha Title1,,0,0,0,,{\an5\frx-30\pos(484.004,542)\blur3\c&H8352A8&}Is This What You'd Call a Mysterious Encounter?
 Dialogue: 0,0:04:43.64,0:04:46.61,Nanoha Dialogue1,,0,0,0,,That was a pretty strange dream I just had.
 Dialogue: 0,0:04:52.65,0:04:55.16,Nanoha Narration1,,0,0,0,,I'm Nanoha Takamachi.
 Dialogue: 0,0:04:55.16,0:04:57.00,Nanoha Narration1,,0,0,0,,I'm a third-grader at
@@ -380,7 +382,9 @@ Dialogue: 0,0:25:22.05,0:25:23.62,Nanoha Narration1,,0,0,0,,What kind of fate aw
 Dialogue: 0,0:25:23.62,0:25:27.54,Nanoha Narration1,,0,0,0,,And is it all right for me to raise this ferret,
 Dialogue: 0,0:25:27.54,0:25:29.46,Nanoha Narration1,,0,0,0,,whose name I haven't even asked, at my house?!
 Dialogue: 0,0:25:29.46,0:25:32.53,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(501.022,266)\blur05}Episode 2
-Dialogue: 0,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5}My Magical Incantation is Lyrical?
+Dialogue: 1,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(501.022,266)\blur0.5\bord0}Episode 2
+Dialogue: 0,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(501.022,266)\blur0.5\c&HFFFFFF&}Episode 2
+Dialogue: 1,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}My Magical Incantation is Lyrical?
+Dialogue: 0,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&}My Magical Incantation is Lyrical?
 Dialogue: 0,0:25:32.53,0:25:35.90,Nanoha Narration1,,0,0,0,,Episode 2:\NMy Magical Incantation is Lyrical?
 Dialogue: 0,0:25:35.90,0:25:38.20,Nanoha Narration1,,0,0,0,,Lyrical, magical, I'll do my best!

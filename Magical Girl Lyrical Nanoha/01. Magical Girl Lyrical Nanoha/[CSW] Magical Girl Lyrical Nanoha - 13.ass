@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 283
-Active Line: 288
-Video Position: 32538
+Scroll Position: 24
+Active Line: 29
+Video Position: 5520
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,8 +63,8 @@ Dialogue: 0,0:02:42.50,0:02:44.44,Nanoha Dialogue1,,0,0,0,,Fate!
 Dialogue: 0,0:02:50.10,0:02:52.63,Nanoha Dialogue1,,0,0,0,,Fate! Fate!
 Dialogue: 0,0:02:57.86,0:02:58.86,Nanoha Dialogue1,,0,0,0,,Fate!
 Dialogue: 0,0:03:01.86,0:03:04.14,Nanoha Dialogue1,,0,0,0,,Fly! Over here!
-Dialogue: 0,0:03:49.03,0:03:54.02,Nanoha Title2,,0,0,0,,{\fad(917,0)\an5\pos(480,240)\blur0.5\c&HF8C99A&}Episode 13
-Dialogue: 0,0:03:49.03,0:03:54.02,Nanoha Title2,,0,0,0,,{\fad(917,0)\an5\pos(480,473)\blur0.5\c&HE9C5A0&}Call My Name
+Dialogue: 0,0:03:49.03,0:03:54.02,Nanoha Title2,,0,0,0,,{\fad(917,0)\an5\pos(480,240)\blur0.5\c&HF1CA9A&\bord0}Episode 13
+Dialogue: 0,0:03:49.03,0:03:54.02,Nanoha Title2,,0,0,0,,{\fad(917,0)\an5\pos(480,473)\blur0.5\c&HF1CA9A&}Call My Name
 Dialogue: 0,0:04:06.56,0:04:09.19,Nanoha Dialogue1,,0,0,0,,Looks like the earthquake is over.
 Dialogue: 0,0:04:09.83,0:04:10.72,Nanoha Dialogue1,,0,0,0,,You're right!
 Dialogue: 0,0:04:13.72,0:04:15.90,Nanoha Dialogue1,,0,0,0,,The Garden's destruction is complete.

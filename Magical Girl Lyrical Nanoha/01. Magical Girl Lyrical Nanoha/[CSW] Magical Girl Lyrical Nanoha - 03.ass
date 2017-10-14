@@ -18,15 +18,15 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 30
-Active Line: 34
-Video Position: 5643
+Scroll Position: 250
+Active Line: 252
+Video Position: 36671
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
-Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
+Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
+Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Dialogue2,Noto Sans,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
@@ -68,8 +68,10 @@ Dialogue: 0,0:03:26.46,0:03:30.73,Nanoha Narration1,,0,0,0,,Well, I'm now workin
 Dialogue: 0,0:03:44.11,0:03:46.04,Nanoha Dialogue1,,0,0,0,,Nanoha, are you all right?
 Dialogue: 0,0:03:46.04,0:03:50.66,Nanoha Dialogue1,,0,0,0,,I'm all right, but I'm a bit tired.
 Dialogue: 0,0:03:52.88,0:03:54.62,Nanoha Dialogue1,,0,0,0,,Nanoha! Nanoha, are you all right?
-Dialogue: 0,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\blur2\frx30\pos(478.999,145)}Episode 3
-Dialogue: 0,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\an5\blur2\frx-30\pos(482.671,506)}The City's in a Lot of Danger?
+Dialogue: 1,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(478.999,145)\bord0}Episode 3
+Dialogue: 0,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\blur3\frx30\pos(478.999,145)\c&H8352A8&}Episode 3
+Dialogue: 1,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(482.671,506)\bord0}The City's in a Lot of Danger?
+Dialogue: 0,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\an5\blur3\frx-30\pos(482.671,506)\c&H8352A8&}The City's in a Lot of Danger?
 Dialogue: 0,0:04:09.84,0:04:13.76,Nanoha Dialogue1,,0,0,0,,Nanoha, it's morning.\NYou should get up soon.
 Dialogue: 0,0:04:13.76,0:04:19.04,Nanoha Dialogue1,,0,0,0,,Today's Sunday, so let me sleep in just a bit more.
 Dialogue: 0,0:04:19.04,0:04:20.28,Nanoha Dialogue1,,0,0,0,,Nanoha!
@@ -285,7 +287,9 @@ Dialogue: 0,0:25:18.23,0:25:22.77,Nanoha Narration1,,0,0,0,,But one of the kitte
 Dialogue: 0,0:25:22.77,0:25:25.94,Nanoha Narration1,,0,0,0,,And a second mage appears!
 Dialogue: 0,0:25:25.94,0:25:28.08,Nanoha Narration1,,0,0,0,,What is her motive?
 Dialogue: 0,0:25:28.08,0:25:30.95,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(502.023,263)\blur0.5}Episode 4
-Dialogue: 0,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5}A Rival!? Another Magical Girl!
+Dialogue: 1,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(502.023,263)\blur0.5\bord0}Episode 4
+Dialogue: 0,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(502.023,263)\blur0.5\c&HFFFFFF&}Episode 4
+Dialogue: 1,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}A Rival!? Another Magical Girl!
+Dialogue: 0,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&}A Rival!? Another Magical Girl!
 Dialogue: 0,0:25:30.95,0:25:35.30,Nanoha Narration1,,0,0,0,,Episode 4: A Rival!? Another Magical Girl!
 Dialogue: 0,0:25:35.30,0:25:38.14,Nanoha Narration1,,0,0,0,,Lyrical, magical, I'll do my best!

@@ -18,15 +18,15 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 21
-Active Line: 24
-Video Position: 3881
+Scroll Position: 336
+Active Line: 341
+Video Position: 36637
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
-Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
+Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
+Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
@@ -57,8 +57,10 @@ Dialogue: 0,0:02:02.80,0:02:07.37,Nanoha OP,,0,0,0,,I'll be by your side forever
 Dialogue: 0,0:02:07.37,0:02:17.37,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
 Dialogue: 0,0:02:27.34,0:02:29.96,Nanoha Dialogue1,,0,0,0,,You're kidding. What is this?!
 Dialogue: 0,0:02:39.84,0:02:41.84,Nanoha Dialogue1,,0,0,0,,What?!
-Dialogue: 0,0:02:41.83,0:02:47.87,Nanoha Title1,,0,0,0,,{\blur2\frx30\pos(480,148)}Episode 2
-Dialogue: 0,0:02:41.83,0:02:47.87,Nanoha Title1,,0,0,0,,{\an5\blur2\frx-30\pos(485,503)}My Magical Incantation is Lyrical?
+Dialogue: 1,0:02:41.83,0:02:47.87,Nanoha Title1,,0,0,0,,{\blur0.5\bord0\frx30\pos(480,148)}Episode 2
+Dialogue: 0,0:02:41.83,0:02:47.87,Nanoha Title1,,0,0,0,,{\blur3\c&H8352A8&\frx30\pos(480,148)}Episode 2
+Dialogue: 1,0:02:41.83,0:02:47.87,Nanoha Title1,,0,0,0,,{\an5\blur0.5\bord0\frx-30\pos(485,503)}My Magical Incantation is Lyrical?
+Dialogue: 0,0:02:41.83,0:02:47.87,Nanoha Title1,,0,0,0,,{\an5\blur3\c&H8352A8&\frx-30\pos(485,503)}My Magical Incantation is Lyrical?
 Dialogue: 0,0:02:52.67,0:02:54.06,Nanoha Dialogue1,,0,0,0,,What is this?
 Dialogue: 0,0:02:55.74,0:02:57.13,Nanoha Dialogue1,,0,0,0,,It's coming!
 Dialogue: 0,0:03:05.98,0:03:07.91,Nanoha Device1,,0,0,0,,Protection
@@ -370,7 +372,9 @@ Dialogue: 0,0:25:20.74,0:25:23.52,Nanoha Narration1,,0,0,0,,But problems are pil
 Dialogue: 0,0:25:23.52,0:25:26.05,Nanoha Narration1,,0,0,0,,Next up is an incident so big it involves the entire city!
 Dialogue: 0,0:25:26.05,0:25:27.54,Nanoha Narration1,,0,0,0,,Geez, it's so tough!
 Dialogue: 0,0:25:28.02,0:25:30.70,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(504,269)\blur0.5}Episode 3
-Dialogue: 0,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.003,497)}The City's in a Lot of Danger?
+Dialogue: 1,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(504,269)\blur0.5\bord0}Episode 3
+Dialogue: 0,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(504,269)\blur0.5\c&HFFFFFF&}Episode 3
+Dialogue: 1,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.003,497)\bord0}The City's in a Lot of Danger?
+Dialogue: 0,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.003,497)\c&HFFFFFF&}The City's in a Lot of Danger?
 Dialogue: 0,0:25:30.70,0:25:34.48,Nanoha Narration1,,0,0,0,,Episode 3: The City's in a Lot of Danger?
 Dialogue: 0,0:25:34.46,0:25:37.29,Nanoha Narration1,,0,0,0,,Lyrical, magical, I'll do my best!

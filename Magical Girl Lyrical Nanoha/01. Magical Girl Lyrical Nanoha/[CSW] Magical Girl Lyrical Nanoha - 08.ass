@@ -18,15 +18,15 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 39
-Active Line: 42
-Video Position: 4999
+Scroll Position: 359
+Active Line: 361
+Video Position: 36647
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
-Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
+Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
+Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
@@ -75,8 +75,10 @@ Dialogue: 0,0:03:03.36,0:03:05.45,Nanoha Dialogue1,,0,0,0,,and get a detailed re
 Dialogue: 0,0:03:05.45,0:03:07.45,Nanoha Dialogue1,,0,0,0,,Roger that, Captain!
 Dialogue: 0,0:03:11.17,0:03:13.21,Nanoha Dialogue1,,0,0,0,,Oh, and be careful!
 Dialogue: 0,0:03:13.21,0:03:15.47,Nanoha Dialogue1,,0,0,0,,Okay... I'll be going now.
-Dialogue: 0,0:03:28.46,0:03:34.54,Nanoha Title1,,0,0,0,,{\blur2\frx30\pos(480,143)}Episode 8
-Dialogue: 0,0:03:28.46,0:03:34.54,Nanoha Title1,,0,0,0,,{\an5\blur2\frx-30\pos(480,522)}There's a Really Big Crisis?
+Dialogue: 1,0:03:28.46,0:03:34.54,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,143)\bord0}Episode 8
+Dialogue: 0,0:03:28.46,0:03:34.54,Nanoha Title1,,0,0,0,,{\blur3\frx30\pos(480,143)\c&HFFD4FF&}Episode 8
+Dialogue: 1,0:03:28.46,0:03:34.54,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(480,522)\bord0}There's a Really Big Crisis?
+Dialogue: 0,0:03:28.46,0:03:34.54,Nanoha Title1,,0,0,0,,{\an5\blur3\frx-30\pos(480,522)\c&HFFD4FF&}There's a Really Big Crisis?
 Dialogue: 0,0:03:53.96,0:03:55.27,Nanoha Dialogue1,,0,0,0,,Stop!
 Dialogue: 0,0:03:58.05,0:04:00.59,Nanoha Dialogue1,,0,0,0,,Combat here is too dangerous.
 Dialogue: 0,0:04:03.82,0:04:05.45,Nanoha Dialogue1,,0,0,0,,I'm an Enforcer with the\NTime-Space Administrative Bureau,
@@ -391,7 +393,9 @@ Dialogue: 0,0:25:17.74,0:25:21.22,Nanoha Narration1,,0,0,0,,An abnormal, unprece
 Dialogue: 0,0:25:21.22,0:25:24.12,Nanoha Narration1,,0,0,0,,and the reunion of Nanoha and Fate.
 Dialogue: 0,0:25:24.12,0:25:26.48,Nanoha Narration1,,0,0,0,,What is the wish that Fate's mother has?
 Dialogue: 0,0:25:27.62,0:25:30.26,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,259)}Episode 9
-Dialogue: 0,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,500)}The Decisive Battle Above the Ocean
+Dialogue: 1,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,259)\bord0}Episode 9
+Dialogue: 0,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,259)\c&HFFFFFF&}Episode 9
+Dialogue: 1,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,500)\bord0}The Decisive Battle Above the Ocean
+Dialogue: 0,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,500)\c&HFFFFFF&}The Decisive Battle Above the Ocean
 Dialogue: 0,0:25:30.26,0:25:34.49,Nanoha Narration1,,0,0,0,,Episode 9:\NThe Decisive Battle Above the Ocean
 Dialogue: 0,0:25:34.49,0:25:37.09,Nanoha Narration1,,0,0,0,,Lyrical, magical, hoping I won't lose!

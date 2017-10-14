@@ -19,15 +19,15 @@ Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
 Scroll Position: 297
-Active Line: 302
-Video Position: 36887
+Active Line: 300
+Video Position: 36677
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Dialogue2,Noto Sans,54,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,3,1.5,2,80,80,23,1
-Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
+Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
+Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
@@ -76,7 +76,8 @@ Dialogue: 0,0:04:04.25,0:04:07.25,Nanoha Narration1,,0,0,0,,Stop... stop...
 Dialogue: 0,0:04:08.56,0:04:09.56,Nanoha Narration1,,0,0,0,,Stop!
 Dialogue: 0,0:04:22.90,0:04:23.80,Nanoha Narration1,,0,0,0,,Fate!
 Dialogue: 0,0:04:49.29,0:04:53.75,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,918)\an5\pos(488.678,490.5)}{\fs45\b1}Same day, 9:15 PM\NCity of Uminari suburbs, Takamachi residence{\b0}
-Dialogue: 0,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)}{\c&H383B95&}{\blur0.5\bord1\fs42}Nanoha
+Dialogue: 1,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\c&H383B95&\blur0.5\fs42}Nanoha
+Dialogue: 0,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\blur0.5\bord0.3\fs42\c&H000000&}Nanoha
 Dialogue: 0,0:04:59.74,0:05:01.31,Nanoha Narration1,,0,0,0,,Raising Heart is a Device
 Dialogue: 0,0:05:01.31,0:05:04.42,Nanoha Narration1,,0,0,0,,that can withstand quite a bit of released power.
 Dialogue: 0,0:05:04.42,0:05:08.27,Nanoha Narration1,,0,0,0,,To think that one attack would damage her this much...
@@ -335,7 +336,9 @@ Dialogue: 0,0:25:18.15,0:25:20.61,Nanoha Narration1,,0,0,0,,the plot takes a big
 Dialogue: 0,0:25:20.61,0:25:25.82,Nanoha Narration1,,0,0,0,,And I find out something that is very surprising.
 Dialogue: 0,0:25:25.82,0:25:28.58,Nanoha Narration1,,0,0,0,,Yuuno is... Yuuno is?!
 Dialogue: 0,0:25:28.58,0:25:31.59,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
-Dialogue: 0,0:25:29.07,0:25:35.78,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5}Episode 8
-Dialogue: 0,0:25:29.09,0:25:35.76,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5}There's a Really Big Crisis?
+Dialogue: 1,0:25:29.07,0:25:35.78,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\bord0}Episode 8
+Dialogue: 0,0:25:29.07,0:25:35.78,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&}Episode 8
+Dialogue: 1,0:25:29.09,0:25:35.76,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}There's a Really Big Crisis?
+Dialogue: 0,0:25:29.09,0:25:35.76,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&}There's a Really Big Crisis?
 Dialogue: 0,0:25:31.59,0:25:35.53,Nanoha Narration1,,0,0,0,,Episode 8: There's a Really Big Crisis?
 Dialogue: 0,0:25:35.53,0:25:38.06,Nanoha Narration1,,0,0,0,,Lyrical, magical, I'll do my best!
