@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 364
-Active Line: 366
-Video Position: 36616
+Scroll Position: 317
+Active Line: 320
+Video Position: 30692
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -354,9 +354,9 @@ Dialogue: 0,0:20:37.80,0:20:41.12,Nanoha Dialogue1,,0,0,0,,Well, you're a strong
 Dialogue: 0,0:20:41.12,0:20:43.43,Nanoha Dialogue1,,0,0,0,,I'm not all that worried.
 Dialogue: 0,0:20:43.43,0:20:46.14,Nanoha Dialogue1,,0,0,0,,Make sure to do your best!
 Dialogue: 0,0:20:47.23,0:20:48.14,Nanoha Dialogue1,,0,0,0,,Yeah!
-Dialogue: 0,0:20:55.84,0:21:00.34,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,375)\an5\pos(489.333,490.5)}{\fs45\b1}City of Uminari suburbs\NTakamachi residence, 5:27 AM{\b0}
+Dialogue: 0,0:20:55.84,0:21:00.34,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,375)\an5\pos(480,490.5)}{\fs45\b1}City of Uminari suburbs\NTakamachi residence, 5:27 AM{\b0}
 Dialogue: 0,0:21:05.18,0:21:05.78,Nanoha Narration1,,0,0,0,,Nanoha!
-Dialogue: 0,0:21:18.49,0:21:22.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,376)\an5\pos(486,564)}{\fs45\b1}Uminari Seaside Park, 5:55 AM{\b0}
+Dialogue: 0,0:21:18.49,0:21:22.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,376)\an5\pos(480,564)}{\fs45\b1}Uminari Seaside Park, 5:55 AM{\b0}
 Dialogue: 0,0:21:31.22,0:21:33.64,Nanoha Dialogue1,,0,0,0,,It's all right if it's here, right?
 Dialogue: 0,0:21:33.64,0:21:35.84,Nanoha Dialogue1,,0,0,0,,Please come out, Fate!
 Dialogue: 0,0:21:52.44,0:21:55.96,Nanoha Device1,,0,0,0,,Scythe Form
