@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 158
-Active Line: 160
-Video Position: 23228
+Scroll Position: 224
+Active Line: 229
+Video Position: 36275
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -260,8 +260,10 @@ Dialogue: 0,0:24:38.17,0:24:45.25,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:45.25,0:24:46.78,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:46.78,0:24:52.24,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:52.62,0:25:02.62,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
-Dialogue: 0,0:25:10.84,0:25:12.97,Nanoha Narration1,,0,0,0,,Students and working people alike,
-Dialogue: 0,0:25:12.97,0:25:15.52,Nanoha Narration1,,0,0,0,,at times they just need a break to relax.
+Dialogue: 1,0:25:09.97,0:25:14.93,Nanoha Title2,,0,0,0,,{\fad(0,410)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:09.97,0:25:14.93,Nanoha Title2,,0,0,0,,{\fad(0,410)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:10.84,0:25:12.97,Nanoha Narration1,,0,0,0,,Students and working people alike
+Dialogue: 0,0:25:12.97,0:25:15.52,Nanoha Narration1,,0,0,0,,just need a break to relax at times.
 Dialogue: 0,0:25:15.52,0:25:19.85,Nanoha Narration1,,0,0,0,,And so we're here at the local resort, Uminari Hot Springs!
 Dialogue: 0,0:25:19.85,0:25:23.46,Nanoha Narration1,,0,0,0,,Just when we're relaxing, who's getting in our way?!
 Dialogue: 0,0:25:23.46,0:25:25.79,Nanoha Narration1,,0,0,0,,And what is the objective and intentions

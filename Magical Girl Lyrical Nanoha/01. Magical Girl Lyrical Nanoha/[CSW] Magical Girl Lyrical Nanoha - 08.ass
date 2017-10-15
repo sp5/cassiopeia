@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 359
-Active Line: 361
-Video Position: 36647
+Scroll Position: 350
+Active Line: 352
+Video Position: 36221
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -386,6 +386,8 @@ Dialogue: 0,0:24:38.67,0:24:45.75,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:45.75,0:24:47.28,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.28,0:24:52.74,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:53.12,0:25:03.12,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
+Dialogue: 1,0:25:09.93,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,400)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:09.93,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,400)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:11.81,0:25:13.67,Nanoha Narration1,,0,0,0,,The flagship of the Time-Space
 Dialogue: 0,0:25:13.67,0:25:14.81,Nanoha Narration1,,0,0,0,,Administrative Bureau, the {\i0}Arthra,{\i1}
 Dialogue: 0,0:25:14.81,0:25:17.12,Nanoha Narration1,,0,0,0,,is now going to take care of me and Yuuno.

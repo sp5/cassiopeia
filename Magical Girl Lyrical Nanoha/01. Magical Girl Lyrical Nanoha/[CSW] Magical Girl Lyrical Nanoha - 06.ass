@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 25
-Active Line: 30
-Video Position: 4582
+Scroll Position: 290
+Active Line: 293
+Video Position: 36246
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -328,6 +328,8 @@ Dialogue: 0,0:24:39.70,0:24:46.78,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:46.78,0:24:48.31,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:48.31,0:24:53.77,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:54.15,0:25:04.15,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
+Dialogue: 1,0:25:10.85,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:10.85,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:13.78,0:25:16.05,Nanoha Narration1,,0,0,0,,For an explosion like that to occur...
 Dialogue: 0,0:25:16.05,0:25:17.66,Nanoha Narration1,,0,0,0,,That's just got to be bad!
 Dialogue: 0,0:25:18.22,0:25:21.62,Nanoha Narration1,,0,0,0,,But my mother is waiting.

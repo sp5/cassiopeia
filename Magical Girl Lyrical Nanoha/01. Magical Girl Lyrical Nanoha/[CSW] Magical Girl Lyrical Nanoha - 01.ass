@@ -17,9 +17,9 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 960x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha - 01 (BDRip 960x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 29
-Active Line: 33
-Video Position: 6096
+Scroll Position: 337
+Active Line: 340
+Video Position: 36335
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -374,6 +374,8 @@ Dialogue: 0,0:24:39.10,0:24:46.55,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:46.55,0:24:48.08,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:48.08,0:24:54.01,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:54.01,0:25:04.44,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
+Dialogue: 1,0:25:10.89,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,360)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:10.89,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,360)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:12.04,0:25:14.07,Nanoha Narration1,,0,0,0,,I'm Nanoha Takamachi.
 Dialogue: 0,0:25:14.07,0:25:17.61,Nanoha Narration1,,0,0,0,,I thought I was an ordinary third grader,
 Dialogue: 0,0:25:17.61,0:25:19.51,Nanoha Narration1,,0,0,0,,but by some stroke of luck or strange destiny,

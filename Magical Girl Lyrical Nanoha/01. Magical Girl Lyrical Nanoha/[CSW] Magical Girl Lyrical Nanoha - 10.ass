@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 84
-Active Line: 88
-Video Position: 9001
+Scroll Position: 355
+Active Line: 358
+Video Position: 36250
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -394,6 +394,8 @@ Dialogue: 0,0:24:38.64,0:24:45.72,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:45.72,0:24:47.25,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.25,0:24:52.71,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:53.09,0:25:03.09,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
+Dialogue: 1,0:25:09.89,0:25:14.80,Nanoha Title2,,0,0,0,,{\fad(0,450)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:09.89,0:25:14.80,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:11.64,0:25:13.02,Nanoha Narration1,,0,0,0,,The duel with Fate that
 Dialogue: 0,0:25:13.02,0:25:15.08,Nanoha Narration1,,0,0,0,,I decided I would have,
 Dialogue: 0,0:25:15.08,0:25:19.26,Nanoha Narration1,,0,0,0,,and the two individuals past and present that it pieces together.

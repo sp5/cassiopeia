@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 165
-Active Line: 169
-Video Position: 18167
+Scroll Position: 285
+Active Line: 289
+Video Position: 36202
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -236,8 +236,8 @@ Dialogue: 0,0:15:00.58,0:15:04.29,Nanoha Narration1,,0,0,0,,Just like how you we
 Dialogue: 0,0:15:12.17,0:15:13.24,Nanoha Dialogue1,,0,0,0,,You're...
 Dialogue: 0,0:15:29.03,0:15:30.21,Nanoha Dialogue1,,0,0,0,,I'm sorry.
 Dialogue: 0,0:15:30.21,0:15:32.31,Nanoha Dialogue1,,0,0,0,,Nanoha Takamachi is going to disobey orders,
-Dialogue: 0,0:15:32.31,0:15:34.34,Nanoha Dialogue1,,0,0,0,,and take action on her own!
-Dialogue: 0,0:15:35.28,0:15:38.28,Nanoha Dialogue1,,0,0,0,,Transport to a location within that girl's barrier!
+Dialogue: 0,0:15:32.31,0:15:34.30,Nanoha Dialogue1,,0,0,0,,and take action on her own!
+Dialogue: 0,0:15:35.28,0:15:38.28,Nanoha Dialogue1,,0,0,0,,Teleport to a location within that girl's barrier!
 Dialogue: 0,0:15:51.26,0:15:53.26,Nanoha Dialogue1,,0,0,0,,Let's go, Raising Heart!
 Dialogue: 0,0:15:53.26,0:15:56.07,Nanoha Dialogue1,,0,0,0,,Winds in the sky, stars in the heavens.
 Dialogue: 0,0:15:56.07,0:15:58.27,Nanoha Dialogue1,,0,0,0,,Glimmering light in my arms...
@@ -265,27 +265,27 @@ Dialogue: 0,0:18:00.60,0:18:03.10,Nanoha Dialogue1,,0,0,0,,Yuuno and Arf are sto
 Dialogue: 0,0:18:03.10,0:18:04.80,Nanoha Dialogue1,,0,0,0,,So now's our chance!
 Dialogue: 0,0:18:06.27,0:18:09.60,Nanoha Dialogue1,,0,0,0,,When I say "ready, set", let's both seal it in one shot!
 Dialogue: 0,0:18:09.60,0:18:10.90,Nanoha Device1,,0,0,0,,Shooting Mode
-Dialogue: 0,0:18:24.69,0:18:26.69,Nanoha Narration1,,0,0,0,,When I was all alone and feeling lonely,
+Dialogue: 0,0:18:24.82,0:18:26.69,Nanoha Narration1,,0,0,0,,When I was all alone and feeling lonely,
 Dialogue: 0,0:18:26.69,0:18:28.86,Nanoha Narration1,,0,0,0,,the one thing that I wanted people to do most
 Dialogue: 0,0:18:28.86,0:18:31.08,Nanoha Narration1,,0,0,0,,wasn't to ask me if I was all right,
 Dialogue: 0,0:18:31.08,0:18:33.82,Nanoha Narration1,,0,0,0,,or to be nice to me.
 Dialogue: 0,0:18:41.92,0:18:43.91,Nanoha Device1,,0,0,0,,Sealing Form, set up.
 Dialogue: 0,0:18:48.28,0:18:49.73,Nanoha Dialogue1,,0,0,0,,Bardiche?
-Dialogue: 0,0:18:56.35,0:18:58.85,Nanoha Dialogue1,,0,0,0,,Divine Buster, full power.
-Dialogue: 0,0:18:58.85,0:18:59.95,Nanoha Dialogue1,,0,0,0,,You can do it, right?
+Dialogue: 0,0:18:56.35,0:18:58.67,Nanoha Dialogue1,,0,0,0,,Divine Buster, full power.
+Dialogue: 0,0:18:58.67,0:18:59.95,Nanoha Dialogue1,,0,0,0,,You can do it, right?
 Dialogue: 0,0:18:59.95,0:19:02.70,Nanoha Device1,,0,0,0,,All right, my master.
 Dialogue: 0,0:19:19.17,0:19:20.53,Nanoha Dialogue1,,0,0,0,,Ready, set...
 Dialogue: 0,0:19:22.24,0:19:24.03,Nanoha Dialogue1,,0,0,0,,{\b1}Thunder...{\b0}
-Dialogue: 0,0:19:27.21,0:19:29.60,Nanoha Dialogue1,,0,0,0,,{\b1}Divine...{\b0}
+Dialogue: 0,0:19:27.38,0:19:29.60,Nanoha Dialogue1,,0,0,0,,{\b1}Divine...{\b0}
 Dialogue: 0,0:19:34.25,0:19:35.92,Nanoha Dialogue1,,0,0,0,,{\b1}...Rage{\b0}
 Dialogue: 0,0:19:40.95,0:19:43.16,Nanoha Dialogue1,,0,0,0,,{\b1}...Buster{\b0}
 Dialogue: 0,0:20:07.14,0:20:10.22,Nanoha Dialogue1,,0,0,0,,The sealing of all six Jewel Seeds has been confirmed.
 Dialogue: 0,0:20:10.22,0:20:12.25,Nanoha Dialogue1,,0,0,0,,What an irresponsible action.
-Dialogue: 0,0:20:14.19,0:20:15.89,Nanoha Dialogue1,,0,0,0,,But it's still amazing!
-Dialogue: 0,0:20:29.34,0:20:31.77,Nanoha Narration1,,0,0,0,,To share the same feelings...
+Dialogue: 0,0:20:14.19,0:20:15.50,Nanoha Dialogue1,,0,0,0,,But it's still amazing!
+Dialogue: 0,0:20:29.34,0:20:32.19,Nanoha Narration1,,0,0,0,,To share the same feelings...
 Dialogue: 0,0:20:32.19,0:20:36.73,Nanoha Narration1,,0,0,0,,To split the loneliness,\Nthe sadness in half...
-Dialogue: 0,0:20:41.49,0:20:44.59,Nanoha Narration1,,0,0,0,,So that's it. I finally understand.
-Dialogue: 0,0:20:45.23,0:20:48.00,Nanoha Narration1,,0,0,0,,I want to share with her.
+Dialogue: 0,0:20:41.49,0:20:44.49,Nanoha Narration1,,0,0,0,,So that's it. I finally understand.
+Dialogue: 0,0:20:44.49,0:20:47.74,Nanoha Narration1,,0,0,0,,I want to share with her.
 Dialogue: 0,0:20:53.33,0:20:55.98,Nanoha Dialogue1,,0,0,0,,I want to be friends with you.
 Dialogue: 0,0:21:11.28,0:21:12.62,Nanoha Dialogue1,,0,0,0,,Dimensional interference?!
 Dialogue: 0,0:21:12.62,0:21:14.96,Nanoha Dialogue1,,0,0,0,,A magical attack is headed towards our ship
@@ -322,6 +322,8 @@ Dialogue: 0,0:24:38.71,0:24:45.79,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:45.79,0:24:47.32,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.32,0:24:52.78,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:53.16,0:25:03.16,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
+Dialogue: 1,0:25:09.89,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:09.89,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:13.45,0:25:15.92,Nanoha Narration1,,0,0,0,,The situation is reaching its final turn!
 Dialogue: 0,0:25:15.92,0:25:18.08,Nanoha Narration1,,0,0,0,,Each hold their own feelings in their heart,
 Dialogue: 0,0:25:18.08,0:25:20.60,Nanoha Narration1,,0,0,0,,in order to withstand the final storm.

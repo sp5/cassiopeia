@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 250
-Active Line: 252
-Video Position: 36671
+Scroll Position: 241
+Active Line: 246
+Video Position: 36204
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -280,6 +280,8 @@ Dialogue: 0,0:24:38.13,0:24:45.21,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:45.21,0:24:46.74,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:46.74,0:24:52.20,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:52.58,0:25:02.58,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
+Dialogue: 1,0:25:09.97,0:25:14.93,Nanoha Title2,,0,0,0,,{\fad(0,410)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:09.97,0:25:14.93,Nanoha Title2,,0,0,0,,{\fad(0,410)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:10.99,0:25:13.56,Nanoha Narration1,,0,0,0,,We all visited Suzuka's house.
 Dialogue: 0,0:25:13.56,0:25:15.88,Nanoha Narration1,,0,0,0,,She has an older sister, a maid,
 Dialogue: 0,0:25:15.88,0:25:18.23,Nanoha Narration1,,0,0,0,,and lots of cats and kittens!

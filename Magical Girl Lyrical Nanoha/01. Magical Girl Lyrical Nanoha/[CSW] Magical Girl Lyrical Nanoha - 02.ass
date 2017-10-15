@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 336
-Active Line: 341
-Video Position: 36637
+Scroll Position: 329
+Active Line: 331
+Video Position: 36203
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -365,6 +365,8 @@ Dialogue: 0,0:24:38.13,0:24:45.88,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:45.88,0:24:47.41,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.41,0:24:52.87,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:52.87,0:25:03.25,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
+Dialogue: 1,0:25:09.93,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,400)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:09.93,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,400)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:11.81,0:25:13.77,Nanoha Narration1,,0,0,0,,This and that as a mage,
 Dialogue: 0,0:25:13.77,0:25:16.24,Nanoha Narration1,,0,0,0,,such and such as a magical girl...
 Dialogue: 0,0:25:16.26,0:25:20.74,Nanoha Narration1,,0,0,0,,I, Nanoha Takamachi, will do my best with lots of energy!
