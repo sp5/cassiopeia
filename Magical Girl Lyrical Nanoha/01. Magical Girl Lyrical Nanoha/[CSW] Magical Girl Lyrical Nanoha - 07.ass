@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 223
-Active Line: 228
-Video Position: 27073
+Scroll Position: 251
+Active Line: 252
+Video Position: 30214
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -288,7 +288,7 @@ Dialogue: 0,0:20:43.54,0:20:45.43,Nanoha Dialogue1,,0,0,0,,{\b1}Arc Saber{\b0}
 Dialogue: 0,0:20:45.43,0:20:47.68,Nanoha Dialogue1,,0,0,0,,Let's go, Bardiche.
 Dialogue: 0,0:20:47.68,0:20:49.48,Nanoha Device1,,0,0,0,,Arc Saber
 Dialogue: 0,0:20:51.84,0:20:53.52,Nanoha Device1,,0,0,0,,Shooting Mode
-Dialogue: 0,0:20:57.94,0:21:00.59,Nanoha Dialogue1,,0,0,0,,Let's go, Raising Heart!
+Dialogue: 0,0:20:57.94,0:21:00.21,Nanoha Dialogue1,,0,0,0,,Let's go, Raising Heart!
 Dialogue: 0,0:21:09.40,0:21:10.62,Nanoha Dialogue1,,0,0,0,,Shoot through it!
 Dialogue: 0,0:21:12.81,0:21:13.68,Nanoha Dialogue1,,0,0,0,,{\b1}Divine...{\b0}
 Dialogue: 0,0:21:13.68,0:21:15.14,Nanoha Device1,,0,0,0,,...Buster

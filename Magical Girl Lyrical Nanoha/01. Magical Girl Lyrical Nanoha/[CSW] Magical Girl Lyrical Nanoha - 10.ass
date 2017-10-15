@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 317
-Active Line: 320
-Video Position: 30692
+Scroll Position: 84
+Active Line: 88
+Video Position: 9001
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -116,7 +116,7 @@ Dialogue: 0,0:05:21.16,0:05:25.02,Nanoha Dialogue1,,0,0,0,,Do you really want to
 Dialogue: 0,0:05:30.43,0:05:33.22,Nanoha Dialogue1,,0,0,0,,I want to be friends.
 Dialogue: 0,0:05:39.27,0:05:41.21,Nanoha Dialogue1,,0,0,0,,Presea Testarossa...
 Dialogue: 0,0:05:41.21,0:05:43.75,Nanoha Dialogue1,,0,0,0,,According to Mid history, she was head of Sector 3
-Dialogue: 0,0:05:43.75,0:05:46.84,Nanoha Dialogue1,,0,0,0,,of the Central Technology\NDevelopment Office 26 years ago.
+Dialogue: 0,0:05:43.75,0:05:46.75,Nanoha Dialogue1,,0,0,0,,of the Central Technology\NDevelopment Office 26 years ago.
 Dialogue: 0,0:05:47.58,0:05:49.82,Nanoha Dialogue1,,0,0,0,,However, at the time, she was developing
 Dialogue: 0,0:05:49.82,0:05:53.54,Nanoha Dialogue1,,0,0,0,,a dimension travel energy motor called the Hydra,
 Dialogue: 0,0:05:54.36,0:05:57.77,Nanoha Dialogue1,,0,0,0,,where she conducted an experiment using illegal materials and failed.
@@ -124,7 +124,7 @@ Dialogue: 0,0:06:00.46,0:06:04.60,Nanoha Dialogue1,,0,0,0,,Because it resulted i
 Dialogue: 0,0:06:04.60,0:06:07.82,Nanoha Dialogue1,,0,0,0,,she was forced to leave the central region, and she was relocated to a rural branch.
 Dialogue: 0,0:06:08.30,0:06:10.64,Nanoha Dialogue1,,0,0,0,,There seems to have been much debate about it.
 Dialogue: 0,0:06:10.64,0:06:12.51,Nanoha Dialogue1,,0,0,0,,She argued that only the result was a failure,
-Dialogue: 0,0:06:12.51,0:06:15.57,Nanoha Dialogue1,,0,0,0,,and that there were no illegalities in the experimental materials.
+Dialogue: 0,0:06:12.51,0:06:15.45,Nanoha Dialogue1,,0,0,0,,and that there were no illegalities in the experimental materials.
 Dialogue: 0,0:06:15.90,0:06:17.75,Nanoha Dialogue1,,0,0,0,,After being relocated to the outskirts,
 Dialogue: 0,0:06:17.75,0:06:21.31,Nanoha Dialogue1,,0,0,0,,she was involved in tech research for several years.
 Dialogue: 0,0:06:21.31,0:06:23.71,Nanoha Dialogue1,,0,0,0,,After a while, she ended up missing...
