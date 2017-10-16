@@ -18,15 +18,15 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 17
-Active Line: 20
-Video Position: 36218
+Scroll Position: 27
+Active Line: 31
+Video Position: 4622
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Dialogue2,Junicode,64,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,4,14,14,13,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
+Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,0,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
@@ -66,8 +66,8 @@ Dialogue: 0,0:02:57.15,0:03:01.24,Nanoha Narration1,,0,0,0,,That's why I want to
 Dialogue: 0,0:03:05.36,0:03:09.75,Nanoha Narration1,,0,0,0,,By my own will,\Naccording to my own feelings.
 Dialogue: 1,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,139)\bord0}Episode 5
 Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\blur3\frx30\pos(480,139)\c&H8352A8&}Episode 5
-Dialogue: 1,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\an6\org(480,536)\blur0.5\frx-30\bord0\pos(779.311,553)}This is a Town of Hot Water,\NUminari Hot Springs!
-Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\an6\org(480,536)\blur3\frx-30\c&H8352A8&\pos(779.311,553)}This is a Town of Hot Water,\NUminari Hot Springs!
+Dialogue: 1,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\an6\org(480,536)\blur0.5\frx-30\bord0\pos(751.282,553)}This is a Town of Hot Water,\NUminari Hot Springs!
+Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\an6\org(480,536)\blur3\frx-30\c&H8352A8&\pos(751.282,553)}This is a Town of Hot Water,\NUminari Hot Springs!
 Dialogue: 0,0:03:19.29,0:03:20.56,Nanoha Narration1,,0,0,0,,Okay!
 Dialogue: 0,0:03:20.56,0:03:23.72,Nanoha Narration1,,0,0,0,,It's vacation season all over Japan!
 Dialogue: 0,0:03:25.83,0:03:30.30,Nanoha Narration1,,0,0,0,,Café Midoriya is always open, but during vacation season,

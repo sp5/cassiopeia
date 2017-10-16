@@ -18,15 +18,15 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 290
-Active Line: 293
-Video Position: 36246
+Scroll Position: 24
+Active Line: 22
+Video Position: 4647
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Dialogue2,Roboto Regular,54,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
+Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,0,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
@@ -64,8 +64,8 @@ Dialogue: 0,0:03:02.01,0:03:06.08,Nanoha Narration1,,0,0,0,,I'm sure that we'll 
 Dialogue: 0,0:03:09.62,0:03:10.36,Nanoha Dialogue1,,0,0,0,,But...
 Dialogue: 1,0:03:11.07,0:03:17.11,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,147)\bord0}Episode 6
 Dialogue: 0,0:03:11.07,0:03:17.11,Nanoha Title1,,0,0,0,,{\blur3\frx30\pos(480,147)\c&H8352A8&}Episode 6
-Dialogue: 1,0:03:11.07,0:03:17.11,Nanoha Title1,,0,0,0,,{\org(480,536)\an6\blur0.5\frx-30\bord0\pos(678.206,536)}Feelings That Can't\NBe Understood?
-Dialogue: 0,0:03:11.07,0:03:17.11,Nanoha Title1,,0,0,0,,{\org(480,536)\an6\blur3\frx-30\c&H8352A8&\pos(678.206,536)}Feelings That Can't\NBe Understood?
+Dialogue: 1,0:03:11.07,0:03:17.11,Nanoha Title1,,0,0,0,,{\org(480,536)\an6\blur0.5\frx-30\bord0\pos(655.182,536)}Feelings That Can't\NBe Understood?
+Dialogue: 0,0:03:11.07,0:03:17.11,Nanoha Title1,,0,0,0,,{\org(480,536)\an6\blur3\frx-30\c&H8352A8&\pos(655.182,536)}Feelings That Can't\NBe Understood?
 Dialogue: 0,0:03:18.46,0:03:19.58,Nanoha Dialogue1,,0,0,0,,That's enough!
 Dialogue: 0,0:03:23.43,0:03:27.50,Nanoha Dialogue1,,0,0,0,,Ever since that day, you always space out when we're talking!
 Dialogue: 0,0:03:27.50,0:03:29.08,Nanoha Dialogue1,,0,0,0,,I'm sorry, Alisa.
