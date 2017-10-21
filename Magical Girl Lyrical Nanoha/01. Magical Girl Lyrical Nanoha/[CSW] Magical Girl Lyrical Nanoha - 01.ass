@@ -17,9 +17,9 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 960x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha - 01 (BDRip 960x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 29
-Active Line: 33
-Video Position: 6096
+Scroll Position: 236
+Active Line: 240
+Video Position: 22482
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -246,30 +246,36 @@ Dialogue: 0,0:14:17.35,0:14:21.55,Nanoha Dialogue1,,0,0,0,,Then, Doctor, excuse 
 Dialogue: 0,0:14:23.52,0:14:27.22,Nanoha Dialogue1,,0,0,0,,Well, let's start with an application of what we learned last time.
 Dialogue: 0,0:14:28.22,0:14:31.29,Nanoha Dialogue1,,0,0,0,,Starting from the top of page 47 of the textbook.
 Dialogue: 0,0:14:31.29,0:14:32.76,Nanoha Dialogue1,,0,0,0,,Let's look at the sample problem.
-Dialogue: 0,0:14:32.75,0:14:34.37,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\pos(770.311,333.5)\c&H737373&\blur0.75}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:32.75,0:14:34.33,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\pos(770.311,333.5)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:34.33,0:14:34.70,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(762.294,338,1080.626,205,2,335)}What should we do\Nwith this guy?\N—N
 Dialogue: 0,0:14:33.90,0:14:37.26,Nanoha Dialogue1,,0,0,0,,The sample problem says 39/45.
-Dialogue: 0,0:14:37.51,0:14:39.97,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\pos(290.669,298.5)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:37.01,0:14:37.51,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\move(819.22,74.5,297.676,293.5,33,492)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:37.51,0:14:39.83,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\pos(290.669,298.5)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:39.83,0:14:40.21,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\move(283.662,301.5,-68.705,457.5,7,341)}We have dogs\Nrunning around\Nin our backyard...\N—A
 Dialogue: 0,0:14:39.01,0:14:41.74,Nanoha Dialogue1,,0,0,0,,Both the numerator and denominator can be divided by three.
 Dialogue: 0,0:14:41.74,0:14:43.70,Nanoha Dialogue1,,0,0,0,,So it can be reduced to 13/15.
+Dialogue: 0,0:14:42.60,0:14:43.01,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz23.03\move(9.253,752,406.666,573,32,407)}We have cats\Nin our house too.\N—S
 Dialogue: 0,0:14:43.01,0:14:44.80,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz23.03\pos(407.667,572)}We have cats\Nin our house too.\N—S
-Dialogue: 0,0:14:45.81,0:14:48.15,Nanoha Dialogue1,,0,0,0,,We handle food as our business,
-Dialogue: 0,0:14:48.15,0:14:51.28,Nanoha Dialogue1,,0,0,0,,so raising pets is basically out of the question.
+Dialogue: 0,0:14:45.81,0:14:48.15,Nanoha Narration1,,0,0,0,,We handle food as our business,
+Dialogue: 0,0:14:48.15,0:14:51.28,Nanoha Narration1,,0,0,0,,so raising pets is basically out of the question.
 Dialogue: 0,0:14:51.28,0:14:53.98,Nanoha Dialogue1,,0,0,0,,Then let's have the answer to this question answered by...
 Dialogue: 0,0:14:54.99,0:14:56.78,Nanoha Dialogue1,,0,0,0,,Okay, #29, Miss Takamachi.
 Dialogue: 0,0:14:58.06,0:14:58.79,Nanoha Dialogue1,,0,0,0,,Okay!
 Dialogue: 0,0:14:58.78,0:15:01.13,Nanoha Dialogue1,,0,0,0,,Problem 3, on page 47!
 Dialogue: 0,0:15:01.13,0:15:04.10,Nanoha Dialogue1,,0,0,0,,Let's see... let's see...
 Dialogue: 0,0:15:04.10,0:15:06.03,Nanoha Dialogue1,,0,0,0,,5/42!
-Dialogue: 0,0:15:06.03,0:15:07.53,Nanoha Dialogue1,,0,0,0,,Yes, that's correct.
+Dialogue: 0,0:15:06.03,0:15:08.07,Nanoha Dialogue1,,0,0,0,,Yes, that's correct.
 Dialogue: 0,0:15:08.57,0:15:12.44,Nanoha Dialogue1,,0,0,0,,Some people stop here, thinking they've solved the problem,
 Dialogue: 0,0:15:11.05,0:15:12.11,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Good going!
 Dialogue: 0,0:15:12.11,0:15:13.34,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Nice!
 Dialogue: 0,0:15:12.44,0:15:14.10,Nanoha Dialogue1,,0,0,0,,but in this case...
-Dialogue: 0,0:15:17.05,0:15:20.08,Nanoha Handwriting,,0,0,0,,{\an4\c&H9A8FDA&\blur0.75\frz23.87\pos(165.528,327)}I'll talk to my\Nfamily to see if\Nwe can do something.
+Dialogue: 0,0:15:17.05,0:15:18.33,Nanoha Handwriting,,0,0,0,,{\an4\c&H9A8FDA&\blur0.75\frz23.87\pos(165.528,327)}I'll talk to my\Nfamily to see if we\Ncan do something.
+Dialogue: 0,0:15:18.33,0:15:18.96,Nanoha Handwriting,,0,0,0,,{\an4\c&H9A8FDA&\blur0.75\frz23.87\pos(165.528,327)\clip(m 139 283 l 177 345 247 391 666 215 633 46)}I'll talk to my\Nfamily to see if we\Ncan do something.
+Dialogue: 0,0:15:18.96,0:15:20.08,Nanoha Handwriting,,0,0,0,,{\an4\c&H9A8FDA&\blur0.75\frz23.87\pos(165.528,327)}I'll talk to my\Nfamily to see if we\Ncan do something.
 Dialogue: 0,0:15:23.25,0:15:26.22,Nanoha Dialogue1,,0,0,0,,And so, that's the reason why I was wondering
-Dialogue: 0,0:15:26.22,0:15:30.05,Nanoha Dialogue1,,0,0,0,,if we can take care of that ferret for a while.
-Dialogue: 0,0:15:30.92,0:15:32.16,Nanoha Dialogue1,,0,0,0,,A ferret, huh?
-Dialogue: 0,0:15:34.80,0:15:37.12,Nanoha Dialogue1,,0,0,0,,By the way, what's a ferret?
+Dialogue: 0,0:15:26.22,0:15:29.72,Nanoha Dialogue1,,0,0,0,,if we can take care of that ferret for a while.
+Dialogue: 0,0:15:30.72,0:15:32.22,Nanoha Dialogue1,,0,0,0,,A ferret, huh?
+Dialogue: 0,0:15:34.70,0:15:36.60,Nanoha Dialogue1,,0,0,0,,By the way, what's a ferret?
 Dialogue: 0,0:15:37.62,0:15:40.23,Nanoha Dialogue1,,0,0,0,,It's an animal related to a weasel, Dad.
 Dialogue: 0,0:15:40.23,0:15:44.00,Nanoha Dialogue1,,0,0,0,,It's an animal that's been popular as a pet for quite a while now.
 Dialogue: 0,0:15:44.00,0:15:46.21,Nanoha Dialogue1,,0,0,0,,Ferrets are small critters, right?
@@ -306,7 +312,7 @@ Dialogue: 0,0:17:09.55,0:17:12.09,Nanoha Dialogue1,,0,0,0,,Is the little guy tal
 Dialogue: 0,0:17:12.09,0:17:14.38,Nanoha Narration1,,0,0,0,,Please, come to me!
 Dialogue: 0,0:17:14.38,0:17:17.80,Nanoha Narration1,,0,0,0,,Time is... danger is now...
 Dialogue: 0,0:17:29.77,0:17:32.36,Nanoha Narration1,,0,0,0,,Please reach her!
-Dialogue: 0,0:17:48.24,0:17:50.00,Nanoha Dialogue2,,0,0,0,,{\t(\frz359.1)\an5\blur1\move(209.618,173.5,462.638,210.5,36,1746)\frx358\fry340\frz0.5623}{\b1\fs48}Makihara Veterinary{\b0}
+Dialogue: 0,0:17:48.24,0:17:50.00,Nanoha Dialogue2,,0,0,0,,{\t(\fscx85\fscy85)\an5\blur1\frz1.646\b1\fs48\frx358\fry351\org(269.68,130.5)\move(241.651,173.5,485.663,210.5,36,1746)}Makihara Veterinary{\b0}
 Dialogue: 0,0:18:02.54,0:18:04.27,Nanoha Dialogue1,,0,0,0,,That sound again?!
 Dialogue: 0,0:18:28.87,0:18:29.88,Nanoha Dialogue1,,0,0,0,,That was...
 Dialogue: 0,0:18:48.22,0:18:50.60,Nanoha Dialogue1,,0,0,0,,What?! What in the world is going on?!
