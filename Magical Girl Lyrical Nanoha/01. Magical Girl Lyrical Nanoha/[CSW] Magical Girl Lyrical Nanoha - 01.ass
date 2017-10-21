@@ -17,9 +17,9 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 960x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha - 01 (BDRip 960x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 236
-Active Line: 240
-Video Position: 22482
+Scroll Position: 311
+Active Line: 314
+Video Position: 30200
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -342,14 +342,14 @@ Dialogue: 0,0:20:16.18,0:20:18.47,Nanoha Dialogue1,,0,0,0,,Repeat after me.
 Dialogue: 0,0:20:23.15,0:20:24.57,Nanoha Dialogue1,,0,0,0,,Okay? Here goes!
 Dialogue: 0,0:20:25.29,0:20:26.45,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:20:28.56,0:20:31.12,Nanoha Dialogue1,,0,0,0,,I am the one who has been given a mission.
-Dialogue: 0,0:20:31.12,0:20:34.96,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}I am the one who has been given a mission.
+Dialogue: 0,0:20:31.12,0:20:35.63,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}I am the one who has been given a mission.
 Dialogue: 0,0:20:35.63,0:20:38.90,Nanoha Dialogue1,,0,0,0,,Under the contract, release your power.
 Dialogue: 0,0:20:38.90,0:20:43.88,Nanoha Dialogue1,,0,0,0,,Um... under the contract, release your power.
 Dialogue: 0,0:20:45.64,0:20:48.64,Nanoha Dialogue1,,0,0,0,,Winds in the sky, stars in the heavens.
-Dialogue: 0,0:20:48.64,0:20:51.54,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Winds in the sky, stars in the heavens.
+Dialogue: 0,0:20:48.64,0:20:51.41,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Winds in the sky, stars in the heavens.
 Dialogue: 0,0:20:52.85,0:20:54.92,Nanoha Dialogue1,,0,0,0,,An unvanquishable spirit...
-Dialogue: 0,0:20:54.92,0:20:57.17,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}An unvanquishable spirit...
-Dialogue: 0,0:20:59.89,0:21:01.45,Nanoha Dialogue1,,0,0,0,,in my heart!
+Dialogue: 0,0:20:55.10,0:20:57.17,Nanoha Dialogue1,,0,0,0,,An unvanquishable spirit...
+Dialogue: 0,0:20:59.59,0:21:01.45,Nanoha Dialogue1,,0,0,0,,in my heart!
 Dialogue: 0,0:21:02.76,0:21:04.72,Nanoha Dialogue1,,0,0,0,,Render your magic unto my hands!
 Dialogue: 0,0:21:06.16,0:21:09.76,Nanoha Dialogue1,,0,0,0,,{\b1}Raising Heart, set up!{\b0}
 Dialogue: 0,0:21:12.16,0:21:14.26,Nanoha Device1,,0,0,0,,Standby, ready. Set up.

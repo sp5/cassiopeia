@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 21
-Active Line: 23
-Video Position: 3881
+Scroll Position: 296
+Active Line: 301
+Video Position: 31315
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -316,26 +316,26 @@ Dialogue: 0,0:19:27.76,0:19:28.93,Nanoha Narration1,,0,0,0,,What?!
 Dialogue: 0,0:19:29.88,0:19:32.90,Nanoha Narration1,,0,0,0,,I can't remember such a long spell!
 Dialogue: 0,0:19:32.90,0:19:35.27,Nanoha Narration1,,0,0,0,,I'll tell you again, so repeat after me!
 Dialogue: 0,0:19:35.27,0:19:36.66,Nanoha Narration1,,0,0,0,,Got it!
-Dialogue: 0,0:19:49.05,0:19:51.44,Nanoha Dialogue1,,0,0,0,,Raising Heart?
-Dialogue: 0,0:19:52.72,0:19:54.65,Nanoha Device1,,0,0,0,,Standby, ready.
-Dialogue: 0,0:19:54.65,0:19:55.94,Nanoha Device1,,0,0,0,,Set up.
+Dialogue: 0,0:19:49.05,0:19:52.02,Nanoha Dialogue1,,0,0,0,,Raising Heart?
+Dialogue: 0,0:19:52.03,0:19:54.23,Nanoha Device1,,0,0,0,,Standby, ready.
+Dialogue: 0,0:19:54.23,0:19:55.52,Nanoha Device1,,0,0,0,,Set up.
 Dialogue: 0,0:20:07.30,0:20:11.23,Nanoha Narration1,,0,0,0,,She booted up Raising Heart without a password?!
 Dialogue: 0,0:20:13.73,0:20:15.94,Nanoha Dialogue1,,0,0,0,,Nanoha, the protective armor!
-Dialogue: 0,0:20:17.04,0:20:18.48,Nanoha Device1,,0,0,0,,Barrier Jacket
+Dialogue: 0,0:20:16.97,0:20:18.48,Nanoha Device1,,0,0,0,,Barrier Jacket
 Dialogue: 0,0:20:29.12,0:20:30.48,Nanoha Narration1,,0,0,0,,Nanoha!
-Dialogue: 0,0:20:51.88,0:20:54.98,Nanoha Device1,,0,0,0,,Protect condition: all green.
+Dialogue: 0,0:20:51.88,0:20:55.17,Nanoha Device1,,0,0,0,,Protect condition: all green.
 Dialogue: 0,0:20:58.75,0:21:01.15,Nanoha Narration1,,0,0,0,,No damage dealt from that blow?
 Dialogue: 0,0:21:01.15,0:21:05.41,Nanoha Narration1,,0,0,0,,Just as I thought, this girl has an amazing amount of talent.
 Dialogue: 0,0:21:05.41,0:21:08.90,Nanoha Dialogue1,,0,0,0,,Ouch... but it didn't hurt enough to make me say it.
-Dialogue: 0,0:21:08.90,0:21:12.90,Nanoha Dialogue1,,0,0,0,,Let's see. I need to do that sealing thing, right?
-Dialogue: 0,0:21:12.93,0:21:15.67,Nanoha Dialogue1,,0,0,0,,Raising Heart, please?
+Dialogue: 0,0:21:08.90,0:21:12.43,Nanoha Dialogue1,,0,0,0,,Let's see. I need to do that sealing thing, right?
+Dialogue: 0,0:21:12.43,0:21:15.67,Nanoha Dialogue1,,0,0,0,,Raising Heart, please?
 Dialogue: 0,0:21:15.67,0:21:17.07,Nanoha Device1,,0,0,0,,All right.
 Dialogue: 0,0:21:17.07,0:21:19.67,Nanoha Device1,,0,0,0,,Sealing Mode, set up.
-Dialogue: 0,0:21:34.89,0:21:37.05,Nanoha Device1,,0,0,0,,Standby, ready.
+Dialogue: 0,0:21:34.76,0:21:36.54,Nanoha Device1,,0,0,0,,Standby, ready.
 Dialogue: 0,0:21:37.05,0:21:39.19,Nanoha Dialogue1,,0,0,0,,Lyrical, magical...
-Dialogue: 0,0:21:39.19,0:21:42.09,Nanoha Dialogue1,,0,0,0,,Jewel Seed, Serial XVI...
-Dialogue: 0,0:21:42.82,0:21:44.22,Nanoha Dialogue1,,0,0,0,,{\b1}Seal!{\b0}
-Dialogue: 0,0:21:45.43,0:21:47.06,Nanoha Device1,,0,0,0,,Sealing
+Dialogue: 0,0:21:39.19,0:21:41.66,Nanoha Dialogue1,,0,0,0,,Jewel Seed, Serial XVI...
+Dialogue: 0,0:21:42.82,0:21:44.76,Nanoha Dialogue1,,0,0,0,,{\b1}Seal!{\b0}
+Dialogue: 0,0:21:44.76,0:21:46.68,Nanoha Device1,,0,0,0,,Sealing
 Dialogue: 0,0:22:08.35,0:22:10.18,Nanoha Device1,,0,0,0,,Receipt No. XVI
 Dialogue: 0,0:22:11.93,0:22:13.64,Nanoha Dialogue1,,0,0,0,,Is this good enough?
 Dialogue: 0,0:22:13.64,0:22:17.27,Nanoha Dialogue1,,0,0,0,,Yeah, it couldn't have been any better.
