@@ -60,12 +60,12 @@ Dialogue: 0,0:02:00.16,0:02:05.96,Nanoha OP,,0,0,0,,An eternal blaze that stoppe
 Dialogue: 0,0:02:05.96,0:02:09.43,Nanoha OP,,0,0,0,,Releasing the deep darkness
 Dialogue: 0,0:02:09.43,0:02:15.80,Nanoha OP,,0,0,0,,It opens the door of freedom
 Dialogue: 0,0:02:15.80,0:02:22.73,Nanoha OP,,0,0,0,,Towards the strong, boundless future
-Dialogue: 1,0:02:31.49,0:02:35.98,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,667)\an5\b1\pos(480,510.5)\bord0}6:30 AM\NYagami residence, Hayate's room{\b0}
-Dialogue: 0,0:02:31.49,0:02:35.98,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,667)\an5\b1\pos(480,510.5)\c&H000000&}6:30 AM\NYagami residence, Hayate's room{\b0}
-Dialogue: 1,0:03:18.04,0:03:21.70,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,0)\an5\b1\pos(480,510.5)\bord0}6:35 AM\NCity of Uminari, Sakuradai forest path{\b0}
-Dialogue: 0,0:03:18.04,0:03:21.70,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,0)\an5\b1\pos(480,510.5)\c&H000000&}6:35 AM\NCity of Uminari, Sakuradai forest path{\b0}
-Dialogue: 1,0:03:37.14,0:03:40.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(480,510.5)\bord0}6:41 AM\NCity of Uminari, downtown, building rooftop{\b0}
-Dialogue: 0,0:03:37.14,0:03:40.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(480,510.5)\c&H000000&}6:41 AM\NCity of Uminari, downtown, building rooftop{\b0}
+Dialogue: 1,0:02:31.49,0:02:35.98,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,667)\an5\b1\pos(476,510.5)\bord0}6:30 AM\NYagami residence, Hayate's room{\b0}
+Dialogue: 0,0:02:31.49,0:02:35.98,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,667)\an5\b1\pos(476,510.5)\c&H000000&}6:30 AM\NYagami residence, Hayate's room{\b0}
+Dialogue: 1,0:03:18.04,0:03:21.70,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,0)\an5\b1\pos(476,510.5)\bord0}6:35 AM\NCity of Uminari, Sakuradai forest path{\b0}
+Dialogue: 0,0:03:18.04,0:03:21.70,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,0)\an5\b1\pos(476,510.5)\c&H000000&}6:35 AM\NCity of Uminari, Sakuradai forest path{\b0}
+Dialogue: 1,0:03:37.14,0:03:40.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\bord0}6:41 AM\NCity of Uminari, downtown, building rooftop{\b0}
+Dialogue: 0,0:03:37.14,0:03:40.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\c&H000000&}6:41 AM\NCity of Uminari, downtown, building rooftop{\b0}
 Dialogue: 0,0:04:06.71,0:04:08.88,Nanoha Dialogue1,,0,0,0,,I'm sorry. Did I wake you?
 Dialogue: 0,0:04:10.51,0:04:11.80,Nanoha Dialogue1,,0,0,0,,No...
 Dialogue: 0,0:04:13.35,0:04:15.60,Nanoha Dialogue1,,0,0,0,,You should sleep properly on a bed.
@@ -341,8 +341,8 @@ Dialogue: 0,0:21:14.73,0:21:19.77,Nanoha Device1,,0,0,0,,The percentage of synch
 Dialogue: 0,0:21:14.73,0:21:19.77,Nanoha Narration1,,0,0,0,,{\i0}Call out to them, with their new names!{\i1}
 Dialogue: 0,0:21:19.77,0:21:22.04,Nanoha Device1,,0,0,0,,Condition all green. Get set.
 Dialogue: 0,0:21:22.04,0:21:24.28,Nanoha Device1,,0,0,0,,Standby, ready.
-Dialogue: 0,0:21:24.37,0:21:27.64,Nanoha Dialogue1,,0,0,0,,{\b1}Raising Heart Excelion{\b0}
-Dialogue: 0,0:21:27.64,0:21:30.32,Nanoha Dialogue1,,0,0,0,,{\b1}Bardiche Assault{\b0}
+Dialogue: 0,0:21:24.37,0:21:27.53,Nanoha Dialogue1,,0,0,0,,{\b1}Raising Heart Excelion{\b0}
+Dialogue: 0,0:21:27.63,0:21:30.32,Nanoha Dialogue1,,0,0,0,,{\b1}Bardiche Assault{\b0}
 Dialogue: 0,0:21:30.32,0:21:32.61,Nanoha Device1,,0,0,0,,{\pos(238,702)}Drive Ignition
 Dialogue: 0,0:21:30.32,0:21:32.61,Nanoha Device1,,0,0,0,,{\pos(714,702)}Drive Ignition
 Dialogue: 0,0:23:19.19,0:23:22.32,Nanoha Dialogue1,,0,0,0,,Their Devices... no way!

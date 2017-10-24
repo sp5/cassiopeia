@@ -18,8 +18,8 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 36
-Active Line: 39
+Scroll Position: 281
+Active Line: 285
 Video Position: 5226
 
 [V4+ Styles]
@@ -104,7 +104,7 @@ Dialogue: 0,0:05:24.58,0:05:25.84,Nanoha Dialogue1,,0,0,0,,Bardiche!
 Dialogue: 0,0:05:25.84,0:05:28.28,Nanoha Device1,,0,0,0,,Arc Saber
 Dialogue: 0,0:05:32.87,0:05:34.69,Nanoha Dialogue1,,0,0,0,,Graf Eisen!
 Dialogue: 0,0:05:35.18,0:05:37.71,Nanoha Device1,,0,0,0,,Flying Swallow
-Dialogue: 0,0:05:35.18,0:05:37.71,Nanoha Device2,,0,0,0,,{\pos(478,647)}Schwalbefliegen
+Dialogue: 0,0:05:35.18,0:05:37.71,Nanoha Device2,,0,0,0,,{\pos(476,647)}Schwalbefliegen
 Dialogue: 0,0:05:40.76,0:05:41.72,Nanoha Dialogue1,,0,0,0,,Wall!
 Dialogue: 0,0:05:41.72,0:05:44.71,Nanoha Device1,,0,0,0,,Armored Barrier
 Dialogue: 0,0:05:41.72,0:05:44.71,Nanoha Device2,,0,0,0,,{\pos(476,647)}Panzerhindernis
@@ -112,7 +112,7 @@ Dialogue: 0,0:06:02.84,0:06:04.65,Nanoha Dialogue1,,0,0,0,,{\b1}Barrier...{\b0}
 Dialogue: 0,0:06:07.66,0:06:09.32,Nanoha Dialogue1,,0,0,0,,{\b1}...Break{\b0}
 Dialogue: 0,0:06:15.98,0:06:16.50,Nanoha Dialogue1,,0,0,0,,Jerk!
 Dialogue: 0,0:06:23.82,0:06:26.17,Nanoha Device1,,0,0,0,,Horses
-Dialogue: 0,0:06:25.12,0:06:26.32,Nanoha Device2,,0,0,0,,{\pos(480,647)}Pferde
+Dialogue: 0,0:06:25.12,0:06:26.32,Nanoha Device2,,0,0,0,,{\pos(476,647)}Pferde
 Dialogue: 0,0:06:44.62,0:06:46.40,Nanoha Dialogue1,,0,0,0,,Crap...
 Dialogue: 0,0:06:46.40,0:06:51.38,Nanoha Dialogue1,,0,0,0,,It's easy to just beat them down, but that doesn't mean anything.
 Dialogue: 0,0:06:52.25,0:06:54.39,Nanoha Dialogue1,,0,0,0,,I need to take magical power back with me.
@@ -198,7 +198,7 @@ Dialogue: 0,0:13:30.42,0:13:33.25,Nanoha Device2,,0,0,0,,{\pos(476,647)}Ja. Pend
 Dialogue: 0,0:13:51.68,0:13:53.68,Nanoha Device1,,0,0,0,,Photon Lancer
 Dialogue: 0,0:13:56.34,0:13:59.86,Nanoha Dialogue1,,0,0,0,,Lævateinn, my armor.
 Dialogue: 0,0:13:59.86,0:14:02.46,Nanoha Device1,,0,0,0,,Armor Spirit
-Dialogue: 0,0:13:59.86,0:14:02.46,Nanoha Device2,,0,0,0,,{\pos(475,647)}Panzergeist
+Dialogue: 0,0:13:59.86,0:14:02.46,Nanoha Device2,,0,0,0,,{\pos(476,647)}Panzergeist
 Dialogue: 0,0:14:07.56,0:14:09.93,Nanoha Dialogue1,,0,0,0,,Pierce through! Fire!
 Dialogue: 0,0:14:22.60,0:14:25.34,Nanoha Dialogue1,,0,0,0,,Your instincts as a mage are not bad.
 Dialogue: 0,0:14:25.97,0:14:30.00,Nanoha Dialogue1,,0,0,0,,But, in order to challenge a Belkan knight to a duel,
@@ -212,7 +212,7 @@ Dialogue: 0,0:15:18.18,0:15:20.36,Nanoha Narration1,,0,0,0,,but I can't break th
 Dialogue: 0,0:15:20.36,0:15:21.33,Nanoha Narration1,,0,0,0,,Arf!
 Dialogue: 0,0:15:24.39,0:15:28.82,Nanoha Narration1,,0,0,0,,I'm trying on this end too, but this barrier is incredibly hard!
 Dialogue: 0,0:15:34.82,0:15:36.87,Nanoha Device1,,0,0,0,,Reload
-Dialogue: 0,0:15:34.82,0:15:36.87,Nanoha Device2,,0,0,0,,{\pos(477,647)}Nachladen
+Dialogue: 0,0:15:34.82,0:15:36.87,Nanoha Device2,,0,0,0,,{\pos(476,647)}Nachladen
 Dialogue: 0,0:15:37.87,0:15:40.77,Nanoha Narration1,,0,0,0,,It's those things... those shells...
 Dialogue: 0,0:15:40.77,0:15:44.78,Nanoha Narration1,,0,0,0,,They're temporarily increasing their magical power with them.
 Dialogue: 0,0:15:44.78,0:15:46.34,Nanoha Dialogue1,,0,0,0,,Is that it?

@@ -54,8 +54,8 @@ Dialogue: 0,0:01:21.16,0:01:26.96,Nanoha OP,,0,0,0,,An eternal blaze that stoppe
 Dialogue: 0,0:01:26.96,0:01:30.43,Nanoha OP,,0,0,0,,Releasing the deep darkness
 Dialogue: 0,0:01:30.43,0:01:36.80,Nanoha OP,,0,0,0,,It opens the door of freedom
 Dialogue: 0,0:01:36.80,0:01:43.73,Nanoha OP,,0,0,0,,Towards the strong, boundless future
-Dialogue: 1,0:01:50.07,0:01:55.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(917,0)\an5\b1\pos(480,510.5)\bord0}June 6, 9:05 PM\NCity of Uminari, Nakaoka district{\b0}
-Dialogue: 0,0:01:50.07,0:01:55.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(917,0)\an5\b1\pos(480,510.5)\c&H000000&}June 6, 9:05 PM\NCity of Uminari, Nakaoka district{\b0}
+Dialogue: 1,0:01:50.07,0:01:55.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(917,0)\an5\b1\pos(476,510.5)\bord0}June 6, 9:05 PM\NCity of Uminari, Nakaoka district{\b0}
+Dialogue: 0,0:01:50.07,0:01:55.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(917,0)\an5\b1\pos(476,510.5)\c&H000000&}June 6, 9:05 PM\NCity of Uminari, Nakaoka district{\b0}
 Dialogue: 0,0:02:08.98,0:02:11.69,Nanoha Dialogue1,,0,0,0,,{\i1}You have one new message.{\i0}
 Dialogue: 0,0:02:13.68,0:02:17.57,Nanoha Dialogue1,,0,0,0,,Hello, this is Dr. Ishida from\NUminari University Hospital.
 Dialogue: 0,0:02:17.57,0:02:22.03,Nanoha Dialogue1,,0,0,0,,Let's see... tomorrow is your birthday, right, Hayate?
@@ -72,8 +72,8 @@ Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Anfa
 Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device1,,0,0,0,,{\pos(476,705)}Start up.
 Dialogue: 1,0:04:36.78,0:04:42.82,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,511)\bord0}The Beginning Comes Suddenly
 Dialogue: 0,0:04:36.78,0:04:42.82,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,511)\c&H7E1A30&}The Beginning Comes Suddenly
-Dialogue: 1,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,333)\an5\b1\pos(480,510.5)\bord0}December 1, 6:35 AM\NCity of Uminari, Sakuradai{\b0}
-Dialogue: 0,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,333)\an5\b1\pos(480,510.5)\c&H000000&}December 1, 6:35 AM\NCity of Uminari, Sakuradai{\b0}
+Dialogue: 1,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,333)\an5\b1\pos(476,510.5)\bord0}December 1, 6:35 AM\NCity of Uminari, Sakuradai{\b0}
+Dialogue: 0,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,333)\an5\b1\pos(476,510.5)\c&H000000&}December 1, 6:35 AM\NCity of Uminari, Sakuradai{\b0}
 Dialogue: 0,0:04:54.73,0:04:57.44,Nanoha Dialogue1,,0,0,0,,Okay, to finish off this morning's practice...
 Dialogue: 0,0:04:57.44,0:04:59.52,Nanoha Dialogue1,,0,0,0,,Let's try shooting control.
 Dialogue: 0,0:04:59.51,0:05:00.59,Nanoha Device1,,0,0,0,,{\pos(476,705)}All right.
@@ -121,8 +121,8 @@ Dialogue: 0,0:07:48.54,0:07:49.90,Nanoha Dialogue1,,0,0,0,,Wouldn't it?
 Dialogue: 0,0:07:50.10,0:07:52.11,Nanoha Dialogue1,,0,0,0,,Hey, Mom, do you think\NYuuno remembers who I am?
 Dialogue: 0,0:07:52.57,0:07:58.87,Nanoha Dialogue1,,0,0,0,,Fate... Yuuno... Chrono and\NMrs. Lindy... Miss Amy...
 Dialogue: 0,0:07:58.87,0:08:01.00,Nanoha Dialogue1,,0,0,0,,I wonder if everyone is doing well?
-Dialogue: 1,0:08:02.86,0:08:06.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(480,510.5)\bord0}Same time, the Dimensional Sea\NTime-Space Administrative Bureau Flagship {\i1}Arthra{\b0\i0}
-Dialogue: 0,0:08:02.86,0:08:06.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(480,510.5)\c&H000000&}Same time, the Dimensional Sea\NTime-Space Administrative Bureau Flagship {\i1}Arthra{\b0\i0}
+Dialogue: 1,0:08:02.86,0:08:06.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\bord0}Same time, the Dimensional Sea\NTime-Space Administrative Bureau Flagship {\i1}Arthra{\b0\i0}
+Dialogue: 0,0:08:02.86,0:08:06.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\c&H000000&}Same time, the Dimensional Sea\NTime-Space Administrative Bureau Flagship {\i1}Arthra{\b0\i0}
 Dialogue: 0,0:08:12.38,0:08:15.68,Nanoha Dialogue1,,0,0,0,,Preparations to dock at the Bureau's Main Office are now complete.
 Dialogue: 0,0:08:16.30,0:08:19.20,Nanoha Dialogue1,,0,0,0,,Our plans are going well.\NIsn't that good?
 Dialogue: 0,0:08:22.02,0:08:23.16,Nanoha Dialogue1,,0,0,0,,Excuse me...
@@ -182,14 +182,14 @@ Dialogue: 0,0:10:56.76,0:10:59.43,Nanoha Dialogue1,,0,0,0,,and we're currently w
 Dialogue: 0,0:10:59.43,0:11:00.63,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:11:13.93,0:11:18.42,Nanoha Handwriting,,0,0,0,,{\t(\fscx135\fscy135)\blur0.7\an5\frz9.624\c&H16E633&\move(478.678,253,474.678,218,35,4456)}Fate
 Dialogue: 0,0:11:13.93,0:11:18.42,Nanoha Handwriting,,0,0,0,,{\t(\fscx135\fscy135)\blur0.7\an5\c&HFF0000&\frz355\move(378.678,501,346.678,547,35,4456)}{\c&H3787E5&}Nanoha
-Dialogue: 1,0:11:27.82,0:11:32.85,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(501,417)\an5\b1\pos(480,510.5)\bord0}December 2, 2:23 AM\NCity of Uminari, office district{\b0}
-Dialogue: 0,0:11:27.82,0:11:32.85,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(501,417)\an5\b1\pos(480,510.5)\c&H000000&}December 2, 2:23 AM\NCity of Uminari, office district{\b0}
+Dialogue: 1,0:11:27.82,0:11:32.85,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(501,417)\an5\b1\pos(476,510.5)\bord0}December 2, 2:23 AM\NCity of Uminari, office district{\b0}
+Dialogue: 0,0:11:27.82,0:11:32.85,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(501,417)\an5\b1\pos(476,510.5)\c&H000000&}December 2, 2:23 AM\NCity of Uminari, office district{\b0}
 Dialogue: 0,0:11:41.84,0:11:43.89,Nanoha Dialogue1,,0,0,0,,So weak.
 Dialogue: 0,0:11:43.89,0:11:47.68,Nanoha Dialogue1,,0,0,0,,At this rate, they won't be much of an addition, but...
 Dialogue: 0,0:11:55.73,0:11:57.69,Nanoha Dialogue1,,0,0,0,,Both of your magical powers
 Dialogue: 0,0:11:57.71,0:11:59.36,Nanoha Dialogue1,,0,0,0,,are food for the Book of Darkness.
-Dialogue: 1,0:12:16.91,0:12:21.40,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(500,459)\an5\b1\pos(480,510.5)\bord0}December 2, 4:24 PM\NKazegaoka Library{\b0}
-Dialogue: 0,0:12:16.91,0:12:21.40,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(500,459)\an5\b1\pos(480,510.5)\c&H000000&}December 2, 4:24 PM\NKazegaoka Library{\b0}
+Dialogue: 1,0:12:16.91,0:12:21.40,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(500,459)\an5\b1\pos(476,510.5)\bord0}December 2, 4:24 PM\NKazegaoka Library{\b0}
+Dialogue: 0,0:12:16.91,0:12:21.40,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(500,459)\an5\b1\pos(476,510.5)\c&H000000&}December 2, 4:24 PM\NKazegaoka Library{\b0}
 Dialogue: 0,0:12:27.64,0:12:29.39,Nanoha Dialogue1,,0,0,0,,Then I'll see you again tomorrow.
 Dialogue: 0,0:12:29.39,0:12:30.56,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:12:30.56,0:12:31.68,Nanoha Dialogue1,,0,0,0,,Bye-bye!
@@ -234,8 +234,8 @@ Dialogue: 0,0:14:58.29,0:15:01.71,Nanoha Dialogue1,,0,0,0,,But even with a littl
 Dialogue: 0,0:15:01.71,0:15:04.50,Nanoha Dialogue1,,0,0,0,,we're always right by your side.
 Dialogue: 0,0:15:04.50,0:15:08.05,Nanoha Dialogue1,,0,0,0,,Yes... we are always at your side.
 Dialogue: 0,0:15:09.93,0:15:11.64,Nanoha Dialogue1,,0,0,0,,Thank you.
-Dialogue: 1,0:15:12.63,0:15:17.66,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(480,510.5)\bord0}December 2, 7:45 PM\NCity of Uminari, downtown{\b0}
-Dialogue: 0,0:15:12.63,0:15:17.66,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(480,510.5)\c&H000000&}December 2, 7:45 PM\NCity of Uminari, downtown{\b0}
+Dialogue: 1,0:15:12.63,0:15:17.66,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\bord0}December 2, 7:45 PM\NCity of Uminari, downtown{\b0}
+Dialogue: 0,0:15:12.63,0:15:17.66,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\c&H000000&}December 2, 7:45 PM\NCity of Uminari, downtown{\b0}
 Dialogue: 0,0:15:27.19,0:15:29.86,Nanoha Dialogue1,,0,0,0,,How is it, Vita? Think you can find it?
 Dialogue: 0,0:15:29.86,0:15:32.91,Nanoha Dialogue1,,0,0,0,,It's like it's here, but it's not here.
 Dialogue: 0,0:15:35.08,0:15:36.99,Nanoha Dialogue1,,0,0,0,,A curiously large magical response
@@ -262,11 +262,11 @@ Dialogue: 0,0:17:09.83,0:17:11.86,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Gege
 Dialogue: 0,0:17:25.09,0:17:26.37,Nanoha Device1,,0,0,0,,{\pos(476,705)}It comes.
 Dialogue: 0,0:17:38.44,0:17:39.64,Nanoha Device1,,0,0,0,,{\pos(476,705)}Homing bullet.
 Dialogue: 0,0:17:52.05,0:17:54.38,Nanoha Dialogue1,,0,0,0,,{\b1}Deadly Smash{\b0}
-Dialogue: 0,0:17:52.03,0:17:54.39,Nanoha Device2,,0,0,0,,{\b1\i0\pos(477,647)}Tödlichschlag{\b0\i1}
+Dialogue: 0,0:17:52.03,0:17:54.39,Nanoha Device2,,0,0,0,,{\b1\i0\pos(476,647)}Tödlichschlag{\b0\i1}
 Dialogue: 0,0:18:11.11,0:18:13.30,Nanoha Dialogue1,,0,0,0,,Raising Heart, please!
 Dialogue: 0,0:18:13.30,0:18:16.64,Nanoha Device1,,0,0,0,,Standby, ready. Set up.
 Dialogue: 0,0:19:09.46,0:19:11.60,Nanoha Device1,,0,0,0,,Flying Swallow
-Dialogue: 0,0:19:09.46,0:19:11.60,Nanoha Device2,,0,0,0,,{\pos(477,647)}Schwalbefliegen
+Dialogue: 0,0:19:09.46,0:19:11.60,Nanoha Device2,,0,0,0,,{\pos(476,647)}Schwalbefliegen
 Dialogue: 0,0:19:25.56,0:19:28.75,Nanoha Dialogue1,,0,0,0,,I don't remember any reason for suddenly being attacked.
 Dialogue: 0,0:19:29.30,0:19:30.60,Nanoha Dialogue1,,0,0,0,,Where are you from?
 Dialogue: 0,0:19:30.60,0:19:32.33,Nanoha Dialogue1,,0,0,0,,Why in the world are you doing such a thing?
@@ -281,9 +281,9 @@ Dialogue: 0,0:20:09.35,0:20:10.66,Nanoha Device1,,0,0,0,,...Buster
 Dialogue: 0,0:20:33.82,0:20:36.58,Nanoha Dialogue1,,0,0,0,,Graf Eisen, Cartridge Load!
 Dialogue: 0,0:20:36.58,0:20:38.59,Nanoha Device1,,0,0,0,,Explosion
 Dialogue: 0,0:20:42.84,0:20:45.36,Nanoha Device1,,0,0,0,,Rocket Form
-Dialogue: 0,0:20:42.84,0:20:45.36,Nanoha Device2,,0,0,0,,{\pos(479,647)}Raketenform
+Dialogue: 0,0:20:42.84,0:20:45.36,Nanoha Device2,,0,0,0,,{\pos(476,647)}Raketenform
 Dialogue: 0,0:20:56.09,0:20:57.36,Nanoha Dialogue1,,0,0,0,,{\b1}Rocket...{\b0}
-Dialogue: 0,0:20:56.09,0:20:57.36,Nanoha Dialogue1,,0,0,0,,{\fs45\b1\pos(470,647)}Raketen...{\b0}
+Dialogue: 0,0:20:56.09,0:20:57.36,Nanoha Device2,,0,0,0,,{\fs45\i0\b1\pos(476,647)}Raketen...{\i1\b0}
 Dialogue: 0,0:21:14.07,0:21:16.23,Nanoha Dialogue1,,0,0,0,,{\b1}...Hammer{\b0}
 Dialogue: 0,0:21:41.35,0:21:43.38,Nanoha Device1,,0,0,0,,Protection
 Dialogue: 0,0:21:52.40,0:21:53.90,Nanoha Dialogue1,,0,0,0,,Bust through it!

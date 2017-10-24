@@ -144,12 +144,12 @@ Dialogue: 0,0:08:13.25,0:08:15.08,Nanoha Dialogue1,,0,0,0,,So you're going to fi
 Dialogue: 0,0:08:15.08,0:08:19.33,Nanoha Dialogue1,,0,0,0,,If I win, I'm going to have you tell me your story! Got that?!
 Dialogue: 0,0:08:19.42,0:08:23.36,Nanoha Dialogue1,,0,0,0,,If you can, you're welcome to try!
 Dialogue: 0,0:08:24.84,0:08:26.46,Nanoha Device1,,0,0,0,,Flying Swallow
-Dialogue: 0,0:08:24.84,0:08:26.46,Nanoha Device2,,0,0,0,,{\pos(475,647)}Schwalbefliegen
+Dialogue: 0,0:08:24.84,0:08:26.46,Nanoha Device2,,0,0,0,,{\pos(476,647)}Schwalbefliegen
 Dialogue: 0,0:08:27.70,0:08:28.92,Nanoha Device1,,0,0,0,,Accel Fin
 Dialogue: 0,0:08:32.60,0:08:33.20,Nanoha Dialogue1,,0,0,0,,Eisen!
 Dialogue: 0,0:08:33.20,0:08:35.00,Nanoha Device1,,0,0,0,,Explosion
 Dialogue: 0,0:08:37.38,0:08:39.07,Nanoha Device1,,0,0,0,,Rocket Form
-Dialogue: 0,0:08:37.38,0:08:39.07,Nanoha Device2,,0,0,0,,{\pos(477,647)}Raketenform
+Dialogue: 0,0:08:37.38,0:08:39.07,Nanoha Device2,,0,0,0,,{\pos(476,647)}Raketenform
 Dialogue: 0,0:08:48.24,0:08:50.28,Nanoha Device1,,0,0,0,,Protection Powered
 Dialogue: 0,0:08:57.76,0:08:58.83,Nanoha Dialogue1,,0,0,0,,Hard as a rock!
 Dialogue: 0,0:08:58.83,0:09:00.92,Nanoha Dialogue1,,0,0,0,,No kidding.
@@ -174,19 +174,19 @@ Dialogue: 0,0:11:04.04,0:11:04.88,Nanoha Dialogue1,,0,0,0,,fire!
 Dialogue: 0,0:11:12.90,0:11:13.76,Nanoha Dialogue1,,0,0,0,,Turn!
 Dialogue: 0,0:11:25.12,0:11:27.18,Nanoha Dialogue1,,0,0,0,,Lævateinn!
 Dialogue: 0,0:11:27.18,0:11:28.86,Nanoha Device1,,0,0,0,,Storm Winds
-Dialogue: 0,0:11:27.18,0:11:28.86,Nanoha Device2,,0,0,0,,{\pos(478,647)}Sturmwinde
+Dialogue: 0,0:11:27.18,0:11:28.86,Nanoha Device2,,0,0,0,,{\pos(476,647)}Sturmwinde
 Dialogue: 0,0:11:28.86,0:11:30.89,Nanoha Device1,,0,0,0,,Blitz Rush
 Dialogue: 0,0:11:40.63,0:11:41.92,Nanoha Device1,,0,0,0,,Haken Form
 Dialogue: 0,0:11:48.30,0:11:49.45,Nanoha Device1,,0,0,0,,Snake Form
-Dialogue: 0,0:11:48.30,0:11:49.45,Nanoha Device2,,0,0,0,,{\pos(477,647)}Schlangenform
+Dialogue: 0,0:11:48.30,0:11:49.45,Nanoha Device2,,0,0,0,,{\pos(476,647)}Schlangenform
 Dialogue: 0,0:12:11.82,0:12:14.72,Nanoha Dialogue1,,0,0,0,,Testarossa, you're strong.
 Dialogue: 0,0:12:16.43,0:12:18.11,Nanoha Device1,,0,0,0,,Sword Form
-Dialogue: 0,0:12:16.43,0:12:18.11,Nanoha Device2,,0,0,0,,{\pos(478,647)}Schwertform
+Dialogue: 0,0:12:16.43,0:12:18.11,Nanoha Device2,,0,0,0,,{\pos(476,647)}Schwertform
 Dialogue: 0,0:12:18.11,0:12:20.36,Nanoha Dialogue1,,0,0,0,,You, and your Bardiche.
 Dialogue: 0,0:12:21.40,0:12:23.14,Nanoha Device1,,0,0,0,,Thank you.
 Dialogue: 0,0:12:23.14,0:12:26.84,Nanoha Dialogue1,,0,0,0,,You and Lævateinn too, Signum.
 Dialogue: 0,0:12:26.84,0:12:28.84,Nanoha Device1,,0,0,0,,Thanks.
-Dialogue: 0,0:12:26.84,0:12:28.84,Nanoha Device2,,0,0,0,,{\pos(477,647)}Danke.
+Dialogue: 0,0:12:26.84,0:12:28.84,Nanoha Device2,,0,0,0,,{\pos(476,647)}Danke.
 Dialogue: 0,0:12:28.85,0:12:31.98,Nanoha Dialogue1,,0,0,0,,If there was nothing that\Nmy body needed to accomplish,
 Dialogue: 0,0:12:31.98,0:12:34.78,Nanoha Dialogue1,,0,0,0,,then my heart would have danced with joy from this battle.
 Dialogue: 0,0:12:34.78,0:12:37.57,Nanoha Dialogue1,,0,0,0,,However, for my friends and for my mistress,
