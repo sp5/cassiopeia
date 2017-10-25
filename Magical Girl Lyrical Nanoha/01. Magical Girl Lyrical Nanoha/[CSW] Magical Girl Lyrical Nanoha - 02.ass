@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 296
-Active Line: 301
-Video Position: 31315
+Scroll Position: 338
+Active Line: 343
+Video Position: 36651
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -366,7 +366,7 @@ Dialogue: 0,0:24:45.88,0:24:47.41,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.41,0:24:52.87,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:52.87,0:25:03.25,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 1,0:25:09.93,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,400)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:09.93,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,400)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:09.93,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,400)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4510,4555,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:11.81,0:25:13.77,Nanoha Narration1,,0,0,0,,This and that as a mage,
 Dialogue: 0,0:25:13.77,0:25:16.24,Nanoha Narration1,,0,0,0,,such and such as a magical girl...
 Dialogue: 0,0:25:16.26,0:25:20.74,Nanoha Narration1,,0,0,0,,I, Nanoha Takamachi, will do my best with lots of energy!
@@ -375,8 +375,8 @@ Dialogue: 0,0:25:23.52,0:25:26.05,Nanoha Narration1,,0,0,0,,Next up is an incide
 Dialogue: 0,0:25:26.05,0:25:27.54,Nanoha Narration1,,0,0,0,,Geez, it's so tough!
 Dialogue: 0,0:25:28.02,0:25:30.70,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(504,269)\blur0.5\bord0}Episode 3
-Dialogue: 0,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(504,269)\blur0.5\c&HFFFFFF&}Episode 3
+Dialogue: 0,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(504,269)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Episode 3
 Dialogue: 1,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.003,497)\bord0}The City's in a Lot of Danger?
-Dialogue: 0,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.003,497)\c&HFFFFFF&}The City's in a Lot of Danger?
+Dialogue: 0,0:25:28.03,0:25:34.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.003,497)\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}The City's in a Lot of Danger?
 Dialogue: 0,0:25:30.70,0:25:34.48,Nanoha Narration1,,0,0,0,,Episode 3: The City's in a Lot of Danger?
 Dialogue: 0,0:25:34.46,0:25:37.29,Nanoha Narration1,,0,0,0,,Lyrical, magical, I'll do my best!

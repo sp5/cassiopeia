@@ -13,15 +13,16 @@ YCbCr Matrix: TV.601
 Aegisub Video Aspect Ratio: c1.333333
 
 [Aegisub Project Garbage]
+Automation Scripts: ~../../blur-and-glow.lua
 Last Style Storage: Default
-Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 06 (BDRip 952x720 x264 FLAC).mkv
-Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 06 (BDRip 952x720 x264 FLAC).mkv
+Audio File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 06 (BDRip 952x720 x264 FLAC).mkv
+Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 06 (BDRip 952x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 197
-Active Line: 199
-Video Position: 18479
+Scroll Position: 405
+Active Line: 410
+Video Position: 36130
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -357,7 +358,7 @@ Dialogue: 0,0:18:47.10,0:18:50.70,Nanoha Narration1,,0,0,0,,Just this once, we w
 Dialogue: 0,0:19:11.88,0:19:14.88,Nanoha Dialogue1,,0,0,0,,Please forgive us for this wrongdoing!
 Dialogue: 0,0:19:22.33,0:19:24.85,Nanoha Narration1,,0,0,0,,Everyone, they look so good on you!
 Dialogue: 0,0:19:24.85,0:19:26.85,Nanoha Narration1,,0,0,0,,Time for dinner!
-Dialogue: 0,0:19:35.23,0:19:36.65,Nanoha Dialogue1,,0,0,0,,Crap...
+Dialogue: 0,0:19:35.23,0:19:36.65,Nanoha Dialogue1,,0,0,0,,{\i1}Mist...{\i0}
 Dialogue: 0,0:19:36.65,0:19:41.99,Nanoha Dialogue1,,0,0,0,,You completely trashed the {\i1}Ritter{\i0} outfit Hayate gave me.
 Dialogue: 0,0:19:43.21,0:19:45.49,Nanoha Dialogue1,,0,0,0,,Well, the clothes will heal,
 Dialogue: 0,0:19:45.49,0:19:49.66,Nanoha Dialogue1,,0,0,0,,and I got a decent amount of pages, so I guess it's okay.
@@ -448,7 +449,7 @@ Dialogue: 0,0:24:46.59,0:24:50.16,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:50.16,0:24:53.96,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:53.96,0:24:59.93,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:06.89,0:25:10.88,Nanoha Title2,,0,0,0,,{\fad(0,820)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:06.89,0:25:10.88,Nanoha Title2,,0,0,0,,{\fad(0,820)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:06.89,0:25:10.88,Nanoha Title2,,0,0,0,,{\fad(0,820)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3170,3215,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:10.46,0:25:11.76,Nanoha Narration1,,0,0,0,,Thanks to Yuuno's research,
 Dialogue: 0,0:25:11.76,0:25:13.17,Nanoha Narration1,,0,0,0,,the truth of the {\i0}Buch der Dunkelheit{\i1}
 Dialogue: 0,0:25:13.17,0:25:14.87,Nanoha Narration1,,0,0,0,,is becoming clearer and clearer!

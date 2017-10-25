@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 281
-Active Line: 285
-Video Position: 5226
+Scroll Position: 272
+Active Line: 277
+Video Position: 36119
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -313,7 +313,7 @@ Dialogue: 0,0:24:45.52,0:24:49.09,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:49.09,0:24:52.89,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:52.89,0:24:58.86,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.84,0:25:09.96,Nanoha Title2,,0,0,0,,{\fad(0,780)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:05.84,0:25:09.96,Nanoha Title2,,0,0,0,,{\fad(0,780)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:05.84,0:25:09.96,Nanoha Title2,,0,0,0,,{\fad(0,780)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3340,3385,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:08.08,0:25:09.51,Nanoha Narration1,,0,0,0,,This case is one where mysteries
 Dialogue: 0,0:25:09.51,0:25:10.68,Nanoha Narration1,,0,0,0,,keep piling up!
 Dialogue: 0,0:25:10.68,0:25:14.06,Nanoha Narration1,,0,0,0,,Its roots seem to be very deep.

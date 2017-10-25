@@ -20,7 +20,7 @@ Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
 Scroll Position: 291
 Active Line: 293
-Video Position: 36220
+Video Position: 36207
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,7 +114,7 @@ Dialogue: 0,0:07:23.50,0:07:24.92,Nanoha Dialogue1,,0,0,0,,She might not praise 
 Dialogue: 0,0:07:24.92,0:07:27.22,Nanoha Dialogue1,,0,0,0,,but I'm sure that she won't scold you for it!
 Dialogue: 0,0:07:28.49,0:07:29.32,Nanoha Dialogue1,,0,0,0,,Yeah...
 Dialogue: 0,0:07:31.52,0:07:32.50,Nanoha Dialogue1,,0,0,0,,You're right.
-Dialogue: 0,0:07:38.51,0:07:41.58,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,1043)\an5\pos(480,490.5)}{\fs45\b1}April 27 6:15 AM\NTakamachi residence{\b0}
+Dialogue: 0,0:07:38.51,0:07:41.58,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,1043)\an5\pos(480,490.5)}{\fs45\b1}April 27, 6:15 AM\NTakamachi residence{\b0}
 Dialogue: 0,0:07:58.99,0:08:01.25,Nanoha Dialogue1,,0,0,0,,Hm? Nanoha?
 Dialogue: 0,0:08:01.25,0:08:03.19,Nanoha Dialogue1,,0,0,0,,Oh, Miyuki.
 Dialogue: 0,0:08:03.19,0:08:05.99,Nanoha Dialogue1,,0,0,0,,What's wrong? You're up really early today.
@@ -330,7 +330,7 @@ Dialogue: 0,0:24:45.29,0:24:46.82,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:46.82,0:24:52.28,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:52.66,0:25:02.66,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 1,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,400)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,400)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,400)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4550,4595,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:11.71,0:25:13.18,Nanoha Narration1,,0,0,0,,With the emergence of Chrono,
 Dialogue: 0,0:25:13.18,0:25:15.18,Nanoha Narration1,,0,0,0,,the third mage,
 Dialogue: 0,0:25:15.18,0:25:18.15,Nanoha Narration1,,0,0,0,,and the truth of the Jewel Seeds finally unfolding
@@ -339,8 +339,8 @@ Dialogue: 0,0:25:20.61,0:25:25.82,Nanoha Narration1,,0,0,0,,And I find out somet
 Dialogue: 0,0:25:25.82,0:25:28.58,Nanoha Narration1,,0,0,0,,Yuuno is... Yuuno is?!
 Dialogue: 0,0:25:28.58,0:25:31.59,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:29.07,0:25:35.78,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\bord0}Episode 8
-Dialogue: 0,0:25:29.07,0:25:35.78,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&}Episode 8
+Dialogue: 0,0:25:29.07,0:25:35.78,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Episode 8
 Dialogue: 1,0:25:29.09,0:25:35.76,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}There's a Really Big Crisis?
-Dialogue: 0,0:25:29.09,0:25:35.76,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&}There's a Really Big Crisis?
+Dialogue: 0,0:25:29.09,0:25:35.76,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}There's a Really Big Crisis?
 Dialogue: 0,0:25:31.59,0:25:35.53,Nanoha Narration1,,0,0,0,,Episode 8: There's a Really Big Crisis?
 Dialogue: 0,0:25:35.53,0:25:38.06,Nanoha Narration1,,0,0,0,,Lyrical, magical, I'll do my best!

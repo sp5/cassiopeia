@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 330
-Active Line: 335
-Video Position: 36754
+Scroll Position: 324
+Active Line: 326
+Video Position: 36128
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -362,7 +362,7 @@ Dialogue: 0,0:24:45.55,0:24:49.12,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:49.12,0:24:52.92,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:52.92,0:24:58.89,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.88,0:25:09.88,Nanoha Title2,,0,0,0,,{\fad(0,900)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:05.88,0:25:09.88,Nanoha Title2,,0,0,0,,{\fad(0,900)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:05.88,0:25:09.88,Nanoha Title2,,0,0,0,,{\fad(0,900)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3100,3145,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:09.32,0:25:12.65,Nanoha Narration1,,0,0,0,,Fate got trapped in the Book of Darkness.
 Dialogue: 0,0:25:12.65,0:25:15.48,Nanoha Narration1,,0,0,0,,Hayate remains asleep in the Book of Darkness.
 Dialogue: 0,0:25:16.39,0:25:20.40,Nanoha Narration1,,0,0,0,,Past memories and sadness revive on a holy night.

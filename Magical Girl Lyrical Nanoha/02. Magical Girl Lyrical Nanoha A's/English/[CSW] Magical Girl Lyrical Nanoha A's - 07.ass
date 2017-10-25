@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 229
-Active Line: 233
-Video Position: 28462
+Scroll Position: 283
+Active Line: 288
+Video Position: 36105
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -223,7 +223,7 @@ Dialogue: 0,0:15:33.03,0:15:33.98,Nanoha Dialogue1,,0,0,0,,The sheath!
 Dialogue: 0,0:15:39.63,0:15:40.86,Nanoha Device1,,0,0,0,,Plasma Lancer
 Dialogue: 0,0:15:47.88,0:15:48.94,Nanoha Device1,,0,0,0,,Assault Form
 Dialogue: 0,0:15:54.35,0:15:55.72,Nanoha Device1,,0,0,0,,Sword Form
-Dialogue: 0,0:15:54.35,0:15:55.72,Nanoha Device2,,0,0,0,,{\pos(475,647)}Schwertform
+Dialogue: 0,0:15:54.35,0:15:55.72,Nanoha Device2,,0,0,0,,{\pos(476,647)}Schwertform
 Dialogue: 0,0:16:09.36,0:16:10.69,Nanoha Dialogue1,,0,0,0,,{\b1}Plasma...{\b0}
 Dialogue: 0,0:16:14.50,0:16:15.86,Nanoha Dialogue1,,0,0,0,,{\b1}Draconic...{\b0}
 Dialogue: 0,0:16:15.86,0:16:18.14,Nanoha Dialogue1,,0,0,0,,{\b1}...Smasher{\b0}
@@ -265,8 +265,8 @@ Dialogue: 0,0:19:06.79,0:19:08.74,Nanoha Dialogue1,,0,0,0,,I'll kick your ass...
 Dialogue: 0,0:19:08.74,0:19:11.31,Nanoha Dialogue1,,0,0,0,,...some other time!
 Dialogue: 0,0:19:12.75,0:19:15.74,Nanoha Dialogue1,,0,0,0,,Howl, Graf Eisen!
 Dialogue: 0,0:19:15.74,0:19:17.62,Nanoha Device1,,0,0,0,,Iron Howl
-Dialogue: 0,0:19:15.74,0:19:17.62,Nanoha Device2,,0,0,0,,{\pos(477,647)}Eisengeheul
-Dialogue: 0,0:19:28.50,0:19:30.26,Nanoha Dialogue1,,0,0,0,,Gotta escape!
+Dialogue: 0,0:19:15.74,0:19:17.62,Nanoha Device2,,0,0,0,,{\pos(476,647)}Eisengeheul
+Dialogue: 0,0:19:28.50,0:19:30.26,Nanoha Dialogue1,,0,0,0,,Gotta rabbit!
 Dialogue: 0,0:19:37.74,0:19:38.93,Nanoha Device1,,0,0,0,,Master.
 Dialogue: 0,0:19:41.52,0:19:42.84,Nanoha Dialogue1,,0,0,0,,Alright.
 Dialogue: 0,0:19:42.84,0:19:45.77,Nanoha Dialogue1,,0,0,0,,She can't attack me from that far away.
@@ -325,7 +325,7 @@ Dialogue: 0,0:24:45.46,0:24:49.03,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:49.03,0:24:52.83,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:52.83,0:24:58.80,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.84,0:25:09.80,Nanoha Title2,,0,0,0,,{\fad(0,1000)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:05.84,0:25:09.80,Nanoha Title2,,0,0,0,,{\fad(0,1000)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:05.84,0:25:09.80,Nanoha Title2,,0,0,0,,{\fad(0,1000)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(2960,3005,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:09.32,0:25:12.57,Nanoha Narration1,,0,0,0,,Fate's Linker Core has been taken.
 Dialogue: 0,0:25:12.57,0:25:14.45,Nanoha Narration1,,0,0,0,,The {\i0}Arthra{\i1} is back,
 Dialogue: 0,0:25:14.45,0:25:17.92,Nanoha Narration1,,0,0,0,,but the mysteries of the case grow even deeper.

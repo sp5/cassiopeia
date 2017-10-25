@@ -13,15 +13,16 @@ YCbCr Matrix: TV.601
 Aegisub Video Aspect Ratio: c1.333333
 
 [Aegisub Project Garbage]
+Automation Scripts: ~../../blur-and-glow.lua
 Last Style Storage: Default
-Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 04 (BDRip 952x720 x264 FLAC).mkv
-Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 04 (BDRip 952x720 x264 FLAC).mkv
+Audio File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 04 (BDRip 952x720 x264 FLAC).mkv
+Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 04 (BDRip 952x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 301
-Active Line: 302
-Video Position: 30795
+Scroll Position: 320
+Active Line: 325
+Video Position: 36126
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -61,11 +62,11 @@ Dialogue: 0,0:02:05.96,0:02:09.43,Nanoha OP,,0,0,0,,Releasing the deep darkness
 Dialogue: 0,0:02:09.43,0:02:15.80,Nanoha OP,,0,0,0,,It opens the door of freedom
 Dialogue: 0,0:02:15.80,0:02:22.73,Nanoha OP,,0,0,0,,Towards the strong, boundless future
 Dialogue: 1,0:02:31.49,0:02:35.98,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,667)\an5\b1\pos(476,510.5)\bord0}6:30 AM\NYagami residence, Hayate's room{\b0}
-Dialogue: 0,0:02:31.49,0:02:35.98,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,667)\an5\b1\pos(476,510.5)\c&H000000&}6:30 AM\NYagami residence, Hayate's room{\b0}
+Dialogue: 0,0:02:31.49,0:02:35.98,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,667)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)\t(3823,3868,\1a&HFF&)}6:30 AM\NYagami residence, Hayate's room{\b0}
 Dialogue: 1,0:03:18.04,0:03:21.70,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,0)\an5\b1\pos(476,510.5)\bord0}6:35 AM\NCity of Uminari, Sakuradai forest path{\b0}
-Dialogue: 0,0:03:18.04,0:03:21.70,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,0)\an5\b1\pos(476,510.5)\c&H000000&}6:35 AM\NCity of Uminari, Sakuradai forest path{\b0}
+Dialogue: 0,0:03:18.04,0:03:21.70,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(417,0)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(372,417,\1a&H00&)}6:35 AM\NCity of Uminari, Sakuradai forest path{\b0}
 Dialogue: 1,0:03:37.14,0:03:40.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\bord0}6:41 AM\NCity of Uminari, downtown, building rooftop{\b0}
-Dialogue: 0,0:03:37.14,0:03:40.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\c&H000000&}6:41 AM\NCity of Uminari, downtown, building rooftop{\b0}
+Dialogue: 0,0:03:37.14,0:03:40.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}6:41 AM\NCity of Uminari, downtown, building rooftop{\b0}
 Dialogue: 0,0:04:06.71,0:04:08.88,Nanoha Dialogue1,,0,0,0,,I'm sorry. Did I wake you?
 Dialogue: 0,0:04:10.51,0:04:11.80,Nanoha Dialogue1,,0,0,0,,No...
 Dialogue: 0,0:04:13.35,0:04:15.60,Nanoha Dialogue1,,0,0,0,,You should sleep properly on a bed.
@@ -276,7 +277,7 @@ Dialogue: 0,0:16:32.45,0:16:34.76,Nanoha Dialogue1,,0,0,0,,{\i1}Buch der Dunkelh
 Dialogue: 0,0:16:34.96,0:16:36.03,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Collecting
 Dialogue: 0,0:16:34.96,0:16:36.03,Nanoha Device1,,0,0,0,,{\pos(476,705)}Sammlung
 Dialogue: 0,0:16:45.60,0:16:48.06,Nanoha Dialogue1,,0,0,0,,That thing just now was three pages.
-Dialogue: 0,0:16:49.18,0:16:52.24,Nanoha Dialogue1,,0,0,0,,Crap, it's got a big-ass body,
+Dialogue: 0,0:16:49.18,0:16:52.24,Nanoha Dialogue1,,0,0,0,,{\i1}Mist,{\i0} it's got a big-ass body,
 Dialogue: 0,0:16:52.24,0:16:54.77,Nanoha Dialogue1,,0,0,0,,but such a dinky little Linker Core.
 Dialogue: 0,0:16:54.77,0:16:57.21,Nanoha Dialogue1,,0,0,0,,Well, it's much easier than facing a mage,
 Dialogue: 0,0:16:57.21,0:16:58.52,Nanoha Dialogue1,,0,0,0,,and the results show up faster.
@@ -364,7 +365,7 @@ Dialogue: 0,0:24:45.62,0:24:49.19,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:49.19,0:24:52.99,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:52.99,0:24:58.96,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.93,0:25:09.89,Nanoha Title2,,0,0,0,,{\fad(0,880)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:05.93,0:25:09.89,Nanoha Title2,,0,0,0,,{\fad(0,880)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:05.93,0:25:09.89,Nanoha Title2,,0,0,0,,{\fad(0,880)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3080,3125,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:08.36,0:25:10.14,Nanoha Narration1,,0,0,0,,Both Raising Heart and Bardiche
 Dialogue: 0,0:25:10.14,0:25:11.80,Nanoha Narration1,,0,0,0,,have undergone an amazing power-up!
 Dialogue: 0,0:25:11.80,0:25:14.47,Nanoha Narration1,,0,0,0,,Now we can fight at\Nfull strength, full throttle, full power!

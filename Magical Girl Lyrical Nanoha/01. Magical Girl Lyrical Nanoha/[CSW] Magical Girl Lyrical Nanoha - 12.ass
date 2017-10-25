@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 230
-Active Line: 234
-Video Position: 28143
+Scroll Position: 293
+Active Line: 298
+Video Position: 36625
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -325,14 +325,14 @@ Dialogue: 0,0:24:45.71,0:24:47.24,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.24,0:24:52.70,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:53.08,0:25:03.08,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 1,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,400)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,400)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,400)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4550,4595,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:13.47,0:25:15.94,Nanoha Narration1,,0,0,0,,The incident has finally come to an end.
 Dialogue: 0,0:25:15.94,0:25:19.51,Nanoha Narration1,,0,0,0,,Finally, the ending that arrives,\Nand the parting of the ways.
 Dialogue: 0,0:25:20.72,0:25:26.49,Nanoha Narration1,,0,0,0,,But an ending is always\Nthe beginning of something else.
 Dialogue: 0,0:25:27.63,0:25:30.20,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:27.53,0:25:35.90,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\bord0}Episode 13
-Dialogue: 0,0:25:27.53,0:25:35.90,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&}Episode 13
+Dialogue: 0,0:25:27.53,0:25:35.90,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Episode 13
 Dialogue: 1,0:25:27.53,0:25:35.90,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}Call My Name
-Dialogue: 0,0:25:27.53,0:25:35.90,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&}Call My Name
+Dialogue: 0,0:25:27.53,0:25:35.90,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Call My Name
 Dialogue: 0,0:25:30.20,0:25:33.60,Nanoha Narration1,,0,0,0,,Final episode: Call My Name
 Dialogue: 0,0:25:33.60,0:25:37.03,Nanoha Narration1,,0,0,0,,Lyrical, magical,\NI'll see you again, right?

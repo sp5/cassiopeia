@@ -20,9 +20,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 446
-Active Line: 451
-Video Position: 36588
+Scroll Position: 332
+Active Line: 335
+Video Position: 32286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -371,7 +371,7 @@ Dialogue: 0,0:22:10.98,0:22:16.13,Nanoha ED,,0,0,0,,I won't forget even when I g
 Dialogue: 0,0:22:16.13,0:22:24.05,Nanoha ED,,0,0,0,,My love, the day that we came across each other
 Dialogue: 0,0:22:24.90,0:22:29.00,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
 Dialogue: 1,0:22:26.56,0:22:32.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\fs45\pos(688.6,333)\b1\bord0\shad0}Hayate Yagami\N{\fs36}9th Grader, Seishō Junior High School.\NSpecial Investigator,\NTime-Space Administrative Bureau.{\b0}
-Dialogue: 0,0:22:26.56,0:22:32.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\fs45\pos(688.6,333)\b1\c&H000000&}Hayate Yagami\N{\fs36}9th Grader, Seishō Junior High School.\NSpecial Investigator,\NTime-Space Administrative Bureau.{\b0}
+Dialogue: 0,0:22:26.56,0:22:32.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\fs45\pos(688.6,333)\b1\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)\t(5531,5576,\1a&HFF&)}Hayate Yagami\N{\fs36}9th Grader, Seishō Junior High School.\NSpecial Investigator,\NTime-Space Administrative Bureau.{\b0}
 Dialogue: 0,0:22:26.84,0:22:27.77,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Shamal,
 Dialogue: 0,0:22:27.77,0:22:31.00,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}please send the parcel to Uncle Graham.
 Dialogue: 0,0:22:29.00,0:22:32.40,Nanoha ED,,0,0,0,,I kept you in tears
@@ -385,46 +385,46 @@ Dialogue: 0,0:22:40.95,0:22:42.82,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Hayate
 Dialogue: 0,0:22:43.92,0:22:45.30,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}I'm off!
 Dialogue: 0,0:22:47.32,0:22:53.09,Nanoha ED,,0,0,0,,That day, when the secret door opened
 Dialogue: 1,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\b1\pos(477,407)\bord0\shad0}As the brilliant mage-knight leader of the {\i1}Wolkenritter{\i0},\Nher guardian knights, she plays a large part in the investigation of cases related to Lost Logia.{\b0}
-Dialogue: 0,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\b1\pos(477,407)\c&H000000&}As the brilliant mage-knight leader of the {\i1}Wolkenritter{\i0},\Nher guardian knights, she plays a large part in the investigation of cases related to Lost Logia.{\b0}
+Dialogue: 0,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\b1\pos(477,407)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}As the brilliant mage-knight leader of the {\i1}Wolkenritter{\i0},\Nher guardian knights, she plays a large part in the investigation of cases related to Lost Logia.{\b0}
 Dialogue: 1,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\b1\i1\fs28\fad(459,0)\pos(753,344)\bord0\shad0}Cloud Knights{\b0\i0}
-Dialogue: 0,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\b1\i1\fs28\fad(459,0)\pos(753,344)\c&H000000&}Cloud Knights{\b0\i0}
+Dialogue: 0,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\b1\i1\fs28\fad(459,0)\pos(753,344)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Cloud Knights{\b0\i0}
 Dialogue: 0,0:22:54.46,0:23:00.57,Nanoha ED,,0,0,0,,I was chasing after a small white butterfly
 Dialogue: 1,0:22:55.46,0:22:58.96,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(268.333,216)\fs45\b1\bord0\shad0}Lindy Harlaown\N{\fs36}Commodore,\NTime-Space Administrative Bureau{\b0}
-Dialogue: 0,0:22:55.46,0:22:58.96,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(268.333,216)\fs45\b1\c&H000000&}Lindy Harlaown\N{\fs36}Commodore,\NTime-Space Administrative Bureau{\b0}
+Dialogue: 0,0:22:55.46,0:22:58.96,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(268.333,216)\fs45\b1\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Lindy Harlaown\N{\fs36}Commodore,\NTime-Space Administrative Bureau{\b0}
 Dialogue: 0,0:22:56.53,0:22:57.93,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}There we go.
 Dialogue: 0,0:22:59.70,0:23:02.94,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Fate, here's your lunch!
 Dialogue: 1,0:22:59.76,0:23:02.96,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\b1\pos(475,463)\bord0\shad0}After stepping down from her position as Captain, she now works a desk job at the Main Office.{\b0}
-Dialogue: 0,0:22:59.76,0:23:02.96,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\b1\pos(475,463)\c&H000000&}After stepping down from her position as Captain, she now works a desk job at the Main Office.{\b0}
+Dialogue: 0,0:22:59.76,0:23:02.96,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\b1\pos(475,463)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}After stepping down from her position as Captain, she now works a desk job at the Main Office.{\b0}
 Dialogue: 0,0:23:02.93,0:23:08.94,Nanoha ED,,0,0,0,,I got lost, and I wanted to cry
 Dialogue: 0,0:23:03.97,0:23:07.17,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Thank you, Mom.
 Dialogue: 1,0:23:04.43,0:23:09.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(310.6,360)\bord0\shad0}Fate T. Harlaown\N{\fs36}9th Grader, Seishō Junior High School.\NEnforcer, Time-Space Administrative Bureau.{\b0}
-Dialogue: 0,0:23:04.43,0:23:09.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(310.6,360)\c&H000000&}Fate T. Harlaown\N{\fs36}9th Grader, Seishō Junior High School.\NEnforcer, Time-Space Administrative Bureau.{\b0}
+Dialogue: 0,0:23:04.43,0:23:09.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(310.6,360)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Fate T. Harlaown\N{\fs36}9th Grader, Seishō Junior High School.\NEnforcer, Time-Space Administrative Bureau.{\b0}
 Dialogue: 0,0:23:08.94,0:23:12.34,Nanoha ED,,0,0,0,,My true wishes, my true feelings
 Dialogue: 1,0:23:11.94,0:23:15.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(476,469)\bord0\shad0}Along with her familiar, Arf, she is handling front-line duties as an Enforcer.{\b0}
-Dialogue: 0,0:23:11.94,0:23:15.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(476,469)\c&H000000&}Along with her familiar, Arf, she is handling front-line duties as an Enforcer.{\b0}
+Dialogue: 0,0:23:11.94,0:23:15.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(476,469)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)\t(3531,3576,\1a&HFF&)}Along with her familiar, Arf, she is handling front-line duties as an Enforcer.{\b0}
 Dialogue: 0,0:23:12.34,0:23:17.01,Nanoha ED,,0,0,0,,Maybe you taught those to me
 Dialogue: 0,0:23:17.01,0:23:21.12,Nanoha ED,,0,0,0,,Guarded by such kind feelings
 Dialogue: 1,0:23:18.86,0:23:22.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(263.6,339)\bord0\shad0}Chrono Harlaown{\fs36}\NCommodore,\NTime-Space Administrative Bureau.\NCaptain of the {\i1}Arthra.{\i0\b0}
-Dialogue: 0,0:23:18.86,0:23:22.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(263.6,339)\c&H000000&}Chrono Harlaown{\fs36}\NCommodore,\NTime-Space Administrative Bureau.\NCaptain of the {\i1}Arthra.{\i0\b0}
+Dialogue: 0,0:23:18.86,0:23:22.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(263.6,339)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Chrono Harlaown{\fs36}\NCommodore,\NTime-Space Administrative Bureau.\NCaptain of the {\i1}Arthra.{\i0\b0}
 Dialogue: 0,0:23:19.62,0:23:20.80,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Everyone's getting together
 Dialogue: 0,0:23:20.80,0:23:22.35,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}for the first time in a while.
 Dialogue: 0,0:23:21.12,0:23:24.69,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time
 Dialogue: 0,0:23:22.35,0:23:24.02,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}You're right.
 Dialogue: 1,0:23:23.62,0:23:27.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(268.333,358)\bord0\shad0}Amy Limietta{\fs36}\NCommander,\NTime-Space Administrative Bureau{\b0}
-Dialogue: 0,0:23:23.62,0:23:27.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(268.333,358)\c&H000000&}Amy Limietta{\fs36}\NCommander,\NTime-Space Administrative Bureau{\b0}
+Dialogue: 0,0:23:23.62,0:23:27.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(268.333,358)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Amy Limietta{\fs36}\NCommander,\NTime-Space Administrative Bureau{\b0}
 Dialogue: 0,0:23:24.02,0:23:26.06,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}It might be for the first time
 Dialogue: 0,0:23:26.06,0:23:27.96,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}since you became Captain, Chrono.
 Dialogue: 0,0:23:24.69,0:23:28.36,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:23:27.96,0:23:30.29,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Well, it's a peaceful mission.
 Dialogue: 0,0:23:28.36,0:23:34.46,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:23:29.46,0:23:32.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(530,466)\bord0\shad0}Even though they both got promoted, they still work well together.{\b0}
-Dialogue: 0,0:23:29.46,0:23:32.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(530,466)\c&H000000&}Even though they both got promoted, they still work well together.{\b0}
+Dialogue: 0,0:23:29.46,0:23:32.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(530,466)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)\t(2531,2576,\1a&HFF&)}Even though they both got promoted, they still work well together.{\b0}
 Dialogue: 0,0:23:30.29,0:23:32.23,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}It's like a little reunion.
 Dialogue: 0,0:23:32.23,0:23:33.73,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Seems that way.
 Dialogue: 0,0:23:34.82,0:23:36.04,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yuuno, how about you?
 Dialogue: 0,0:23:36.04,0:23:37.96,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yeah, I'm right on time.
 Dialogue: 1,0:23:37.55,0:23:43.04,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\pos(698.667,338)\fs45\b1\bord0\shad0}Yuuno Scrya{\fs36}\NChief Librarian,\NTime-Space Administrative Bureau\NDatabase, Infinity Library{\b0}
-Dialogue: 0,0:23:37.55,0:23:43.04,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\pos(698.667,338)\fs45\b1\c&H000000&}Yuuno Scrya{\fs36}\NChief Librarian,\NTime-Space Administrative Bureau\NDatabase, Infinity Library{\b0}
+Dialogue: 0,0:23:37.55,0:23:43.04,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\pos(698.667,338)\fs45\b1\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)\t(5031,5076,\1a&HFF&)}Yuuno Scrya{\fs36}\NChief Librarian,\NTime-Space Administrative Bureau\NDatabase, Infinity Library{\b0}
 Dialogue: 0,0:23:37.96,0:23:38.99,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}That's right, Yuuno,
 Dialogue: 0,0:23:38.99,0:23:40.83,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Has anything happened
 Dialogue: 0,0:23:40.83,0:23:42.44,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}between you and Nanoha?
@@ -434,7 +434,7 @@ Dialogue: 0,0:23:45.50,0:23:47.53,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}but no
 Dialogue: 0,0:23:47.08,0:23:52.98,Nanoha ED,,0,0,0,,But everyone passes by those times
 Dialogue: 0,0:23:47.53,0:23:48.41,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Oh, dear.
 Dialogue: 1,0:23:48.06,0:23:53.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(477,466)\bord0\shad0}Alongside his librarian position, he published a paper on ancient history and gained a good reputation as a scholar.{\b0}
-Dialogue: 0,0:23:48.06,0:23:53.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(477,466)\c&H000000&}Alongside his librarian position, he published a paper on ancient history and gained a good reputation as a scholar.{\b0}
+Dialogue: 0,0:23:48.06,0:23:53.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(477,466)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)\t(5031,5076,\1a&HFF&)}Alongside his librarian position, he published a paper on ancient history and gained a good reputation as a scholar.{\b0}
 Dialogue: 0,0:23:48.41,0:23:51.12,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Amy, it's work time, you know.
 Dialogue: 0,0:23:51.12,0:23:52.25,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yeah, yeah.
 Dialogue: 0,0:23:55.25,0:24:01.13,Nanoha ED,,0,0,0,,During hard times, just remember
@@ -443,7 +443,7 @@ Dialogue: 0,0:24:00.26,0:24:01.25,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Nanoha
 Dialogue: 0,0:24:01.13,0:24:04.76,Nanoha ED,,0,0,0,,True tears and true smiles
 Dialogue: 0,0:24:02.53,0:24:05.10,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Alisa! Suzuka!
 Dialogue: 1,0:24:03.45,0:24:07.65,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(291.6,323)\bord0\shad0}Nanoha Takamachi{\fs36}\N9th Grader, Seishō Junior High School.\NTactical Combat Instructor,\NTime-Space Administrative Bureau\NArmed Services.{\b0}
-Dialogue: 0,0:24:03.45,0:24:07.65,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(291.6,323)\c&H000000&}Nanoha Takamachi{\fs36}\N9th Grader, Seishō Junior High School.\NTactical Combat Instructor,\NTime-Space Administrative Bureau\NArmed Services.{\b0}
+Dialogue: 0,0:24:03.45,0:24:07.65,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(291.6,323)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Nanoha Takamachi{\fs36}\N9th Grader, Seishō Junior High School.\NTactical Combat Instructor,\NTime-Space Administrative Bureau\NArmed Services.{\b0}
 Dialogue: 0,0:24:04.76,0:24:09.10,Nanoha ED,,0,0,0,,Are polished through ordinary encounters
 Dialogue: 0,0:24:07.63,0:24:08.73,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Good morning.
 Dialogue: 0,0:24:08.73,0:24:10.37,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)\c&HE1E1E1&}Good morning.
@@ -452,7 +452,7 @@ Dialogue: 0,0:24:10.37,0:24:11.63,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Do you
 Dialogue: 0,0:24:11.63,0:24:13.00,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yeah.
 Dialogue: 0,0:24:13.00,0:24:15.61,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}We're all getting together today.
 Dialogue: 1,0:24:13.12,0:24:17.62,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,432)\b1\bord0\shad0}Along with training incoming staff in combat tactics, she is doing amazing work as an investigations officer.{\b0}
-Dialogue: 0,0:24:13.12,0:24:17.62,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,432)\b1\c&H000000&}Along with training incoming staff in combat tactics, she is doing amazing work as an investigations officer.{\b0}
+Dialogue: 0,0:24:13.12,0:24:17.62,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,432)\b1\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Along with training incoming staff in combat tactics, she is doing amazing work as an investigations officer.{\b0}
 Dialogue: 0,0:24:13.50,0:24:17.14,Nanoha ED,,0,0,0,,The days when we met
 Dialogue: 0,0:24:15.61,0:24:17.73,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}I'm gonna leave after lunch,
 Dialogue: 0,0:24:17.73,0:24:19.28,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}so can you please lend me your notes?
@@ -470,10 +470,10 @@ Dialogue: 0,0:24:30.56,0:24:31.42,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yeah.
 Dialogue: 0,0:24:31.42,0:24:33.61,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}I'm really looking forward to it.
 Dialogue: 0,0:24:40.43,0:24:46.17,Nanoha ED,,0,0,0,,I want to smile like the flowers
 Dialogue: 1,0:24:40.65,0:24:44.14,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\pos(327.333,251)\b1\bord0\shad0}Gil Graham{\fs36}\NRetired Admiral,\NTime-Space Administrative Bureau{\b0}
-Dialogue: 0,0:24:40.65,0:24:44.14,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\pos(327.333,251)\b1\c&H000000&}Gil Graham{\fs36}\NRetired Admiral,\NTime-Space Administrative Bureau{\b0}
+Dialogue: 0,0:24:40.65,0:24:44.14,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\pos(327.333,251)\b1\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Gil Graham{\fs36}\NRetired Admiral,\NTime-Space Administrative Bureau{\b0}
 Dialogue: 0,0:24:46.17,0:24:50.01,Nanoha ED,,0,0,0,,True tears and true smiles
 Dialogue: 1,0:24:48.12,0:24:52.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(478,467)\bord0\shad0}After his return to his hometown in England, he has retired and is spending time with his familiars.{\b0}
-Dialogue: 0,0:24:48.12,0:24:52.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(478,467)\c&H000000&}After his return to his hometown in England, he has retired and is spending time with his familiars.{\b0}
+Dialogue: 0,0:24:48.12,0:24:52.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(478,467)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)\t(4031,4076,\1a&HFF&)}After his return to his hometown in England, he has retired and is spending time with his familiars.{\b0}
 Dialogue: 0,0:24:50.01,0:24:54.55,Nanoha ED,,0,0,0,,Appear in innocent hearts
 Dialogue: 0,0:24:54.55,0:24:58.68,Nanoha ED,,0,0,0,,I won't forget even\Nwhen I grow up
 Dialogue: 0,0:24:56.80,0:25:02.25,Nanoha Narration1,,0,0,0,,{\an9}The bond we forged\Nthat day is still strong.

@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 425
-Active Line: 427
-Video Position: 36299
+Scroll Position: 419
+Active Line: 424
+Video Position: 36106
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -463,7 +463,7 @@ Dialogue: 0,0:24:45.51,0:24:49.08,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:49.08,0:24:52.88,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:52.88,0:24:58.85,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.88,0:25:09.88,Nanoha Title2,,0,0,0,,{\fad(0,1000)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:05.88,0:25:09.88,Nanoha Title2,,0,0,0,,{\fad(0,1000)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:05.88,0:25:09.88,Nanoha Title2,,0,0,0,,{\fad(0,1000)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3000,3045,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:09.38,0:25:11.48,Nanoha Narration1,,0,0,0,,The Book of Darkness is almost complete,
 Dialogue: 0,0:25:11.48,0:25:13.83,Nanoha Narration1,,0,0,0,,but then {\i0}that{\i1} happened.
 Dialogue: 0,0:25:13.83,0:25:17.24,Nanoha Narration1,,0,0,0,,Was it coincidence or necessity,

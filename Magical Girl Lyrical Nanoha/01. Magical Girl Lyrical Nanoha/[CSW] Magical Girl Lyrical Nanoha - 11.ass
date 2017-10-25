@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 207
-Active Line: 212
-Video Position: 29637
+Scroll Position: 265
+Active Line: 266
+Video Position: 36622
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -292,7 +292,7 @@ Dialogue: 0,0:24:46.77,0:24:48.30,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:48.30,0:24:53.76,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:54.14,0:25:04.14,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 1,0:25:10.89,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:10.89,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:10.89,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4500,4545,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:12.46,0:25:14.32,Nanoha Narration1,,0,0,0,,The dimensional tremor has been set off.
 Dialogue: 0,0:25:14.32,0:25:15.83,Nanoha Narration1,,0,0,0,,We head into the
 Dialogue: 0,0:25:15.83,0:25:18.32,Nanoha Narration1,,0,0,0,,Garden of Time to stop Presea.
@@ -300,8 +300,8 @@ Dialogue: 0,0:25:18.32,0:25:24.32,Nanoha Narration1,,0,0,0,,So that many worlds 
 Dialogue: 0,0:25:24.32,0:25:27.06,Nanoha Narration1,,0,0,0,,And at that moment, Fate...
 Dialogue: 0,0:25:27.06,0:25:30.00,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 0,0:25:30.00,0:25:34.51,Nanoha Narration1,,0,0,0,,Episode 12: When Our Fates Are Sealed
-Dialogue: 1,0:25:27.39,0:25:35.64,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\bord0}Episode 12
-Dialogue: 0,0:25:27.39,0:25:35.64,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&}Episode 12
-Dialogue: 1,0:25:27.39,0:25:35.64,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}When Our Fates Are Sealed
-Dialogue: 0,0:25:27.39,0:25:35.64,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&}When Our Fates Are Sealed
+Dialogue: 1,0:25:27.41,0:25:35.70,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\bord0}Episode 12
+Dialogue: 0,0:25:27.41,0:25:35.70,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Episode 12
+Dialogue: 1,0:25:27.41,0:25:35.70,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}When Our Fates Are Sealed
+Dialogue: 0,0:25:27.41,0:25:35.70,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}When Our Fates Are Sealed
 Dialogue: 0,0:25:34.51,0:25:38.11,Nanoha Narration1,,0,0,0,,Lyrical, magical, until the very end, I'm sure!

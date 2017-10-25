@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 347
-Active Line: 352
-Video Position: 36688
+Scroll Position: 337
+Active Line: 342
+Video Position: 36107
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -102,15 +102,15 @@ Dialogue: 0,0:04:51.51,0:04:56.14,Nanoha Dialogue1,,0,0,0,,That's right, Lævate
 Dialogue: 0,0:05:07.13,0:05:10.74,Nanoha Dialogue1,,0,0,0,,We are not here to fight against you!
 Dialogue: 0,0:05:10.74,0:05:12.91,Nanoha Dialogue1,,0,0,0,,At least let us hear you out.
 Dialogue: 0,0:05:12.91,0:05:15.67,Nanoha Dialogue1,,0,0,0,,The reason you're aiming to complete the Book of Darkness...
-Dialogue: 0,0:05:15.67,0:05:19.61,Nanoha Dialogue1,,0,0,0,,You know, there's an old Belkan proverb.
+Dialogue: 0,0:05:15.67,0:05:19.61,Nanoha Dialogue1,,0,0,0,,Y'know, there's an old Belkan proverb.
 Dialogue: 0,0:05:20.80,0:05:23.54,Nanoha Dialogue1,,0,0,0,,Messengers of peace don't carry spears.
-Dialogue: 0,0:05:28.72,0:05:31.32,Nanoha Dialogue1,,0,0,0,,It means, no doofus is gonna bring a weapon
+Dialogue: 0,0:05:28.72,0:05:31.32,Nanoha Dialogue1,,0,0,0,,It means, only a doofus is gonna bring a weapon
 Dialogue: 0,0:05:31.32,0:05:33.76,Nanoha Dialogue1,,0,0,0,,when they want to just talk things out!
 Dialogue: 0,0:05:33.76,0:05:34.62,Nanoha Dialogue1,,0,0,0,,Doofus!
 Dialogue: 0,0:05:35.84,0:05:40.60,Nanoha Dialogue1,,0,0,0,,This from the girl who suddenly attacked us without a word?!
 Dialogue: 0,0:05:40.60,0:05:43.30,Nanoha Dialogue1,,0,0,0,,By the way, that's not a proverb,
 Dialogue: 0,0:05:43.30,0:05:44.84,Nanoha Dialogue1,,0,0,0,,but the punch line in a short story.
-Dialogue: 0,0:05:44.84,0:05:47.38,Nanoha Dialogue1,,0,0,0,,Shut up! Don't sweat the details!
+Dialogue: 0,0:05:44.84,0:05:47.38,Nanoha Dialogue1,,0,0,0,,Hey, can it! Don't sweat the details!
 Dialogue: 0,0:06:03.19,0:06:04.20,Nanoha Dialogue1,,0,0,0,,Signum!
 Dialogue: 0,0:06:12.26,0:06:15.38,Nanoha Dialogue1,,0,0,0,,Yuuno, Chrono,\Ndon't get involved in this!
 Dialogue: 0,0:06:15.38,0:06:17.76,Nanoha Dialogue1,,0,0,0,,I'm going to fight one-on-one with that girl!
@@ -138,8 +138,8 @@ Dialogue: 0,0:07:30.34,0:07:31.24,Nanoha Device1,,0,0,0,,Sir.
 Dialogue: 0,0:07:32.51,0:07:33.62,Nanoha Dialogue1,,0,0,0,,I'll do the same.
 Dialogue: 0,0:07:35.05,0:07:37.14,Nanoha Dialogue1,,0,0,0,,Bardiche, Cartridge Load!
 Dialogue: 0,0:07:37.14,0:07:39.01,Nanoha Device1,,0,0,0,,Load Cartridge
-Dialogue: 0,0:07:51.06,0:07:55.50,Nanoha Dialogue1,,0,0,0,,They have strengthened their Devices.\NBe careful, Vita.
-Dialogue: 0,0:07:55.50,0:07:57.08,Nanoha Dialogue1,,0,0,0,,You don't have to tell me!
+Dialogue: 0,0:07:51.06,0:07:55.35,Nanoha Dialogue1,,0,0,0,,They have strengthened their Devices.\NBe careful, Vita.
+Dialogue: 0,0:07:55.35,0:07:57.08,Nanoha Dialogue1,,0,0,0,,Like I don't know that!
 Dialogue: 0,0:08:13.25,0:08:15.08,Nanoha Dialogue1,,0,0,0,,So you're going to fight after all!
 Dialogue: 0,0:08:15.08,0:08:19.33,Nanoha Dialogue1,,0,0,0,,If I win, I'm going to have you tell me your story! Got that?!
 Dialogue: 0,0:08:19.42,0:08:23.36,Nanoha Dialogue1,,0,0,0,,If you can, you're welcome to try!
@@ -381,7 +381,7 @@ Dialogue: 0,0:24:45.64,0:24:49.21,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:49.21,0:24:53.01,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:53.01,0:24:58.98,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,910)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,910)\blur0.5\c&HFFFFFF&\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,910)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3080,3125,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:09.36,0:25:10.64,Nanoha Narration1,,0,0,0,,Somehow, things are getting
 Dialogue: 0,0:25:10.64,0:25:12.50,Nanoha Narration1,,0,0,0,,more and more complicated.
 Dialogue: 0,0:25:12.50,0:25:15.86,Nanoha Narration1,,0,0,0,,Artificial lives, destiny that has been determined...
