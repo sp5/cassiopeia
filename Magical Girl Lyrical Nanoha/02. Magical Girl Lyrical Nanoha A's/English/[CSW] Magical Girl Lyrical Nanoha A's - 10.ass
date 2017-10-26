@@ -127,7 +127,7 @@ Dialogue: 0,0:07:58.74,0:08:01.25,Nanoha Dialogue1,,0,0,0,,To those who injured
 Dialogue: 0,0:08:01.25,0:08:03.58,Nanoha Dialogue1,,0,0,0,,our dear guardians,
 Dialogue: 0,0:08:05.08,0:08:07.34,Nanoha Dialogue1,,0,0,0,,I shall unleash total destruction.
 Dialogue: 0,0:08:08.53,0:08:10.23,Nanoha Device1,,0,0,0,,Magical Prison
-Dialogue: 0,0:08:08.53,0:08:10.23,Nanoha Device2,,0,0,0,,{\pos(477,647)}Gefängnis der Magie
+Dialogue: 0,0:08:08.53,0:08:10.23,Nanoha Device2,,0,0,0,,{\pos(476,647)}Gefängnis der Magie
 Dialogue: 0,0:08:21.05,0:08:22.18,Nanoha Dialogue1,,0,0,0,,What is it?
 Dialogue: 0,0:08:22.18,0:08:24.52,Nanoha Dialogue1,,0,0,0,,It's the same barrier\Nthe knights used to trap us!
 Dialogue: 0,0:08:24.52,0:08:28.49,Nanoha Dialogue1,,0,0,0,,She's really after us.
@@ -214,7 +214,7 @@ Dialogue: 0,0:13:34.83,0:13:37.58,Nanoha Device1,,0,0,0,,Divine Buster Extension
 Dialogue: 0,0:13:37.58,0:13:39.69,Nanoha Dialogue1,,0,0,0,,Shoot!
 Dialogue: 0,0:13:44.50,0:13:45.50,Nanoha Dialogue1,,0,0,0,,Shield.
 Dialogue: 0,0:13:45.50,0:13:47.00,Nanoha Device1,,0,0,0,,Armored Shield
-Dialogue: 0,0:13:45.50,0:13:47.00,Nanoha Device2,,0,0,0,,{\pos(477,647)}Panzerschild
+Dialogue: 0,0:13:45.50,0:13:47.00,Nanoha Device2,,0,0,0,,{\pos(476,647)}Panzerschild
 Dialogue: 0,0:13:53.64,0:13:57.39,Nanoha Dialogue1,,0,0,0,,Launch the fangs. Dye them in blood.
 Dialogue: 0,0:13:58.22,0:13:59.84,Nanoha Device1,,0,0,0,,Bloody Dagger
 Dialogue: 0,0:13:58.22,0:13:59.84,Nanoha Device2,,0,0,0,,{\pos(476,647)}Blutiger Dolch

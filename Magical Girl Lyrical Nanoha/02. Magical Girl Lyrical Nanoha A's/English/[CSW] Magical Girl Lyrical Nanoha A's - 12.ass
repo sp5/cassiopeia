@@ -209,7 +209,7 @@ Dialogue: 0,0:12:44.48,0:12:45.28,Nanoha Dialogue1,,0,0,0,,Shamal!
 Dialogue: 0,0:12:45.28,0:12:48.28,Nanoha Dialogue1,,0,0,0,,Yes. I'll treat their wounds.
 Dialogue: 0,0:12:48.28,0:12:51.72,Nanoha Dialogue1,,0,0,0,,Klarwind, it's up to you.
 Dialogue: 0,0:12:51.72,0:12:52.82,Nanoha Device1,,0,0,0,,Yes.
-Dialogue: 0,0:12:51.72,0:12:52.82,Nanoha Device2,,0,0,0,,{\pos(475,647)}Ja.
+Dialogue: 0,0:12:51.72,0:12:52.82,Nanoha Device2,,0,0,0,,{\pos(476,647)}Ja.
 Dialogue: 0,0:12:52.82,0:12:54.79,Nanoha Dialogue1,,0,0,0,,O quiet wind,
 Dialogue: 0,0:12:54.79,0:12:57.02,Nanoha Dialogue1,,0,0,0,,please deliver a boon of healing.
 Dialogue: 0,0:13:14.18,0:13:19.13,Nanoha Dialogue1,,0,0,0,,Shamal, Knight of the Lake, and Klarwind, the Rings of Wind.
@@ -234,12 +234,12 @@ Dialogue: 0,0:14:27.31,0:14:34.15,Nanoha Insert Song,,0,0,0,,The warmth of the h
 Dialogue: 0,0:14:29.51,0:14:33.87,Nanoha Dialogue1,,0,0,0,,Vita, Knight of the Steel Hammer, and Graf Eisen, the Iron Count!
 Dialogue: 0,0:14:34.15,0:14:41.46,Nanoha Insert Song,,0,0,0,,The piled feelings pass through the sky
 Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device1,,0,0,0,,Giant Form
-Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device2,,0,0,0,,{\pos(478,647)}Gigantform
+Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device2,,0,0,0,,{\pos(476,647)}Gigantform
 Dialogue: 0,0:14:41.46,0:14:48.83,Nanoha Insert Song,,0,0,0,,This wish of the wind dries the tears
 Dialogue: 0,0:14:47.27,0:14:50.00,Nanoha Dialogue1,,0,0,0,,Roaring heaven blast!
 Dialogue: 0,0:14:48.83,0:14:57.91,Nanoha Insert Song,,0,0,0,,The released power becomes a sword and pierces through
 Dialogue: 0,0:14:50.94,0:14:53.81,Nanoha Dialogue1,,0,0,0,,{\b1}Giant Smash{\b0}
-Dialogue: 0,0:14:50.94,0:14:53.81,Nanoha Device2,,0,0,0,,{\b1\i0\pos(475,647)}Gigantschlag{\b0\i1}
+Dialogue: 0,0:14:50.94,0:14:53.81,Nanoha Device2,,0,0,0,,{\b1\i0\pos(476,647)}Gigantschlag{\b0\i1}
 Dialogue: 0,0:14:57.91,0:15:02.81,Nanoha Insert Song,,0,0,0,,The end is the song of the beginning
 Dialogue: 0,0:15:00.04,0:15:04.23,Nanoha Dialogue1,,0,0,0,,Nanoha Takamachi and\NRaising Heart Excelion, ready to go!
 Dialogue: 0,0:15:02.81,0:15:06.18,Nanoha Insert Song,,0,0,0,,The song of the departing bird
@@ -262,7 +262,7 @@ Dialogue: 0,0:16:04.43,0:16:08.96,Nanoha Dialogue1,,0,0,0,,Its alternate form,\N
 Dialogue: 0,0:16:06.98,0:16:13.92,Nanoha Insert Song,,0,0,0,,I realized what the true treasure was
 Dialogue: 0,0:16:13.92,0:16:17.29,Nanoha Insert Song,,0,0,0,,I'll never hesitate
 Dialogue: 0,0:16:16.89,0:16:18.16,Nanoha Device1,,0,0,0,,Bow Form
-Dialogue: 0,0:16:16.89,0:16:18.16,Nanoha Device2,,0,0,0,,{\pos(478,647)}Bogenform
+Dialogue: 0,0:16:16.89,0:16:18.16,Nanoha Device2,,0,0,0,,{\pos(476,647)}Bogenform
 Dialogue: 0,0:16:17.29,0:16:23.23,Nanoha Insert Song,,0,0,0,,For you and for me
 Dialogue: 0,0:16:23.23,0:16:31.57,Nanoha Insert Song,,0,0,0,,The tears turn into a rainbow and shine in seven colors
 Dialogue: 0,0:16:30.09,0:16:31.86,Nanoha Dialogue1,,0,0,0,,Fly, falcon!
