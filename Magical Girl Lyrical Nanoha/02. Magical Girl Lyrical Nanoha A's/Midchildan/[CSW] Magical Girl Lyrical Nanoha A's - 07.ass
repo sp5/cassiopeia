@@ -14,14 +14,14 @@ Aegisub Video Aspect Ratio: c1.333333
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 07 (BDRip 952x720 x264 FLAC).mkv
-Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 07 (BDRip 952x720 x264 FLAC).mkv
+Audio File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 07 (BDRip 952x720 x264 FLAC).mkv
+Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 07 (BDRip 952x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 265
-Active Line: 266
-Video Position: 32651
+Scroll Position: 111
+Active Line: 112
+Video Position: 12457
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -149,7 +149,7 @@ Dialogue: 0,0:08:09.70,0:08:12.46,Nanoha Dialogue1,,0,0,0,,Let's go, Bardiche!
 Dialogue: 0,0:08:12.46,0:08:13.58,Nanoha Device1,,0,0,0,,Yes, sir.
 Dialogue: 0,0:08:25.37,0:08:28.17,Nanoha Dialogue1,,0,0,0,,Small wonder that Vita had such a hard time.
 Dialogue: 0,0:08:28.17,0:08:30.30,Nanoha Dialogue1,,0,0,0,,This is a slightly troublesome opponent.
-Dialogue: 0,0:08:39.55,0:08:41.25,Nanoha Dialogue1,,0,0,0,,Dammit...
+Dialogue: 0,0:08:39.55,0:08:41.25,Nanoha Dialogue1,,0,0,0,,{\i1}Verdammt...{\i0}
 Dialogue: 0,0:08:51.37,0:08:53.80,Nanoha Device1,,0,0,0,,Thunder Blade
 Dialogue: 0,0:09:04.57,0:09:06.04,Nanoha Dialogue1,,0,0,0,,Break!
 Dialogue: 0,0:09:18.80,0:09:21.18,Nanoha Dialogue1,,0,0,0,,Are you worried about your mistress?
@@ -261,7 +261,7 @@ Dialogue: 0,0:18:51.76,0:18:55.80,Nanoha Narration1,,0,0,0,,I can only fill page
 Dialogue: 0,0:18:55.80,0:19:00.52,Nanoha Narration1,,0,0,0,,In other words, even if I beat her,\Nshe won't turn into new pages.
 Dialogue: 0,0:19:01.47,0:19:04.28,Nanoha Narration1,,0,0,0,,I'd like to avoid wasting cartridges too.
 Dialogue: 0,0:19:05.61,0:19:06.79,Nanoha Dialogue1,,0,0,0,,Vita...
-Dialogue: 0,0:19:06.79,0:19:08.74,Nanoha Dialogue1,,0,0,0,,I'll kick your {\i1}Arsch...{\i0}
+Dialogue: 0,0:19:06.79,0:19:08.74,Nanoha Dialogue1,,0,0,0,,I'll kick your {\i1}Hintern...{\i0}
 Dialogue: 0,0:19:08.74,0:19:11.31,Nanoha Dialogue1,,0,0,0,,...some other time!
 Dialogue: 0,0:19:12.75,0:19:15.74,Nanoha Dialogue1,,0,0,0,,Howl, Graf Eisen!
 Dialogue: 0,0:19:15.74,0:19:17.62,Nanoha Device1,,0,0,0,,Eisengeheul
