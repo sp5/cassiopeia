@@ -20,9 +20,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 271
-Active Line: 276
-Video Position: 2927
+Scroll Position: 13
+Active Line: 14
+Video Position: 2640
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,8 +55,8 @@ Dialogue: 0,0:01:21.16,0:01:26.96,Nanoha OP,,0,0,0,,An eternal blaze that stoppe
 Dialogue: 0,0:01:26.96,0:01:30.43,Nanoha OP,,0,0,0,,Releasing the deep darkness
 Dialogue: 0,0:01:30.43,0:01:36.80,Nanoha OP,,0,0,0,,It opens the door of freedom
 Dialogue: 0,0:01:36.80,0:01:43.73,Nanoha OP,,0,0,0,,Towards the strong, boundless future
-Dialogue: 1,0:01:50.07,0:01:55.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(917,0)\an5\b1\pos(476,510.5)\bord0}June 6, 9:05 PM\NCity of Uminari, Nakaoka district{\b0}
-Dialogue: 0,0:01:50.07,0:01:55.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(917,0)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(0,917,\1a&H00&)}June 6, 9:05 PM\NCity of Uminari, Nakaoka district{\b0}
+Dialogue: 1,0:01:50.07,0:01:55.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(917,0)\an5\b1\pos(476,510.5)\bord0}June 3, 9:05 PM\NCity of Uminari, Nakaoka district{\b0}
+Dialogue: 0,0:01:50.07,0:01:55.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(917,0)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(0,917,\1a&H00&)}June 3, 9:05 PM\NCity of Uminari, Nakaoka district{\b0}
 Dialogue: 0,0:02:02.04,0:02:05.08,Nanoha Clock,,0,0,0,,{\fax-0.2\pos(415,398)\blur0.5\frz358.3}Sat
 Dialogue: 0,0:02:08.98,0:02:11.69,Nanoha Dialogue1,,0,0,0,,{\i1}You have one new message.{\i0}
 Dialogue: 0,0:02:13.68,0:02:17.57,Nanoha Dialogue1,,0,0,0,,Hello, this is Dr. Ishida from\NUminari University Hospital.
