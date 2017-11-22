@@ -28,7 +28,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H407E1A30,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
+Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
 Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
@@ -76,7 +76,7 @@ Dialogue: 0,0:03:18.93,0:03:21.34,Nanoha Dialogue1,,0,0,0,,Yeah, let's have a bl
 Dialogue: 0,0:03:21.34,0:03:23.57,Nanoha Dialogue1,,0,0,0,,Whose house should we hold it in?
 Dialogue: 0,0:03:23.57,0:03:26.45,Nanoha Dialogue1,,0,0,0,,Hmm... how about Café Midoriya?
 Dialogue: 1,0:03:37.93,0:03:44.01,Nanoha A's Title1,,0,0,0,,{\an5\pos(476,540)\blur0.5\frx-30\bord0}Once Again, the Storms of Battle
-Dialogue: 0,0:03:37.93,0:03:44.01,Nanoha A's Title1,,0,0,0,,{\an5\pos(476,540)\blur4\frx-30\c&H7E1A30&}Once Again, the Storms of Battle
+Dialogue: 0,0:03:37.93,0:03:44.01,Nanoha A's Title1,,0,0,0,,{\an5\pos(476,540)\blur4\frx-30\c&H901E38&}Once Again, the Storms of Battle
 Dialogue: 0,0:03:49.00,0:03:52.03,Nanoha Dialogue1,,0,0,0,,Magical attacks on civilians...
 Dialogue: 0,0:03:52.03,0:03:54.08,Nanoha Dialogue1,,0,0,0,,This crime won't be a mere felony.
 Dialogue: 0,0:03:54.08,0:03:58.66,Nanoha Dialogue1,,0,0,0,,Who the hell are you?\NA mage from the Bureau?

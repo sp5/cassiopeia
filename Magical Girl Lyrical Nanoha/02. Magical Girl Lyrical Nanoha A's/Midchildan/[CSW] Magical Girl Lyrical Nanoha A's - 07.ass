@@ -28,7 +28,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H407E1A30,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
+Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
 Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
@@ -77,7 +77,7 @@ Dialogue: 0,0:03:14.99,0:03:19.85,Nanoha Dialogue1,,0,0,0,,I feel bad about havi
 Dialogue: 0,0:03:19.85,0:03:22.73,Nanoha Dialogue1,,0,0,0,,But she's together with her good friends,
 Dialogue: 0,0:03:22.73,0:03:25.26,Nanoha Dialogue1,,0,0,0,,so she looks like she's enjoying it as she works.
 Dialogue: 1,0:03:34.93,0:03:40.97,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,520)\bord0}With the Broken Past and Present
-Dialogue: 0,0:03:34.93,0:03:40.97,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,520)\c&H7E1A30&}With the Broken Past and Present
+Dialogue: 0,0:03:34.93,0:03:40.97,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,520)\c&H901E38&}With the Broken Past and Present
 Dialogue: 0,0:03:47.62,0:03:49.83,Nanoha Dialogue1,,0,0,0,,There sure are a lot of them.
 Dialogue: 0,0:03:49.83,0:03:53.53,Nanoha Dialogue1,,0,0,0,,Well, lately all of them have similar specs.
 Dialogue: 0,0:03:53.53,0:03:56.60,Nanoha Dialogue1,,0,0,0,,So I think you can choose by how it looks, right?

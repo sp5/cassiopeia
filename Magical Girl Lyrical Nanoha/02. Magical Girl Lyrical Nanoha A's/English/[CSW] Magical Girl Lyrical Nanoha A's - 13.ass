@@ -20,14 +20,14 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 332
-Active Line: 335
-Video Position: 32286
+Scroll Position: 347
+Active Line: 349
+Video Position: 32818
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Dialogue2,Noto Sans,36,&H00FFFFFF,&H000000FF,&H1F000000,&H00000000,0,0,0,0,100,100,0,0,1,0.2,2.1,5,79,79,23,1
+Style: Nanoha Dialogue2,Noto Sans SemiCondensed Bold,36,&H00FFFFFF,&H000000FF,&H1F000000,&H00000000,0,0,0,0,100,100,0,0,1,0.1,2.1,5,79,79,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
@@ -384,10 +384,10 @@ Dialogue: 0,0:22:36.97,0:22:38.29,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Okay!
 Dialogue: 0,0:22:40.95,0:22:42.82,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Hayate, see you later!
 Dialogue: 0,0:22:43.92,0:22:45.30,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}I'm off!
 Dialogue: 0,0:22:47.32,0:22:53.09,Nanoha ED,,0,0,0,,That day, when the secret door opened
-Dialogue: 1,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\b1\pos(476,407)\bord0\shad0}As the brilliant mage-knight leader of the {\i1}Wolkenritter{\i0},\Nher guardian knights, she plays a large part in the investigation of cases related to Lost Logia.{\b0}
-Dialogue: 0,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\b1\pos(476,407)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}As the brilliant mage-knight leader of the {\i1}Wolkenritter{\i0},\Nher guardian knights, she plays a large part in the investigation of cases related to Lost Logia.{\b0}
-Dialogue: 1,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\b1\i1\fs28\fad(459,0)\pos(753,344)\bord0\shad0}Cloud Knights{\b0\i0}
-Dialogue: 0,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\b1\i1\fs28\fad(459,0)\pos(753,344)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Cloud Knights{\b0\i0}
+Dialogue: 1,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,407)\bord0\shad0}As the brilliant mage-knight leader of the {\fnNoto Sans SemiCondensed Bold Italic}Wolkenritter{\i0\fnNoto Sans SemiCondensed Bold},\Nher guardian knights, she plays a large part in the investigation of cases related to Lost Logia.
+Dialogue: 0,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,407)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}As the brilliant mage-knight leader of the {\fnNoto Sans SemiCondensed Bold Italic}Wolkenritter{\i0\fnNoto Sans SemiCondensed Bold},\Nher guardian knights, she plays a large part in the investigation of cases related to Lost Logia.
+Dialogue: 1,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fs28\fad(459,0)\bord0\shad0\pos(728,344)\fnNoto Sans SemiCondensed Bold Italic}Cloud Knights
+Dialogue: 0,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fs28\fad(459,0)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)\pos(728,344)\fnNoto Sans SemiCondensed Bold Italic}Cloud Knights
 Dialogue: 0,0:22:54.46,0:23:00.57,Nanoha ED,,0,0,0,,I was chasing after a small white butterfly
 Dialogue: 1,0:22:55.46,0:22:58.96,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(268.333,216)\fs45\b1\bord0\shad0}Lindy Harlaown\N{\fs36}Commodore,\NTime-Space Administrative Bureau{\b0}
 Dialogue: 0,0:22:55.46,0:22:58.96,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(268.333,216)\fs45\b1\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Lindy Harlaown\N{\fs36}Commodore,\NTime-Space Administrative Bureau{\b0}
@@ -404,8 +404,8 @@ Dialogue: 1,0:23:11.94,0:23:15.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459
 Dialogue: 0,0:23:11.94,0:23:15.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(476,469)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)\t(3531,3576,\1a&HFF&)}Along with her familiar, Arf, she is handling front-line duties as an Enforcer.{\b0}
 Dialogue: 0,0:23:12.34,0:23:17.01,Nanoha ED,,0,0,0,,Maybe you taught those to me
 Dialogue: 0,0:23:17.01,0:23:21.12,Nanoha ED,,0,0,0,,Guarded by such kind feelings
-Dialogue: 1,0:23:18.86,0:23:22.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(263.6,339)\bord0\shad0}Chrono Harlaown{\fs36}\NCommodore,\NTime-Space Administrative Bureau.\NCaptain of the {\i1}Arthra.{\i0\b0}
-Dialogue: 0,0:23:18.86,0:23:22.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(263.6,339)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Chrono Harlaown{\fs36}\NCommodore,\NTime-Space Administrative Bureau.\NCaptain of the {\i1}Arthra.{\i0\b0}
+Dialogue: 1,0:23:18.86,0:23:22.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\pos(263.6,339)\bord0\shad0}Chrono Harlaown{\fs36}\NCommodore,\NTime-Space Administrative Bureau.\NCaptain of the {\fnNoto Sans SemiCondensed Bold Italic}Arthra.
+Dialogue: 0,0:23:18.86,0:23:22.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\pos(263.6,339)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)}Chrono Harlaown{\fs36}\NCommodore,\NTime-Space Administrative Bureau.\NCaptain of the {\fnNoto Sans SemiCondensed Bold Italic}Arthra.
 Dialogue: 0,0:23:19.62,0:23:20.80,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Everyone's getting together
 Dialogue: 0,0:23:20.80,0:23:22.35,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}for the first time in a while.
 Dialogue: 0,0:23:21.12,0:23:24.69,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time

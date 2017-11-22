@@ -30,7 +30,7 @@ Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC700000
 Style: Nanoha Dialogue2,Noto Sans,45,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.1,0,4,14,14,13,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H407E1A30,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
+Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
 Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
@@ -99,7 +99,7 @@ Dialogue: 0,0:05:43.37,0:05:45.10,Nanoha Dialogue1,,0,0,0,,Excuse me!
 Dialogue: 0,0:05:47.44,0:05:49.37,Nanoha Dialogue1,,0,0,0,,She's so cute!
 Dialogue: 0,0:05:53.55,0:05:58.81,Nanoha Dialogue1,,0,0,0,,Um... my name is Fate Testarossa.\NNice to meet you all!
 Dialogue: 1,0:06:07.12,0:06:13.16,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,525)\bord0}New Powers, Start Up!
-Dialogue: 0,0:06:07.12,0:06:13.16,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,525)\c&H7E1A30&}New Powers, Start Up!
+Dialogue: 0,0:06:07.12,0:06:13.16,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,525)\c&H901E38&}New Powers, Start Up!
 Dialogue: 0,0:06:18.64,0:06:22.01,Nanoha Dialogue1,,0,0,0,,Hey, what is school like over there?
 Dialogue: 0,0:06:22.01,0:06:24.08,Nanoha Dialogue1,,0,0,0,,School? Oh, I...
 Dialogue: 0,0:06:24.08,0:06:26.81,Nanoha Dialogue1,,0,0,0,,It was a really sudden transfer, right? How come?

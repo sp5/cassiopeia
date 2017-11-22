@@ -30,7 +30,7 @@ Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC700000
 Style: Nanoha Dialogue2,Noto Sans,54,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.1,2.5,4,14,14,13,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H407E1A30,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
+Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
 Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
@@ -121,7 +121,7 @@ Dialogue: 0,0:05:11.98,0:05:14.12,Nanoha Narration1,,0,0,0,,Hayate Yagami.
 Dialogue: 0,0:05:14.12,0:05:16.30,Nanoha Narration1,,0,0,0,,She said she'll introduce us next time.
 Dialogue: 0,0:05:16.30,0:05:17.50,Nanoha Narration1,,0,0,0,,I see.
 Dialogue: 1,0:05:19.49,0:05:25.53,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,615)\bord0}It Was Only a Small Wish\N(part 2)
-Dialogue: 0,0:05:19.49,0:05:25.53,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,615)\c&H7E1A30&}It Was Only a Small Wish\N(part 2)
+Dialogue: 0,0:05:19.49,0:05:25.53,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,615)\c&H901E38&}It Was Only a Small Wish\N(part 2)
 Dialogue: 0,0:05:27.51,0:05:30.64,Nanoha Dialogue1,,0,0,0,,Well then, thanks a lot, Suzuka!
 Dialogue: 0,0:05:30.64,0:05:32.28,Nanoha Dialogue1,,0,0,0,,Yes. See you later.
 Dialogue: 0,0:05:32.28,0:05:35.64,Nanoha Dialogue1,,0,0,0,,Please, please do come again, Hayate.

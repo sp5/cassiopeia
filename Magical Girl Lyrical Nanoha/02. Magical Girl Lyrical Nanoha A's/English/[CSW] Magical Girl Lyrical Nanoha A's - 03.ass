@@ -29,7 +29,7 @@ Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC700000
 Style: Nanoha Dialogue2,Noto Sans,45,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.1,0,4,14,14,13,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H407E1A30,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
+Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
 Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
@@ -74,7 +74,7 @@ Dialogue: 0,0:03:22.20,0:03:24.92,Nanoha Dialogue1,,0,0,0,,From the looks of thi
 Dialogue: 0,0:03:24.92,0:03:26.77,Nanoha Dialogue1,,0,0,0,,That can't be helped.
 Dialogue: 0,0:03:26.77,0:03:28.68,Nanoha Dialogue1,,0,0,0,,This is the type of job we're supposed to do.
 Dialogue: 1,0:03:38.47,0:03:44.51,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,514)\bord0}Reunion and Relocation!
-Dialogue: 0,0:03:38.47,0:03:44.51,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,514)\c&H7E1A30&}Reunion and Relocation!
+Dialogue: 0,0:03:38.47,0:03:44.51,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,514)\c&H901E38&}Reunion and Relocation!
 Dialogue: 0,0:03:52.93,0:03:55.78,Nanoha Dialogue1,,0,0,0,,No, it's a good thing your injuries weren't serious.
 Dialogue: 0,0:03:55.78,0:03:59.50,Nanoha Dialogue1,,0,0,0,,Chrono... I'm sorry I made you worry.
 Dialogue: 0,0:03:59.50,0:04:02.47,Nanoha Dialogue1,,0,0,0,,Between you and Nanoha,\NI've gotten used to it.

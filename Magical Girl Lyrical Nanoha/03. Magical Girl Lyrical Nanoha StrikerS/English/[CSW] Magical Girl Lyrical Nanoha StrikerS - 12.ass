@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 147
-Active Line: 148
-Video Position: 14972
+Scroll Position: 264
+Active Line: 269
+Video Position: 26393
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -150,7 +150,7 @@ Dialogue: 0,0:07:01.48,0:07:02.94,NanohaW Dialogue1,first,0,0,0,,Yes, sir.
 Dialogue: 0,0:07:02.94,0:07:06.25,NanohaW Dialogue1,first,0,0,0,,The Hayate Yagami from the Book of Darkness Incident.
 Dialogue: 0,0:07:07.02,0:07:13.28,NanohaW Dialogue1,first,0,0,0,,The ward of Gil Graham, the man who was behind that attempted medium-scale dimensional incident.
 Dialogue: 0,0:07:13.28,0:07:15.98,NanohaW Dialogue1,first,0,0,0,,Both of them are criminals!
-Dialogue: 0,0:07:15.98,0:07:20.36,NanohaW Dialogue1,first,0,0,0,,The time period for their suspended sentences has long since passed,
+Dialogue: 0,0:07:15.98,0:07:20.36,NanohaW Dialogue1,first,0,0,0,,Their suspended sentences have long since been expunged,
 Dialogue: 0,0:07:20.36,0:07:24.06,NanohaW Dialogue1,first,0,0,0,,and the incident with Admiral Graham\Nwas overlooked.
 Dialogue: 0,0:07:24.06,0:07:24.85,NanohaW Dialogue1,first,0,0,0,,So then—
 Dialogue: 0,0:07:24.85,0:07:26.06,NanohaW Dialogue1,first,0,0,0,,Irrelevant!
@@ -307,7 +307,7 @@ Dialogue: 0,0:18:05.39,0:18:06.89,NanohaW Dialogue1,Nanoha,0,0,0,,{\b1}...Buster
 Dialogue: 0,0:18:13.57,0:18:15.60,NanohaW Dialogue1,first,0,0,0,,Bingo!
 Dialogue: 0,0:18:15.60,0:18:17.39,NanohaW Dialogue1,firstitalics,0,0,0,,No, they dodged it!
 Dialogue: 0,0:18:18.82,0:18:20.77,NanohaW Dialogue1,firstitalics,0,0,0,,They were rescued at the last second.
-Dialogue: 0,0:18:20.77,0:18:22.25,NanohaW Dialogue1,firstitalics,0,0,0,,Alto, follow them.
+Dialogue: 0,0:18:20.77,0:18:22.25,NanohaW Dialogue1,firstitalics,0,0,0,,Alto, track them.
 Dialogue: 0,0:18:22.25,0:18:23.79,NanohaW Dialogue1,first,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:18:32.52,0:18:35.62,NanohaW Dialogue1,first,0,0,0,,Tre, thanks for the help.
 Dialogue: 0,0:18:36.47,0:18:37.80,NanohaW Dialogue1,first,0,0,0,,Thanks.

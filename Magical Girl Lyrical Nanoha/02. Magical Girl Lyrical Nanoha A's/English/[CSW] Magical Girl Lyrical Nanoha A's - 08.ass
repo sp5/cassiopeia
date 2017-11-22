@@ -29,7 +29,7 @@ Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC700000
 Style: Nanoha Dialogue2,Noto Sans,54,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H407E1A30,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
+Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
 Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
@@ -107,7 +107,7 @@ Dialogue: 0,0:04:35.92,0:04:38.84,Nanoha Dialogue1,,0,0,0,,If it's about Fate, t
 Dialogue: 0,0:04:38.84,0:04:40.80,Nanoha Dialogue1,,0,0,0,,We'll take good care of her.
 Dialogue: 0,0:04:43.22,0:04:44.47,Nanoha Dialogue1,,0,0,0,,Okay.
 Dialogue: 1,0:04:44.46,0:04:50.49,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,547)\bord0}The Heartbreaking Decision and the Courageous Choice
-Dialogue: 0,0:04:44.46,0:04:50.49,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,547)\c&H7E1A30&}The Heartbreaking Decision and the Courageous Choice
+Dialogue: 0,0:04:44.46,0:04:50.49,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,547)\c&H901E38&}The Heartbreaking Decision and the Courageous Choice
 Dialogue: 0,0:04:53.98,0:04:57.48,Nanoha Dialogue1,,0,0,0,,So, we can say that we were saved?
 Dialogue: 0,0:04:57.48,0:04:59.26,Nanoha Dialogue1,,0,0,0,,At the least, it is certain that
 Dialogue: 0,0:04:59.26,0:05:02.36,Nanoha Dialogue1,,0,0,0,,he wants the Book of Darkness to be completed.
