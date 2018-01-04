@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 284
-Active Line: 288
-Video Position: 36361
+Scroll Position: 293
+Active Line: 296
+Video Position: 36942
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -323,15 +323,15 @@ Dialogue: 0,0:24:45.79,0:24:47.32,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.32,0:24:52.78,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:53.16,0:25:03.16,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 1,0:25:09.89,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:09.89,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4500,4545,\1a&HFF&)}Next Episode Preview
+Dialogue: 0,0:25:09.89,0:25:14.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4500,4950,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:13.45,0:25:15.92,Nanoha Narration1,,0,0,0,,The situation is reaching its final turn!
 Dialogue: 0,0:25:15.92,0:25:18.08,Nanoha Narration1,,0,0,0,,Each hold their own feelings in their heart,
 Dialogue: 0,0:25:18.08,0:25:20.60,Nanoha Narration1,,0,0,0,,in order to withstand the final storm.
 Dialogue: 0,0:25:20.60,0:25:24.15,Nanoha Narration1,,0,0,0,,And I also tell Fate how I really feel.
 Dialogue: 0,0:25:25.42,0:25:28.33,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(483,252)\blur0.5\bord0}Episode 10
-Dialogue: 0,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\c&HFFFFFF&\pos(483,252)\1a&HFF&\t(414,459,\1a&H00&)}Episode 10
+Dialogue: 0,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\c&HFFFFFF&\pos(483,252)\1a&HFF&\t(0,459,\1a&H00&)}Episode 10
 Dialogue: 1,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}Everybody's Separate Heartfelt Vows
-Dialogue: 0,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Everybody's Separate Heartfelt Vows
+Dialogue: 0,0:25:25.74,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Everybody's Separate Heartfelt Vows
 Dialogue: 0,0:25:28.33,0:25:32.13,Nanoha Narration1,,0,0,0,,Episode 10:\NEverybody's Separate Heartfelt Vows
 Dialogue: 0,0:25:32.77,0:25:36.70,Nanoha Narration1,,0,0,0,,Lyrical, magical, in order to begin to be my true self.

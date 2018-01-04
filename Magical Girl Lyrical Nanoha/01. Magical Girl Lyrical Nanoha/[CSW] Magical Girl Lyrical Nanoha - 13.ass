@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 24
-Active Line: 29
-Video Position: 5520
+Scroll Position: 184
+Active Line: 188
+Video Position: 21364
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -223,8 +223,8 @@ Dialogue: 0,0:13:52.65,0:13:54.98,Nanoha Dialogue1,,0,0,0,,Thank you for all you
 Dialogue: 0,0:14:02.92,0:14:05.80,Nanoha Narration1,,0,0,0,,The one thing that's still on my mind...
 Dialogue: 0,0:14:07.34,0:14:11.04,Nanoha Narration1,,0,0,0,,About that girl with the gentle eyes,\Nthat must surely be very kind.
 Dialogue: 0,0:14:26.48,0:14:28.04,Nanoha Narration1,,0,0,0,,Several days later...
-Dialogue: 0,0:14:51.02,0:14:53.55,Nanoha Dialogue2,,0,0,0,,{\blur1.2\an5\frz6.941\pos(439,167)\fs37.5\c&H000000&}Incoming Call
-Dialogue: 0,0:14:51.02,0:14:53.55,Nanoha Dialogue2,,0,0,0,,{\blur1.2\an5\pos(478.667,383)\frz8.133\fs32\c&H000000&}Time-Space\NAdministrative Bureau
+Dialogue: 0,0:14:51.02,0:14:53.55,Nanoha Dialogue2,,0,0,0,,{\blur1.5\an5\pos(439,167)\fs37.5\c&H000000&\frz7.431}Incoming Call
+Dialogue: 0,0:14:51.02,0:14:53.55,Nanoha Dialogue2,,0,0,0,,{\blur1.5\an5\pos(478.667,383)\frz8.133\fs32\c&H000000&}Time-Space\NAdministrative Bureau
 Dialogue: 0,0:14:54.41,0:14:56.04,Nanoha Dialogue1,,0,0,0,,Yes, this is Nanoha!
 Dialogue: 0,0:14:59.81,0:15:01.54,Nanoha Dialogue1,,0,0,0,,Really?!
 Dialogue: 0,0:15:01.54,0:15:04.20,Nanoha Dialogue1,,0,0,0,,Yeah, it's been officially decided on a few moments ago.

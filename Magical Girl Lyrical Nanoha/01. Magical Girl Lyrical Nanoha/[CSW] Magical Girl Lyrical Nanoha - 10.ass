@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 364
-Active Line: 369
-Video Position: 36594
+Scroll Position: 355
+Active Line: 359
+Video Position: 36202
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -395,7 +395,7 @@ Dialogue: 0,0:24:45.72,0:24:47.25,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.25,0:24:52.71,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:53.09,0:25:03.09,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 1,0:25:09.89,0:25:14.80,Nanoha Title2,,0,0,0,,{\fad(0,450)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:09.89,0:25:14.80,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4460,4505,\1a&HFF&)}Next Episode Preview
+Dialogue: 0,0:25:09.89,0:25:14.80,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4460,4910,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:11.64,0:25:13.02,Nanoha Narration1,,0,0,0,,The duel with Fate that
 Dialogue: 0,0:25:13.02,0:25:15.08,Nanoha Narration1,,0,0,0,,I decided I would have,
 Dialogue: 0,0:25:15.08,0:25:19.26,Nanoha Narration1,,0,0,0,,and the two individuals past and present that it pieces together.
@@ -403,8 +403,8 @@ Dialogue: 0,0:25:20.09,0:25:22.66,Nanoha Narration1,,0,0,0,,The Garden of Time b
 Dialogue: 0,0:25:22.66,0:25:25.42,Nanoha Narration1,,0,0,0,,What is the Alhazred that Presea is longing for?
 Dialogue: 0,0:25:26.09,0:25:28.80,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\bord0}Episode 11
-Dialogue: 0,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Episode 11
+Dialogue: 0,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Episode 11
 Dialogue: 1,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}Memories That Lie Beyond Time
-Dialogue: 0,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Memories That Lie Beyond Time
+Dialogue: 0,0:25:26.24,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Memories That Lie Beyond Time
 Dialogue: 0,0:25:28.80,0:25:33.84,Nanoha Narration1,,0,0,0,,Episode 11:\NMemories That Lie Beyond Time
 Dialogue: 0,0:25:33.84,0:25:36.77,Nanoha Narration1,,0,0,0,,Lyrical, magical, full power, all-out!

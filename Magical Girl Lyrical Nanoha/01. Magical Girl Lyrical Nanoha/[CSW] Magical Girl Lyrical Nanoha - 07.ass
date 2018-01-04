@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 291
-Active Line: 293
-Video Position: 36207
+Scroll Position: 39
+Active Line: 41
+Video Position: 7057
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,7 @@ Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Handwriting,Chinacat,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Nanoha Handwriting,Cheyenne Hand Bold,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -76,8 +76,8 @@ Dialogue: 0,0:04:04.25,0:04:07.25,Nanoha Narration1,,0,0,0,,Stop... stop...
 Dialogue: 0,0:04:08.56,0:04:09.56,Nanoha Narration1,,0,0,0,,Stop!
 Dialogue: 0,0:04:22.90,0:04:23.80,Nanoha Narration1,,0,0,0,,Fate!
 Dialogue: 0,0:04:49.29,0:04:53.75,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,918)\an5\pos(480,490.5)}{\fs45\b1}Same day, 9:15 PM\NCity of Uminari suburbs, Takamachi residence{\b0}
-Dialogue: 1,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\c&H383B95&\blur0.5\fs42}Nanoha
-Dialogue: 0,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\blur0.5\bord0.3\fs42\c&H000000&}Nanoha
+Dialogue: 1,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\c&H383B95&\blur0.5}Nanoha
+Dialogue: 0,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\blur0.5\bord0.3\c&H000000&}Nanoha
 Dialogue: 0,0:04:59.74,0:05:01.31,Nanoha Narration1,,0,0,0,,Raising Heart is a Device
 Dialogue: 0,0:05:01.31,0:05:04.42,Nanoha Narration1,,0,0,0,,that can withstand quite a bit of released power.
 Dialogue: 0,0:05:04.42,0:05:08.26,Nanoha Narration1,,0,0,0,,To think that one attack would damage her this much...
@@ -330,7 +330,7 @@ Dialogue: 0,0:24:45.29,0:24:46.82,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:46.82,0:24:52.28,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:52.66,0:25:02.66,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 1,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,400)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,400)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4550,4595,\1a&HFF&)}Next Episode Preview
+Dialogue: 0,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,400)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4550,4950,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:11.71,0:25:13.18,Nanoha Narration1,,0,0,0,,With the emergence of Chrono,
 Dialogue: 0,0:25:13.18,0:25:15.18,Nanoha Narration1,,0,0,0,,the third mage,
 Dialogue: 0,0:25:15.18,0:25:18.15,Nanoha Narration1,,0,0,0,,and the truth of the Jewel Seeds finally unfolding
@@ -339,8 +339,8 @@ Dialogue: 0,0:25:20.61,0:25:25.82,Nanoha Narration1,,0,0,0,,And I find out somet
 Dialogue: 0,0:25:25.82,0:25:28.58,Nanoha Narration1,,0,0,0,,Yuuno is... Yuuno is?!
 Dialogue: 0,0:25:28.58,0:25:31.59,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:29.07,0:25:35.78,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\bord0}Episode 8
-Dialogue: 0,0:25:29.07,0:25:35.78,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Episode 8
+Dialogue: 0,0:25:29.07,0:25:35.78,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Episode 8
 Dialogue: 1,0:25:29.09,0:25:35.76,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}There's a Really Big Crisis?
-Dialogue: 0,0:25:29.09,0:25:35.76,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}There's a Really Big Crisis?
+Dialogue: 0,0:25:29.09,0:25:35.76,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}There's a Really Big Crisis?
 Dialogue: 0,0:25:31.59,0:25:35.53,Nanoha Narration1,,0,0,0,,Episode 8: There's a Really Big Crisis?
 Dialogue: 0,0:25:35.53,0:25:38.06,Nanoha Narration1,,0,0,0,,Lyrical, magical, I'll do my best!

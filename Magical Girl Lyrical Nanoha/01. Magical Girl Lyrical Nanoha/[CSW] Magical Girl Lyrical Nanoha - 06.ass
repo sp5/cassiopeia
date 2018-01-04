@@ -18,14 +18,14 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 292
-Active Line: 293
-Video Position: 36239
+Scroll Position: 299
+Active Line: 301
+Video Position: 36633
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Dialogue2,Roboto Regular,54,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
+Style: Nanoha Dialogue2,Roboto Regular,54,&H00FFFFFF,&H000000FF,&H00000000,&HA4000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
 Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,0,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
@@ -216,8 +216,8 @@ Dialogue: 0,0:13:31.94,0:13:34.64,Nanoha Dialogue1,,0,0,0,,I'll be fine, so save
 Dialogue: 0,0:13:34.64,0:13:35.36,Nanoha Dialogue1,,0,0,0,,Okay.
 Dialogue: 0,0:13:41.92,0:13:45.25,Nanoha Dialogue1,,0,0,0,,Maybe Alisa and Suzuka are done with their lessons
 Dialogue: 0,0:13:45.25,0:13:46.52,Nanoha Dialogue1,,0,0,0,,and are on their way home by now?
-Dialogue: 0,0:13:54.51,0:13:57.00,Nanoha Dialogue2,,0,0,0,,{\an4\pos(379.566,342)\blur0.5\frz359.4}{\c&HDA8F99&\fs36\3c&HF7CAF8&}There are no
-Dialogue: 0,0:13:54.51,0:13:57.00,Nanoha Dialogue2,,0,0,0,,{\an6\pos(578.767,404)\frz359.4\c&HDA8F99&\fs36\3c&HF7CAF8&}new messages.
+Dialogue: 0,0:13:54.51,0:13:57.00,Nanoha Dialogue2,,0,0,0,,{\an4\pos(379.566,342)\blur0.7\frz359.4\c&HD18386&\fs36}There are no
+Dialogue: 0,0:13:54.51,0:13:57.00,Nanoha Dialogue2,,0,0,0,,{\an6\pos(578.767,404)\frz359.4\c&HD18386&\fs36\blur0.7}new messages.
 Dialogue: 0,0:14:13.59,0:14:16.09,Nanoha Dialogue1,,0,0,0,,I think it's somewhere around here,
 Dialogue: 0,0:14:16.09,0:14:18.30,Nanoha Dialogue1,,0,0,0,,but I can only figure out the approximate location.
 Dialogue: 0,0:14:18.30,0:14:22.78,Nanoha Narration1,,0,0,0,,Yeah. When things are this crowded, it's a chore to find them.
@@ -270,15 +270,15 @@ Dialogue: 0,0:19:49.43,0:19:50.90,Nanoha Dialogue1,,0,0,0,,Texting Nanoha?
 Dialogue: 0,0:19:50.90,0:19:53.08,Nanoha Dialogue1,,0,0,0,,Yeah. Saying my lesson is over.
 Dialogue: 0,0:19:59.84,0:20:01.11,Nanoha Dialogue1,,0,0,0,,Now, let's go home.
 Dialogue: 0,0:20:01.11,0:20:03.08,Nanoha Dialogue1,,0,0,0,,Okay... hold on a second!
-Dialogue: 1,0:20:04.21,0:20:06.51,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\frx2\frz5.81\pos(306.176,247)}{\fs36\c&HA46B77&}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine
-Dialogue: 1,0:20:06.51,0:20:08.50,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\frx2\frz5.81\pos(306.176,247)}{\fs36\c&HA46B77&}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope
-Dialogue: 1,0:20:08.50,0:20:10.98,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\frx2\frz5.81\pos(306.176,247)}{\fs36\c&HA46B77&}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope your\Nworries
-Dialogue: 1,0:20:11.00,0:20:11.25,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\frx2\frz5.81\pos(306.176,247)}{\fs36\c&HA46B77&}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope your\Nworries are solved
+Dialogue: 1,0:20:04.21,0:20:06.51,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\pos(306.176,247)\frz4.767\fs36\c&HA46B77&\frx7\org(85.589,276)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine
+Dialogue: 1,0:20:06.51,0:20:08.50,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\pos(306.176,247)\frz4.767\fs36\c&HA46B77&\frx7\org(85.589,276)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope
+Dialogue: 1,0:20:08.50,0:20:10.98,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\frz4.767\fs36\c&HA46B77&\frx7\org(85.589,276)\pos(306.176,265)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope your\Nworries
+Dialogue: 1,0:20:11.00,0:20:11.25,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\frz4.767\fs36\c&HA46B77&\frx7\org(85.589,276)\pos(306.176,265)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope your\Nworries are solved
 Dialogue: 0,0:20:04.21,0:20:11.25,Nanoha Dialogue2,,0,0,0,,{\p1\1c&HFACCCD&\pos(1,219)\blur0.75}m 275 123 l 589 101 661 517 346 540{\p0}
 Dialogue: 0,0:20:12.32,0:20:16.20,Nanoha Dialogue1,,0,0,0,,...your worries are solved soon.
 Dialogue: 0,0:20:16.20,0:20:20.45,Nanoha Dialogue1,,0,0,0,,Please do your best.\NI'll always be cheering you on.
 Dialogue: 0,0:20:20.45,0:20:21.64,Nanoha Dialogue1,,0,0,0,,From Suzuka.
-Dialogue: 0,0:20:21.98,0:20:24.18,Nanoha Dialogue2,,0,0,0,,{\an5\c&H00FFFF&\fs32\frz4.58\pos(448.635,235.5)\blur0.75}Sending message
+Dialogue: 0,0:20:21.98,0:20:24.18,Nanoha Dialogue2,,0,0,0,,{\an5\c&H72FDFF&\fs32\frz4.58\pos(448.635,235.5)\blur1.0\1a&H00&}Sending message
 Dialogue: 0,0:20:31.82,0:20:33.72,Nanoha Device1,,0,0,0,,Flash Move
 Dialogue: 0,0:20:36.32,0:20:38.42,Nanoha Device1,,0,0,0,,Divine Shooter
 Dialogue: 0,0:20:39.17,0:20:40.66,Nanoha Device1,,0,0,0,,Defenser
@@ -308,7 +308,7 @@ Dialogue: 0,0:22:12.56,0:22:13.29,Nanoha Dialogue1,,0,0,0,,Nanoha!
 Dialogue: 0,0:22:13.29,0:22:14.12,Nanoha Dialogue1,,0,0,0,,I'm okay!
 Dialogue: 0,0:23:06.52,0:23:08.47,Nanoha Dialogue1,,0,0,0,,Suzuka, what's wrong?
 Dialogue: 0,0:23:08.47,0:23:10.57,Nanoha Dialogue1,,0,0,0,,No, it's nothing.
-Dialogue: 1,0:23:10.56,0:23:13.60,Nanoha Dialogue2,,0,0,0,,{\t(\fscx85\fscy85)\an5\fs36\blur0.75\move(536.716,274,529.709,286,37,2999)\frz339.7}There are no\Nnew messages.
+Dialogue: 1,0:23:10.56,0:23:13.60,Nanoha Dialogue2,,0,0,0,,{\shad2.4\fax0.05\t(\fscx85\fscy85)\an5\fs36\blur1.0\move(536.716,274,529.709,286,37,2999)\frz339.7}There are no\Nnew messages.
 Dialogue: 0,0:23:10.56,0:23:13.60,Nanoha Dialogue2,,0,0,0,,{\t(\fscx85\fscy85)\p1\c&HCCEDA6&\an6\blur0.75\move(248,92,283.036,127,37,2999)}m 461 184 l 652 252 595 377 414 309{\p0}
 Dialogue: 0,0:23:15.89,0:23:19.49,Nanoha Dialogue1,,0,0,0,,Man, I'm starving. Let's hurry home!
 Dialogue: 0,0:23:19.49,0:23:21.05,Nanoha Dialogue1,,0,0,0,,Okay!
@@ -329,7 +329,7 @@ Dialogue: 0,0:24:46.78,0:24:48.31,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:48.31,0:24:53.77,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:54.15,0:25:04.15,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 1,0:25:10.85,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:10.85,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4540,4585,\1a&HFF&)}Next Episode Preview
+Dialogue: 0,0:25:10.85,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,450)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4540,4990,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:13.78,0:25:16.05,Nanoha Narration1,,0,0,0,,For an explosion like that to occur...
 Dialogue: 0,0:25:16.05,0:25:17.66,Nanoha Narration1,,0,0,0,,That's just got to be bad!
 Dialogue: 0,0:25:18.22,0:25:21.62,Nanoha Narration1,,0,0,0,,But my mother is waiting.
@@ -337,8 +337,8 @@ Dialogue: 0,0:25:21.62,0:25:23.59,Nanoha Narration1,,0,0,0,,What is the truth be
 Dialogue: 0,0:25:23.59,0:25:26.18,Nanoha Narration1,,0,0,0,,And a new mage appears?!
 Dialogue: 0,0:25:27.32,0:25:30.69,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\bord0}Episode 7
-Dialogue: 0,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Episode 7
+Dialogue: 0,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Episode 7
 Dialogue: 1,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}Is This a Third Mage!?
-Dialogue: 0,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Is This a Third Mage!?
+Dialogue: 0,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Is This a Third Mage!?
 Dialogue: 0,0:25:30.69,0:25:34.23,Nanoha Narration1,,0,0,0,,Episode 7: Is This a Third Mage?
 Dialogue: 0,0:25:34.97,0:25:37.70,Nanoha Narration1,,0,0,0,,Lyrical, magical, hoping I won't lose!

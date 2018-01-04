@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 296
-Active Line: 301
-Video Position: 36606
+Scroll Position: 286
+Active Line: 289
+Video Position: 36203
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,8 +55,6 @@ Dialogue: 0,0:01:53.75,0:01:58.29,Nanoha OP,,0,0,0,,Right now, a warmth that mig
 Dialogue: 0,0:01:58.29,0:02:02.86,Nanoha OP,,0,0,0,,Parts itself from the past, and overflows
 Dialogue: 0,0:02:02.86,0:02:07.43,Nanoha OP,,0,0,0,,I'll be by your side forever
 Dialogue: 0,0:02:07.43,0:02:17.43,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
-Dialogue: 1,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,440)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,440)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4510,4555,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:02:29.06,0:02:32.19,Nanoha Narration1,,0,0,0,,I'm sure it all started from one coincidence.
 Dialogue: 0,0:02:32.76,0:02:36.67,Nanoha Narration1,,0,0,0,,But many coincidences overlap each other.
 Dialogue: 0,0:02:36.67,0:02:41.00,Nanoha Narration1,,0,0,0,,I was choosing my path, being careful not to make mistakes.
@@ -325,6 +323,8 @@ Dialogue: 0,0:24:38.73,0:24:45.81,Nanoha ED,,0,0,0,,I want to keep a light shini
 Dialogue: 0,0:24:45.81,0:24:47.34,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:47.34,0:24:52.80,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:53.18,0:25:03.18,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
+Dialogue: 1,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,440)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
+Dialogue: 0,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,440)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4510,4950,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:11.90,0:25:14.47,Nanoha Narration1,,0,0,0,,Nanoha is hiding something from us.
 Dialogue: 0,0:25:14.47,0:25:16.14,Nanoha Narration1,,0,0,0,,We can't do anything about that.
 Dialogue: 0,0:25:16.14,0:25:19.38,Nanoha Narration1,,0,0,0,,There are things that you can't tell even your friends about.
@@ -333,8 +333,8 @@ Dialogue: 0,0:25:22.14,0:25:24.15,Nanoha Narration1,,0,0,0,,What are the destini
 Dialogue: 0,0:25:24.15,0:25:26.42,Nanoha Narration1,,0,0,0,,who meet one another once again?!
 Dialogue: 0,0:25:26.42,0:25:29.62,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.022,263)\bord0}Episode 6
-Dialogue: 0,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.022,263)\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Episode 6
+Dialogue: 0,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(501.022,263)\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Episode 6
 Dialogue: 1,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}Feelings That Can't Be Understood?
-Dialogue: 0,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Feelings That Can't Be Understood?
+Dialogue: 0,0:25:26.74,0:25:38.49,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Feelings That Can't Be Understood?
 Dialogue: 0,0:25:29.62,0:25:33.86,Nanoha Narration1,,0,0,0,,Episode 6:\NFeelings That Can't Be Understood?
 Dialogue: 0,0:25:33.86,0:25:36.79,Nanoha Narration1,,0,0,0,,Lyrical, magical, hoping I can reach her...

@@ -17,9 +17,9 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 960x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha - 01 (BDRip 960x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 342
-Active Line: 345
-Video Position: 36238
+Scroll Position: 210
+Active Line: 211
+Video Position: 21988
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +31,9 @@ Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Handwriting,Chinacat Thin,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Nanoha Handwriting,Cheyenne Hand Bold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Alisa Handwriting,Dan's Hand Bold,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Suzuka Handwriting,Merri Christina Bold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -42,7 +44,7 @@ Dialogue: 0,0:00:15.84,0:00:20.41,Nanoha Narration1,,0,0,0,,Those emotions somet
 Dialogue: 0,0:00:21.48,0:00:25.90,Nanoha Narration1,,0,0,0,,But still, a few of them are sure to bond to each other,
 Dialogue: 0,0:00:25.90,0:00:27.42,Nanoha Narration1,,0,0,0,,and can communicate with one another.
 Dialogue: 0,0:00:29.56,0:00:34.41,Nanoha Narration1,,0,0,0,,Such a story is about to begin,\None of new introductions and contacts.
-Dialogue: 0,0:00:35.96,0:00:39.92,Nanoha Dialogue1,,0,0,0,,{\i1}Magical Girl Lyrical Nanoha{\i0}\Nwill now begin.
+Dialogue: 0,0:00:36.41,0:00:39.92,Nanoha Dialogue1,,0,0,0,,{\i1}Magical Girl Lyrical Nanoha{\i0}\Nwill now begin.
 Dialogue: 0,0:00:57.57,0:01:01.49,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
 Dialogue: 0,0:01:01.49,0:01:04.91,Nanoha OP,,0,0,0,,I always shivered from uncertainty
 Dialogue: 0,0:01:04.91,0:01:12.04,Nanoha OP,,0,0,0,,I was scared of learning the truth,\Nso I closed the door
@@ -57,9 +59,9 @@ Dialogue: 0,0:01:54.65,0:01:59.19,Nanoha OP,,0,0,0,,Right now, a warmth that mig
 Dialogue: 0,0:01:59.19,0:02:03.76,Nanoha OP,,0,0,0,,Parts itself from the past, and overflows
 Dialogue: 0,0:02:03.76,0:02:08.33,Nanoha OP,,0,0,0,,I'll be by your side forever
 Dialogue: 0,0:02:08.33,0:02:18.63,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
-Dialogue: 0,0:03:10.50,0:03:13.62,Nanoha Dialogue1,,0,0,0,,Melodious rhythm, turn into light!
+Dialogue: 0,0:03:10.82,0:03:13.62,Nanoha Dialogue1,,0,0,0,,Melodious rhythm, turn into light!
 Dialogue: 0,0:03:13.62,0:03:16.11,Nanoha Dialogue1,,0,0,0,,Put those who must be stopped inside the ring of sealing!
-Dialogue: 0,0:03:17.59,0:03:19.99,Nanoha Dialogue1,,0,0,0,,Jewel Seed, seal!
+Dialogue: 0,0:03:17.59,0:03:19.60,Nanoha Dialogue1,,0,0,0,,Jewel Seed, seal!
 Dialogue: 0,0:03:39.18,0:03:41.47,Nanoha Dialogue1,,0,0,0,,I let it get away...
 Dialogue: 0,0:03:41.47,0:03:44.58,Nanoha Dialogue1,,0,0,0,,I have to go after it...
 Dialogue: 0,0:03:48.76,0:03:50.12,Nanoha Dialogue1,,0,0,0,,Someone...
@@ -72,8 +74,8 @@ Dialogue: 1,0:04:14.22,0:04:20.26,Nanoha Title1,,0,0,0,,{\an5\frx-30\pos(484.004
 Dialogue: 0,0:04:14.22,0:04:20.26,Nanoha Title1,,0,0,0,,{\an5\frx-30\pos(484.004,542)\blur3\c&H8352A8&}Is This What You'd Call a Mysterious Encounter?
 Dialogue: 0,0:04:43.64,0:04:46.61,Nanoha Dialogue1,,0,0,0,,That was a pretty strange dream I just had.
 Dialogue: 0,0:04:52.65,0:04:55.16,Nanoha Narration1,,0,0,0,,I'm Nanoha Takamachi.
-Dialogue: 0,0:04:55.16,0:04:57.00,Nanoha Narration1,,0,0,0,,I'm a third-grader at
-Dialogue: 0,0:04:57.00,0:04:59.48,Nanoha Narration1,,0,0,0,,Seishō University Magnet Elementary School, a private school.
+Dialogue: 0,0:04:55.16,0:04:57.78,Nanoha Narration1,,0,0,0,,I go to Seishō University Magnet Elementary School,
+Dialogue: 0,0:04:57.78,0:04:59.48,Nanoha Narration1,,0,0,0,,and I'm in the third grade.
 Dialogue: 0,0:05:00.16,0:05:04.99,Nanoha Narration1,,0,0,0,,And in the Takamachi family,\NI'm the youngest of three children.
 Dialogue: 0,0:05:05.63,0:05:06.67,Nanoha Dialogue1,,0,0,0,,Good morning!
 Dialogue: 0,0:05:06.67,0:05:08.55,Nanoha Dialogue1,,0,0,0,,Oh, Nanoha! Good morning!
@@ -87,7 +89,7 @@ Dialogue: 0,0:05:21.10,0:05:23.82,Nanoha Narration1,,0,0,0,,This is Shirō Takam
 Dialogue: 0,0:05:23.82,0:05:25.47,Nanoha Narration1,,0,0,0,,He's the owner of Midoriya, a café located
 Dialogue: 0,0:05:25.47,0:05:27.32,Nanoha Narration1,,0,0,0,,across the street from the train station,
 Dialogue: 0,0:05:27.32,0:05:29.71,Nanoha Narration1,,0,0,0,,and the main pillar of our household.
-Dialogue: 0,0:05:29.71,0:05:32.35,Nanoha Dialogue1,,0,0,0,,Breakfast is almost ready.
+Dialogue: 0,0:05:29.71,0:05:32.35,Nanoha Dialogue1,,0,0,0,,{\frz0}Breakfast is almost ready.
 Dialogue: 0,0:05:32.79,0:05:35.66,Nanoha Narration1,,0,0,0,,And my mother, Momoko Takamachi.
 Dialogue: 0,0:05:35.66,0:05:36.96,Nanoha Narration1,,0,0,0,,She's in charge of baking
 Dialogue: 0,0:05:36.96,0:05:38.57,Nanoha Narration1,,0,0,0,,the sweets at the Midoriya café.
@@ -112,7 +114,7 @@ Dialogue: 0,0:06:25.85,0:06:27.71,Nanoha Narration1,,0,0,0,,is a freshman in col
 Dialogue: 0,0:06:27.71,0:06:29.01,Nanoha Narration1,,0,0,0,,He's a swordsman
 Dialogue: 0,0:06:29.01,0:06:29.95,Nanoha Narration1,,0,0,0,,following in Dad's footsteps,
 Dialogue: 0,0:06:29.95,0:06:32.45,Nanoha Narration1,,0,0,0,,and acts as coach to my sister.
-Dialogue: 0,0:06:32.45,0:06:36.52,Nanoha Dialogue1,,0,0,0,,Okay. Then we'll continue once\NI'm done with school for the day.
+Dialogue: 0,0:06:32.45,0:06:36.14,Nanoha Dialogue1,,0,0,0,,Okay. Then we'll continue once\NI'm done with school for the day.
 Dialogue: 0,0:06:36.52,0:06:39.49,Nanoha Narration1,,0,0,0,,And my sister, Miyuki Takamachi,
 Dialogue: 0,0:06:39.49,0:06:41.23,Nanoha Narration1,,0,0,0,,is a junior in high school.
 Dialogue: 0,0:06:42.56,0:06:43.96,Nanoha Dialogue1,,0,0,0,,It's tasty as ever this morning!
@@ -130,7 +132,7 @@ Dialogue: 0,0:07:08.32,0:07:10.76,Nanoha Dialogue1,,0,0,0,,Miyuki, your ribbon i
 Dialogue: 0,0:07:10.76,0:07:11.82,Nanoha Dialogue1,,0,0,0,,Really?
 Dialogue: 0,0:07:11.82,0:07:13.59,Nanoha Dialogue1,,0,0,0,,Here, let me fix it.
 Dialogue: 0,0:07:13.59,0:07:17.43,Nanoha Narration1,,0,0,0,,And my big brother and\Nbig sister get along really well...
-Dialogue: 0,0:07:17.43,0:07:21.97,Nanoha Narration1,,0,0,0,,But in such a loving family,
+Dialogue: 0,0:07:17.43,0:07:21.97,Nanoha Narration1,,0,0,0,,But in such a loving family where everybody is paired up,
 Dialogue: 0,0:07:21.97,0:07:26.60,Nanoha Narration1,,0,0,0,,I think I'm a bit of a third wheel at times.
 Dialogue: 0,0:07:32.10,0:07:33.41,Nanoha Dialogue1,,0,0,0,,Good morning!
 Dialogue: 0,0:07:33.41,0:07:34.50,Nanoha Dialogue1,,0,0,0,,Nanoha!
@@ -249,13 +251,20 @@ Dialogue: 0,0:14:31.29,0:14:32.76,Nanoha Dialogue1,,0,0,0,,Let's look at the sam
 Dialogue: 0,0:14:32.75,0:14:34.33,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\pos(770.311,333.5)}What should we do\Nwith this guy?\N—N
 Dialogue: 0,0:14:34.33,0:14:34.70,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(762.294,338,1080.626,205,2,335)}What should we do\Nwith this guy?\N—N
 Dialogue: 0,0:14:33.90,0:14:37.26,Nanoha Dialogue1,,0,0,0,,The sample problem says 39/45.
-Dialogue: 0,0:14:37.01,0:14:37.51,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\move(819.22,74.5,297.676,293.5,33,492)}We have dogs\Nrunning around\Nin our backyard...\N—A
-Dialogue: 0,0:14:37.51,0:14:39.83,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\pos(290.669,298.5)}We have dogs\Nrunning around\Nin our backyard...\N—A
-Dialogue: 0,0:14:39.83,0:14:40.21,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\move(283.662,301.5,-68.705,457.5,7,341)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:37.01,0:14:37.51,Alisa Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\move(819.22,74.5,293.672,295.5,33,492)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:37.51,0:14:39.83,Alisa Handwriting,,0,0,0,,{\an5\c&H707677&\blur0.75\frz24.31\pos(290.669,298.5)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:39.83,0:14:40.21,Alisa Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\move(283.662,301.5,-68.705,457.5,7,341)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:37.17,0:14:37.51,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(1027.579,228.5,775.316,332.5,40,332)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:37.51,0:14:39.83,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\pos(770.311,333.5)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:39.83,0:14:40.46,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(770.311,333.5,16.526,668.5,7,591)}What should we do\Nwith this guy?\N—N
 Dialogue: 0,0:14:39.01,0:14:41.74,Nanoha Dialogue1,,0,0,0,,Both the numerator and denominator can be divided by three.
 Dialogue: 0,0:14:41.74,0:14:43.70,Nanoha Dialogue1,,0,0,0,,So it can be reduced to 13/15.
-Dialogue: 0,0:14:42.60,0:14:43.01,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz23.03\move(9.253,752,406.666,573,32,407)}We have cats\Nin our house too.\N—S
-Dialogue: 0,0:14:43.01,0:14:44.80,Nanoha Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz23.03\pos(407.667,572)}We have cats\Nin our house too.\N—S
+Dialogue: 0,0:14:42.60,0:14:43.01,Suzuka Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz23.03\move(9.253,752,409.669,578,32,407)}We have cats\Nin our house too.\N—S
+Dialogue: 0,0:14:43.01,0:14:44.80,Suzuka Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz23.03\pos(411.671,577)}We have cats\Nin our house too.\N—S{\c&H7C7C7C&}
+Dialogue: 0,0:14:42.40,0:14:43.01,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(16.526,667.5,767.308,334.5,23,407)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:43.01,0:14:44.80,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\pos(770.311,333.5)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:42.70,0:14:43.01,Alisa Handwriting,,0,0,0,,{\an5\c&H707677&\blur0.75\frz24.31\move(19.386,421.5,288.667,299.5,15,307)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:43.01,0:14:44.80,Alisa Handwriting,,0,0,0,,{\an5\c&H707677&\blur0.75\frz24.31\pos(290.669,298.5)}We have dogs\Nrunning around\Nin our backyard...\N—A
 Dialogue: 0,0:14:45.81,0:14:48.15,Nanoha Narration1,,0,0,0,,We handle food as our business,
 Dialogue: 0,0:14:48.15,0:14:51.28,Nanoha Narration1,,0,0,0,,so raising pets is basically out of the question.
 Dialogue: 0,0:14:51.28,0:14:53.98,Nanoha Dialogue1,,0,0,0,,Then let's have the answer to this question answered by...
@@ -381,7 +390,7 @@ Dialogue: 0,0:24:46.55,0:24:48.08,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:48.08,0:24:54.01,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:54.01,0:25:04.44,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 1,0:25:10.89,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,360)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:10.89,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,360)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4590,4635,\1a&HFF&)}Next Episode Preview
+Dialogue: 0,0:25:10.89,0:25:15.84,Nanoha Title2,,0,0,0,,{\fad(0,360)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4590,4950,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:12.04,0:25:14.07,Nanoha Narration1,,0,0,0,,I'm Nanoha Takamachi.
 Dialogue: 0,0:25:14.07,0:25:17.61,Nanoha Narration1,,0,0,0,,I thought I was an ordinary third grader,
 Dialogue: 0,0:25:17.61,0:25:19.51,Nanoha Narration1,,0,0,0,,but by some stroke of luck or strange destiny,
@@ -391,8 +400,8 @@ Dialogue: 0,0:25:23.62,0:25:27.54,Nanoha Narration1,,0,0,0,,And is it all right 
 Dialogue: 0,0:25:27.54,0:25:29.46,Nanoha Narration1,,0,0,0,,whose name I haven't even asked, at my house?!
 Dialogue: 0,0:25:29.46,0:25:32.53,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(501.022,266)\blur0.5\bord0}Episode 2
-Dialogue: 0,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(501.022,266)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Episode 2
+Dialogue: 0,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(501.022,266)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Episode 2
 Dialogue: 1,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}My Magical Incantation is Lyrical?
-Dialogue: 0,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}My Magical Incantation is Lyrical?
+Dialogue: 0,0:25:30.16,0:25:38.95,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}My Magical Incantation is Lyrical?
 Dialogue: 0,0:25:32.53,0:25:35.90,Nanoha Narration1,,0,0,0,,Episode 2:\NMy Magical Incantation is Lyrical?
 Dialogue: 0,0:25:35.90,0:25:38.20,Nanoha Narration1,,0,0,0,,Lyrical, magical, I'll do my best!

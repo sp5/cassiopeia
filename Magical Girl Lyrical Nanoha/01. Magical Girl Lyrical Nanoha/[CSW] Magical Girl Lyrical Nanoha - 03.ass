@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 244
+Scroll Position: 243
 Active Line: 245
-Video Position: 36372
+Video Position: 36223
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,12 +115,12 @@ Dialogue: 0,0:07:09.15,0:07:13.15,Nanoha Narration1,,0,0,0,,Are there sports lik
 Dialogue: 0,0:07:13.15,0:07:16.65,Nanoha Narration1,,0,0,0,,There are, but I was so engrossed in research and excavation
 Dialogue: 0,0:07:16.65,0:07:19.00,Nanoha Narration1,,0,0,0,,that I didn't play much of anything.
 Dialogue: 0,0:07:19.00,0:07:22.74,Nanoha Narration1,,0,0,0,,Just like me! I'm not too good at sports.
-Dialogue: 0,0:07:22.74,0:07:23.07,Nanoha Dialogue2,,0,0,0,,{\frz20.41\fax-0.2\blur0.5\move(97.645,366,136.645,364,36,328)}Midoriya
-Dialogue: 0,0:07:22.74,0:07:23.07,Nanoha Dialogue2,,0,0,0,,{\frz20.41\fax-0.2\blur0.5\move(114.665,544,152.663,522,36,328)}Sakuradai
-Dialogue: 0,0:07:23.07,0:07:23.23,Nanoha Dialogue2,,0,0,0,,{\frz20.41\fax-0.2\blur0.5\move(135.685,364,141.65,363,39,123)}Midoriya
-Dialogue: 0,0:07:23.07,0:07:23.23,Nanoha Dialogue2,,0,0,0,,{\frz20.41\fax-0.2\blur0.5\move(154.707,521,157.668,521,39,123)}Sakuradai
-Dialogue: 0,0:07:23.23,0:07:26.05,Nanoha Dialogue2,,0,0,0,,{\frz20.41\fax-0.2\blur0.5\pos(146.137,362)}Midoriya
-Dialogue: 0,0:07:23.23,0:07:26.05,Nanoha Dialogue2,,0,0,0,,{\frz20.41\fax-0.2\blur0.5\move(156.148,518,163.155,516,4,2799)}Sakuradai
+Dialogue: 0,0:07:22.74,0:07:23.07,Nanoha Dialogue2,,0,0,0,,{\t(\fscx90\fscy90)\frz20.41\fax-0.3\blur0.5\move(111.659,477,149.659,463,36,328)}Midoriya
+Dialogue: 0,0:07:22.74,0:07:23.07,Nanoha Dialogue2,,0,0,0,,{\t(\fscx90\fscy90)\frz20.41\fax-0.3\blur0.5\move(121.672,674,160.671,639,36,328)}Sakuradai
+Dialogue: 0,0:07:23.07,0:07:23.23,Nanoha Dialogue2,,0,0,0,,{\fscx90\fscy90\t(\fscx88\fscy88)\frz20.41\fax-0.3\blur0.5\move(150.701,463,153.662,462,39,123)}Midoriya
+Dialogue: 0,0:07:23.07,0:07:23.23,Nanoha Dialogue2,,0,0,0,,{\fscx90\fscy90\t(\fscx88\fscy88)\frz20.41\fax-0.3\blur0.5\move(162.715,638,164.675,637,39,123)}Sakuradai
+Dialogue: 0,0:07:23.23,0:07:26.05,Nanoha Dialogue2,,0,0,0,,{\fscx88\fscy88\t(\fscx85\fscy85)\frz20.41\fax-0.3\blur0.5\move(154.145,462,160.151,460,4,2799)}Midoriya
+Dialogue: 0,0:07:23.23,0:07:26.05,Nanoha Dialogue2,,0,0,0,,{\fscx88\fscy88\t(\fscx85\fscy85)\frz20.41\fax-0.3\blur0.5\move(165.157,637,172.164,631,4,2799)}Sakuradai
 Dialogue: 0,0:07:26.05,0:07:30.92,Nanoha Dialogue1,,0,0,0,,Game set! Midoriya JFC wins, 2-0!
 Dialogue: 0,0:07:33.43,0:07:35.86,Nanoha Dialogue1,,0,0,0,,Awright!
 Dialogue: 0,0:07:38.42,0:07:41.21,Nanoha Dialogue1,,0,0,0,,Alright, all of you did a great job!
@@ -281,7 +281,7 @@ Dialogue: 0,0:24:45.21,0:24:46.74,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:24:46.74,0:24:52.20,Nanoha ED,,0,0,0,,I wonder if there is something I can do even though I'm so little
 Dialogue: 0,0:24:52.58,0:25:02.58,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic
 Dialogue: 1,0:25:09.97,0:25:14.93,Nanoha Title2,,0,0,0,,{\fad(0,410)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:09.97,0:25:14.93,Nanoha Title2,,0,0,0,,{\fad(0,410)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4550,4595,\1a&HFF&)}Next Episode Preview
+Dialogue: 0,0:25:09.97,0:25:14.93,Nanoha Title2,,0,0,0,,{\fad(0,410)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4550,4960,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:10.99,0:25:13.56,Nanoha Narration1,,0,0,0,,We all visited Suzuka's house.
 Dialogue: 0,0:25:13.56,0:25:15.88,Nanoha Narration1,,0,0,0,,She has an older sister, a maid,
 Dialogue: 0,0:25:15.88,0:25:18.23,Nanoha Narration1,,0,0,0,,and lots of cats and kittens!
@@ -290,8 +290,8 @@ Dialogue: 0,0:25:22.77,0:25:25.94,Nanoha Narration1,,0,0,0,,And a second mage ap
 Dialogue: 0,0:25:25.94,0:25:28.08,Nanoha Narration1,,0,0,0,,What is her motive?
 Dialogue: 0,0:25:28.08,0:25:30.95,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(502.023,263)\blur0.5\bord0}Episode 4
-Dialogue: 0,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(502.023,263)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}Episode 4
+Dialogue: 0,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(502.023,263)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Episode 4
 Dialogue: 1,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}A Rival!? Another Magical Girl!
-Dialogue: 0,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(414,459,\1a&H00&)}A Rival!? Another Magical Girl!
+Dialogue: 0,0:25:28.32,0:25:38.16,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}A Rival!? Another Magical Girl!
 Dialogue: 0,0:25:30.95,0:25:35.30,Nanoha Narration1,,0,0,0,,Episode 4: A Rival!? Another Magical Girl!
 Dialogue: 0,0:25:35.30,0:25:38.14,Nanoha Narration1,,0,0,0,,Lyrical, magical, I'll do my best!
