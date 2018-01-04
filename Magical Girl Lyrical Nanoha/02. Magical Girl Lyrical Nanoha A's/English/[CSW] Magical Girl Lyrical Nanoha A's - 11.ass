@@ -18,7 +18,7 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 330
+Scroll Position: 329
 Active Line: 334
 Video Position: 36131
 
@@ -370,7 +370,7 @@ Dialogue: 0,0:24:46.55,0:24:50.12,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:50.12,0:24:53.92,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:53.92,0:24:59.89,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:06.93,0:25:10.92,Nanoha Title2,,0,0,0,,{\fad(0,950)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:06.93,0:25:10.92,Nanoha Title2,,0,0,0,,{\fad(0,950)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3040,3085,\1a&HFF&)}Next Episode Preview
+Dialogue: 0,0:25:06.93,0:25:10.92,Nanoha Title2,,0,0,0,,{\fad(0,950)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3040,3990,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:10.48,0:25:12.54,Nanoha Narration1,,0,0,0,,The autonomous protection program
 Dialogue: 0,0:25:12.54,0:25:14.86,Nanoha Narration1,,0,0,0,,freed from the Book of Darkness goes out of control.
 Dialogue: 0,0:25:14.86,0:25:19.22,Nanoha Narration1,,0,0,0,,The ones who will stand against it are us, the Bureau team, and...

@@ -22,7 +22,7 @@ Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
 Scroll Position: 336
 Active Line: 339
-Video Position: 36122
+Video Position: 36107
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -379,7 +379,7 @@ Dialogue: 0,0:24:45.64,0:24:49.21,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:49.21,0:24:53.01,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:53.01,0:24:58.98,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,910)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,910)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3080,3125,\1a&HFF&)}Next Episode Preview
+Dialogue: 0,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,910)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3080,3990,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:09.36,0:25:10.64,Nanoha Narration1,,0,0,0,,Somehow, things are getting
 Dialogue: 0,0:25:10.64,0:25:12.50,Nanoha Narration1,,0,0,0,,more and more complicated.
 Dialogue: 0,0:25:12.50,0:25:15.86,Nanoha Narration1,,0,0,0,,Artificial lives, destiny that has been determined...

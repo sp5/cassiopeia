@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 12
-Active Line: 15
-Video Position: 2713
+Scroll Position: 273
+Active Line: 276
+Video Position: 36130
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,7 @@ Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC700000
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Device2,Noto Serif,45,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Handwriting,Chinacat,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Nanoha Handwriting,Cheyenne Hand Bold,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha Clock,Digital-7,18,&H00B26E3E,&H000000FF,&H00000000,&H94000000,-1,0,0,0,100,100,0,0,1,0,1.5,4,14,14,13,1
 
@@ -73,8 +73,8 @@ Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Anfa
 Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device1,,0,0,0,,{\pos(476,705)}Start up.
 Dialogue: 1,0:04:36.78,0:04:42.82,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,511)\bord0}The Beginning Comes Suddenly
 Dialogue: 0,0:04:36.78,0:04:42.82,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,511)\c&H901E38&}The Beginning Comes Suddenly
-Dialogue: 1,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,333)\an5\b1\pos(476,510.5)\bord0}December 1, 6:35 AM\NCity of Uminari, Sakuradai{\b0}
-Dialogue: 0,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,333)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(6117,6450,\1a&HFF&)}December 1, 6:35 AM\NCity of Uminari, Sakuradai{\b0}
+Dialogue: 1,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,400)\an5\b1\pos(476,510.5)\bord0}December 1, 6:35 AM\NCity of Uminari, Sakuradai{\b0}
+Dialogue: 0,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,400)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(6050,6450,\1a&HFF&)}December 1, 6:35 AM\NCity of Uminari, Sakuradai{\b0}
 Dialogue: 0,0:04:54.73,0:04:57.44,Nanoha Dialogue1,,0,0,0,,Okay, to finish off this morning's practice...
 Dialogue: 0,0:04:57.44,0:04:59.52,Nanoha Dialogue1,,0,0,0,,Let's try shooting control.
 Dialogue: 0,0:04:59.51,0:05:00.59,Nanoha Device1,,0,0,0,,{\pos(476,705)}All right.
@@ -181,8 +181,8 @@ Dialogue: 0,0:10:53.71,0:10:54.80,Nanoha Dialogue1,,0,0,0,,Really...
 Dialogue: 0,0:10:54.80,0:10:56.76,Nanoha Dialogue1,,0,0,0,,They sent out investigators,
 Dialogue: 0,0:10:56.76,0:10:59.43,Nanoha Dialogue1,,0,0,0,,and we're currently waiting for a report from them.
 Dialogue: 0,0:10:59.43,0:11:00.63,Nanoha Dialogue1,,0,0,0,,I see.
-Dialogue: 0,0:11:13.93,0:11:18.42,Nanoha Handwriting,,0,0,0,,{\t(\fscx135\fscy135)\blur0.7\an5\frz9.624\c&H16E633&\move(478.678,253,474.678,218,35,4456)}Fate
-Dialogue: 0,0:11:13.93,0:11:18.42,Nanoha Handwriting,,0,0,0,,{\t(\fscx135\fscy135)\blur0.7\an5\c&HFF0000&\frz355\move(378.678,501,346.678,547,35,4456)\c&H3787E5&}Nanoha
+Dialogue: 0,0:11:13.93,0:11:18.42,Nanoha Handwriting,,0,0,0,,{\t(\fscx140\fscy140)\blur0.7\an5\frz9.624\c&H2CDF44&\move(478.678,253,474.678,218,35,4456)}Fate
+Dialogue: 0,0:11:13.93,0:11:18.42,Nanoha Handwriting,,0,0,0,,{\t(\fscx140\fscy140)\blur0.7\an5\c&H3788DF&\frz355\move(378.678,501,346.678,547,35,4456)}Nanoha
 Dialogue: 1,0:11:27.82,0:11:32.85,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(501,417)\an5\b1\pos(476,510.5)\bord0}December 2, 2:23 AM\NCity of Uminari, office district{\b0}
 Dialogue: 0,0:11:27.82,0:11:32.85,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(501,417)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(0,501,\1a&H00&)\t(4613,5030,\1a&HFF&)}December 2, 2:23 AM\NCity of Uminari, office district{\b0}
 Dialogue: 0,0:11:41.84,0:11:43.89,Nanoha Dialogue1,,0,0,0,,So weak.

@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 419
-Active Line: 424
-Video Position: 36106
+Scroll Position: 423
+Active Line: 428
+Video Position: 21347
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,8 +34,9 @@ Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC700000
 Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Device2,Noto Serif,45,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Handwriting,Chinacat,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Suzuka Handwriting,Merri Christina Bold,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
+Style: Nanoha Cell,Roboto Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -218,64 +219,64 @@ Dialogue: 0,0:11:02.22,0:11:04.31,Nanoha Dialogue1,,0,0,0,,Do you have any reque
 Dialogue: 0,0:11:05.23,0:11:07.31,Nanoha Dialogue1,,0,0,0,,What should I choose?
 Dialogue: 0,0:11:20.88,0:11:22.20,Nanoha Dialogue1,,0,0,0,,Vita?
 Dialogue: 0,0:11:22.20,0:11:23.56,Nanoha Dialogue1,,0,0,0,,Yeah...
-Dialogue: 0,0:12:15.37,0:12:16.74,Nanoha Dialogue1,,0,0,0,,Okay...
-Dialogue: 0,0:12:16.74,0:12:19.25,Nanoha Dialogue1,,0,0,0,,Let me report what\NI've figured out so far.
-Dialogue: 0,0:12:20.11,0:12:21.27,Nanoha Dialogue1,,0,0,0,,First of all...
-Dialogue: 0,0:12:21.27,0:12:23.76,Nanoha Dialogue1,,0,0,0,,"Book of Darkness" is not its original name.
-Dialogue: 0,0:12:23.76,0:12:26.08,Nanoha Dialogue1,,0,0,0,,According to ancient sources,
-Dialogue: 0,0:12:26.08,0:12:29.07,Nanoha Dialogue1,,0,0,0,,its real name is "Tome of the Night Sky".
-Dialogue: 0,0:12:29.75,0:12:32.72,Nanoha Dialogue1,,0,0,0,,It was a tome that travelled with its master,
-Dialogue: 0,0:12:32.72,0:12:36.29,Nanoha Dialogue1,,0,0,0,,originally created to gather great magical technology from each land
-Dialogue: 0,0:12:36.29,0:12:38.48,Nanoha Dialogue1,,0,0,0,,for use as research material.
-Dialogue: 0,0:12:39.14,0:12:41.86,Nanoha Dialogue1,,0,0,0,,The use of destructive powers\Nprobably began when
-Dialogue: 0,0:12:41.86,0:12:46.90,Nanoha Dialogue1,,0,0,0,,the main program was altered\Nby one of the users over the years.
-Dialogue: 0,0:12:46.90,0:12:48.93,Nanoha Dialogue1,,0,0,0,,So people who abuse Lost Logia
-Dialogue: 0,0:12:48.93,0:12:53.00,Nanoha Dialogue1,,0,0,0,,to recklessly attempt to gain immense power
-Dialogue: 0,0:12:53.00,0:12:55.62,Nanoha Dialogue1,,0,0,0,,existed in the past as well as the present.
-Dialogue: 0,0:12:55.62,0:12:59.60,Nanoha Dialogue1,,0,0,0,,Because of that corruption,\Nthe travel function
-Dialogue: 0,0:12:59.60,0:13:03.02,Nanoha Dialogue1,,0,0,0,,and the automatic repair of corrupted data are running out of control.
+Dialogue: 0,0:12:15.37,0:12:16.74,Nanoha Narration1,,0,0,0,,Okay...
+Dialogue: 0,0:12:16.74,0:12:19.25,Nanoha Narration1,,0,0,0,,Let me report what\NI've figured out so far.
+Dialogue: 0,0:12:20.11,0:12:21.27,Nanoha Narration1,,0,0,0,,First of all...
+Dialogue: 0,0:12:21.27,0:12:23.76,Nanoha Narration1,,0,0,0,,"Book of Darkness" is not its original name.
+Dialogue: 0,0:12:23.76,0:12:26.08,Nanoha Narration1,,0,0,0,,According to ancient sources,
+Dialogue: 0,0:12:26.08,0:12:29.07,Nanoha Narration1,,0,0,0,,its real name is "Tome of the Night Sky".
+Dialogue: 0,0:12:29.75,0:12:32.72,Nanoha Narration1,,0,0,0,,It was a tome that travelled with its master,
+Dialogue: 0,0:12:32.72,0:12:36.29,Nanoha Narration1,,0,0,0,,originally created to gather great magical technology from each land
+Dialogue: 0,0:12:36.29,0:12:38.48,Nanoha Narration1,,0,0,0,,for use as research material.
+Dialogue: 0,0:12:39.14,0:12:41.86,Nanoha Narration1,,0,0,0,,The use of destructive powers\Nprobably began when
+Dialogue: 0,0:12:41.86,0:12:46.90,Nanoha Narration1,,0,0,0,,the main program was altered\Nby one of the users over the years.
+Dialogue: 0,0:12:46.90,0:12:48.93,Nanoha Narration1,,0,0,0,,So people who abuse Lost Logia
+Dialogue: 0,0:12:48.93,0:12:53.00,Nanoha Narration1,,0,0,0,,to recklessly attempt to gain immense power
+Dialogue: 0,0:12:53.00,0:12:55.62,Nanoha Narration1,,0,0,0,,existed in the past as well as the present.
+Dialogue: 0,0:12:55.62,0:12:59.60,Nanoha Narration1,,0,0,0,,Because of that corruption,\Nthe travel function
+Dialogue: 0,0:12:59.60,0:13:03.02,Nanoha Narration1,,0,0,0,,and the automatic repair of corrupted data are running out of control.
 Dialogue: 0,0:13:04.04,0:13:06.04,Nanoha Dialogue1,,0,0,0,,Is that the reason behind the reincarnation
 Dialogue: 0,0:13:06.04,0:13:07.55,Nanoha Dialogue1,,0,0,0,,and the perpetual respawning?
 Dialogue: 0,0:13:07.55,0:13:10.08,Nanoha Dialogue1,,0,0,0,,If it's ancient magic,\Nthat much might be possible.
-Dialogue: 0,0:13:10.08,0:13:12.12,Nanoha Dialogue1,,0,0,0,,The worst part of it all
-Dialogue: 0,0:13:12.12,0:13:14.30,Nanoha Dialogue1,,0,0,0,,are the changes to its owner's nature.
-Dialogue: 0,0:13:14.30,0:13:16.98,Nanoha Dialogue1,,0,0,0,,If there is no gathering of power for a certain period of time,
-Dialogue: 0,0:13:16.98,0:13:20.32,Nanoha Dialogue1,,0,0,0,,it starts to eat away at the owner's magical powers and potential.
-Dialogue: 0,0:13:21.82,0:13:23.40,Nanoha Dialogue1,,0,0,0,,And when it's complete,
-Dialogue: 0,0:13:23.40,0:13:25.84,Nanoha Dialogue1,,0,0,0,,the owner's magical powers will be used without limits,
-Dialogue: 0,0:13:25.84,0:13:27.32,Nanoha Dialogue1,,0,0,0,,for indiscriminate destruction.
-Dialogue: 0,0:13:28.31,0:13:30.41,Nanoha Dialogue1,,0,0,0,,That is why all the owners until now have,
-Dialogue: 0,0:13:30.41,0:13:32.58,Nanoha Dialogue1,,0,0,0,,right after the completion of the Book...
+Dialogue: 0,0:13:10.08,0:13:12.12,Nanoha Narration1,,0,0,0,,The worst part of it all
+Dialogue: 0,0:13:12.12,0:13:14.30,Nanoha Narration1,,0,0,0,,are the changes to its owner's nature.
+Dialogue: 0,0:13:14.30,0:13:16.98,Nanoha Narration1,,0,0,0,,If there is no gathering of power for a certain period of time,
+Dialogue: 0,0:13:16.98,0:13:20.32,Nanoha Narration1,,0,0,0,,it starts to eat away at the owner's magical powers and potential.
+Dialogue: 0,0:13:21.82,0:13:22.82,Nanoha Narration1,,0,0,0,,And when it's complete,
+Dialogue: 0,0:13:22.82,0:13:25.84,Nanoha Narration1,,0,0,0,,the owner's magical powers will be used without limits,
+Dialogue: 0,0:13:25.84,0:13:27.32,Nanoha Narration1,,0,0,0,,for indiscriminate destruction.
+Dialogue: 0,0:13:28.31,0:13:30.41,Nanoha Narration1,,0,0,0,,That is why all the owners until now have,
+Dialogue: 0,0:13:30.41,0:13:32.58,Nanoha Narration1,,0,0,0,,right after the completion of the Book...
 Dialogue: 0,0:13:32.58,0:13:34.25,Nanoha Dialogue1,,0,0,0,,Right.
 Dialogue: 0,0:13:34.25,0:13:37.37,Nanoha Dialogue1,,0,0,0,,What about material on methods for stopping or sealing it?
-Dialogue: 0,0:13:37.37,0:13:39.75,Nanoha Dialogue1,,0,0,0,,That's what I'm looking up right now,
-Dialogue: 0,0:13:39.75,0:13:42.74,Nanoha Dialogue1,,0,0,0,,but stopping it before it's complete will probably be very difficult.
+Dialogue: 0,0:13:37.37,0:13:39.75,Nanoha Narration1,,0,0,0,,That's what I'm looking up right now,
+Dialogue: 0,0:13:39.75,0:13:42.74,Nanoha Narration1,,0,0,0,,but stopping it before it's complete will probably be very difficult.
 Dialogue: 0,0:13:42.74,0:13:43.38,Nanoha Dialogue1,,0,0,0,,Why is that?
-Dialogue: 0,0:13:43.38,0:13:47.06,Nanoha Dialogue1,,0,0,0,,Only one the Book of Darkness recognizes as its true master
-Dialogue: 0,0:13:47.06,0:13:50.18,Nanoha Dialogue1,,0,0,0,,has administrator rights to the system.
-Dialogue: 0,0:13:50.18,0:13:54.16,Nanoha Dialogue1,,0,0,0,,In other words, there is no other way to stop or change the program.
-Dialogue: 0,0:13:55.38,0:13:58.64,Nanoha Dialogue1,,0,0,0,,Upon forced controls from the outside,
-Dialogue: 0,0:13:58.64,0:14:02.40,Nanoha Dialogue1,,0,0,0,,an embedded system will absorb its master and respawn.
-Dialogue: 0,0:14:02.40,0:14:05.54,Nanoha Dialogue1,,0,0,0,,That's right. That is why they say
-Dialogue: 0,0:14:05.54,0:14:09.11,Nanoha Dialogue1,,0,0,0,,that sealing the Book of Darkness\Nfor good is impossible.
+Dialogue: 0,0:13:43.38,0:13:47.06,Nanoha Narration1,,0,0,0,,Only one the Book of Darkness recognizes as its true master
+Dialogue: 0,0:13:47.06,0:13:50.18,Nanoha Narration1,,0,0,0,,has administrator rights to the system.
+Dialogue: 0,0:13:50.18,0:13:54.16,Nanoha Narration1,,0,0,0,,In other words, there is no other way to stop or change the program.
+Dialogue: 0,0:13:55.38,0:13:58.64,Nanoha Narration1,,0,0,0,,Upon forced controls from the outside,
+Dialogue: 0,0:13:58.64,0:14:02.40,Nanoha Narration1,,0,0,0,,an embedded system will absorb its master and respawn.
+Dialogue: 0,0:14:02.40,0:14:05.54,Nanoha Narration1,,0,0,0,,That's right. That is why they say
+Dialogue: 0,0:14:05.54,0:14:09.11,Nanoha Narration1,,0,0,0,,that sealing the Book of Darkness\Nfor good is impossible.
 Dialogue: 0,0:14:09.11,0:14:11.82,Nanoha Dialogue1,,0,0,0,,It started out as\Na wholesome research book.
 Dialogue: 0,0:14:11.82,0:14:13.66,Nanoha Dialogue1,,0,0,0,,You know, well...
 Dialogue: 0,0:14:14.72,0:14:17.16,Nanoha Dialogue1,,0,0,0,,I also feel sorry for the Book of Darkness,
 Dialogue: 0,0:14:17.16,0:14:18.83,Nanoha Dialogue1,,0,0,0,,the Tome of the Night Sky.
 Dialogue: 0,0:14:18.83,0:14:20.93,Nanoha Dialogue1,,0,0,0,,Is that all you've researched?
-Dialogue: 0,0:14:20.93,0:14:22.08,Nanoha Dialogue1,,0,0,0,,At this point in time.
-Dialogue: 0,0:14:22.89,0:14:24.59,Nanoha Dialogue1,,0,0,0,,I'm still looking up all sorts of things.
-Dialogue: 0,0:14:24.59,0:14:27.17,Nanoha Dialogue1,,0,0,0,,But as expected from the Infinity Library,
-Dialogue: 0,0:14:27.17,0:14:29.38,Nanoha Dialogue1,,0,0,0,,it's amazing that I can find whatever I look up.
-Dialogue: 0,0:14:30.14,0:14:33.04,Nanoha Dialogue1,,0,0,0,,Or rather, we think you are amazing.
-Dialogue: 0,0:14:33.04,0:14:35.18,Nanoha Dialogue1,,0,0,0,,You're so skilled at searching for stuff!
+Dialogue: 0,0:14:20.93,0:14:22.08,Nanoha Narration1,,0,0,0,,At this point in time.
+Dialogue: 0,0:14:22.89,0:14:24.59,Nanoha Narration1,,0,0,0,,I'm still looking up all sorts of things.
+Dialogue: 0,0:14:24.59,0:14:27.17,Nanoha Narration1,,0,0,0,,But as expected from the Infinity Library,
+Dialogue: 0,0:14:27.17,0:14:29.38,Nanoha Narration1,,0,0,0,,it's amazing that I can find whatever I look up.
+Dialogue: 0,0:14:30.14,0:14:33.04,Nanoha Narration1,,0,0,0,,Or rather, we think you are amazing.
+Dialogue: 0,0:14:33.04,0:14:35.18,Nanoha Narration1,,0,0,0,,You're so skilled at searching for stuff!
 Dialogue: 0,0:14:35.18,0:14:37.68,Nanoha Dialogue1,,0,0,0,,Then, I'm sorry, but I'd like you to go a bit further.
-Dialogue: 0,0:14:37.68,0:14:38.74,Nanoha Dialogue1,,0,0,0,,Yeah.
+Dialogue: 0,0:14:37.68,0:14:38.74,Nanoha Narration1,,0,0,0,,Yeah.
 Dialogue: 0,0:14:38.74,0:14:39.91,Nanoha Dialogue1,,0,0,0,,I'm counting on you as well, Aria.
-Dialogue: 0,0:14:39.91,0:14:40.85,Nanoha Dialogue1,,0,0,0,,Sure thing!
-Dialogue: 0,0:14:40.85,0:14:42.58,Nanoha Dialogue1,,0,0,0,,Lotte, take over for me in a while.
+Dialogue: 0,0:14:39.91,0:14:40.85,Nanoha Narration1,,0,0,0,,Sure thing!
+Dialogue: 0,0:14:40.85,0:14:42.58,Nanoha Narration1,,0,0,0,,Lotte, take over for me in a while.
 Dialogue: 0,0:14:42.58,0:14:43.88,Nanoha Dialogue1,,0,0,0,,Okay, Aria!
-Dialogue: 0,0:14:43.88,0:14:45.18,Nanoha Dialogue1,,0,0,0,,Good luck!
+Dialogue: 0,0:14:43.88,0:14:44.80,Nanoha Dialogue1,,0,0,0,,Good luck!
 Dialogue: 0,0:14:46.25,0:14:48.20,Nanoha Dialogue1,,0,0,0,,Yuuno sure is amazing.
 Dialogue: 0,0:14:48.20,0:14:51.48,Nanoha Dialogue1,,0,0,0,,Yeah, I was surprised by it myself.
 Dialogue: 0,0:14:52.89,0:14:53.95,Nanoha Dialogue1,,0,0,0,,Amy.
@@ -336,8 +337,12 @@ Dialogue: 0,0:17:29.28,0:17:32.05,Nanoha Narration1,,0,0,0,,Greetings, this is S
 Dialogue: 0,0:17:32.05,0:17:36.76,Nanoha Narration1,,0,0,0,,I would like to visit Hayate with my friends after school today,
 Dialogue: 0,0:17:36.76,0:17:39.12,Nanoha Narration1,,0,0,0,,but is it all right for us to come?
 Dialogue: 0,0:17:39.12,0:17:41.48,Nanoha Dialogue1,,0,0,0,,Suzuka is such a good girl...
-Dialogue: 0,0:17:47.24,0:17:54.78,Nanoha Handwriting,,0,0,0,,{\t(\fscx110\fscy110)\blur1.2\an5\move(511,626,514,648,35,7500)\frz1.223\c&484848&\fax0.1}Please get better soon
-Dialogue: 0,0:17:47.24,0:17:54.78,Nanoha Handwriting,,0,0,0,,{\t(\fscx110\fscy110)\blur3.2\an5\frz1.223\c&484848&\fax0.1\fs32\move(640,661,655,689,35,7500)}—Suzuka
+Dialogue: 0,0:17:43.65,0:17:45.18,Nanoha Cell,,0,0,0,,{\fs24\blur0.7\an5\c&H817C5D&\frz10.12\pos(467,192)}Suzuka Tsukimura
+Dialogue: 0,0:17:43.65,0:17:45.18,Nanoha Cell,,0,0,0,,{\fs24\blur0.7\an5\c&H817C5D&\frz10.12\pos(404,249)}How is Hayate doing?
+Dialogue: 0,0:17:43.65,0:17:45.18,Suzuka Handwriting,,0,0,0,,{\fs24\blur0.6\an5\c&484848&\frz12.12\pos(500,460)}Please get better soon
+Dialogue: 0,0:17:43.65,0:17:45.18,Suzuka Handwriting,,0,0,0,,{\blur0.8\an5\c&484848&\fs12\frz12.12\pos(540,464)}—Suzuka
+Dialogue: 0,0:17:47.24,0:17:54.78,Suzuka Handwriting,,0,0,0,,{\t(\fscx110\fscy110)\blur1.2\an5\move(511,626,514,648,35,7500)\frz1.223\c&484848&\fax0.2}Please get better soon
+Dialogue: 0,0:17:47.24,0:17:54.78,Suzuka Handwriting,,0,0,0,,{\t(\fscx110\fscy110)\blur3.2\an5\frz1.223\c&484848&\fax0.2\fs32\move(640,661,655,689,35,7500)}—Suzuka
 Dialogue: 0,0:17:48.33,0:17:50.80,Nanoha Narration1,,0,0,0,,If it is inconvenient for you,
 Dialogue: 0,0:17:50.80,0:17:54.76,Nanoha Narration1,,0,0,0,,please show this photograph to Hayate.
 Dialogue: 0,0:18:04.18,0:18:05.52,Nanoha Narration1,,0,0,0,,What?
@@ -463,7 +468,7 @@ Dialogue: 0,0:24:45.51,0:24:49.08,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:49.08,0:24:52.88,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:52.88,0:24:58.85,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.88,0:25:09.88,Nanoha Title2,,0,0,0,,{\fad(0,1000)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:05.88,0:25:09.88,Nanoha Title2,,0,0,0,,{\fad(0,1000)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3000,3045,\1a&HFF&)}Next Episode Preview
+Dialogue: 0,0:25:05.88,0:25:09.88,Nanoha Title2,,0,0,0,,{\fad(0,1000)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3000,4000,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:09.38,0:25:11.48,Nanoha Narration1,,0,0,0,,The Book of Darkness is almost complete,
 Dialogue: 0,0:25:11.48,0:25:13.83,Nanoha Narration1,,0,0,0,,but then {\i0}that{\i1} happened.
 Dialogue: 0,0:25:13.83,0:25:17.24,Nanoha Narration1,,0,0,0,,Was it coincidence or necessity,

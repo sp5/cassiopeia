@@ -18,7 +18,7 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 333
+Scroll Position: 335
 Active Line: 335
 Video Position: 36107
 
@@ -371,10 +371,10 @@ Dialogue: 0,0:24:45.49,0:24:49.06,Nanoha ED,,0,0,0,,I'm sure I was spoiled for a
 Dialogue: 0,0:24:49.06,0:24:52.86,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:52.86,0:24:58.83,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,870)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
-Dialogue: 0,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,870)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3120,3165,\1a&HFF&)}Next Episode Preview
+Dialogue: 0,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,870)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3120,3990,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:08.78,0:25:10.76,Nanoha Narration1,,0,0,0,,And so, the Book of Darkness Incident
 Dialogue: 0,0:25:10.76,0:25:12.46,Nanoha Narration1,,0,0,0,,comes to an end.
-Dialogue: 0,0:25:12.46,0:25:18.23,Nanoha Narration1,,0,0,0,,Giving thanks and smiles to all we met.
+Dialogue: 0,0:25:12.46,0:25:18.23,Nanoha Narration1,,0,0,0,,We give thanks and smiles to all we met.
 Dialogue: 0,0:25:18.23,0:25:21.56,Nanoha Narration1,,0,0,0,,And then departures and farewells.
 Dialogue: 0,0:25:21.56,0:25:24.24,Nanoha Narration1,,0,0,0,,A time to start heading in a new direction.
 Dialogue: 0,0:25:24.24,0:25:27.42,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha A's:{\i1}
