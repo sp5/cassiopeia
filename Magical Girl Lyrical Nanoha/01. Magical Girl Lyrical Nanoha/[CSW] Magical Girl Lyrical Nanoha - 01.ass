@@ -17,9 +17,9 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 960x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha - 01 (BDRip 960x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 210
-Active Line: 211
-Video Position: 21988
+Scroll Position: 180
+Active Line: 183
+Video Position: 18363
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -219,7 +219,8 @@ Dialogue: 0,0:12:29.91,0:12:32.48,Nanoha Dialogue1,,0,0,0,,Wait, I'll try callin
 Dialogue: 0,0:12:35.42,0:12:38.62,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha{\i1}
 Dialogue: 0,0:12:40.82,0:12:42.36,Nanoha Dialogue1,,0,0,0,,Nanoha!
 Dialogue: 0,0:12:42.36,0:12:43.72,Nanoha Dialogue1,,0,0,0,,Hey, Nanoha!
-Dialogue: 0,0:12:43.72,0:12:45.86,Nanoha Dialogue1,,0,0,0,,Okay, I'm coming right over!
+Dialogue: 0,0:12:43.72,0:12:45.85,Nanoha Dialogue1,,0,0,0,,Okay, I'm coming right over!
+Dialogue: 0,0:12:45.85,0:12:48.89,Nanoha Dialogue2,,0,0,0,,{\t(\fscx108\fscy108)\an8\blur0.5\b1\fs10\move(759.291,426,784.317,434,40,3001)\c&HDFFEED&}Makihara Veterinary{\b0}
 Dialogue: 0,0:12:50.94,0:12:53.63,Nanoha Dialogue1,,0,0,0,,His wounds weren't that bad,
 Dialogue: 0,0:12:53.63,0:12:56.30,Nanoha Dialogue1,,0,0,0,,but he seems to be very weak right now.
 Dialogue: 0,0:12:56.30,0:12:59.94,Nanoha Dialogue1,,0,0,0,,Maybe he's been on his own for a while.
