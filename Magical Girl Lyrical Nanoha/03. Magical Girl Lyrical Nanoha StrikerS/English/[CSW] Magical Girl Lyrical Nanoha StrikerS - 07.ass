@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 350
-Active Line: 353
-Video Position: 36718
+Scroll Position: 341
+Active Line: 344
+Video Position: 36347
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -382,7 +382,7 @@ Dialogue: 0,0:24:55.77,0:24:59.24,Nanoha ED,Endsong,0,0,0,,Like a prayer, the jo
 Dialogue: 0,0:24:59.24,0:25:05.96,Nanoha ED,Endsong,0,0,0,,Be my guide anyday, oh small jewel
 Dialogue: 0,0:25:05.96,0:25:09.60,Nanoha ED,Endsong,0,0,0,,Spica among the stars
 Dialogue: 1,0:25:15.94,0:25:20.93,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\bord0\blur0.496\pos(134.42,292.542)}Next\NEpisode\NPreview
-Dialogue: 0,0:25:15.94,0:25:20.93,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\blur0.496\c&HFFFFFF&\pos(134.42,292.542)\t(4500,4545,\1a&HFF&)}Next\NEpisode\NPreview
+Dialogue: 0,0:25:15.94,0:25:20.93,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\blur0.496\c&HFFFFFF&\pos(134.42,292.542)\t(4540,4990,\1a&HFF&)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:17.28,0:25:19.32,NanohaW Narration1,,0,0,0,,Regret and sadness\Ncan be turned into
 Dialogue: 0,0:25:19.32,0:25:21.54,NanohaW Narration1,,0,0,0,,the power to stand up.
 Dialogue: 0,0:25:21.54,0:25:24.65,NanohaW Narration1,,0,0,0,,We had always walked together like that.

@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 313
-Active Line: 314
-Video Position: 30743
+Scroll Position: 362
+Active Line: 367
+Video Position: 36347
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -405,7 +405,7 @@ Dialogue: 0,0:24:55.67,0:24:59.14,Nanoha ED,Endsong,0,0,0,,Like a prayer, the jo
 Dialogue: 0,0:24:59.14,0:25:05.86,Nanoha ED,Endsong,0,0,0,,Be my guide anyday, oh small jewel
 Dialogue: 0,0:25:05.86,0:25:09.50,Nanoha ED,Endsong,0,0,0,,Spica among the stars
 Dialogue: 1,0:25:15.94,0:25:20.93,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\bord0\blur0.5\pos(134.42,295)}Next\NEpisode\NPreview
-Dialogue: 0,0:25:15.94,0:25:20.93,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\blur0.5\c&HFFFFFF&\pos(134.42,295)\t(4500,4545,\1a&HFF&)}Next\NEpisode\NPreview
+Dialogue: 0,0:25:15.94,0:25:20.93,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\blur0.5\c&HFFFFFF&\pos(134.42,295)\t(4540,4990,\1a&HFF&)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:17.98,0:25:19.37,NanohaW Narration1,,0,0,0,,To be prepared to\Nsortie at any time,
 Dialogue: 0,0:25:19.37,0:25:21.94,NanohaW Narration1,,0,0,0,,the forward members\Nare continuously training.
 Dialogue: 0,0:25:21.94,0:25:24.36,NanohaW Narration1,,0,0,0,,You are about to meet your partner,\Nwho will fight with you.

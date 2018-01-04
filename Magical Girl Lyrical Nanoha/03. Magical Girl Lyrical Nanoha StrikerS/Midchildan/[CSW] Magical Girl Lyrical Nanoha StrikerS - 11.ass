@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 309
-Active Line: 312
-Video Position: 32990
+Scroll Position: 337
+Active Line: 342
+Video Position: 36372
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -380,9 +380,9 @@ Dialogue: 0,0:24:56.81,0:25:00.28,Nanoha ED,Endsong,0,0,0,,Like a prayer, the jo
 Dialogue: 0,0:25:00.28,0:25:07.00,Nanoha ED,Endsong,0,0,0,,Be my guide anyday, oh small jewel
 Dialogue: 0,0:25:07.00,0:25:10.64,Nanoha ED,Endsong,0,0,0,,Spica among the stars
 Dialogue: 1,0:25:16.98,0:25:21.97,Nanoha Title2,,0,0,0,,{\an1\fad(0,490)\bord0\blur0.5\pos(134.42,292.542)}Next\NEpisode\NPreview
-Dialogue: 0,0:25:16.98,0:25:21.97,Nanoha Title2,,0,0,0,,{\an1\fad(0,490)\blur0.5\c&HFFFFFF&\pos(134.42,292.542)\t(4500,4545,\1a&HFF&)}Next\NEpisode\NPreview
+Dialogue: 0,0:25:16.98,0:25:21.97,Nanoha Title2,,0,0,0,,{\an1\fad(0,490)\blur0.5\c&HFFFFFF&\pos(134.42,292.542)\t(4500,4990,\1a&HFF&)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:18.24,0:25:22.42,NanohaW Narration1,First,0,0,0,,A new shadow appears, and our uneasiness continues.
-Dialogue: 0,0:25:22.42,0:25:28.08,NanohaW Narration1,First,0,0,0,,No matter what shows up, no matter who comes, I'll get through it and protect everyone.
+Dialogue: 0,0:25:22.42,0:25:28.08,NanohaW Narration1,First,0,0,0,,No matter what shows up, no matter who comes,\NI'll get through it and protect everyone.
 Dialogue: 0,0:25:28.08,0:25:31.52,NanohaW Narration1,First,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha StrikerS:{\i1}
 Dialogue: 0,0:25:31.52,0:25:34.57,NanohaW Narration1,First,0,0,0,,Episode 12: Numbers
 Dialogue: 1,0:25:33.42,0:25:37.00,Nanoha StrikerS Title2,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 12

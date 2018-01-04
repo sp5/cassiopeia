@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 45
-Active Line: 48
-Video Position: 7387
+Scroll Position: 78
+Active Line: 83
+Video Position: 10612
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,7 +29,7 @@ Style: Nanoha StrikerS Title2,Junicode,89,&H00EFF3F7,&H000000FF,&H00183ACD,&H602
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: NanohaW Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
-Style: NanohaW Dialogue2,Noto Sans,45,&H00DCD8D8,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,1.2,0,5,14,14,13,1
+Style: NanohaW Dialogue2,Noto Sans,45,&H00DCD9DC,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,1.2,0,5,14,14,13,1
 Style: NanohaW Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.4,8,80,80,18,1
 Style: NanohaW Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
@@ -53,7 +53,7 @@ Dialogue: 0,0:01:48.98,0:01:53.96,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640
 Dialogue: 1,0:01:48.98,0:01:53.96,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,535.5)\bord0}Wings to the Sky
 Dialogue: 0,0:01:48.98,0:01:53.96,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,535.5)\c&H8C0062&}Wings to the Sky
 Dialogue: 1,0:01:54.08,0:02:00.91,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(959,458)\fs45\b1\pos(640,507.5)\bord0}April 29, 0071\NNorthern Midchilda, 8th Coastal Airport{\b0}
-Dialogue: 0,0:01:54.08,0:02:00.91,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(959,458)\fs45\b1\pos(640,507.5)\c&H000000&\1a&HFF&\t(914,959,\1a&H00&)\t(6372,6417,\1a&HFF&)}April 29, 0071\NNorthern Midchilda, 8th Coastal Airport{\b0}
+Dialogue: 0,0:01:54.08,0:02:00.91,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(959,458)\fs45\b1\pos(640,507.5)\c&H000000&\1a&HFF&\t(0,959,\1a&H00&)\t(6372,6830,\1a&HFF&)}April 29, 0071\NNorthern Midchilda, 8th Coastal Airport{\b0}
 Dialogue: 0,0:01:55.52,0:02:00.43,NanohaW Narration1,Subaru,0,0,0,,When I was little, I was really weak—a crybaby.
 Dialogue: 0,0:02:01.88,0:02:06.39,NanohaW Narration1,Subaru,0,0,0,,I always cowered from sad or difficult things.
 Dialogue: 0,0:02:06.39,0:02:09.26,NanohaW Narration1,Subaru,0,0,0,,Anyway, all I could do was cry.
@@ -90,7 +90,7 @@ Dialogue: 0,0:05:17.21,0:05:22.59,NanohaW Narration1,Subaru,0,0,0,,The person wh
 Dialogue: 0,0:05:25.01,0:05:29.97,NanohaW Narration1,Subaru,0,0,0,,I was ashamed of myself for only crying and being unable to do anything.
 Dialogue: 0,0:05:33.65,0:05:38.67,NanohaW Narration1,Subaru,0,0,0,,Since that time, for the first time in my life, I firmly believed in my heart.
 Dialogue: 1,0:05:41.81,0:05:47.68,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(459,459)\b1\pos(640,507.5)\bord0}April 0075, Midchilda\N8th Coastal Airport Abandoned Highway{\b0}
-Dialogue: 0,0:05:41.81,0:05:47.68,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(459,459)\b1\pos(640,507.5)\c&H000000&\1a&HFF&\t(414,459,\1a&H00&)\t(5411,5456,\1a&HFF&)}April 0075, Midchilda\N8th Coastal Airport Abandoned Highway{\b0}
+Dialogue: 0,0:05:41.81,0:05:47.68,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(459,459)\b1\pos(640,507.5)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(5411,5870,\1a&HFF&)}April 0075, Midchilda\N8th Coastal Airport Abandoned Highway{\b0}
 Dialogue: 0,0:05:42.38,0:05:45.28,NanohaW Narration1,Subaru,0,0,0,,Being able to only cry and to do nothing...
 Dialogue: 0,0:05:45.28,0:05:46.94,NanohaW Narration1,Subaru,0,0,0,,I won't be like that anymore...
 Dialogue: 0,0:05:55.29,0:05:56.84,NanohaW Narration1,Subaru,0,0,0,,Because I will become stronger.
@@ -115,11 +115,11 @@ Dialogue: 0,0:07:04.52,0:07:05.74,NanohaW Dialogue1,Rein,0,0,0,,Pleased to meet 
 Dialogue: 0,0:07:06.69,0:07:07.99,NanohaW Dialogue1,Tia|Sub,0,0,0,,The pleasure is ours!
 Dialogue: 0,0:07:12.56,0:07:15.49,NanohaW Dialogue1,Hayate,0,0,0,,Ah, they're already getting started.
 Dialogue: 0,0:07:15.49,0:07:17.94,NanohaW Dialogue1,Hayate,0,0,0,,Rein is really being a proper examiner, too.
-Dialogue: 1,0:07:18.28,0:07:20.98,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(292,0)\b1\pos(640,504.5)\bord0}Lt. Colonel, Time-Space Administrative Bureau\N{\fs54}Hayate Yagami{\b0}
-Dialogue: 0,0:07:18.28,0:07:20.98,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(292,0)\b1\pos(640,504.5)\c&H000000&\1a&HFF&\t(247,292,\1a&H00&)}Lt. Colonel, Time-Space Administrative Bureau\N{\fs54}Hayate Yagami{\b0}
+Dialogue: 1,0:07:18.28,0:07:20.98,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(292,0)\b1\pos(640,504.5)\bord0\c&HD4D6D7&}Lt. Colonel, Time-Space Administrative Bureau\N{\fs54}Hayate Yagami{\b0}
+Dialogue: 0,0:07:18.28,0:07:20.98,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(292,0)\b1\pos(640,504.5)\c&H000000&\1a&HFF&\t(0,292,\1a&H00&)}Lt. Colonel, Time-Space Administrative Bureau\N{\fs54}Hayate Yagami{\b0}
 Dialogue: 0,0:07:20.96,0:07:24.29,NanohaW Dialogue1,Fate,0,0,0,,Hayate, it's dangerous to watch from the door.
-Dialogue: 1,0:07:22.57,0:07:25.94,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(292,0)\b1\pos(640,504.5)\bord0}Enforcer, Time-Space Administrative Bureau Main Office\N{\fs54}Fate T. Harlaown{\b0}
-Dialogue: 0,0:07:22.57,0:07:25.94,NanohaW Dialogue2,,0,0,0,,{\blur1\fad(292,0)\b1\pos(640,504.5)\c&H000000&\1a&HFF&\t(247,292,\1a&H00&)}Enforcer, Time-Space Administrative Bureau Main Office\N{\fs54}Fate T. Harlaown{\b0}
+Dialogue: 1,0:07:22.57,0:07:25.94,NanohaW Dialogue2,,0,0,0,,{\c&HD4D6D7&\blur0.75\fad(292,0)\b1\pos(640,504.5)\bord0}Enforcer, Time-Space Administrative Bureau Main Office\N{\fs54}Fate T. Harlaown{\b0}
+Dialogue: 0,0:07:22.57,0:07:25.94,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(292,0)\b1\pos(640,504.5)\c&H000000&\1a&HFF&\t(0,292,\1a&H00&)}Enforcer, Time-Space Administrative Bureau Main Office\N{\fs54}Fate T. Harlaown{\b0}
 Dialogue: 0,0:07:24.29,0:07:25.94,NanohaW Dialogue1,Fate,0,0,0,,{\pos(640,699)}You can see it on the monitor anyway.
 Dialogue: 0,0:07:25.94,0:07:27.51,NanohaW Dialogue1,Hayate,0,0,0,,Okay.
 Dialogue: 0,0:07:32.17,0:07:34.95,NanohaW Dialogue1,Fate,0,0,0,,So these two are the ones you picked out?
@@ -354,7 +354,7 @@ Dialogue: 0,0:24:56.72,0:25:00.19,Nanoha ED,Endsong,0,0,0,,Like a prayer, the jo
 Dialogue: 0,0:25:00.19,0:25:06.91,Nanoha ED,Endsong,0,0,0,,Be my guide anyday, oh small jewel
 Dialogue: 0,0:25:06.91,0:25:10.55,Nanoha ED,Endsong,0,0,0,,Spica among the stars
 Dialogue: 1,0:25:16.90,0:25:21.85,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\bord0\blur0.5\pos(134.42,295)}Next\NEpisode\NPreview
-Dialogue: 0,0:25:16.90,0:25:21.85,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\blur0.5\c&HFFFFFF&\pos(134.42,295)\t(4500,4545,\1a&HFF&)}Next\NEpisode\NPreview
+Dialogue: 0,0:25:16.90,0:25:21.85,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\blur0.5\c&HFFFFFF&\pos(134.42,295)\t(4500,4950,\1a&HFF&)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:17.99,0:25:22.12,NanohaW Narration1,,0,0,0,,The incident at the airport\Nfour years ago started it all.
 Dialogue: 0,0:25:22.12,0:25:24.90,NanohaW Narration1,,0,0,0,,Inside the burning flames, there were many encounters,
 Dialogue: 0,0:25:24.90,0:25:27.20,NanohaW Narration1,,0,0,0,,And it was the beginning of many determinations.
