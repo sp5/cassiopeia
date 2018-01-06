@@ -18,14 +18,14 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 286
-Active Line: 289
-Video Position: 36203
+Scroll Position: 288
+Active Line: 292
+Video Position: 36315
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Dialogue2,Junicode,64,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,4,14,14,13,1
+Style: Nanoha Dialogue2,Junicode,64,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,1.5,0,4,14,14,13,1
 Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,0,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,3,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
@@ -36,8 +36,8 @@ Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.56,0:00:06.70,Nanoha Narration1,,0,0,0,,A sudden incident has befallen me,\NNanoha Takamachi,
-Dialogue: 0,0:00:06.70,0:00:10.16,Nanoha Narration1,,0,0,0,,a girl who was supposed to be an ordinary third-grader.
-Dialogue: 0,0:00:10.97,0:00:15.87,Nanoha Narration1,,0,0,0,,I accepted the courage within my heart,\Nand I gained magical powers.
+Dialogue: 0,0:00:06.70,0:00:10.01,Nanoha Narration1,,0,0,0,,a girl who was supposed to be an ordinary third-grader.
+Dialogue: 0,0:00:10.97,0:00:15.55,Nanoha Narration1,,0,0,0,,I accepted the courage within my heart,\Nand I gained magical powers.
 Dialogue: 0,0:00:23.31,0:00:26.66,Nanoha Narration1,,0,0,0,,Feelings that miss each other, words that don't link together...
 Dialogue: 0,0:00:27.66,0:00:32.76,Nanoha Narration1,,0,0,0,,Is fighting the only thing that I can do to link them together?
 Dialogue: 0,0:00:35.59,0:00:39.05,Nanoha Dialogue1,,0,0,0,,{\i1}Magical Girl Lyrical Nanoha{\i0}\Nwill now begin.
@@ -57,10 +57,10 @@ Dialogue: 0,0:02:02.86,0:02:07.43,Nanoha OP,,0,0,0,,I'll be by your side forever
 Dialogue: 0,0:02:07.43,0:02:17.43,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
 Dialogue: 0,0:02:29.06,0:02:32.19,Nanoha Narration1,,0,0,0,,I'm sure it all started from one coincidence.
 Dialogue: 0,0:02:32.76,0:02:36.67,Nanoha Narration1,,0,0,0,,But many coincidences overlap each other.
-Dialogue: 0,0:02:36.67,0:02:41.00,Nanoha Narration1,,0,0,0,,I was choosing my path, being careful not to make mistakes.
+Dialogue: 0,0:02:36.67,0:02:41.00,Nanoha Narration1,,0,0,0,,I was choosing my path,\Ntaking care to not make mistakes.
 Dialogue: 0,0:02:41.64,0:02:45.22,Nanoha Narration1,,0,0,0,,I think that's how everyone spends their days.
 Dialogue: 0,0:02:53.72,0:02:56.54,Nanoha Narration1,,0,0,0,,The current days of my life may have begun just by coincidence.
-Dialogue: 0,0:02:57.15,0:03:01.24,Nanoha Narration1,,0,0,0,,That's why I want to keep moving ahead, without making any mistakes.
+Dialogue: 0,0:02:57.15,0:03:01.24,Nanoha Narration1,,0,0,0,,That's why I want to keep moving ahead,\Nwithout making any mistakes.
 Dialogue: 0,0:03:05.36,0:03:09.75,Nanoha Narration1,,0,0,0,,By my own will,\Naccording to my own feelings.
 Dialogue: 1,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(480,139)\bord0}Episode 5
 Dialogue: 0,0:03:12.74,0:03:18.84,Nanoha Title1,,0,0,0,,{\blur3\frx30\pos(480,139)\c&H8352A8&}Episode 5
@@ -74,8 +74,8 @@ Dialogue: 0,0:03:32.87,0:03:36.44,Nanoha Narration1,,0,0,0,,and go off on small 
 Dialogue: 0,0:03:36.44,0:03:39.46,Nanoha Narration1,,0,0,0,,This time, we're on a trip with all of my friends.
 Dialogue: 0,0:03:44.45,0:03:48.34,Nanoha Narration1,,0,0,0,,My big brother, his girlfriend\NShinobu Tsukimura,
 Dialogue: 0,0:03:48.34,0:03:52.08,Nanoha Narration1,,0,0,0,,and the maids from the Tsukimura family, are with us as well.
-Dialogue: 0,0:03:53.06,0:03:58.96,Nanoha Narration1,,0,0,0,,For two nights we'll be soaking in hot springs, close to home.
-Dialogue: 0,0:03:58.96,0:04:02.51,Nanoha Narration1,,0,0,0,,The usual Takamachi vacation plan, to ease the fatigue of everyday life.
+Dialogue: 0,0:03:53.06,0:03:58.78,Nanoha Narration1,,0,0,0,,For two nights we'll be soaking in hot springs, close to home.
+Dialogue: 0,0:03:58.78,0:04:02.51,Nanoha Narration1,,0,0,0,,The usual Takamachi vacation plan, to ease the fatigue of everyday life.
 Dialogue: 0,0:04:04.10,0:04:05.97,Nanoha Dialogue1,,0,0,0,,Look, look, so much green!
 Dialogue: 0,0:04:05.97,0:04:07.00,Nanoha Dialogue1,,0,0,0,,You're so right!
 Dialogue: 0,0:04:07.00,0:04:09.60,Nanoha Dialogue1,,0,0,0,,It's just like the gardens in my house!
@@ -89,18 +89,19 @@ Dialogue: 0,0:04:33.26,0:04:37.93,Nanoha Narration1,,0,0,0,,And not having been 
 Dialogue: 0,0:04:39.04,0:04:41.41,Nanoha Narration1,,0,0,0,,I've been thinking too much about them,
 Dialogue: 0,0:04:41.41,0:04:46.64,Nanoha Narration1,,0,0,0,,so Yuuno recommended that I should take time off and rest a bit.
 Dialogue: 0,0:04:57.89,0:04:59.75,Nanoha Dialogue1,,0,0,0,,So big!
-Dialogue: 0,0:05:04.28,0:05:07.00,Nanoha Narration1,,0,0,0,,At least for the next two days,
-Dialogue: 0,0:05:07.00,0:05:09.68,Nanoha Narration1,,0,0,0,,I'm going to act like all the other kids my age.
+Dialogue: 0,0:05:04.28,0:05:06.88,Nanoha Narration1,,0,0,0,,At least for the next two days,
+Dialogue: 0,0:05:06.88,0:05:09.68,Nanoha Narration1,,0,0,0,,I'm going to act like all the other kids my age.
 Dialogue: 0,0:05:12.07,0:05:15.17,Nanoha Narration1,,0,0,0,,I'm planning to play as much as I can!
 Dialogue: 1,0:05:16.78,0:05:18.98,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,174)\blur0.5\bord0\c&H616B77&\shad0}Ladies' Bath
-Dialogue: 0,0:05:16.78,0:05:18.98,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,174)\blur0.5\c&HE1E1E1&\3c&HE1E1E1&\shad0}Ladies' Bath
-Dialogue: 0,0:05:18.98,0:05:21.71,Nanoha Dialogue1,,0,0,0,,Sorry to keep you waiting!\NShall we go?
+Dialogue: 0,0:05:16.78,0:05:18.98,Nanoha Dialogue2,,0,0,0,,{\bord1.5\an5\pos(480,174)\blur0.5\c&HB1BBC5&\3c&HB1BBC5&\shad0}Ladies' Bath
+Dialogue: 0,0:05:18.98,0:05:20.02,Nanoha Dialogue1,,0,0,0,,Sorry to keep you waiting!
+Dialogue: 0,0:05:20.40,0:05:21.71,Nanoha Dialogue1,,0,0,0,,Shall we go?
 Dialogue: 0,0:05:24.98,0:05:28.09,Nanoha Narration1,,0,0,0,,Have you ever soaked in a hot spring, Yuuno?
-Dialogue: 0,0:05:28.09,0:05:33.79,Nanoha Narration1,,0,0,0,,Uh... well... I've been to\Na public bath before, but...
+Dialogue: 0,0:05:28.09,0:05:33.24,Nanoha Narration1,,0,0,0,,Uh... well... I've been to\Na public bath before, but...
 Dialogue: 0,0:05:35.09,0:05:37.49,Nanoha Narration1,,0,0,0,,Hot springs are wonderful!
 Dialogue: 0,0:05:38.50,0:05:39.56,Nanoha Narration1,,0,0,0,,Really?
 Dialogue: 0,0:05:54.61,0:05:56.01,Nanoha Narration1,,0,0,0,,Nanoha!
-Dialogue: 0,0:05:56.01,0:05:57.75,Nanoha Narration1,,0,0,0,,I think, after all...
+Dialogue: 0,0:05:56.01,0:05:57.40,Nanoha Narration1,,0,0,0,,I think, after all...
 Dialogue: 0,0:05:58.82,0:06:03.05,Nanoha Narration1,,0,0,0,,Er... I think I'll go to the men's bath with Kyōya and Shirō.
 Dialogue: 0,0:06:03.05,0:06:07.35,Nanoha Narration1,,0,0,0,,It's okay! Let's go in together!
 Dialogue: 0,0:06:14.06,0:06:15.53,Nanoha Dialogue1,,0,0,0,,{\i1}Fantastic!{\i0}
@@ -110,7 +111,7 @@ Dialogue: 0,0:06:21.77,0:06:23.26,Nanoha Dialogue1,,0,0,0,,Really!
 Dialogue: 0,0:06:28.11,0:06:30.98,Nanoha Dialogue1,,0,0,0,,Sis, let me wash your back!
 Dialogue: 0,0:06:30.98,0:06:32.52,Nanoha Dialogue1,,0,0,0,,Thank you, Suzuka.
 Dialogue: 0,0:06:32.52,0:06:34.55,Nanoha Dialogue1,,0,0,0,,Then I will too!
-Dialogue: 0,0:06:34.55,0:06:35.91,Nanoha Dialogue1,,0,0,0,,Thanks.
+Dialogue: 0,0:06:34.55,0:06:35.52,Nanoha Dialogue1,,0,0,0,,Thanks.
 Dialogue: 0,0:06:38.78,0:06:42.38,Nanoha Dialogue1,,0,0,0,,Then I'll give you a wash!
 Dialogue: 0,0:06:44.73,0:06:46.36,Nanoha Dialogue1,,0,0,0,,No need to worry!
 Dialogue: 0,0:06:46.36,0:06:48.55,Nanoha Dialogue1,,0,0,0,,I'm really good at washing things!
@@ -135,15 +136,15 @@ Dialogue: 0,0:08:25.60,0:08:28.42,Nanoha Dialogue1,,0,0,0,,Okay. See you later.
 Dialogue: 0,0:08:28.86,0:08:31.52,Nanoha Dialogue1,,0,0,0,,Now, let's go, Yuuno!
 Dialogue: 0,0:08:35.54,0:08:38.00,Nanoha Dialogue1,,0,0,0,,That really felt good!
 Dialogue: 0,0:08:38.00,0:08:41.41,Nanoha Dialogue1,,0,0,0,,Since we've washed off the sweat, shall we play some ping-pong?
-Dialogue: 0,0:08:41.41,0:08:44.11,Nanoha Dialogue1,,0,0,0,,Ping-pong?
-Dialogue: 0,0:08:44.11,0:08:47.88,Nanoha Dialogue1,,0,0,0,,Oh, I wanted to go see what souvenirs they had.
+Dialogue: 0,0:08:41.41,0:08:43.48,Nanoha Dialogue1,,0,0,0,,Ping-pong?
+Dialogue: 0,0:08:43.48,0:08:47.88,Nanoha Dialogue1,,0,0,0,,Oh, I wanted to go see what souvenirs they had.
 Dialogue: 0,0:08:48.52,0:08:50.19,Nanoha Dialogue1,,0,0,0,,What should we do?
 Dialogue: 0,0:08:50.19,0:08:51.59,Nanoha Dialogue1,,0,0,0,,Which should we do first?
 Dialogue: 0,0:08:51.59,0:08:53.38,Nanoha Dialogue1,,0,0,0,,Why not play rock-paper-scissors to decide?
 Dialogue: 0,0:08:56.63,0:08:59.56,Nanoha Dialogue1,,0,0,0,,Hi, kiddies!
 Dialogue: 0,0:09:07.87,0:09:11.82,Nanoha Dialogue1,,0,0,0,,Are you the one who did the you-know-what to my girl?
-Dialogue: 0,0:09:13.81,0:09:17.41,Nanoha Dialogue1,,0,0,0,,You don't look too smart or strong.
-Dialogue: 0,0:09:17.41,0:09:20.51,Nanoha Dialogue1,,0,0,0,,You look like an ordinary kid.
+Dialogue: 0,0:09:13.68,0:09:17.24,Nanoha Dialogue1,,0,0,0,,You don't look too smart or strong.
+Dialogue: 0,0:09:17.24,0:09:20.51,Nanoha Dialogue1,,0,0,0,,You look like an ordinary kid.
 Dialogue: 0,0:09:23.49,0:09:25.89,Nanoha Dialogue1,,0,0,0,,Nanoha, do you know her?
 Dialogue: 0,0:09:25.89,0:09:27.19,Nanoha Dialogue1,,0,0,0,,No.
 Dialogue: 0,0:09:27.19,0:09:31.63,Nanoha Dialogue1,,0,0,0,,It seems she doesn't know you.\NWho are you?!
@@ -159,10 +160,10 @@ Dialogue: 0,0:10:14.27,0:10:16.76,Nanoha Narration1,,0,0,0,,For now, I'm just go
 Dialogue: 0,0:10:21.88,0:10:23.81,Nanoha Narration1,,0,0,0,,Let me warn you.
 Dialogue: 0,0:10:23.81,0:10:27.57,Nanoha Narration1,,0,0,0,,Kids should behave themselves and play at home!
 Dialogue: 0,0:10:27.57,0:10:31.02,Nanoha Narration1,,0,0,0,,If you're being a bad girl, you'll get bitten, got that?
-Dialogue: 0,0:10:35.89,0:10:39.96,Nanoha Dialogue1,,0,0,0,,Well then, I think I'll go take another bath!
+Dialogue: 0,0:10:35.89,0:10:39.38,Nanoha Dialogue1,,0,0,0,,Well then, I think I'll go take another bath!
 Dialogue: 0,0:10:46.74,0:10:48.03,Nanoha Narration1,,0,0,0,,Nanoha...
 Dialogue: 0,0:10:49.04,0:10:50.54,Nanoha Narration1,,0,0,0,,Yeah.
-Dialogue: 0,0:10:51.94,0:10:53.57,Nanoha Dialogue1,,0,0,0,,Nanoha...
+Dialogue: 0,0:10:51.94,0:10:53.06,Nanoha Dialogue1,,0,0,0,,Nanoha...
 Dialogue: 0,0:10:54.24,0:10:54.80,Nanoha Dialogue1,,0,0,0,,Yeah?
 Dialogue: 0,0:10:54.80,0:10:57.65,Nanoha Dialogue1,,0,0,0,,What was that?
 Dialogue: 0,0:10:57.65,0:11:00.35,Nanoha Dialogue1,,0,0,0,,Well... that was a really strange person.
@@ -171,7 +172,7 @@ Dialogue: 0,0:11:04.35,0:11:05.32,Nanoha Dialogue1,,0,0,0,,She's creepy!
 Dialogue: 0,0:11:05.32,0:11:06.26,Nanoha Dialogue1,,0,0,0,,Alisa...
 Dialogue: 0,0:11:06.26,0:11:08.69,Nanoha Dialogue1,,0,0,0,,Now, now, this is a place to relax,
 Dialogue: 0,0:11:08.69,0:11:10.56,Nanoha Dialogue1,,0,0,0,,so there's all sorts of people here!
-Dialogue: 0,0:11:10.56,0:11:15.03,Nanoha Dialogue1,,0,0,0,,But you should know how to be modest! Modest, I say!
+Dialogue: 0,0:11:10.56,0:11:14.82,Nanoha Dialogue1,,0,0,0,,But you should know how to be modest! Modest, I say!
 Dialogue: 0,0:11:27.28,0:11:29.95,Nanoha Narration1,,0,0,0,,Oh, hello, Fate?
 Dialogue: 0,0:11:29.95,0:11:31.58,Nanoha Narration1,,0,0,0,,This is Arf.
 Dialogue: 0,0:11:45.06,0:11:48.10,Nanoha Narration1,,0,0,0,,I went and took a look at that girl in white.
@@ -188,77 +189,77 @@ Dialogue: 0,0:12:15.06,0:12:16.98,Nanoha Narration1,,0,0,0,,Let's meet up again 
 Dialogue: 0,0:12:16.98,0:12:18.50,Nanoha Narration1,,0,0,0,,Sure!
 Dialogue: 0,0:12:21.70,0:12:23.50,Nanoha Dialogue1,,0,0,0,,Relax, relax!
 Dialogue: 0,0:12:27.60,0:12:29.01,Nanoha Dialogue1,,0,0,0,,Whoops.
-Dialogue: 0,0:12:37.41,0:12:39.48,Nanoha Dialogue1,,0,0,0,,Oh, no!
+Dialogue: 0,0:12:37.41,0:12:38.84,Nanoha Dialogue1,,0,0,0,,Oh, no!
 Dialogue: 0,0:12:45.30,0:12:47.03,Nanoha Dialogue1,,0,0,0,,You think this will be fine?
 Dialogue: 0,0:12:47.76,0:12:50.04,Nanoha Dialogue1,,0,0,0,,And they lived happily ever after.
 Dialogue: 0,0:12:58.70,0:13:02.51,Nanoha Dialogue1,,0,0,0,,Oh, Falin. Are all the kids asleep already?
-Dialogue: 0,0:13:02.51,0:13:05.67,Nanoha Dialogue1,,0,0,0,,Yes, Mrs. Momoko.\NThey're sound asleep.
-Dialogue: 0,0:13:14.48,0:13:16.49,Nanoha Dialogue1,,0,0,0,,Thank you, Falin.
+Dialogue: 0,0:13:02.51,0:13:05.28,Nanoha Dialogue1,,0,0,0,,Yes, Mrs. Momoko.\NThey're sound asleep.
+Dialogue: 0,0:13:14.38,0:13:16.49,Nanoha Dialogue1,,0,0,0,,Thank you, Falin.
 Dialogue: 0,0:13:16.49,0:13:19.26,Nanoha Dialogue1,,0,0,0,,No, it's something I'm doing because I want to.
 Dialogue: 0,0:13:33.87,0:13:35.92,Nanoha Narration1,,0,0,0,,Yuuno, are you awake?
 Dialogue: 0,0:13:36.91,0:13:37.62,Nanoha Narration1,,0,0,0,,Yeah.
 Dialogue: 0,0:13:41.48,0:13:42.78,Nanoha Narration1,,0,0,0,,That woman from this afternoon...
 Dialogue: 0,0:13:42.78,0:13:45.45,Nanoha Narration1,,0,0,0,,Does she have something to do with that girl from the other day?
 Dialogue: 0,0:13:45.45,0:13:46.55,Nanoha Narration1,,0,0,0,,Probably.
-Dialogue: 0,0:13:46.55,0:13:49.84,Nanoha Narration1,,0,0,0,,Are things going to end up like what happened the other day?
+Dialogue: 0,0:13:46.55,0:13:49.84,Nanoha Narration1,,0,0,0,,Are things going to end up\Nlike the other day?
 Dialogue: 0,0:13:49.84,0:13:51.43,Nanoha Narration1,,0,0,0,,Probably...
 Dialogue: 0,0:13:55.03,0:13:58.83,Nanoha Narration1,,0,0,0,,Nanoha, you know, I've thought about it since that day.
 Dialogue: 0,0:13:58.83,0:14:00.36,Nanoha Narration1,,0,0,0,,And I think, after all, I should...
 Dialogue: 0,0:14:00.36,0:14:01.61,Nanoha Narration1,,0,0,0,,Stop!
 Dialogue: 0,0:14:01.61,0:14:05.11,Nanoha Narration1,,0,0,0,,If you finish that sentence,\NI'll get mad!
-Dialogue: 0,0:14:07.56,0:14:10.94,Nanoha Narration1,,0,0,0,,You were going to say, "I should do the rest from here by myself."
+Dialogue: 0,0:14:07.56,0:14:10.94,Nanoha Narration1,,0,0,0,,You were going to say,"I should do the rest from here by myself."
 Dialogue: 0,0:14:10.94,0:14:15.64,Nanoha Narration1,,0,0,0,,"I can't get you involved in this any further, Nanoha," right?
 Dialogue: 0,0:14:16.61,0:14:18.00,Nanoha Narration1,,0,0,0,,Yeah.
 Dialogue: 0,0:14:21.59,0:14:23.45,Nanoha Narration1,,0,0,0,,Collecting the Jewel Seeds...
 Dialogue: 0,0:14:23.45,0:14:26.26,Nanoha Narration1,,0,0,0,,At first I was just helping you out, Yuuno.
-Dialogue: 0,0:14:26.26,0:14:28.59,Nanoha Narration1,,0,0,0,,But now it's different.
-Dialogue: 0,0:14:28.59,0:14:32.68,Nanoha Narration1,,0,0,0,,It's something that I'm doing because I want to do it.
+Dialogue: 0,0:14:26.26,0:14:28.22,Nanoha Narration1,,0,0,0,,But now it's different.
+Dialogue: 0,0:14:28.22,0:14:32.68,Nanoha Narration1,,0,0,0,,It's something that I'm doing because I want to do it.
 Dialogue: 0,0:14:37.42,0:14:40.94,Nanoha Narration1,,0,0,0,,If you tell me you want to leave me behind and do it by yourself,
 Dialogue: 0,0:14:40.94,0:14:41.68,Nanoha Narration1,,0,0,0,,I'll get mad at you.
-Dialogue: 0,0:14:43.57,0:14:44.36,Nanoha Narration1,,0,0,0,,Yeah.
+Dialogue: 0,0:14:43.18,0:14:44.36,Nanoha Narration1,,0,0,0,,Yeah.
 Dialogue: 0,0:14:47.68,0:14:49.95,Nanoha Narration1,,0,0,0,,Let's get some sleep.
 Dialogue: 0,0:14:49.95,0:14:52.82,Nanoha Narration1,,0,0,0,,There might be something going on again tonight.
 Dialogue: 0,0:14:53.72,0:14:54.87,Nanoha Narration1,,0,0,0,,Yeah...
 Dialogue: 0,0:15:40.80,0:15:41.80,Nanoha Dialogue1,,0,0,0,,Bingo!
 Dialogue: 0,0:15:41.80,0:15:44.69,Nanoha Dialogue1,,0,0,0,,I've found it, Fate!
 Dialogue: 0,0:15:48.04,0:15:49.17,Nanoha Dialogue1,,0,0,0,,Nanoha...
-Dialogue: 0,0:15:49.17,0:15:51.94,Nanoha Dialogue1,,0,0,0,,It's all right! Let's hurry, Yuuno!
-Dialogue: 0,0:15:51.94,0:15:54.76,Nanoha Dialogue1,,0,0,0,,Raising Heart, please!
-Dialogue: 0,0:15:56.18,0:15:59.44,Nanoha Device1,,0,0,0,,Standby, ready. Set up.
-Dialogue: 0,0:16:12.14,0:16:16.03,Nanoha Dialogue1,,0,0,0,,Wow, this is an amazing one!
-Dialogue: 0,0:16:16.03,0:16:18.90,Nanoha Dialogue1,,0,0,0,,Is this what you call the power of the Lost Logia?
+Dialogue: 0,0:15:49.17,0:15:51.70,Nanoha Dialogue1,,0,0,0,,It's all right! Let's hurry, Yuuno!
+Dialogue: 0,0:15:51.70,0:15:54.76,Nanoha Dialogue1,,0,0,0,,Raising Heart, please!
+Dialogue: 0,0:15:56.18,0:15:59.12,Nanoha Device1,,0,0,0,,Standby, ready. Set up.
+Dialogue: 0,0:16:12.14,0:16:15.68,Nanoha Dialogue1,,0,0,0,,Wow, this is an amazing one!
+Dialogue: 0,0:16:15.68,0:16:18.90,Nanoha Dialogue1,,0,0,0,,Is this what you call the power of Lost Logia?
 Dialogue: 0,0:16:18.90,0:16:22.58,Nanoha Dialogue1,,0,0,0,,Though its condition is very incomplete and unstable, yes.
 Dialogue: 0,0:16:22.58,0:16:26.66,Nanoha Dialogue1,,0,0,0,,Why does your mom want something like that, anyway?
 Dialogue: 0,0:16:27.68,0:16:28.81,Nanoha Dialogue1,,0,0,0,,Who knows?
-Dialogue: 0,0:16:28.81,0:16:32.22,Nanoha Dialogue1,,0,0,0,,I have no idea, but the reason doesn't matter.
+Dialogue: 0,0:16:28.81,0:16:32.22,Nanoha Dialogue1,,0,0,0,,I have no idea,\Nbut the reason doesn't matter.
 Dialogue: 0,0:16:32.22,0:16:35.80,Nanoha Dialogue1,,0,0,0,,My mother wants them, so I need to obtain them.
 Dialogue: 0,0:16:36.85,0:16:38.99,Nanoha Dialogue1,,0,0,0,,Bardiche, wake up.
 Dialogue: 0,0:16:38.99,0:16:41.35,Nanoha Device1,,0,0,0,,Yes, sir.
-Dialogue: 0,0:16:50.23,0:16:52.53,Nanoha Device1,,0,0,0,,Sealing Form, set up.
+Dialogue: 0,0:16:50.23,0:16:52.04,Nanoha Device1,,0,0,0,,Sealing Form, set up.
 Dialogue: 0,0:17:22.56,0:17:26.00,Nanoha Dialogue1,,0,0,0,,I'm going to seal it. Arf, back me up.
-Dialogue: 0,0:17:26.00,0:17:27.53,Nanoha Dialogue1,,0,0,0,,Sure thing.
+Dialogue: 0,0:17:26.00,0:17:27.21,Nanoha Dialogue1,,0,0,0,,Sure thing.
 Dialogue: 0,0:17:31.11,0:17:32.06,Nanoha Dialogue1,,0,0,0,,That's...
 Dialogue: 0,0:17:36.66,0:17:37.56,Nanoha Dialogue1,,0,0,0,,That's two.
-Dialogue: 0,0:17:43.64,0:17:47.17,Nanoha Dialogue1,,0,0,0,,Oh, my, my, my!
+Dialogue: 0,0:17:43.64,0:17:46.94,Nanoha Dialogue1,,0,0,0,,Oh, my, my, my!
 Dialogue: 0,0:17:48.12,0:17:51.36,Nanoha Dialogue1,,0,0,0,,Didn't I tell you that kids should behave?
 Dialogue: 0,0:17:51.36,0:17:54.43,Nanoha Dialogue1,,0,0,0,,What are you going to do with that Jewel Seed?!
-Dialogue: 0,0:17:54.43,0:17:56.80,Nanoha Dialogue1,,0,0,0,,It's a dangerous item!
-Dialogue: 0,0:17:56.80,0:17:58.33,Nanoha Dialogue1,,0,0,0,,Who knows?
+Dialogue: 0,0:17:54.43,0:17:56.57,Nanoha Dialogue1,,0,0,0,,It's a dangerous item!
+Dialogue: 0,0:17:56.57,0:17:58.33,Nanoha Dialogue1,,0,0,0,,Who knows?
 Dialogue: 0,0:17:58.33,0:18:00.72,Nanoha Dialogue1,,0,0,0,,I don't see any reason to answer that.
 Dialogue: 0,0:18:00.72,0:18:04.74,Nanoha Dialogue1,,0,0,0,,Besides, I was nice and told you, right?
 Dialogue: 0,0:18:04.74,0:18:07.98,Nanoha Dialogue1,,0,0,0,,That if you didn't behave, you'd get bitten!
 Dialogue: 0,0:18:18.82,0:18:21.99,Nanoha Narration1,,0,0,0,,Just as I thought!\NShe's that girl's familiar!
 Dialogue: 0,0:18:21.99,0:18:23.08,Nanoha Narration1,,0,0,0,,A familiar?
-Dialogue: 0,0:18:23.08,0:18:28.00,Nanoha Narration1,,0,0,0,,That's right, I'm a magical lifeform this girl created.
-Dialogue: 0,0:18:28.00,0:18:30.70,Nanoha Narration1,,0,0,0,,In return for living on through my creator's magical powers,
-Dialogue: 0,0:18:30.70,0:18:33.80,Nanoha Narration1,,0,0,0,,I use my life and all my power to protect her!
+Dialogue: 0,0:18:23.08,0:18:27.81,Nanoha Narration1,,0,0,0,,That's right, I'm a magical lifeform this girl created.
+Dialogue: 0,0:18:27.99,0:18:30.46,Nanoha Narration1,,0,0,0,,In return for living on through my creator's magical powers,
+Dialogue: 0,0:18:30.46,0:18:33.80,Nanoha Narration1,,0,0,0,,I use my life and all my power to protect her!
 Dialogue: 0,0:18:34.84,0:18:38.43,Nanoha Narration1,,0,0,0,,Go home ahead of me.\NI'll catch up to you soon.
-Dialogue: 0,0:18:38.98,0:18:40.98,Nanoha Dialogue1,,0,0,0,,Don't be reckless.
+Dialogue: 0,0:18:38.98,0:18:40.32,Nanoha Dialogue1,,0,0,0,,Don't be reckless.
 Dialogue: 0,0:18:40.98,0:18:42.22,Nanoha Narration1,,0,0,0,,Okay!
 Dialogue: 0,0:18:49.54,0:18:51.72,Nanoha Narration1,,0,0,0,,Nanoha, please go after the girl!
 Dialogue: 0,0:18:52.26,0:18:54.80,Nanoha Narration1,,0,0,0,,You think I'd allow that to happen?
-Dialogue: 0,0:18:55.43,0:18:57.49,Nanoha Narration1,,0,0,0,,I'll make sure it happens!
-Dialogue: 0,0:19:00.43,0:19:03.26,Nanoha Narration1,,0,0,0,,Teleportation magic?! Not good!
+Dialogue: 0,0:18:55.43,0:18:57.05,Nanoha Narration1,,0,0,0,,I'll make sure it happens!
+Dialogue: 0,0:19:00.43,0:19:02.55,Nanoha Narration1,,0,0,0,,Teleportation magic?! Not good!
 Dialogue: 0,0:19:14.41,0:19:16.72,Nanoha Dialogue1,,0,0,0,,A barrier, and a translocation spell...
 Dialogue: 0,0:19:17.71,0:19:19.51,Nanoha Dialogue1,,0,0,0,,You have a good familiar with you.
 Dialogue: 0,0:19:20.82,0:19:23.92,Nanoha Dialogue1,,0,0,0,,Yuuno isn't what you call a familiar!
@@ -268,12 +269,12 @@ Dialogue: 0,0:19:34.53,0:19:38.22,Nanoha Dialogue1,,0,0,0,,Isn't there a way tha
 Dialogue: 0,0:19:39.14,0:19:44.64,Nanoha Dialogue1,,0,0,0,,I must collect these shards of\NLost Logia, the Jewel Seeds.
 Dialogue: 0,0:19:44.64,0:19:47.98,Nanoha Dialogue1,,0,0,0,,And if you have the same objective as I do,
 Dialogue: 0,0:19:47.98,0:19:51.58,Nanoha Dialogue1,,0,0,0,,then we are enemies, who must fight over the Jewel Seeds as a prize.
-Dialogue: 0,0:19:52.42,0:19:53.55,Nanoha Dialogue1,,0,0,0,,That's why!
-Dialogue: 0,0:19:53.55,0:19:56.82,Nanoha Dialogue1,,0,0,0,,So that we don't quickly jump to that conclusion,
+Dialogue: 0,0:19:52.28,0:19:53.28,Nanoha Dialogue1,,0,0,0,,That's why!
+Dialogue: 0,0:19:53.28,0:19:56.82,Nanoha Dialogue1,,0,0,0,,So that we don't quickly jump to that conclusion,
 Dialogue: 0,0:19:56.82,0:19:59.54,Nanoha Dialogue1,,0,0,0,,I think we need to talk everything out first!
 Dialogue: 0,0:20:00.74,0:20:01.92,Nanoha Dialogue1,,0,0,0,,Just talking it out...
 Dialogue: 0,0:20:02.83,0:20:05.55,Nanoha Dialogue1,,0,0,0,,I'm sure mere words won't change anything.
-Dialogue: 0,0:20:07.50,0:20:09.23,Nanoha Dialogue1,,0,0,0,,You wouldn't get it!
+Dialogue: 0,0:20:07.50,0:20:08.79,Nanoha Dialogue1,,0,0,0,,You wouldn't get it!
 Dialogue: 0,0:20:12.72,0:20:14.75,Nanoha Device1,,0,0,0,,Flier Fin
 Dialogue: 0,0:20:19.88,0:20:21.70,Nanoha Dialogue1,,0,0,0,,But that doesn't mean that...
 Dialogue: 0,0:20:21.70,0:20:23.41,Nanoha Dialogue1,,0,0,0,,Let's make a bet.
@@ -283,28 +284,28 @@ Dialogue: 0,0:20:39.88,0:20:42.38,Nanoha Narration1,,0,0,0,,Don't just scurry an
 Dialogue: 0,0:20:43.10,0:20:45.27,Nanoha Narration1,,0,0,0,,What is a mage powerful enough
 Dialogue: 0,0:20:45.27,0:20:47.08,Nanoha Narration1,,0,0,0,,to create a familiar doing in this world?!
 Dialogue: 0,0:20:48.14,0:20:51.98,Nanoha Narration1,,0,0,0,,And what does she know about these\NLost Logia... the Jewel Seeds?!
-Dialogue: 0,0:20:51.98,0:20:54.27,Nanoha Narration1,,0,0,0,,Stop babbling!
+Dialogue: 0,0:20:51.98,0:20:54.12,Nanoha Narration1,,0,0,0,,Stop babbling!
 Dialogue: 0,0:20:59.22,0:21:01.41,Nanoha Device1,,0,0,0,,Thunder Smasher
-Dialogue: 0,0:21:05.22,0:21:07.35,Nanoha Device1,,0,0,0,,Divine Buster
-Dialogue: 0,0:21:12.96,0:21:15.13,Nanoha Dialogue1,,0,0,0,,Please, Raising Heart!
-Dialogue: 0,0:21:15.13,0:21:16.79,Nanoha Device1,,0,0,0,,All right.
-Dialogue: 0,0:21:29.15,0:21:31.24,Nanoha Narration1,,0,0,0,,Nanoha is powerful!
+Dialogue: 0,0:21:05.22,0:21:06.59,Nanoha Device1,,0,0,0,,Divine Buster
+Dialogue: 0,0:21:12.96,0:21:14.81,Nanoha Dialogue1,,0,0,0,,Please, Raising Heart!
+Dialogue: 0,0:21:14.81,0:21:16.27,Nanoha Device1,,0,0,0,,All right.
+Dialogue: 0,0:21:29.15,0:21:30.90,Nanoha Narration1,,0,0,0,,Nanoha is powerful!
 Dialogue: 0,0:21:37.05,0:21:38.92,Nanoha Narration1,,0,0,0,,But she's too soft.
 Dialogue: 0,0:21:41.34,0:21:43.90,Nanoha Device1,,0,0,0,,Scythe Slash
 Dialogue: 0,0:21:44.49,0:21:45.40,Nanoha Narration1,,0,0,0,,Nanoha!
 Dialogue: 0,0:22:08.08,0:22:09.91,Nanoha Device1,,0,0,0,,Put out.
 Dialogue: 0,0:22:12.32,0:22:15.06,Nanoha Dialogue1,,0,0,0,,Raising Heart, what are you doing?!
 Dialogue: 0,0:22:15.06,0:22:18.10,Nanoha Dialogue1,,0,0,0,,I'm sure she's a good one who cares greatly for her mistress.
-Dialogue: 0,0:22:31.37,0:22:33.37,Nanoha Dialogue1,,0,0,0,,Let's go home, Arf.
+Dialogue: 0,0:22:31.37,0:22:32.64,Nanoha Dialogue1,,0,0,0,,Let's go home, Arf.
 Dialogue: 0,0:22:39.80,0:22:41.98,Nanoha Dialogue1,,0,0,0,,Nothing less from my mistress!
 Dialogue: 0,0:22:41.98,0:22:44.88,Nanoha Dialogue1,,0,0,0,,See you later, kiddo!
-Dialogue: 0,0:22:46.72,0:22:47.99,Nanoha Dialogue1,,0,0,0,,Wait!
+Dialogue: 0,0:22:46.72,0:22:47.74,Nanoha Dialogue1,,0,0,0,,Wait!
 Dialogue: 0,0:22:49.56,0:22:53.35,Nanoha Dialogue1,,0,0,0,,If it's at all possible, never appear before us again.
 Dialogue: 0,0:22:53.35,0:22:57.16,Nanoha Dialogue1,,0,0,0,,If there's a next time, I might not be able to stop myself.
 Dialogue: 0,0:22:58.27,0:22:59.22,Nanoha Dialogue1,,0,0,0,,Your name...
 Dialogue: 0,0:23:00.24,0:23:01.62,Nanoha Dialogue1,,0,0,0,,What is your name?
-Dialogue: 0,0:23:03.11,0:23:04.37,Nanoha Dialogue1,,0,0,0,,Fate.
-Dialogue: 0,0:23:04.37,0:23:06.28,Nanoha Dialogue1,,0,0,0,,Fate Testarossa.
+Dialogue: 0,0:23:02.90,0:23:04.20,Nanoha Dialogue1,,0,0,0,,Fate.
+Dialogue: 0,0:23:04.20,0:23:06.28,Nanoha Dialogue1,,0,0,0,,Fate Testarossa.
 Dialogue: 0,0:23:06.28,0:23:08.53,Nanoha Dialogue1,,0,0,0,,Um... I'm...
 Dialogue: 0,0:23:12.05,0:23:13.54,Nanoha Dialogue1,,0,0,0,,Bye-bye!
 Dialogue: 0,0:23:24.01,0:23:25.53,Nanoha ED,,0,0,0,,Make a little wish
@@ -326,8 +327,8 @@ Dialogue: 0,0:24:53.18,0:25:03.18,Nanoha ED,,0,0,0,,Because you're with me, I ca
 Dialogue: 1,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,440)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:09.93,0:25:14.88,Nanoha Title2,,0,0,0,,{\fad(0,440)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(4510,4950,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:11.90,0:25:14.47,Nanoha Narration1,,0,0,0,,Nanoha is hiding something from us.
-Dialogue: 0,0:25:14.47,0:25:16.14,Nanoha Narration1,,0,0,0,,We can't do anything about that.
-Dialogue: 0,0:25:16.14,0:25:19.38,Nanoha Narration1,,0,0,0,,There are things that you can't tell even your friends about.
+Dialogue: 0,0:25:14.47,0:25:15.78,Nanoha Narration1,,0,0,0,,We can't do anything about that.
+Dialogue: 0,0:25:15.78,0:25:19.38,Nanoha Narration1,,0,0,0,,There are things that you can't tell even your friends about.
 Dialogue: 0,0:25:19.38,0:25:22.14,Nanoha Narration1,,0,0,0,,The events of the past are coming to light.
 Dialogue: 0,0:25:22.14,0:25:24.15,Nanoha Narration1,,0,0,0,,What are the destinies of the two magical girls
 Dialogue: 0,0:25:24.15,0:25:26.42,Nanoha Narration1,,0,0,0,,who meet one another once again?!
