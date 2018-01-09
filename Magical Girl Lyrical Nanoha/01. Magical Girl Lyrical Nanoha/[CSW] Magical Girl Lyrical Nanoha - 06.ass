@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 301
-Active Line: 306
-Video Position: 36600
+Scroll Position: 303
+Active Line: 305
+Video Position: 36700
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -216,8 +216,8 @@ Dialogue: 0,0:13:31.80,0:13:34.64,Nanoha Dialogue1,,0,0,0,,I'll be fine, so save
 Dialogue: 0,0:13:34.64,0:13:35.36,Nanoha Dialogue1,,0,0,0,,Okay.
 Dialogue: 0,0:13:41.92,0:13:45.25,Nanoha Narration1,,0,0,0,,Maybe Alisa and Suzuka are done with their lessons
 Dialogue: 0,0:13:45.25,0:13:46.52,Nanoha Narration1,,0,0,0,,and are on their way home by now?
-Dialogue: 0,0:13:54.51,0:13:57.00,Nanoha Dialogue2,,0,0,0,,{\an4\pos(379.566,342)\blur0.8\frz359.4\c&HD18386&\fs36}You have no
-Dialogue: 0,0:13:54.51,0:13:57.00,Nanoha Dialogue2,,0,0,0,,{\an6\frz359.4\c&HD18386&\fs36\blur0.8\pos(580.769,404)}new messages.
+Dialogue: 0,0:13:54.51,0:13:57.00,Nanoha Dialogue2,,0,0,0,,{\an4\pos(379.566,342)\blur0.8\frz359.4\c&HCF7A88&\fs36}You have no{\c&HDB94A8&}
+Dialogue: 0,0:13:54.51,0:13:57.00,Nanoha Dialogue2,,0,0,0,,{\an6\frz359.4\c&HCF828E&\fs36\blur0.8\pos(580.769,404)}new messages.
 Dialogue: 0,0:14:13.59,0:14:16.09,Nanoha Dialogue1,,0,0,0,,I think it's somewhere around here,
 Dialogue: 0,0:14:16.09,0:14:18.30,Nanoha Dialogue1,,0,0,0,,but I can only figure out the approximate location.
 Dialogue: 0,0:14:18.30,0:14:22.78,Nanoha Narration1,,0,0,0,,Yeah. When things are this crowded,\Nit's a chore to find them.
@@ -299,7 +299,7 @@ Dialogue: 0,0:21:35.12,0:21:38.48,Nanoha Dialogue1,,0,0,0,,I'm now collecting th
 Dialogue: 0,0:21:38.48,0:21:41.66,Nanoha Dialogue1,,0,0,0,,Because I don't want to see the city where I live in danger,
 Dialogue: 0,0:21:41.66,0:21:43.90,Nanoha Dialogue1,,0,0,0,,or all the people around me!
 Dialogue: 0,0:21:45.36,0:21:47.95,Nanoha Dialogue1,,0,0,0,,That's my reason!
-Dialogue: 0,0:21:50.94,0:21:51.97,Nanoha Dialogue1,,0,0,0,,I— 
+Dialogue: 0,0:21:50.94,0:21:51.97,Nanoha Dialogue1,,0,0,0,,I—
 Dialogue: 0,0:21:51.97,0:21:53.97,Nanoha Narration1,,0,0,0,,Fate, you don't have to answer that!
 Dialogue: 0,0:21:55.95,0:21:58.55,Nanoha Narration1,,0,0,0,,You don't have to tell anything to a little brat
 Dialogue: 0,0:21:58.55,0:22:02.84,Nanoha Narration1,,0,0,0,,who's lived her life surrounded by nice people!
@@ -338,7 +338,7 @@ Dialogue: 0,0:25:23.42,0:25:25.92,Nanoha Narration1,,0,0,0,,And a new mage appea
 Dialogue: 0,0:25:27.32,0:25:30.69,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha:{\i1}
 Dialogue: 1,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\bord0}Episode 7
 Dialogue: 0,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,252)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Episode 7
-Dialogue: 1,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}Is This a Third Mage!?
-Dialogue: 0,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}Is This a Third Mage!?
-Dialogue: 0,0:25:30.69,0:25:34.23,Nanoha Narration1,,0,0,0,,Episode 7: Is This a Third Mage?
+Dialogue: 1,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\bord0}A Third Mage!?
+Dialogue: 0,0:25:27.32,0:25:35.86,Nanoha Title2,,0,0,0,,{\fad(459,0)\pos(480,504)\blur0.5\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}A Third Mage!?
+Dialogue: 0,0:25:30.69,0:25:34.23,Nanoha Narration1,,0,0,0,,Episode 7: A Third Mage!?
 Dialogue: 0,0:25:34.97,0:25:37.70,Nanoha Narration1,,0,0,0,,Lyrical, magical, hoping I won't fail!

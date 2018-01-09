@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 296
-Active Line: 298
-Video Position: 36400
+Scroll Position: 23
+Active Line: 28
+Video Position: 4028
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +64,7 @@ Dialogue: 0,0:02:24.07,0:02:28.89,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(959,129
 Dialogue: 0,0:02:40.97,0:02:41.97,Nanoha Narration1,,0,0,0,,Fate!
 Dialogue: 0,0:02:41.97,0:02:42.99,Nanoha Dialogue1,,0,0,0,,Nanoha!
 Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,240)}{\blur0.5\b1}Episode 7{\b0}
-Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,480)}{\b1\blur0.5}Is This a Third Mage!?{\b0}
+Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,480)}{\b1\blur0.5}A Third Mage!?{\b0}
 Dialogue: 0,0:03:19.52,0:03:22.60,Nanoha Dialogue1,,0,0,0,,It's all right. You can return, Bardiche.
 Dialogue: 0,0:03:22.60,0:03:24.04,Nanoha Device1,,0,0,0,,Yes, sir.
 Dialogue: 0,0:03:39.49,0:03:40.13,Nanoha Narration1,,0,0,0,,Fate?!

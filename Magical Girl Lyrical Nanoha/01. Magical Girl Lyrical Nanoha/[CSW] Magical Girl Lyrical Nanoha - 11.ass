@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 257
-Active Line: 260
-Video Position: 36319
+Scroll Position: 89
+Active Line: 93
+Video Position: 13714
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -127,7 +127,7 @@ Dialogue: 0,0:09:22.22,0:09:23.62,Nanoha Dialogue1,,0,0,0,,When you're done shoo
 Dialogue: 0,0:09:23.62,0:09:25.56,Nanoha Dialogue1,,0,0,0,,that "bind" thing loses effect, right?
 Dialogue: 0,0:09:26.71,0:09:28.46,Nanoha Dialogue1,,0,0,0,,This time, it's my...
 Dialogue: 0,0:09:28.46,0:09:30.20,Nanoha Device1,,0,0,0,,Divine...
-Dialogue: 0,0:09:32.21,0:09:33.36,Nanoha Dialogue1,,0,0,0,,...turn!
+Dialogue: 0,0:09:31.96,0:09:33.36,Nanoha Dialogue1,,0,0,0,,...turn!
 Dialogue: 0,0:09:33.36,0:09:35.00,Nanoha Device1,,0,0,0,,...Buster
 Dialogue: 0,0:09:48.83,0:09:50.49,Nanoha Narration1,,0,0,0,,It's a direct hit!
 Dialogue: 0,0:09:50.49,0:09:52.19,Nanoha Narration1,,0,0,0,,But I can withstand it!
@@ -136,7 +136,7 @@ Dialogue: 0,0:10:18.25,0:10:19.76,Nanoha Narration1,,0,0,0,,Fate!
 Dialogue: 0,0:10:28.26,0:10:29.78,Nanoha Dialogue1,,0,0,0,,Try taking this one.
 Dialogue: 0,0:10:29.78,0:10:32.02,Nanoha Dialogue1,,0,0,0,,A variation on the Divine Buster...
 Dialogue: 0,0:10:35.01,0:10:37.55,Nanoha Device1,,0,0,0,,Starlight Breaker
-Dialogue: 0,0:10:47.99,0:10:49.31,Nanoha Dialogue1,,0,0,0,,A bind?!
+Dialogue: 0,0:10:47.84,0:10:49.31,Nanoha Dialogue1,,0,0,0,,A bind?!
 Dialogue: 0,0:10:51.32,0:10:54.17,Nanoha Dialogue1,,0,0,0,,This attack is me at my full strength!
 Dialogue: 0,0:10:55.12,0:10:59.43,Nanoha Dialogue1,,0,0,0,,{\b1}Starlight Breaker{\b0}
 Dialogue: 0,0:11:13.77,0:11:16.08,Nanoha Dialogue1,,0,0,0,,What a ludicrous amount of magical power!
@@ -241,7 +241,7 @@ Dialogue: 0,0:19:46.30,0:19:47.41,Nanoha Dialogue1,,0,0,0,,Fate...
 Dialogue: 0,0:19:47.41,0:19:50.00,Nanoha Dialogue1,,0,0,0,,All operatives have been retrieved.
 Dialogue: 0,0:19:51.54,0:19:52.57,Nanoha Dialogue1,,0,0,0,,Big trouble!
 Dialogue: 0,0:19:52.57,0:19:54.00,Nanoha Dialogue1,,0,0,0,,Please take a look at this!
-Dialogue: 0,0:19:54.00,0:19:57.18,Nanoha Dialogue1,,0,0,0,,Magical responses from all over the mansion... so many of them?!
+Dialogue: 0,0:19:54.00,0:19:57.18,Nanoha Dialogue1,,0,0,0,,Magical responses from all over the premises... so many of them?!
 Dialogue: 0,0:19:57.18,0:19:58.00,Nanoha Dialogue1,,0,0,0,,What?
 Dialogue: 0,0:19:58.00,0:20:00.24,Nanoha Dialogue1,,0,0,0,,What is going on here?
 Dialogue: 0,0:20:28.98,0:20:32.95,Nanoha Dialogue1,,0,0,0,,Magical responses from the Garden.\NAll of them are Class A!

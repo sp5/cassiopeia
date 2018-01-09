@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 261
-Active Line: 262
-Video Position: 32288
+Scroll Position: 292
+Active Line: 295
+Video Position: 36582
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -209,13 +209,13 @@ Dialogue: 0,0:12:42.50,0:12:44.47,Nanoha Narration1,,0,0,0,,I'll protect her for
 Dialogue: 0,0:12:51.44,0:12:54.23,Nanoha Dialogue1,,0,0,0,,Let's go, Bardiche.\NWe'll do our best.
 Dialogue: 0,0:13:21.44,0:13:24.43,Nanoha Dialogue1,,0,0,0,,What's she's doing is so unreasonable, it's disgusting.
 Dialogue: 0,0:13:24.43,0:13:25.92,Nanoha Dialogue1,,0,0,0,,It's quite reckless.
-Dialogue: 0,0:13:25.92,0:13:27.95,Nanoha Dialogue1,,0,0,0,,She's sure to ruin herself doing that.
+Dialogue: 0,0:13:25.92,0:13:27.95,Nanoha Dialogue1,,0,0,0,,She's sure to burn herself out doing that.
 Dialogue: 0,0:13:27.95,0:13:31.97,Nanoha Dialogue1,,0,0,0,,It's beyond the limits of how much magical power one person can emit!
 Dialogue: 0,0:13:33.93,0:13:35.20,Nanoha Dialogue1,,0,0,0,,Fate!
 Dialogue: 0,0:13:37.37,0:13:39.65,Nanoha Dialogue1,,0,0,0,,I'll hurry over to the site!
 Dialogue: 0,0:13:39.65,0:13:41.74,Nanoha Dialogue1,,0,0,0,,That won't be necessary.
-Dialogue: 0,0:13:41.74,0:13:43.94,Nanoha Dialogue1,,0,0,0,,Leave her alone,\Nand she will ruin herself.
-Dialogue: 0,0:13:48.91,0:13:50.95,Nanoha Dialogue1,,0,0,0,,Even if she doesn't ruin herself,
+Dialogue: 0,0:13:41.74,0:13:43.94,Nanoha Dialogue1,,0,0,0,,Leave her alone,\Nand she will burn herself out.
+Dialogue: 0,0:13:48.91,0:13:50.95,Nanoha Dialogue1,,0,0,0,,Even if she doesn't burn out,
 Dialogue: 0,0:13:50.95,0:13:53.91,Nanoha Dialogue1,,0,0,0,,we can smite her when all her power has been spent.
 Dialogue: 0,0:13:53.91,0:13:54.82,Nanoha Dialogue1,,0,0,0,,But...
 Dialogue: 0,0:13:54.82,0:13:56.95,Nanoha Dialogue1,,0,0,0,,We should prepare to capture her now.
@@ -231,7 +231,7 @@ Dialogue: 0,0:14:46.57,0:14:47.99,Nanoha Narration1,,0,0,0,,But Yuuno!
 Dialogue: 0,0:14:47.99,0:14:51.57,Nanoha Narration1,,0,0,0,,The fact that I want to talk to Fate
 Dialogue: 0,0:14:51.57,0:14:53.03,Nanoha Narration1,,0,0,0,,has nothing to do with you!
 Dialogue: 0,0:14:54.01,0:14:55.99,Nanoha Narration1,,0,0,0,,It may have nothing to do with me.
-Dialogue: 0,0:14:55.99,0:15:00.58,Nanoha Narration1,,0,0,0,,But I want to be of help to you,\Nif you're in trouble.
+Dialogue: 0,0:14:55.99,0:15:00.58,Nanoha Narration1,,0,0,0,,But I want to be of help to you,\Nif you're in trouble, Nanoha.
 Dialogue: 0,0:15:00.58,0:15:04.29,Nanoha Narration1,,0,0,0,,Just like how you were for me.
 Dialogue: 0,0:15:12.17,0:15:13.24,Nanoha Dialogue1,,0,0,0,,You're...
 Dialogue: 0,0:15:29.03,0:15:30.21,Nanoha Dialogue1,,0,0,0,,I'm sorry.
@@ -263,7 +263,7 @@ Dialogue: 0,0:17:36.07,0:17:38.34,Nanoha Device1,,0,0,0,,Supply complete.
 Dialogue: 0,0:17:42.08,0:17:44.54,Nanoha Dialogue1,,0,0,0,,We'll split it evenly into halves!
 Dialogue: 0,0:18:00.60,0:18:03.10,Nanoha Dialogue1,,0,0,0,,Yuuno and Arf are stopping it for us.
 Dialogue: 0,0:18:03.10,0:18:04.80,Nanoha Dialogue1,,0,0,0,,So now's our chance!
-Dialogue: 0,0:18:06.27,0:18:09.60,Nanoha Dialogue1,,0,0,0,,When I say "ready, set", let's both seal it in one shot!
+Dialogue: 0,0:18:06.34,0:18:09.22,Nanoha Dialogue1,,0,0,0,,When I say "ready, set", let's both seal it in one shot!
 Dialogue: 0,0:18:09.60,0:18:10.90,Nanoha Device1,,0,0,0,,Shooting Mode
 Dialogue: 0,0:18:24.82,0:18:26.69,Nanoha Narration1,,0,0,0,,When I was all alone and feeling lonely,
 Dialogue: 0,0:18:26.69,0:18:28.86,Nanoha Narration1,,0,0,0,,the one thing that I wanted people to do most
