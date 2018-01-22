@@ -3,7 +3,7 @@
 ; http://www.aegisub.org/
 Title: Default file
 ScriptType: v4.00+
-WrapStyle: 0
+WrapStyle: 3
 PlayResX: 952
 PlayResY: 720
 ScaledBorderAndShadow: yes
@@ -14,14 +14,14 @@ Aegisub Video Aspect Ratio: c1.333333
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 13 (BDRip 952x720 x264 FLAC).mkv
-Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 13 (BDRip 952x720 x264 FLAC).mkv
+Audio File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 13 (BDRip 952x720 x264 FLAC).mkv
+Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 13 (BDRip 952x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 431
-Active Line: 435
-Video Position: 35843
+Scroll Position: 446
+Active Line: 449
+Video Position: 36263
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,7 +39,7 @@ Dialogue: 0,0:00:03.52,0:00:06.52,Nanoha Narration1,,0,0,0,,It was only a small 
 Dialogue: 0,0:00:06.52,0:00:09.98,Nanoha Narration1,,0,0,0,,Prayers went far into the sky.
 Dialogue: 0,0:00:11.04,0:00:15.16,Nanoha Narration1,,0,0,0,,Tears became light and a rainbow.
 Dialogue: 0,0:00:15.16,0:00:17.53,Nanoha Narration1,,0,0,0,,The long night came to an end.
-Dialogue: 0,0:00:25.80,0:00:29.40,Nanoha Narration1,,0,0,0,,The farewell at the parting of the ways is not the end,
+Dialogue: 0,0:00:25.80,0:00:29.40,Nanoha Narration1,,0,0,0,,The {\i0}farewell{\i1} at the parting of the ways is not the end,
 Dialogue: 0,0:00:29.40,0:00:31.33,Nanoha Narration1,,0,0,0,,but a word of beginning.
 Dialogue: 0,0:00:32.06,0:00:37.13,Nanoha Narration1,,0,0,0,,The final episode of {\i0}Magical Girl Lyrical Nanoha A's{\i1} will now begin.
 Dialogue: 0,0:00:40.59,0:00:50.59,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
@@ -61,11 +61,11 @@ Dialogue: 0,0:02:32.92,0:02:35.42,Nanoha Dialogue1,,0,0,0,,The protection progra
 Dialogue: 0,0:02:35.42,0:02:38.50,Nanoha Dialogue1,,0,0,0,,but my basic structure is still the same.
 Dialogue: 0,0:02:39.18,0:02:42.89,Nanoha Dialogue1,,0,0,0,,I, the core of the\N{\i1}Buch der Nachthimmel,{\i0}
 Dialogue: 0,0:02:42.89,0:02:46.84,Nanoha Dialogue1,,0,0,0,,will soon create a new protection program
-Dialogue: 0,0:02:46.84,0:02:49.61,Nanoha Dialogue1,,0,0,0,,and start to go out of control again.
-Dialogue: 0,0:02:49.61,0:02:51.43,Nanoha Dialogue1,,0,0,0,,As expected.
+Dialogue: 0,0:02:46.84,0:02:49.28,Nanoha Dialogue1,,0,0,0,,and start to go out of control again.
+Dialogue: 0,0:02:49.28,0:02:51.43,Nanoha Dialogue1,,0,0,0,,As expected.
 Dialogue: 0,0:02:51.43,0:02:54.05,Nanoha Dialogue1,,0,0,0,,You can't repair the corruption?
-Dialogue: 0,0:02:54.05,0:02:55.52,Nanoha Dialogue1,,0,0,0,,It's impossible.
-Dialogue: 0,0:02:55.52,0:03:00.56,Nanoha Dialogue1,,0,0,0,,The original {\i1}Buch der Nachthimmel{\i0}\Nhas been erased from me,
+Dialogue: 0,0:02:54.05,0:02:55.32,Nanoha Dialogue1,,0,0,0,,It's impossible.
+Dialogue: 0,0:02:55.32,0:03:00.56,Nanoha Dialogue1,,0,0,0,,The original {\i1}Buch der Nachthimmel{\i0}\Nhas been erased from me,
 Dialogue: 0,0:03:00.56,0:03:02.59,Nanoha Dialogue1,,0,0,0,,its operating system.
 Dialogue: 0,0:03:02.59,0:03:04.83,Nanoha Dialogue1,,0,0,0,,As long we don't know the original system,
 Dialogue: 0,0:03:04.83,0:03:07.06,Nanoha Dialogue1,,0,0,0,,there's no way we can restore it.
@@ -74,12 +74,12 @@ Dialogue: 0,0:03:09.05,0:03:12.60,Nanoha Dialogue1,,0,0,0,,Is {\i1}Meister{\i0} 
 Dialogue: 0,0:03:12.60,0:03:14.48,Nanoha Dialogue1,,0,0,0,,There's no problem.
 Dialogue: 0,0:03:14.48,0:03:17.77,Nanoha Dialogue1,,0,0,0,,I won't encroach on her further,
 Dialogue: 0,0:03:17.77,0:03:20.74,Nanoha Dialogue1,,0,0,0,,and her Linker Core is also functioning normally.
-Dialogue: 0,0:03:20.74,0:03:25.18,Nanoha Dialogue1,,0,0,0,,Her disabled legs should heal soon, as well.
-Dialogue: 0,0:03:25.18,0:03:30.32,Nanoha Dialogue1,,0,0,0,,I see. Well then, we should say we've had a good life.
-Dialogue: 0,0:03:30.32,0:03:33.44,Nanoha Dialogue1,,0,0,0,,Yes, there's nothing to regret.
+Dialogue: 0,0:03:20.74,0:03:25.18,Nanoha Dialogue1,,0,0,0,,Her disabled legs\Nshould heal soon, as well.
+Dialogue: 0,0:03:25.18,0:03:30.16,Nanoha Dialogue1,,0,0,0,,I see. Well then, we should say we've had a good life.
+Dialogue: 0,0:03:30.16,0:03:33.44,Nanoha Dialogue1,,0,0,0,,Yes, there's nothing to regret.
 Dialogue: 0,0:03:33.44,0:03:35.52,Nanoha Dialogue1,,0,0,0,,Since it doesn't have its protection program,
-Dialogue: 0,0:03:35.52,0:03:38.73,Nanoha Dialogue1,,0,0,0,,it's easy to completely destroy the {\i1}Buch der Nachthimmel.{\i0}
-Dialogue: 0,0:03:38.73,0:03:41.99,Nanoha Dialogue1,,0,0,0,,As long as we destroy it, it won't ever go out of control again.
+Dialogue: 0,0:03:35.52,0:03:38.48,Nanoha Dialogue1,,0,0,0,,it's easy to completely destroy the {\i1}Buch der Nachthimmel.{\i0}
+Dialogue: 0,0:03:38.48,0:03:41.99,Nanoha Dialogue1,,0,0,0,,As long as we destroy it, it won't ever go out of control again.
 Dialogue: 0,0:03:42.77,0:03:45.44,Nanoha Dialogue1,,0,0,0,,But in return, we will get erased.
 Dialogue: 0,0:03:46.05,0:03:47.80,Nanoha Dialogue1,,0,0,0,,I'm sorry, Vita.
 Dialogue: 0,0:03:47.80,0:03:49.87,Nanoha Dialogue1,,0,0,0,,Why are you apologizing?
@@ -102,10 +102,10 @@ Dialogue: 0,0:04:38.15,0:04:41.95,Nanoha Dialogue1,,0,0,0,,There is a high proba
 Dialogue: 0,0:04:41.95,0:04:44.06,Nanoha Dialogue1,,0,0,0,,As long as the {\i1}Buch der Nachthimmel{\i0} exists,
 Dialogue: 0,0:04:44.06,0:04:46.00,Nanoha Dialogue1,,0,0,0,,that danger will not disappear.
 Dialogue: 0,0:04:46.84,0:04:51.85,Nanoha Dialogue1,,0,0,0,,That is why the {\i1}Buch der Dunkelheit{\i0} asked for us to destroy her,
-Dialogue: 0,0:04:51.85,0:04:54.74,Nanoha Dialogue1,,0,0,0,,when she does not have her protection program running.
-Dialogue: 0,0:04:54.74,0:04:55.67,Nanoha Dialogue1,,0,0,0,,No way...
-Dialogue: 0,0:04:55.67,0:04:58.34,Nanoha Dialogue1,,0,0,0,,But then, Signum and the others will...
-Dialogue: 0,0:04:58.34,0:04:59.86,Nanoha Dialogue1,,0,0,0,,No.
+Dialogue: 0,0:04:51.85,0:04:54.59,Nanoha Dialogue1,,0,0,0,,when she does not have her protection program running.
+Dialogue: 0,0:04:54.59,0:04:55.71,Nanoha Dialogue1,,0,0,0,,No way...
+Dialogue: 0,0:04:55.72,0:04:58.34,Nanoha Dialogue1,,0,0,0,,But then, Signum and the others will...
+Dialogue: 0,0:04:58.34,0:04:59.20,Nanoha Dialogue1,,0,0,0,,No.
 Dialogue: 0,0:04:59.86,0:05:01.61,Nanoha Dialogue1,,0,0,0,,We will remain.
 Dialogue: 0,0:05:01.61,0:05:02.86,Nanoha Dialogue1,,0,0,0,,Signum...
 Dialogue: 0,0:05:02.86,0:05:05.31,Nanoha Dialogue1,,0,0,0,,Along with the protection program,
@@ -113,32 +113,32 @@ Dialogue: 0,0:05:05.31,0:05:07.37,Nanoha Dialogue1,,0,0,0,,it seems that we\N{\i
 Dialogue: 0,0:05:07.37,0:05:10.12,Nanoha Dialogue1,,0,0,0,,were freed from the operating system.
 Dialogue: 0,0:05:10.12,0:05:15.12,Nanoha Dialogue1,,0,0,0,,Reinforce is asking for a favor from you two.
 Dialogue: 0,0:05:15.12,0:05:16.92,Nanoha Dialogue1,,0,0,0,,A favor?
-Dialogue: 0,0:05:21.43,0:05:26.66,Nanoha Dialogue1,,0,0,0,,Hayate's happiness is our greatest happiness.
+Dialogue: 0,0:05:21.43,0:05:26.66,Nanoha Dialogue1,,0,0,0,,Hayate, you being happy makes us happier than anything else.
 Dialogue: 0,0:05:26.66,0:05:30.35,Nanoha Dialogue1,,0,0,0,,So Reinforce said she'll go out with a smile.
 Dialogue: 0,0:05:34.60,0:05:40.61,Nanoha Dialogue1,,0,0,0,,So even if it's in your dreams, please praise her, okay?
 Dialogue: 0,0:06:00.70,0:06:02.92,Nanoha Dialogue1,,0,0,0,,Oh, you came.
 Dialogue: 0,0:06:05.24,0:06:07.63,Nanoha Dialogue1,,0,0,0,,Reinforce...
 Dialogue: 0,0:06:08.41,0:06:10.93,Nanoha Dialogue1,,0,0,0,,You'll call me by that name?
-Dialogue: 0,0:06:12.28,0:06:16.35,Nanoha Dialogue1,,0,0,0,,Are you sure you want us to return you to the sky?
+Dialogue: 0,0:06:12.06,0:06:16.35,Nanoha Dialogue1,,0,0,0,,Are you sure you want us to return you to the sky?
 Dialogue: 0,0:06:16.35,0:06:19.19,Nanoha Dialogue1,,0,0,0,,I wanted to ask it of you two.
 Dialogue: 0,0:06:19.81,0:06:25.94,Nanoha Dialogue1,,0,0,0,,Thanks to you, I was able to listen to {\i1}Meister{\i0} Hayate's words.
 Dialogue: 0,0:06:25.94,0:06:28.83,Nanoha Dialogue1,,0,0,0,,I didn't have to eat away at {\i1}Meister{\i0} Hayate anymore,
-Dialogue: 0,0:06:28.83,0:06:30.58,Nanoha Dialogue1,,0,0,0,,and I was able to help the {\i1}Ritter{\i0} live.
-Dialogue: 0,0:06:31.32,0:06:32.97,Nanoha Dialogue1,,0,0,0,,I'm grateful.
-Dialogue: 0,0:06:33.84,0:06:38.54,Nanoha Dialogue1,,0,0,0,,That's why I want you two to put an end to me.
+Dialogue: 0,0:06:28.83,0:06:31.32,Nanoha Dialogue1,,0,0,0,,and I was able to help the {\i1}Ritter{\i0} live.
+Dialogue: 0,0:06:31.32,0:06:33.50,Nanoha Dialogue1,,0,0,0,,I'm grateful.
+Dialogue: 0,0:06:33.50,0:06:38.54,Nanoha Dialogue1,,0,0,0,,That's why I want you two to put an end to me.
 Dialogue: 0,0:06:38.54,0:06:42.61,Nanoha Dialogue1,,0,0,0,,Don't you have to say goodbye to Hayate?
 Dialogue: 0,0:06:42.61,0:06:46.61,Nanoha Dialogue1,,0,0,0,,I don't want to make {\i1}Meister{\i0} Hayate sad.
-Dialogue: 0,0:06:47.72,0:06:48.97,Nanoha Dialogue1,,0,0,0,,Reinforce...
-Dialogue: 0,0:06:48.97,0:06:53.80,Nanoha Dialogue1,,0,0,0,,But that's just too sad!
-Dialogue: 0,0:06:53.80,0:06:56.42,Nanoha Dialogue1,,0,0,0,,You will understand someday,
-Dialogue: 0,0:06:57.36,0:06:59.58,Nanoha Dialogue1,,0,0,0,,when you meet someone who you love as deeply as the sea,
+Dialogue: 0,0:06:47.56,0:06:49.26,Nanoha Dialogue1,,0,0,0,,Reinforce...
+Dialogue: 0,0:06:49.26,0:06:53.80,Nanoha Dialogue1,,0,0,0,,But that's just too sad!
+Dialogue: 0,0:06:53.80,0:06:56.96,Nanoha Dialogue1,,0,0,0,,You will understand someday,
+Dialogue: 0,0:06:56.96,0:06:59.58,Nanoha Dialogue1,,0,0,0,,when you meet someone who you love as deeply as the sea,
 Dialogue: 0,0:07:00.05,0:07:04.96,Nanoha Dialogue1,,0,0,0,,and whose happiness you want to protect.
 Dialogue: 0,0:07:14.78,0:07:16.64,Nanoha Dialogue1,,0,0,0,,Shall we begin soon?
 Dialogue: 0,0:07:16.64,0:07:20.84,Nanoha Dialogue1,,0,0,0,,The end of the\N{\i1}Buch der Nachthimmel.{\i0}
-Dialogue: 0,0:07:36.87,0:07:39.92,Nanoha Dialogue1,,0,0,0,,Reinforce?
+Dialogue: 0,0:07:36.60,0:07:39.92,Nanoha Dialogue1,,0,0,0,,Reinforce?
 Dialogue: 0,0:08:00.12,0:08:02.62,Nanoha Device1,,0,0,0,,Ready to set.
 Dialogue: 0,0:08:02.62,0:08:04.82,Nanoha Device1,,0,0,0,,Stand by.
-Dialogue: 0,0:08:06.43,0:08:12.05,Nanoha Dialogue1,,0,0,0,,We didn't know each other long, but I give thanks to you two as well.
+Dialogue: 0,0:08:06.20,0:08:12.05,Nanoha Dialogue1,,0,0,0,,We didn't know each other long, but I give thanks to you two as well.
 Dialogue: 0,0:08:12.12,0:08:13.32,Nanoha Device1,,0,0,0,,{\pos(476,705)}Don't worry.
 Dialogue: 0,0:08:13.62,0:08:15.28,Nanoha Device1,,0,0,0,,{\pos(476,705)}Take a good journey.
 Dialogue: 0,0:08:15.54,0:08:16.90,Nanoha Dialogue1,,0,0,0,,Yes.
@@ -160,11 +160,11 @@ Dialogue: 0,0:08:55.30,0:08:56.65,Nanoha Dialogue1,,0,0,0,,No, it's not!
 Dialogue: 0,0:08:56.65,0:08:59.56,Nanoha Dialogue1,,0,0,0,,It isn't for the best at all!
 Dialogue: 0,0:08:59.56,0:09:03.37,Nanoha Dialogue1,,0,0,0,,I have lived a long time,
 Dialogue: 0,0:09:03.37,0:09:09.98,Nanoha Dialogue1,,0,0,0,,but in the end, you gave me a beautiful name and a soul.
-Dialogue: 0,0:09:10.86,0:09:13.30,Nanoha Dialogue1,,0,0,0,,The {\i1}Ritter{\i0} will be beside you.
-Dialogue: 0,0:09:13.30,0:09:15.33,Nanoha Dialogue1,,0,0,0,,You don't have to worry.
-Dialogue: 0,0:09:15.33,0:09:17.03,Nanoha Dialogue1,,0,0,0,,I'm not worried!
+Dialogue: 0,0:09:10.86,0:09:13.30,Nanoha Dialogue1,,0,0,0,,The {\i1}Ritter{\i0} will be by your side.
+Dialogue: 0,0:09:13.30,0:09:15.02,Nanoha Dialogue1,,0,0,0,,You don't have to worry.
+Dialogue: 0,0:09:15.02,0:09:17.03,Nanoha Dialogue1,,0,0,0,,I'm not worried!
 Dialogue: 0,0:09:17.03,0:09:20.53,Nanoha Dialogue1,,0,0,0,,That's why I can go out with a smile.
-Dialogue: 0,0:09:22.91,0:09:25.11,Nanoha Dialogue1,,0,0,0,,I don't like people who won't listen!
+Dialogue: 0,0:09:22.62,0:09:25.11,Nanoha Dialogue1,,0,0,0,,I don't like people who won't listen!
 Dialogue: 0,0:09:25.11,0:09:28.04,Nanoha Dialogue1,,0,0,0,,I'm your master, so listen to me!
 Dialogue: 0,0:09:28.04,0:09:30.41,Nanoha Dialogue1,,0,0,0,,I'm sure I can do something.
 Dialogue: 0,0:09:30.41,0:09:33.64,Nanoha Dialogue1,,0,0,0,,We promised that we won't go out of control!
@@ -176,7 +176,7 @@ Dialogue: 0,0:09:55.34,0:09:57.20,Nanoha Dialogue1,,0,0,0,,But...
 Dialogue: 0,0:09:57.20,0:10:00.61,Nanoha Dialogue1,,0,0,0,,But you were always so sad,
 Dialogue: 0,0:10:00.61,0:10:06.95,Nanoha Dialogue1,,0,0,0,,and we... we finally saved you!
 Dialogue: 0,0:10:08.05,0:10:14.76,Nanoha Dialogue1,,0,0,0,,My will remains in your magic\Nand the {\i1}Ritter'{\i0}s souls.
-Dialogue: 0,0:10:14.76,0:10:19.26,Nanoha Dialogue1,,0,0,0,,I will always be beside you.
+Dialogue: 0,0:10:14.76,0:10:19.26,Nanoha Dialogue1,,0,0,0,,I will always be by your side.
 Dialogue: 0,0:10:19.26,0:10:20.93,Nanoha Dialogue1,,0,0,0,,That's not true.
 Dialogue: 0,0:10:20.93,0:10:23.76,Nanoha Dialogue1,,0,0,0,,That's not true, Reinforce!
 Dialogue: 0,0:10:23.76,0:10:27.01,Nanoha Dialogue1,,0,0,0,,Your friends don't like whiners.
@@ -186,14 +186,14 @@ Dialogue: 0,0:10:34.14,0:10:39.05,Nanoha Dialogue1,,0,0,0,,Why? Everything was g
 Dialogue: 0,0:10:40.05,0:10:44.66,Nanoha Dialogue1,,0,0,0,,Now I can make you happy...
 Dialogue: 0,0:10:48.66,0:10:50.66,Nanoha Dialogue1,,0,0,0,,It's okay.
 Dialogue: 0,0:10:50.66,0:10:56.17,Nanoha Dialogue1,,0,0,0,,I am the happiest magic book\Nin the whole world.
-Dialogue: 0,0:10:57.40,0:10:59.17,Nanoha Dialogue1,,0,0,0,,Reinforce...
-Dialogue: 0,0:11:01.18,0:11:04.01,Nanoha Dialogue1,,0,0,0,,{\i1}Meister{\i0} Hayate,
-Dialogue: 0,0:11:04.01,0:11:06.03,Nanoha Dialogue1,,0,0,0,,I have one favor to ask.
-Dialogue: 0,0:11:07.28,0:11:12.69,Nanoha Dialogue1,,0,0,0,,When I disappear,\Na powerless fragment will remain.
+Dialogue: 0,0:10:57.08,0:10:59.17,Nanoha Dialogue1,,0,0,0,,Reinforce...
+Dialogue: 0,0:11:01.18,0:11:03.64,Nanoha Dialogue1,,0,0,0,,{\i1}Meister{\i0} Hayate,
+Dialogue: 0,0:11:03.64,0:11:06.03,Nanoha Dialogue1,,0,0,0,,I have one favor to ask.
+Dialogue: 0,0:11:07.00,0:11:12.69,Nanoha Dialogue1,,0,0,0,,When I disappear,\Na powerless fragment will remain.
 Dialogue: 0,0:11:12.69,0:11:17.69,Nanoha Dialogue1,,0,0,0,,If you like, can you give my name, not to that,
 Dialogue: 0,0:11:17.69,0:11:25.02,Nanoha Dialogue1,,0,0,0,,but to the next magical vessel you will obtain someday?
-Dialogue: 0,0:11:25.91,0:11:29.02,Nanoha Dialogue1,,0,0,0,,Reinforce, the Wind of Blessing.
-Dialogue: 0,0:11:29.80,0:11:33.63,Nanoha Dialogue1,,0,0,0,,I'm sure my soul will dwell within it.
+Dialogue: 0,0:11:25.91,0:11:29.50,Nanoha Dialogue1,,0,0,0,,Reinforce, the Wind of Blessing.
+Dialogue: 0,0:11:29.50,0:11:33.63,Nanoha Dialogue1,,0,0,0,,I'm sure my soul will dwell within it.
 Dialogue: 0,0:11:35.14,0:11:37.07,Nanoha Dialogue1,,0,0,0,,Reinforce...
 Dialogue: 0,0:11:38.64,0:11:41.97,Nanoha Dialogue1,,0,0,0,,Yes, my {\i1}Meister.{\i0}
 Dialogue: 0,0:11:54.65,0:11:56.90,Nanoha Dialogue1,,0,0,0,,{\i1}Meister{\i0} Hayate...
@@ -213,10 +213,10 @@ Dialogue: 0,0:13:06.09,0:13:10.20,Nanoha Dialogue1,,0,0,0,,She confirmed the des
 Dialogue: 0,0:13:10.20,0:13:11.56,Nanoha Dialogue1,,0,0,0,,I see...
 Dialogue: 0,0:13:12.63,0:13:18.02,Nanoha Dialogue1,,0,0,0,,As for Admiral Graham, he resigned his commission in response to this case.
 Dialogue: 0,0:13:18.02,0:13:19.84,Nanoha Dialogue1,,0,0,0,,Seems like he's going back to his homeland.
-Dialogue: 0,0:13:19.84,0:13:24.18,Nanoha Dialogue1,,0,0,0,,Well, he basically hacked us and interfered with the investigation.
-Dialogue: 0,0:13:24.18,0:13:26.04,Nanoha Dialogue1,,0,0,0,,That's about it, right?
-Dialogue: 0,0:13:26.04,0:13:28.45,Nanoha Dialogue1,,0,0,0,,I wonder what's going to happen with Hayate?
-Dialogue: 0,0:13:28.45,0:13:31.54,Nanoha Dialogue1,,0,0,0,,He said he's going to continue supporting her financially.
+Dialogue: 0,0:13:19.84,0:13:23.96,Nanoha Dialogue1,,0,0,0,,Well, he basically hacked us and interfered with the investigation.
+Dialogue: 0,0:13:23.96,0:13:25.64,Nanoha Dialogue1,,0,0,0,,That's about it, right?
+Dialogue: 0,0:13:25.64,0:13:28.52,Nanoha Dialogue1,,0,0,0,,I wonder what's going to happen with Hayate?
+Dialogue: 0,0:13:28.52,0:13:31.54,Nanoha Dialogue1,,0,0,0,,He said he's going to continue supporting her financially.
 Dialogue: 0,0:13:31.54,0:13:34.52,Nanoha Dialogue1,,0,0,0,,When she becomes independent,
 Dialogue: 0,0:13:34.52,0:13:37.79,Nanoha Dialogue1,,0,0,0,,he said that he's going to tell her the truth.
 Dialogue: 0,0:13:37.79,0:13:39.04,Nanoha Dialogue1,,0,0,0,,I see.
@@ -224,41 +224,41 @@ Dialogue: 0,0:13:39.04,0:13:43.70,Nanoha Dialogue1,,0,0,0,,Now you can tell your
 Dialogue: 0,0:13:43.70,0:13:45.17,Nanoha Dialogue1,,0,0,0,,Next week.
 Dialogue: 0,0:13:45.17,0:13:47.55,Nanoha Dialogue1,,0,0,0,,With Chrono and Fate, all three of us.
 Dialogue: 0,0:13:47.55,0:13:49.20,Nanoha Dialogue1,,0,0,0,,What are you planning to say?
-Dialogue: 0,0:13:49.20,0:13:51.17,Nanoha Dialogue1,,0,0,0,,Let's see...
-Dialogue: 0,0:13:51.17,0:13:53.68,Nanoha Dialogue1,,0,0,0,,Probably the same as always.
-Dialogue: 0,0:13:53.68,0:13:58.27,Nanoha Dialogue1,,0,0,0,,I'll say that it's as busy as ever,\Nbut I'm doing fine.
+Dialogue: 0,0:13:49.20,0:13:51.08,Nanoha Dialogue1,,0,0,0,,Let's see...
+Dialogue: 0,0:13:51.08,0:13:53.52,Nanoha Dialogue1,,0,0,0,,Probably the same as always.
+Dialogue: 0,0:13:53.52,0:13:58.27,Nanoha Dialogue1,,0,0,0,,I'll say that it's as busy as ever,\Nbut I'm doing fine.
 Dialogue: 0,0:13:59.31,0:14:00.37,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:14:15.36,0:14:17.50,Nanoha Dialogue1,,0,0,0,,I guess the case is over.
 Dialogue: 0,0:14:17.50,0:14:19.19,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:14:19.19,0:14:22.20,Nanoha Dialogue1,,0,0,0,,But I feel a little lonely.
-Dialogue: 0,0:14:26.24,0:14:32.81,Nanoha Dialogue1,,0,0,0,,Chrono said that cases related to\NLost Logia always end up like this.
+Dialogue: 0,0:14:25.87,0:14:32.81,Nanoha Dialogue1,,0,0,0,,Chrono said that cases related to\NLost Logia always end up like this.
 Dialogue: 0,0:14:32.81,0:14:37.31,Nanoha Dialogue1,,0,0,0,,Sad things link together as we get pulled in by a massive power.
 Dialogue: 0,0:14:38.29,0:14:39.56,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:14:39.56,0:14:43.53,Nanoha Dialogue1,,0,0,0,,I think I'm going to continue working with the Bureau,
 Dialogue: 0,0:14:43.53,0:14:45.43,Nanoha Dialogue1,,0,0,0,,because I want to become an Enforcer.
 Dialogue: 0,0:14:46.33,0:14:49.99,Nanoha Dialogue1,,0,0,0,,Cases like my mother's and this one...
 Dialogue: 0,0:14:49.99,0:14:53.50,Nanoha Dialogue1,,0,0,0,,Even if it's just a little,\NI want to help nip them in the bud.
-Dialogue: 0,0:14:55.27,0:14:56.86,Nanoha Dialogue1,,0,0,0,,What about you, Nanoha?
+Dialogue: 0,0:14:55.14,0:14:56.20,Nanoha Dialogue1,,0,0,0,,What about you, Nanoha?
 Dialogue: 0,0:14:56.86,0:15:00.94,Nanoha Dialogue1,,0,0,0,,Nanoha, have you been thinking about what's going to happen now?
 Dialogue: 0,0:15:00.94,0:15:04.47,Nanoha Dialogue1,,0,0,0,,I don't think I can become an Enforcer,
 Dialogue: 0,0:15:05.35,0:15:08.55,Nanoha Dialogue1,,0,0,0,,but I'm sure I'm headed\Nthe same direction as you, Fate.
 Dialogue: 0,0:15:08.55,0:15:12.05,Nanoha Dialogue1,,0,0,0,,I want to be able to properly use my magic.
 Dialogue: 0,0:15:28.24,0:15:33.74,Nanoha Dialogue1,,0,0,0,,Yuuno, even though you came back,\NI was barely able to be with you.
-Dialogue: 0,0:15:34.81,0:15:37.25,Nanoha Dialogue1,,0,0,0,,I had to research things the whole time.
+Dialogue: 0,0:15:34.64,0:15:37.25,Nanoha Dialogue1,,0,0,0,,I had to research things the whole time.
 Dialogue: 0,0:15:37.25,0:15:39.25,Nanoha Dialogue1,,0,0,0,,What are you going to do now?
 Dialogue: 0,0:15:40.32,0:15:42.35,Nanoha Dialogue1,,0,0,0,,The Bureau has asked me to become
-Dialogue: 0,0:15:42.35,0:15:45.38,Nanoha Dialogue1,,0,0,0,,the Chief Librarian of the Infinity Library.
-Dialogue: 0,0:15:45.38,0:15:48.32,Nanoha Dialogue1,,0,0,0,,I think they have a dorm for me at the Main Office,
+Dialogue: 0,0:15:42.35,0:15:45.24,Nanoha Dialogue1,,0,0,0,,the Chief Librarian of the Infinity Library.
+Dialogue: 0,0:15:45.24,0:15:48.32,Nanoha Dialogue1,,0,0,0,,I think they have a dorm for me at the Main Office,
 Dialogue: 0,0:15:48.32,0:15:51.26,Nanoha Dialogue1,,0,0,0,,and they said I can continue my archeology studies.
 Dialogue: 0,0:15:51.26,0:15:52.96,Nanoha Dialogue1,,0,0,0,,I'm thinking about accepting the offer.
-Dialogue: 0,0:15:52.96,0:15:56.36,Nanoha Dialogue1,,0,0,0,,If it's the Main Office,\Nthen that's close to Midchilda,
-Dialogue: 0,0:15:56.36,0:15:57.79,Nanoha Dialogue1,,0,0,0,,so I'll be happy.
-Dialogue: 0,0:15:57.79,0:15:59.41,Nanoha Dialogue1,,0,0,0,,Really?
-Dialogue: 0,0:15:59.41,0:16:00.77,Nanoha Dialogue1,,0,0,0,,Yeah!
+Dialogue: 0,0:15:52.96,0:15:56.22,Nanoha Dialogue1,,0,0,0,,If it's the Main Office,\Nthen that's close to Midchilda,
+Dialogue: 0,0:15:56.22,0:15:57.79,Nanoha Dialogue1,,0,0,0,,so I'm glad to hear it.
+Dialogue: 0,0:15:57.79,0:15:58.79,Nanoha Dialogue1,,0,0,0,,Really?
+Dialogue: 0,0:15:58.79,0:16:00.77,Nanoha Dialogue1,,0,0,0,,Yeah!
 Dialogue: 0,0:16:02.70,0:16:04.48,Nanoha Dialogue1,,0,0,0,,Then, I'll leave here.
 Dialogue: 0,0:16:05.41,0:16:09.01,Nanoha Dialogue1,,0,0,0,,They said I can stay on the {\i1}Arthra{\i0} until I decide about the job.
-Dialogue: 0,0:16:09.01,0:16:10.28,Nanoha Dialogue1,,0,0,0,,I see.
-Dialogue: 0,0:16:10.28,0:16:11.78,Nanoha Dialogue1,,0,0,0,,Yeah.
+Dialogue: 0,0:16:09.01,0:16:10.26,Nanoha Dialogue1,,0,0,0,,I see.
+Dialogue: 0,0:16:10.26,0:16:11.78,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:16:11.78,0:16:15.02,Nanoha Dialogue1,,0,0,0,,Yuuno, if you have time during the end of this year or New Year's,
 Dialogue: 0,0:16:15.02,0:16:17.42,Nanoha Dialogue1,,0,0,0,,let's spend some time together, okay?
 Dialogue: 0,0:16:17.42,0:16:20.53,Nanoha Dialogue1,,0,0,0,,There's a lot of things\NI want to tell you!
@@ -271,10 +271,10 @@ Dialogue: 0,0:16:42.84,0:16:45.37,Nanoha Narration1,,0,0,0,,I'd be happy if you 
 Dialogue: 0,0:16:47.88,0:16:52.24,Nanoha Dialogue1,,0,0,0,,I need to tell you about everything that's happened.
 Dialogue: 0,0:16:54.70,0:16:57.49,Nanoha Dialogue1,,0,0,0,,Hayate went back to the hospital?
 Dialogue: 0,0:16:57.49,0:17:01.70,Nanoha Dialogue1,,0,0,0,,Oh yeah, she left when she was still hospitalized.
-Dialogue: 0,0:17:03.91,0:17:05.40,Nanoha Dialogue1,,0,0,0,,Good morning.
-Dialogue: 0,0:17:05.40,0:17:08.47,Nanoha Dialogue1,,0,0,0,,Good morning, Nanoha, Fate.
-Dialogue: 0,0:17:08.47,0:17:09.47,Nanoha Dialogue1,,0,0,0,,Huh?
-Dialogue: 0,0:17:09.47,0:17:11.17,Nanoha Dialogue1,,0,0,0,,What happened? Are you leaving?
+Dialogue: 0,0:17:03.91,0:17:05.32,Nanoha Dialogue1,,0,0,0,,Good morning.
+Dialogue: 0,0:17:05.32,0:17:08.47,Nanoha Dialogue1,,0,0,0,,Good morning, Nanoha, Fate.
+Dialogue: 0,0:17:08.47,0:17:09.36,Nanoha Dialogue1,,0,0,0,,Huh?
+Dialogue: 0,0:17:09.36,0:17:11.17,Nanoha Dialogue1,,0,0,0,,What happened? Are you leaving?
 Dialogue: 0,0:17:11.17,0:17:12.57,Nanoha Dialogue1,,0,0,0,,Unfortunately not.
 Dialogue: 0,0:17:12.57,0:17:15.18,Nanoha Dialogue1,,0,0,0,,I'll be here a little longer.
 Dialogue: 0,0:17:15.18,0:17:16.34,Nanoha Dialogue1,,0,0,0,,I see.
@@ -297,8 +297,8 @@ Dialogue: 0,0:17:56.08,0:18:00.92,Nanoha Dialogue1,,0,0,0,,are going to be put o
 Dialogue: 0,0:18:00.92,0:18:02.22,Nanoha Dialogue1,,0,0,0,,Really?
 Dialogue: 0,0:18:02.22,0:18:03.22,Nanoha Dialogue1,,0,0,0,,I guess.
 Dialogue: 0,0:18:03.22,0:18:06.53,Nanoha Dialogue1,,0,0,0,,It also includes doing\Ncommunity service for the Bureau
-Dialogue: 0,0:18:06.53,0:18:08.76,Nanoha Dialogue1,,0,0,0,,as restitution for our crimes.
-Dialogue: 0,0:18:08.76,0:18:11.98,Nanoha Dialogue1,,0,0,0,,Enforcer Chrono handled it for us.
+Dialogue: 0,0:18:06.53,0:18:08.59,Nanoha Dialogue1,,0,0,0,,as restitution for our crimes.
+Dialogue: 0,0:18:08.59,0:18:11.98,Nanoha Dialogue1,,0,0,0,,Enforcer Chrono handled it for us.
 Dialogue: 0,0:18:11.98,0:18:14.57,Nanoha Dialogue1,,0,0,0,,The term is quite long,
 Dialogue: 0,0:18:14.57,0:18:19.71,Nanoha Dialogue1,,0,0,0,,but this was probably the only way we could stay with Hayate.
 Dialogue: 0,0:18:19.71,0:18:21.48,Nanoha Dialogue1,,0,0,0,,I see.
@@ -309,13 +309,13 @@ Dialogue: 0,0:18:32.42,0:18:33.49,Nanoha Dialogue1,,0,0,0,,Promise me.
 Dialogue: 0,0:18:33.49,0:18:35.49,Nanoha Dialogue1,,0,0,0,,Okay, I promise.
 Dialogue: 0,0:18:35.49,0:18:38.43,Nanoha Dialogue1,,0,0,0,,Did you have a hard time last night and today?
 Dialogue: 0,0:18:35.89,0:18:38.43,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}You always respond well.
-Dialogue: 0,0:18:38.43,0:18:40.60,Nanoha Dialogue1,,0,0,0,,Yeah. Since we went out without permission,
+Dialogue: 0,0:18:38.44,0:18:40.60,Nanoha Dialogue1,,0,0,0,,Yeah. Since we went out without permission,
 Dialogue: 0,0:18:39.19,0:18:42.23,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Okay, just make sure not to over-extend yourself.
-Dialogue: 0,0:18:40.60,0:18:43.47,Nanoha Dialogue1,,0,0,0,,Signum and Shamal got into big trouble.
+Dialogue: 0,0:18:40.60,0:18:43.58,Nanoha Dialogue1,,0,0,0,,Signum and Shamal got into big trouble.
 Dialogue: 0,0:18:42.23,0:18:43.83,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Yes, we will be sure about that.
-Dialogue: 0,0:18:43.47,0:18:45.57,Nanoha Dialogue1,,0,0,0,,What a scary doctor...
+Dialogue: 0,0:18:43.58,0:18:45.38,Nanoha Dialogue1,,0,0,0,,What a scary doctor...
 Dialogue: 0,0:18:43.83,0:18:46.52,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}So let's do a pinky promise.
-Dialogue: 0,0:18:45.57,0:18:46.52,Nanoha Dialogue1,,0,0,0,,But...
+Dialogue: 0,0:18:45.38,0:18:46.52,Nanoha Dialogue1,,0,0,0,,But...
 Dialogue: 0,0:18:46.52,0:18:47.47,Nanoha Dialogue1,,0,0,0,,Okay!
 Dialogue: 0,0:18:47.47,0:18:49.27,Nanoha Dialogue1,,0,0,0,,She's a good doctor.
 Dialogue: 0,0:18:49.27,0:18:51.27,Nanoha Dialogue1,,0,0,0,,It seems like it.
@@ -339,8 +339,8 @@ Dialogue: 0,0:19:39.25,0:19:42.07,Nanoha Dialogue1,,0,0,0,,I have something real
 Dialogue: 0,0:19:42.07,0:19:45.49,Nanoha Dialogue1,,0,0,0,,Mrs. Lindy and Fate will also be coming,
 Dialogue: 0,0:19:45.49,0:19:49.73,Nanoha Dialogue1,,0,0,0,,so can we maybe talk before dinner? Nanoha.
 Dialogue: 0,0:19:50.53,0:19:55.23,Nanoha Dialogue1,,0,0,0,,An important talk?\NWhat could it be about?
-Dialogue: 0,0:19:55.23,0:19:56.74,Nanoha Dialogue1,,0,0,0,,Let's see.
-Dialogue: 0,0:19:57.64,0:20:01.01,Nanoha Dialogue1,,0,0,0,,Maybe it's about her future plans.
+Dialogue: 0,0:19:55.23,0:19:57.16,Nanoha Dialogue1,,0,0,0,,Let's see.
+Dialogue: 0,0:19:57.16,0:20:01.01,Nanoha Dialogue1,,0,0,0,,Maybe it's about her future plans.
 Dialogue: 0,0:20:02.21,0:20:06.39,Nanoha Dialogue1,,0,0,0,,Nanoha and Fate are almost here with Hayate.
 Dialogue: 0,0:20:06.39,0:20:11.19,Nanoha Dialogue1,,0,0,0,,They said that all three of them\Nwant to tell us something.
 Dialogue: 0,0:20:11.19,0:20:12.19,Nanoha Dialogue1,,0,0,0,,Yeah.
@@ -350,38 +350,38 @@ Dialogue: 0,0:20:18.11,0:20:23.86,Nanoha Dialogue1,,0,0,0,,Well, if Nanoha wants
 Dialogue: 0,0:20:23.86,0:20:26.63,Nanoha Dialogue1,,0,0,0,,If they're gonna tell us, then let's listen.
 Dialogue: 0,0:20:26.63,0:20:27.80,Nanoha Dialogue1,,0,0,0,,Yes...
 Dialogue: 0,0:20:27.80,0:20:33.25,Nanoha Dialogue1,,0,0,0,,I wish she could tell us the part\Nabout how she met Fate.
-Dialogue: 0,0:20:33.94,0:20:40.84,Nanoha Dialogue1,,0,0,0,,I feel we can become much closer\Nif they tell us everything.
-Dialogue: 0,0:20:40.84,0:20:42.51,Nanoha Dialogue1,,0,0,0,,Yeah, that's right.
+Dialogue: 0,0:20:33.94,0:20:40.52,Nanoha Dialogue1,,0,0,0,,I feel we can become much closer\Nif they tell us everything.
+Dialogue: 0,0:20:40.52,0:20:42.51,Nanoha Dialogue1,,0,0,0,,Yeah, that's right.
 Dialogue: 0,0:20:43.34,0:20:46.55,Nanoha Dialogue1,,0,0,0,,I see, so you are going to work at the Main Office too.
 Dialogue: 0,0:20:46.55,0:20:47.35,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:20:47.35,0:20:50.13,Nanoha Dialogue1,,0,0,0,,Nanoha is going to continue her part-time job,
 Dialogue: 0,0:20:50.13,0:20:53.35,Nanoha Dialogue1,,0,0,0,,and it seems like everyone is working for the Bureau.
-Dialogue: 0,0:20:53.35,0:20:55.63,Nanoha Dialogue1,,0,0,0,,It's admirable.
-Dialogue: 0,0:20:55.63,0:20:59.23,Nanoha Dialogue1,,0,0,0,,There are rumors about Nanoha becoming a combat instructor.
+Dialogue: 0,0:20:53.35,0:20:55.26,Nanoha Dialogue1,,0,0,0,,It's admirable.
+Dialogue: 0,0:20:55.26,0:20:59.23,Nanoha Dialogue1,,0,0,0,,There are rumors about Nanoha becoming a combat instructor.
 Dialogue: 0,0:21:00.84,0:21:05.76,Nanoha Dialogue1,,0,0,0,,I'm also counting on you\Na little as the Chief Librarian.
 Dialogue: 0,0:21:05.76,0:21:07.90,Nanoha Dialogue1,,0,0,0,,Well, thank you very much.
-Dialogue: 0,0:21:08.88,0:21:13.79,Nanoha Dialogue1,,0,0,0,,Honestly, it causes less trouble to go outside in this form,
-Dialogue: 0,0:21:13.79,0:21:17.00,Nanoha Dialogue1,,0,0,0,,and it's really fuel-efficient!
+Dialogue: 0,0:21:08.88,0:21:13.93,Nanoha Dialogue1,,0,0,0,,Honestly, it causes less trouble to go outside in this form,
+Dialogue: 0,0:21:13.93,0:21:17.00,Nanoha Dialogue1,,0,0,0,,and it's really fuel-efficient!
 Dialogue: 0,0:21:18.59,0:21:20.11,Nanoha Dialogue1,,0,0,0,,Is that true?
 Dialogue: 0,0:21:51.85,0:21:56.32,Nanoha Narration1,,0,0,0,,And so the {\i0}Buch der Dunkelheit{\i1} Incident finally came to a close.
 Dialogue: 0,0:21:56.32,0:22:01.42,Nanoha Narration1,,0,0,0,,By going through many encounters and farewells, new days begin.
 Dialogue: 0,0:22:02.79,0:22:05.26,Nanoha Narration1,,0,0,0,,We will definitely...
 Dialogue: 0,0:22:10.98,0:22:16.13,Nanoha ED,,0,0,0,,I won't forget even when I grow up
 Dialogue: 0,0:22:16.13,0:22:24.05,Nanoha ED,,0,0,0,,My love, the day that we came across each other
-Dialogue: 0,0:22:24.90,0:22:29.00,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
-Dialogue: 1,0:22:26.56,0:22:32.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\fs45\pos(688.6,333)\b1\bord0\shad0}Hayate Yagami\N{\fs36}9th Grader, Seishō Junior High School.\NSpecial Investigator,\NTime-Space Administrative Bureau.{\b0}
-Dialogue: 0,0:22:26.56,0:22:32.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\fs45\pos(688.6,333)\b1\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(5531,5990,\1a&HFF&)}Hayate Yagami\N{\fs36}9th Grader, Seishō Junior High School.\NSpecial Investigator,\NTime-Space Administrative Bureau.{\b0}
-Dialogue: 0,0:22:26.84,0:22:27.77,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Shamal,
+Dialogue: 0,0:22:24.78,0:22:29.00,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
+Dialogue: 1,0:22:26.56,0:22:32.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\fs45\pos(682.6,333)\b1\bord0\shad0}Hayate Yagami\N{\fs36}9th Grader, Seishō Junior High School.\NSpecial Investigator,\NTime-Space Administrative Bureau.{\b0}
+Dialogue: 0,0:22:26.56,0:22:32.55,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\fs45\pos(682.6,333)\b1\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(5531,5990,\1a&HFF&)}Hayate Yagami\N{\fs36}9th Grader, Seishō Junior High School.\NSpecial Investigator,\NTime-Space Administrative Bureau.{\b0}
+Dialogue: 0,0:22:26.36,0:22:27.77,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Shamal,
 Dialogue: 0,0:22:27.77,0:22:31.00,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}please send the parcel to Uncle Graham.
 Dialogue: 0,0:22:29.00,0:22:32.40,Nanoha ED,,0,0,0,,I kept you in tears
-Dialogue: 0,0:22:31.00,0:22:32.97,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yes, leave it to me.
+Dialogue: 0,0:22:31.00,0:22:32.76,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yes, leave it to me.
 Dialogue: 0,0:22:32.40,0:22:35.97,Nanoha ED,,0,0,0,,I remember the promise
-Dialogue: 0,0:22:32.97,0:22:34.82,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Signum, I'll see you later.
-Dialogue: 0,0:22:34.82,0:22:36.28,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yes, later.
+Dialogue: 0,0:22:32.76,0:22:34.62,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Signum, I'll see you later.
+Dialogue: 0,0:22:34.62,0:22:36.28,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yes, later.
 Dialogue: 0,0:22:35.97,0:22:42.45,Nanoha ED,,0,0,0,,My love, the smile that I love so much
 Dialogue: 0,0:22:36.97,0:22:38.29,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Okay!
-Dialogue: 0,0:22:40.95,0:22:42.82,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Hayate, see you later!
-Dialogue: 0,0:22:43.92,0:22:45.30,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}I'm off!
+Dialogue: 0,0:22:40.78,0:22:42.82,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Hayate, see you later!
+Dialogue: 0,0:22:43.72,0:22:45.30,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}I'm off!
 Dialogue: 0,0:22:47.32,0:22:53.09,Nanoha ED,,0,0,0,,That day, when the secret door opened
 Dialogue: 1,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,407)\bord0\shad0}As the brilliant {\fnNoto Sans SemiCondensed Bold Italic}Zauberritter{\fnNoto Sans SemiCondensed Bold} leader of the {\fnNoto Sans SemiCondensed Bold Italic}Wolkenritter{\fnNoto Sans SemiCondensed Bold},\Nher {\fnNoto Sans SemiCondensed Bold Italic}Schutzritter,{\fnNoto Sans SemiCondensed Bold} she plays a large part in the investigation of cases related to Lost Logia.
 Dialogue: 0,0:22:47.45,0:22:53.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,407)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}As the brilliant {\fnNoto Sans SemiCondensed Bold Italic}Zauberritter{\fnNoto Sans SemiCondensed Bold} leader of the {\fnNoto Sans SemiCondensed Bold Italic}Wolkenritter{\fnNoto Sans SemiCondensed Bold},\Nher {\fnNoto Sans SemiCondensed Bold Italic}Schutzritter,{\fnNoto Sans SemiCondensed Bold} she plays a large part in the investigation of cases related to Lost Logia.
@@ -393,7 +393,7 @@ Dialogue: 0,0:22:59.70,0:23:02.94,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Fate, 
 Dialogue: 1,0:22:59.76,0:23:02.96,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\b1\pos(476,463)\bord0\shad0}After stepping down from her position as Captain, she now works a desk job at the Main Office.{\b0}
 Dialogue: 0,0:22:59.76,0:23:02.96,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\b1\pos(476,463)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}After stepping down from her position as Captain, she now works a desk job at the Main Office.{\b0}
 Dialogue: 0,0:23:02.93,0:23:08.94,Nanoha ED,,0,0,0,,I got lost, and I wanted to cry
-Dialogue: 0,0:23:03.97,0:23:07.17,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Thank you, Mom.
+Dialogue: 0,0:23:03.64,0:23:07.17,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Thank you, Mom.
 Dialogue: 1,0:23:04.43,0:23:09.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(310.6,360)\bord0\shad0}Fate T. Harlaown\N{\fs36}9th Grader, Seishō Junior High School.\NEnforcer, Time-Space Administrative Bureau.{\b0}
 Dialogue: 0,0:23:04.43,0:23:09.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(310.6,360)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}Fate T. Harlaown\N{\fs36}9th Grader, Seishō Junior High School.\NEnforcer, Time-Space Administrative Bureau.{\b0}
 Dialogue: 0,0:23:08.94,0:23:12.34,Nanoha ED,,0,0,0,,My true wishes, my true feelings
@@ -403,30 +403,30 @@ Dialogue: 0,0:23:12.34,0:23:17.01,Nanoha ED,,0,0,0,,Maybe you taught those to me
 Dialogue: 0,0:23:17.01,0:23:21.12,Nanoha ED,,0,0,0,,Guarded by such kind feelings
 Dialogue: 1,0:23:18.86,0:23:22.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\pos(263.6,339)\bord0\shad0}Chrono Harlaown{\fs36}\NCommodore,\NTime-Space Administrative Bureau.\NCaptain of the {\fnNoto Sans SemiCondensed Bold Italic}Arthra.
 Dialogue: 0,0:23:18.86,0:23:22.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\pos(263.6,339)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}Chrono Harlaown{\fs36}\NCommodore,\NTime-Space Administrative Bureau.\NCaptain of the {\fnNoto Sans SemiCondensed Bold Italic}Arthra.
-Dialogue: 0,0:23:19.62,0:23:20.80,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Everyone's getting together
+Dialogue: 0,0:23:19.10,0:23:20.80,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Everyone's getting together
 Dialogue: 0,0:23:20.80,0:23:22.35,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}for the first time in a while.
 Dialogue: 0,0:23:21.12,0:23:24.69,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time
-Dialogue: 0,0:23:22.35,0:23:24.02,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}You're right.
+Dialogue: 0,0:23:22.35,0:23:23.72,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}You're right.
 Dialogue: 1,0:23:23.62,0:23:27.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(268.333,358)\bord0\shad0}Amy Limietta{\fs36}\NCommander,\NTime-Space Administrative Bureau{\b0}
 Dialogue: 0,0:23:23.62,0:23:27.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\b1\pos(268.333,358)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}Amy Limietta{\fs36}\NCommander,\NTime-Space Administrative Bureau{\b0}
-Dialogue: 0,0:23:24.02,0:23:26.06,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}It might be for the first time
-Dialogue: 0,0:23:26.06,0:23:27.96,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}since you became Captain, Chrono.
+Dialogue: 0,0:23:23.72,0:23:26.06,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}It might be for the first time
+Dialogue: 0,0:23:26.06,0:23:27.61,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}since you became Captain, Chrono.
 Dialogue: 0,0:23:24.69,0:23:28.36,Nanoha ED,,0,0,0,,How you thought dear of me
-Dialogue: 0,0:23:27.96,0:23:30.29,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Well, it's a peaceful mission.
+Dialogue: 0,0:23:27.61,0:23:30.08,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Well, it's a peaceful mission.
 Dialogue: 0,0:23:28.36,0:23:34.46,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:23:29.46,0:23:32.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(530,466)\bord0\shad0}Even though they both got promoted, they still work well together.{\b0}
 Dialogue: 0,0:23:29.46,0:23:32.45,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(530,466)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(2531,2990,\1a&HFF&)}Even though they both got promoted, they still work well together.{\b0}
-Dialogue: 0,0:23:30.29,0:23:32.23,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}It's like a little reunion.
+Dialogue: 0,0:23:30.08,0:23:32.23,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}It's like a little reunion.
 Dialogue: 0,0:23:32.23,0:23:33.73,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Seems that way.
-Dialogue: 0,0:23:34.82,0:23:36.04,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yuuno, how about you?
+Dialogue: 0,0:23:34.48,0:23:36.04,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yuuno, how about you?
 Dialogue: 0,0:23:36.04,0:23:37.96,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yeah, I'm right on time.
 Dialogue: 1,0:23:37.55,0:23:43.04,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\pos(698.667,338)\fs45\b1\bord0\shad0}Yuuno Scrya{\fs36}\NChief Librarian,\NTime-Space Administrative Bureau\NDatabase, Infinity Library{\b0}
 Dialogue: 0,0:23:37.55,0:23:43.04,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\pos(698.667,338)\fs45\b1\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(5031,5490,\1a&HFF&)}Yuuno Scrya{\fs36}\NChief Librarian,\NTime-Space Administrative Bureau\NDatabase, Infinity Library{\b0}
 Dialogue: 0,0:23:37.96,0:23:38.99,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}That's right, Yuuno,
 Dialogue: 0,0:23:38.99,0:23:40.83,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Has anything happened
-Dialogue: 0,0:23:40.83,0:23:42.44,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}between you and Nanoha?
+Dialogue: 0,0:23:40.83,0:23:41.76,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}between you and Nanoha?
 Dialogue: 0,0:23:39.67,0:23:45.61,Nanoha ED,,0,0,0,,Sometimes I get worried and want to cry
-Dialogue: 0,0:23:42.44,0:23:45.50,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Well, we see each other often,
+Dialogue: 0,0:23:41.76,0:23:45.50,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Well, we see each other often,
 Dialogue: 0,0:23:45.50,0:23:47.53,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}but nothing has happened...
 Dialogue: 0,0:23:47.08,0:23:52.98,Nanoha ED,,0,0,0,,But everyone passes by those times
 Dialogue: 0,0:23:47.53,0:23:48.41,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Oh, dear.
@@ -446,8 +446,8 @@ Dialogue: 0,0:24:07.63,0:24:08.73,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Good m
 Dialogue: 0,0:24:08.73,0:24:10.37,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)\c&HE1E1E1&}Good morning.
 Dialogue: 0,0:24:09.47,0:24:13.50,Nanoha ED,,0,0,0,,I won't forget even when I grow up
 Dialogue: 0,0:24:10.37,0:24:11.63,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Do you have work today?
-Dialogue: 0,0:24:11.63,0:24:13.00,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yeah.
-Dialogue: 0,0:24:13.00,0:24:15.61,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}We're all getting together today.
+Dialogue: 0,0:24:11.63,0:24:12.62,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yeah.
+Dialogue: 0,0:24:12.62,0:24:15.61,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}We're all getting together today.
 Dialogue: 1,0:24:13.12,0:24:17.62,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,432)\b1\bord0\shad0}Along with training incoming staff in combat tactics, she is doing amazing work as an investigations officer.{\b0}
 Dialogue: 0,0:24:13.12,0:24:17.62,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,432)\b1\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}Along with training incoming staff in combat tactics, she is doing amazing work as an investigations officer.{\b0}
 Dialogue: 0,0:24:13.50,0:24:17.14,Nanoha ED,,0,0,0,,The days when we met
@@ -469,19 +469,19 @@ Dialogue: 0,0:24:40.43,0:24:46.17,Nanoha ED,,0,0,0,,I want to smile like the flo
 Dialogue: 1,0:24:40.65,0:24:44.14,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\pos(327.333,251)\b1\bord0\shad0}Gil Graham{\fs36}\NRetired Admiral,\NTime-Space Administrative Bureau{\b0}
 Dialogue: 0,0:24:40.65,0:24:44.14,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\fs45\pos(327.333,251)\b1\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}Gil Graham{\fs36}\NRetired Admiral,\NTime-Space Administrative Bureau{\b0}
 Dialogue: 0,0:24:46.17,0:24:50.01,Nanoha ED,,0,0,0,,True tears and true smiles
-Dialogue: 1,0:24:48.12,0:24:52.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(476,467)\bord0\shad0}After his return to his hometown in England, he has retired and is spending time with his familiars.{\b0}
-Dialogue: 0,0:24:48.12,0:24:52.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(476,467)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(4031,4490,\1a&HFF&)}After his return to his hometown in England, he has retired and is spending time with his familiars.{\b0}
+Dialogue: 1,0:24:48.12,0:24:52.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(476,467)\bord0\shad0}After his return to his hometown in England,\Nhe has retired and is spending time with his familiars.{\b0}
+Dialogue: 0,0:24:48.12,0:24:52.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\b1\pos(476,467)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(4031,4490,\1a&HFF&)}After his return to his hometown in England,\Nhe has retired and is spending time with his familiars.{\b0}
 Dialogue: 0,0:24:50.01,0:24:54.55,Nanoha ED,,0,0,0,,Appear in innocent hearts
 Dialogue: 0,0:24:54.55,0:24:58.68,Nanoha ED,,0,0,0,,I won't forget even\Nwhen I grow up
 Dialogue: 0,0:24:56.80,0:25:02.25,Nanoha Narration1,,0,0,0,,{\an9}The bond we forged\Nthat day is still strong.
 Dialogue: 0,0:24:58.68,0:25:02.25,Nanoha ED,,0,0,0,,The days when we met
 Dialogue: 0,0:25:02.25,0:25:05.82,Nanoha ED,,0,0,0,,I want to convey from my heart
-Dialogue: 0,0:25:03.22,0:25:04.86,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Raising Heart.
+Dialogue: 0,0:25:03.06,0:25:04.86,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Raising Heart.
 Dialogue: 0,0:25:04.86,0:25:07.23,Nanoha Device1,,0,0,0,,{\pos(476,705)}Yes, my master.
 Dialogue: 0,0:25:05.82,0:25:13.83,Nanoha ED,,0,0,0,,My love, I'm glad we met
 Dialogue: 0,0:25:07.23,0:25:08.64,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Bardiche.
 Dialogue: 0,0:25:08.64,0:25:10.23,Nanoha Device1,,0,0,0,,{\pos(476,705)}Yes, sir.
-Dialogue: 0,0:25:10.23,0:25:13.24,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Reinforce.
+Dialogue: 0,0:25:10.23,0:25:11.84,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Reinforce.
 Dialogue: 0,0:25:13.24,0:25:16.36,Nanoha Dialogue1,,0,0,0,,{\pos(476,705)}Yes, {\i1}Meister{\i0} Hayate.
-Dialogue: 0,0:25:22.20,0:25:24.68,Nanoha Device1,,0,0,0,,Standby, ready.
-Dialogue: 0,0:25:24.68,0:25:27.67,Nanoha Dialogue1,,0,0,0,,{\b1}Set up!{\b0}
+Dialogue: 0,0:25:22.20,0:25:24.48,Nanoha Device1,,0,0,0,,Standby, ready.
+Dialogue: 0,0:25:24.48,0:25:27.67,Nanoha Dialogue1,,0,0,0,,{\b1}Set up!{\b0}
