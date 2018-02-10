@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 278
-Active Line: 283
-Video Position: 36221
+Scroll Position: 226
+Active Line: 231
+Video Position: 28646
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -208,7 +208,7 @@ Dialogue: 0,0:14:25.97,0:14:29.83,Nanoha Dialogue1,,0,0,0,,But, in order to chal
 Dialogue: 0,0:14:29.83,0:14:31.14,Nanoha Dialogue1,,0,0,0,,this is still not enough!
 Dialogue: 0,0:14:43.43,0:14:45.75,Nanoha Dialogue1,,0,0,0,,Lævateinn! Slam the blade and slice!
 Dialogue: 0,0:14:46.22,0:14:47.38,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Jawohl!
-Dialogue: 0,0:14:46.22,0:14:47.38,Nanoha Device1,,0,0,0,,{\pos(476,705)}Roger!
+Dialogue: 0,0:14:46.22,0:14:47.38,Nanoha Device1,,0,0,15,,Roger!
 Dialogue: 0,0:14:56.50,0:14:57.85,Nanoha Dialogue1,,0,0,0,,Fate!
 Dialogue: 0,0:15:16.32,0:15:18.18,Nanoha Narration1,,0,0,0,,I can prepare the teleport,
 Dialogue: 0,0:15:18.18,0:15:20.36,Nanoha Narration1,,0,0,0,,but I can't break through the spatial barrier!
@@ -238,12 +238,12 @@ Dialogue: 0,0:17:09.70,0:17:13.70,Nanoha Dialogue1,,0,0,0,,I have to save everyo
 Dialogue: 0,0:17:13.70,0:17:15.46,Nanoha Device1,,0,0,0,,Master.
 Dialogue: 0,0:17:15.46,0:17:19.24,Nanoha Device1,,0,0,0,,Shooting Mode. Acceleration.
 Dialogue: 0,0:17:24.45,0:17:26.41,Nanoha Dialogue1,,0,0,0,,Raising Heart?
-Dialogue: 0,0:17:26.97,0:17:30.04,Nanoha Device1,,0,0,0,,{\pos(476,705)}Let's shoot it. Starlight Breaker!
+Dialogue: 0,0:17:26.97,0:17:30.04,Nanoha Device1,,0,0,15,,Let's shoot it. Starlight Breaker!
 Dialogue: 0,0:17:30.36,0:17:34.15,Nanoha Dialogue1,,0,0,0,,But that's impossible in your condition!
-Dialogue: 0,0:17:34.77,0:17:36.59,Nanoha Device1,,0,0,0,,{\pos(476,705)}I can be shot.
+Dialogue: 0,0:17:34.77,0:17:36.59,Nanoha Device1,,0,0,15,,I can be shot.
 Dialogue: 0,0:17:37.23,0:17:42.69,Nanoha Dialogue1,,0,0,0,,That magic is too big a burden.\NRaising Heart, you'd break!
-Dialogue: 0,0:17:42.69,0:17:44.64,Nanoha Device1,,0,0,0,,{\pos(476,705)}I believe, master.
-Dialogue: 0,0:17:47.49,0:17:50.40,Nanoha Device1,,0,0,0,,{\pos(476,705)}Trust me, my master.
+Dialogue: 0,0:17:42.69,0:17:44.64,Nanoha Device1,,0,0,15,,I believe, master.
+Dialogue: 0,0:17:47.49,0:17:50.40,Nanoha Device1,,0,0,15,,Trust me, my master.
 Dialogue: 0,0:17:56.75,0:18:00.28,Nanoha Dialogue1,,0,0,0,,If you're going to believe in me, Raising Heart,
 Dialogue: 0,0:18:00.28,0:18:02.92,Nanoha Dialogue1,,0,0,0,,I'll believe in you too.
 Dialogue: 0,0:18:06.59,0:18:09.90,Nanoha Narration1,,0,0,0,,Fate... Yuuno... Miss Arf...
@@ -254,13 +254,13 @@ Dialogue: 0,0:18:16.99,0:18:19.91,Nanoha Narration1,,0,0,0,,Nanoha, are you real
 Dialogue: 0,0:18:22.90,0:18:24.67,Nanoha Narration1,,0,0,0,,It's all right!
 Dialogue: 0,0:18:24.67,0:18:27.17,Nanoha Narration1,,0,0,0,,I'll shoot through it with\NStarlight Breaker!
 Dialogue: 0,0:18:28.65,0:18:31.42,Nanoha Dialogue1,,0,0,0,,Raising Heart, start the countdown!
-Dialogue: 0,0:18:32.33,0:18:33.40,Nanoha Device1,,0,0,0,,{\pos(476,705)}All right.
+Dialogue: 0,0:18:32.33,0:18:33.40,Nanoha Device1,,0,0,15,,All right.
 Dialogue: 0,0:18:37.52,0:18:39.84,Nanoha Device1,,0,0,0,,Count 9...
 Dialogue: 0,0:18:39.84,0:18:42.60,Nanoha Device1,,0,0,0,,8... 7...
 Dialogue: 0,0:18:42.60,0:18:48.13,Nanoha Device1,,0,0,0,,6... 5... 4... 3...
 Dialogue: 0,0:18:48.13,0:18:53.57,Nanoha Device1,,0,0,0,,3... 3... 3...
 Dialogue: 0,0:18:53.57,0:18:56.53,Nanoha Dialogue1,,0,0,0,,Are you all right, Raising Heart?
-Dialogue: 0,0:18:58.06,0:18:59.26,Nanoha Device1,,0,0,0,,{\pos(476,705)}No problem.
+Dialogue: 0,0:18:58.06,0:18:59.26,Nanoha Device1,,0,0,15,,No problem.
 Dialogue: 0,0:19:00.21,0:19:05.82,Nanoha Device1,,0,0,0,,Count 3... 2... 1...
 Dialogue: 0,0:19:10.04,0:19:12.54,Nanoha Dialogue1,,0,0,0,,Nanoha?
 Dialogue: 0,0:19:34.02,0:19:37.52,Nanoha Dialogue1,,0,0,0,,Oh no... I missed!
@@ -268,7 +268,7 @@ Dialogue: 0,0:19:41.66,0:19:43.46,Nanoha Dialogue1,,0,0,0,,Nanoha!
 Dialogue: 0,0:19:46.62,0:19:49.44,Nanoha Dialogue1,,0,0,0,,Linker Core, captured.
 Dialogue: 0,0:19:51.46,0:19:53.46,Nanoha Dialogue1,,0,0,0,,Begin assimilation!
 Dialogue: 0,0:19:54.74,0:19:55.94,Nanoha Device2,,0,0,0,,{\an5\pos(474.678,579)}Sammlung
-Dialogue: 0,0:19:54.74,0:19:55.94,Nanoha Device1,,0,0,0,,{\pos(476,705)}Collecting
+Dialogue: 0,0:19:54.74,0:19:55.94,Nanoha Device1,,0,0,15,,Collecting
 Dialogue: 0,0:20:23.36,0:20:25.28,Nanoha Device1,,0,0,0,,Count 0.
 Dialogue: 0,0:20:26.39,0:20:29.29,Nanoha Dialogue1,,0,0,0,,{\b1}Starlight...{\b0}
 Dialogue: 0,0:20:33.70,0:20:35.62,Nanoha Dialogue1,,0,0,0,,{\b1}...Breaker{\b0}

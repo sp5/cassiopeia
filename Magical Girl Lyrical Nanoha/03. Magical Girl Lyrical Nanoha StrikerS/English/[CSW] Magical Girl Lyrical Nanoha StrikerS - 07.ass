@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 341
-Active Line: 344
-Video Position: 36347
+Scroll Position: 58
+Active Line: 63
+Video Position: 7223
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -101,7 +101,7 @@ Dialogue: 0,0:04:42.47,0:04:46.39,NanohaW Dialogue1,,0,0,0,,It doesn't seem like
 Dialogue: 0,0:04:47.32,0:04:50.06,NanohaW Dialogue1,,0,0,0,,We can't be complacent, but that's a relief.
 Dialogue: 0,0:04:50.06,0:04:55.54,NanohaW Dialogue1,,0,0,0,,Well, whatever happens, we won't get our turn unless there's a real emergency.
 Dialogue: 0,0:04:57.94,0:05:01.23,NanohaW Dialogue1,,0,0,0,,How long until the auction starts?
-Dialogue: 0,0:05:01.23,0:05:03.97,NanohaW Device1,,0,0,0,,{\pos(640,699)}Three hours and 27 minutes.
+Dialogue: 0,0:05:01.23,0:05:03.97,NanohaW Device1,,0,0,15,,Three hours and 27 minutes.
 Dialogue: 0,0:05:07.52,0:05:08.98,NanohaW Dialogue1,,0,0,0,,Is that...?
 Dialogue: 0,0:05:08.98,0:05:11.75,NanohaW Dialogue1,,0,0,0,,Doc, is something wrong?
 Dialogue: 0,0:05:11.75,0:05:13.40,NanohaW Dialogue1,,0,0,0,,Uh... no.
@@ -186,8 +186,8 @@ Dialogue: 0,0:10:23.76,0:10:26.07,NanohaW Dialogue1,,0,0,0,,I'll smash the big o
 Dialogue: 0,0:10:26.07,0:10:27.94,NanohaW Dialogue1,,0,0,0,,Can you take the small ones?
 Dialogue: 0,0:10:27.94,0:10:28.70,NanohaW Dialogue1,,0,0,0,,Of course.
 Dialogue: 0,0:10:29.90,0:10:31.28,NanohaW Dialogue1,,0,0,0,,Let's go, Eisen!
-Dialogue: 0,0:10:31.28,0:10:32.34,NanohaW Device1,,0,0,0,,Roger.
-Dialogue: 0,0:10:31.28,0:10:32.34,NanohaW Device2,,0,0,0,,{\pos(640,644)}Jawohl.
+Dialogue: 0,0:10:31.28,0:10:32.34,NanohaW Device1,,0,0,0,,Roger!
+Dialogue: 0,0:10:31.28,0:10:32.34,NanohaW Device2,,0,0,0,,{\pos(640,644)}Jawohl!
 Dialogue: 0,0:10:38.62,0:10:39.95,NanohaW Dialogue1,,0,0,0,,Smash them all
 Dialogue: 0,0:10:42.36,0:10:45.22,NanohaW Dialogue1,,0,0,0,,to pieces!
 Dialogue: 0,0:11:00.96,0:11:02.42,NanohaW Dialogue1,,0,0,0,,Lævateinn.
@@ -272,7 +272,7 @@ Dialogue: 0,0:16:45.59,0:16:47.68,NanohaW Dialogue1,,0,0,0,,{\pos(320,696)}It's 
 Dialogue: 0,0:16:47.68,0:16:50.12,NanohaW Dialogue1,,0,0,0,,{\pos(320,696)}Evade them and join up\Nwith the new recruits.
 Dialogue: 0,0:16:50.12,0:16:51.14,NanohaW Dialogue1,,0,0,0,,{\pos(960,696)}Okie-doke!
 Dialogue: 0,0:17:01.36,0:17:03.54,NanohaW Dialogue1,,0,0,0,,I've found what the doctor was looking for.
-Dialogue: 0,0:17:04.61,0:17:07.60,NanohaW Dialogue1,,0,0,0,,Garyuu, could you do me a little favor?
+Dialogue: 0,0:17:04.61,0:17:07.60,NanohaW Dialogue1,,0,0,0,,Galue, could you do me a little favor?
 Dialogue: 0,0:17:08.50,0:17:11.92,NanohaW Dialogue1,,0,0,0,,The children in our way are being distracted by the Insects,
 Dialogue: 0,0:17:11.92,0:17:13.90,NanohaW Dialogue1,,0,0,0,,Use this chance to secure the object.
 Dialogue: 0,0:17:16.01,0:17:17.76,NanohaW Dialogue1,,0,0,0,,Be careful.
@@ -316,7 +316,7 @@ Dialogue: 0,0:19:45.99,0:19:48.91,NanohaW Dialogue1,,0,0,0,,Both of you, get you
 Dialogue: 0,0:20:03.51,0:20:05.81,NanohaW Dialogue1,,0,0,0,,Is someone there?
 Dialogue: 0,0:20:05.81,0:20:07.44,NanohaW Dialogue1,,0,0,0,,This place is dangerous!
 Dialogue: 0,0:20:16.28,0:20:17.86,NanohaW Dialogue1,,0,0,0,,What's this?
-Dialogue: 0,0:20:18.82,0:20:21.82,NanohaW Dialogue1,,0,0,0,,Garyuu, mission clear. Good boy.
+Dialogue: 0,0:20:18.82,0:20:21.82,NanohaW Dialogue1,,0,0,0,,Galue, mission clear. Good boy.
 Dialogue: 0,0:20:21.82,0:20:25.78,NanohaW Dialogue1,,0,0,0,,Now, take it to the doctor.
 Dialogue: 0,0:20:28.89,0:20:30.59,NanohaW Dialogue1,,0,0,0,,What was the object he wanted?
 Dialogue: 0,0:20:30.59,0:20:35.56,NanohaW Dialogue1,,0,0,0,,I don't know. It wasn't something\Nbeing auctioned, so probably smuggled goods.

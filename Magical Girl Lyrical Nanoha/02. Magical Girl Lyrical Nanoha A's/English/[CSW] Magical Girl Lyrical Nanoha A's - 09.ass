@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 303
-Active Line: 307
-Video Position: 36453
+Scroll Position: 272
+Active Line: 277
+Video Position: 31975
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -258,7 +258,7 @@ Dialogue: 0,0:17:17.47,0:17:20.89,Nanoha Dialogue1,,0,0,0,,The final pages are f
 Dialogue: 0,0:17:20.89,0:17:22.80,Nanoha Dialogue1,,0,0,0,,who are no longer needed.
 Dialogue: 0,0:17:24.81,0:17:28.60,Nanoha Dialogue1,,0,0,0,,As it sometimes has been in the past, as well.
 Dialogue: 0,0:17:29.01,0:17:30.21,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Sammlung
-Dialogue: 0,0:17:29.01,0:17:30.21,Nanoha Device1,,0,0,0,,{\pos(476,705)}Collecting
+Dialogue: 0,0:17:29.01,0:17:30.21,Nanoha Device1,,0,0,15,,Collecting
 Dialogue: 0,0:17:40.21,0:17:43.14,Nanoha Dialogue1,,0,0,0,,A broken, cursed Lost Logia...
 Dialogue: 0,0:17:51.62,0:17:55.12,Nanoha Dialogue1,,0,0,0,,There is no way such a thing would be able to save anyone.
 Dialogue: 0,0:17:57.13,0:17:59.85,Nanoha Dialogue1,,0,0,0,,Shamal! Signum!
@@ -268,7 +268,7 @@ Dialogue: 0,0:18:06.54,0:18:10.04,Nanoha Dialogue1,,0,0,0,,There is no need for\
 Dialogue: 0,0:18:20.05,0:18:23.43,Nanoha Dialogue1,,0,0,0,,That's right. There was one more.
 Dialogue: 0,0:18:34.10,0:18:35.30,Nanoha Dialogue1,,0,0,0,,Take it.
 Dialogue: 0,0:18:35.66,0:18:36.61,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Sammlung
-Dialogue: 0,0:18:35.66,0:18:36.61,Nanoha Device1,,0,0,0,,{\pos(476,705)}Collecting
+Dialogue: 0,0:18:35.66,0:18:36.61,Nanoha Device1,,0,0,15,,Collecting
 Dialogue: 0,0:18:59.22,0:19:01.13,Nanoha Dialogue1,,0,0,0,,Are those two...
 Dialogue: 0,0:19:01.13,0:19:04.24,Nanoha Dialogue1,,0,0,0,,Are Nanoha and Fate under control?
 Dialogue: 0,0:19:04.24,0:19:07.10,Nanoha Dialogue1,,0,0,0,,They're in a quadruple bind\Nand a Crystal Cage.
@@ -315,7 +315,7 @@ Dialogue: 0,0:22:02.21,0:22:04.80,Nanoha Dialogue1,,0,0,0,,I am the mistress of\
 Dialogue: 0,0:22:04.80,0:22:07.58,Nanoha Dialogue1,,0,0,0,,Render great power unto my hands.
 Dialogue: 0,0:22:10.08,0:22:13.31,Nanoha Dialogue1,,0,0,0,,Release the seal.
 Dialogue: 0,0:22:13.59,0:22:14.87,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Freilassung
-Dialogue: 0,0:22:13.59,0:22:14.87,Nanoha Device1,,0,0,0,,{\pos(476,705)}Releasing
+Dialogue: 0,0:22:13.59,0:22:14.87,Nanoha Device1,,0,0,15,,Releasing
 Dialogue: 0,0:22:48.99,0:22:52.86,Nanoha Dialogue1,,0,0,0,,Once again, everything has come to an end.
 Dialogue: 0,0:22:52.86,0:22:56.98,Nanoha Dialogue1,,0,0,0,,How many more times must I repeat such sadness?
 Dialogue: 0,0:22:56.98,0:22:58.52,Nanoha Dialogue1,,0,0,0,,Hayate!

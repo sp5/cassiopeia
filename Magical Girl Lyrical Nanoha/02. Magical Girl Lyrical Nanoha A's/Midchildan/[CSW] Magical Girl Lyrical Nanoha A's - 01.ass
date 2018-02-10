@@ -20,9 +20,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 227
-Active Line: 232
-Video Position: 28484
+Scroll Position: 244
+Active Line: 249
+Video Position: 31534
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,16 +69,16 @@ Dialogue: 0,0:02:31.29,0:02:32.59,Nanoha Dialogue1,,0,0,0,,Best regards.
 Dialogue: 0,0:02:34.25,0:02:36.13,Nanoha Dialogue1,,0,0,0,,{\i1}End of new message.{\i0}
 Dialogue: 0,0:03:17.59,0:03:18.97,Nanoha Dialogue1,,0,0,0,,It's already midnight.
 Dialogue: 0,0:04:13.13,0:04:16.17,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}I'm breaking the seal.
-Dialogue: 0,0:04:13.13,0:04:16.17,Nanoha Device1,,0,0,0,,{\pos(476,705)}Ich entferne eine Versiegelung.
+Dialogue: 0,0:04:13.13,0:04:16.17,Nanoha Device1,,0,0,15,,Ich entferne eine Versiegelung.
 Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Start up.
-Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device1,,0,0,0,,{\pos(476,705)}Anfang.
+Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device1,,0,0,15,,Anfang.
 Dialogue: 1,0:04:36.78,0:04:42.82,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,511)\bord0}The Beginning Comes Suddenly
 Dialogue: 0,0:04:36.78,0:04:42.82,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,511)\c&H901E38&}The Beginning Comes Suddenly
 Dialogue: 1,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,400)\an5\b1\pos(476,510.5)\bord0}December 1, 6:35 AM\NCity of Uminari, Sakuradai{\b0}
 Dialogue: 0,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,400)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(6050,6450,\1a&HFF&)}December 1, 6:35 AM\NCity of Uminari, Sakuradai{\b0}
 Dialogue: 0,0:04:54.73,0:04:57.44,Nanoha Dialogue1,,0,0,0,,Okay, to finish off\Nthis morning's practice...
 Dialogue: 0,0:04:57.44,0:04:59.52,Nanoha Dialogue1,,0,0,0,,Let's try shooting control.
-Dialogue: 0,0:04:59.51,0:05:00.59,Nanoha Device1,,0,0,0,,{\pos(476,705)}All right.
+Dialogue: 0,0:04:59.51,0:05:00.59,Nanoha Device1,,0,0,15,,All right.
 Dialogue: 0,0:05:01.48,0:05:02.76,Nanoha Dialogue1,,0,0,0,,Lyrical, magical!
 Dialogue: 0,0:05:05.28,0:05:08.28,Nanoha Dialogue1,,0,0,0,,Glimmers to be blessings, come to my hands.
 Dialogue: 0,0:05:08.28,0:05:10.35,Nanoha Dialogue1,,0,0,0,,Ring and echo under the guidance.
@@ -90,14 +90,14 @@ Dialogue: 0,0:05:31.93,0:05:32.89,Nanoha Dialogue1,,0,0,0,,Accelerate.
 Dialogue: 0,0:05:39.23,0:05:47.02,Nanoha Device1,,0,0,0,,LV... LX... LXIV... LXVIII... LXX... LXXIII...
 Dialogue: 0,0:05:49.74,0:05:52.37,Nanoha Device1,,0,0,0,,XCVIII... C.
 Dialogue: 0,0:05:55.87,0:05:57.00,Nanoha Dialogue1,,0,0,0,,Last one!
-Dialogue: 0,0:06:07.00,0:06:09.03,Nanoha Device1,,0,0,0,,{\pos(476,705)}Don't mind, my master.
+Dialogue: 0,0:06:07.00,0:06:09.03,Nanoha Device1,,0,0,15,,Don't mind, my master.
 Dialogue: 0,0:06:10.30,0:06:12.22,Nanoha Dialogue1,,0,0,0,,Thanks, Raising Heart.
 Dialogue: 0,0:06:15.60,0:06:18.56,Nanoha Narration1,,0,0,0,,I'm Nanoha Takamachi.
 Dialogue: 0,0:06:18.56,0:06:23.65,Nanoha Narration1,,0,0,0,,Until fairly recently, I was\Na very, very ordinary third-grader.
 Dialogue: 0,0:06:23.65,0:06:26.51,Nanoha Narration1,,0,0,0,,But because of a certain incident that happened this past spring,
 Dialogue: 0,0:06:26.51,0:06:28.81,Nanoha Narration1,,0,0,0,,I became a mage.
 Dialogue: 0,0:06:29.49,0:06:32.66,Nanoha Dialogue1,,0,0,0,,If you were scoring\Ntoday's practice, how was it?
-Dialogue: 0,0:06:32.69,0:06:34.22,Nanoha Device1,,0,0,0,,{\pos(476,705)}About 80 points.
+Dialogue: 0,0:06:32.69,0:06:34.22,Nanoha Device1,,0,0,15,,About 80 points.
 Dialogue: 0,0:06:35.29,0:06:36.22,Nanoha Dialogue1,,0,0,0,,I see...
 Dialogue: 0,0:06:44.71,0:06:47.47,Nanoha Narration1,,0,0,0,,All the people back then who gave me magic,
 Dialogue: 0,0:06:47.47,0:06:50.22,Nanoha Narration1,,0,0,0,,many new introductions, and courage
@@ -250,19 +250,19 @@ Dialogue: 0,0:15:51.05,0:15:52.13,Nanoha Dialogue1,,0,0,0,,Understood.
 Dialogue: 0,0:15:58.42,0:16:01.02,Nanoha Dialogue1,,0,0,0,,Sealing area... unfold.
 Dialogue: 0,0:16:01.02,0:16:03.31,Nanoha Device1,,0,0,0,,Gefängnis der Magie
 Dialogue: 0,0:16:01.02,0:16:03.31,Nanoha Device2,,0,0,0,,{\pos(476,647)}Magical Prison
-Dialogue: 0,0:16:17.27,0:16:19.89,Nanoha Device1,,0,0,0,,{\pos(476,705)}Caution. Emergency.
+Dialogue: 0,0:16:17.27,0:16:19.89,Nanoha Device1,,0,0,15,,Caution. Emergency.
 Dialogue: 0,0:16:23.87,0:16:25.04,Nanoha Dialogue1,,0,0,0,,A barrier?
 Dialogue: 0,0:16:32.78,0:16:34.16,Nanoha Dialogue1,,0,0,0,,Magical response.
 Dialogue: 0,0:16:34.16,0:16:35.47,Nanoha Dialogue1,,0,0,0,,Found the big one!
 Dialogue: 0,0:16:38.06,0:16:40.05,Nanoha Dialogue1,,0,0,0,,Let's go, Graf Eisen!
 Dialogue: 0,0:16:40.05,0:16:41.08,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Roger.
-Dialogue: 0,0:16:40.05,0:16:41.08,Nanoha Device1,,0,0,0,,{\pos(476,705)}Jawohl.
-Dialogue: 0,0:16:46.05,0:16:48.34,Nanoha Device1,,0,0,0,,{\pos(476,705)}It approaches at high speed.
+Dialogue: 0,0:16:40.05,0:16:41.08,Nanoha Device1,,0,0,15,,Jawohl.
+Dialogue: 0,0:16:46.05,0:16:48.34,Nanoha Device1,,0,0,15,,It approaches at high speed.
 Dialogue: 0,0:16:48.34,0:16:51.07,Nanoha Dialogue1,,0,0,0,,It's coming closer to us?
-Dialogue: 0,0:17:09.83,0:17:11.86,Nanoha Device1,,0,0,0,,{\pos(476,705)}Gegenstand kommt an.
+Dialogue: 0,0:17:09.83,0:17:11.86,Nanoha Device1,,0,0,15,,Gegenstand kommt an.
 Dialogue: 0,0:17:09.83,0:17:11.86,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Approaching target.
-Dialogue: 0,0:17:25.09,0:17:26.37,Nanoha Device1,,0,0,0,,{\pos(476,705)}It comes.
-Dialogue: 0,0:17:38.44,0:17:39.64,Nanoha Device1,,0,0,0,,{\pos(476,705)}Homing bullet.
+Dialogue: 0,0:17:25.09,0:17:26.37,Nanoha Device1,,0,0,15,,It comes.
+Dialogue: 0,0:17:38.44,0:17:39.64,Nanoha Device1,,0,0,15,,Homing bullet.
 Dialogue: 0,0:17:52.05,0:17:54.38,Nanoha Dialogue1,,0,0,0,,{\b1}Tödlichschlag{\b0}
 Dialogue: 0,0:17:52.03,0:17:54.39,Nanoha Device2,,0,0,0,,{\b1\i0\pos(476,647)}Deadly Smash{\b0\i1}
 Dialogue: 0,0:18:11.11,0:18:13.30,Nanoha Dialogue1,,0,0,0,,Raising Heart, please!
@@ -290,7 +290,7 @@ Dialogue: 0,0:21:14.07,0:21:16.23,Nanoha Dialogue1,,0,0,0,,{\b1}...hammer{\b0}
 Dialogue: 0,0:21:41.35,0:21:42.64,Nanoha Device1,,0,0,0,,Protection
 Dialogue: 0,0:21:52.40,0:21:53.90,Nanoha Dialogue1,,0,0,0,,Bust through it!
 Dialogue: 0,0:21:53.90,0:21:54.93,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Roger.
-Dialogue: 0,0:21:53.90,0:21:54.93,Nanoha Device1,,0,0,0,,{\pos(476,705)}Jawohl.
+Dialogue: 0,0:21:53.90,0:21:54.93,Nanoha Device1,,0,0,15,,Jawohl.
 Dialogue: 0,0:22:52.35,0:22:55.18,Nanoha Narration1,,0,0,0,,Is this going to be the end?
 Dialogue: 0,0:22:55.18,0:22:56.56,Nanoha Narration1,,0,0,0,,No way...
 Dialogue: 0,0:22:56.56,0:22:57.77,Nanoha Narration1,,0,0,0,,Yuuno...

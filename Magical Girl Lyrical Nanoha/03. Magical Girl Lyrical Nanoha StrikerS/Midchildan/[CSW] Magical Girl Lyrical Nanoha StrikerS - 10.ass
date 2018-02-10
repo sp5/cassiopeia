@@ -14,14 +14,14 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS (BDRip 1280x714 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS - 10 (BDRip 1280x714 x264 FLAC).mkv
-Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS (BDRip 1280x714 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS - 10 (BDRip 1280x714 x264 FLAC).mkv
+Audio File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS (BDRip 1280x714 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS - 10 (BDRip 1280x714 x264 FLAC).mkv
+Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS (BDRip 1280x714 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS - 10 (BDRip 1280x714 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 368
-Active Line: 373
-Video Position: 36347
+Scroll Position: 89
+Active Line: 94
+Video Position: 9458
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -122,16 +122,16 @@ Dialogue: 0,0:06:19.85,0:06:23.26,NanohaW Dialogue1,First,0,0,0,,Lt. General Reg
 Dialogue: 0,0:06:23.26,0:06:25.26,NanohaW Dialogue1,First,0,0,0,,Oh, that's Admiral Midget.
 Dialogue: 0,0:06:25.26,0:06:27.15,NanohaW Dialogue1,First,0,0,0,,Granny Midget?
 Dialogue: 0,0:06:26.00,0:06:27.15,NanohaW Dialogue1,SecondI,0,0,0,,{\c&HE1E1E1&}...become a hotbed of smuggling
-Dialogue: 0,0:06:27.15,0:06:30.18,NanohaW Dialogue1,SecondI,0,0,0,,{\pos(640,699)}and other serious crimes!
+Dialogue: 0,0:06:27.15,0:06:30.18,NanohaW Dialogue1,SecondI,0,0,15,,and other serious crimes!
 Dialogue: 1,0:06:29.07,0:06:32.03,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\b1\pos(640,504.5)\bord0}Main Office Chief of Staff\N{\fs54}Midget Crowbel{\b0}
 Dialogue: 0,0:06:29.07,0:06:32.03,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\b1\pos(640,504.5)\c&H000000&}Main Office Chief of Staff\N{\fs54}Midget Crowbel{\b0}
-Dialogue: 0,0:06:30.18,0:06:33.35,NanohaW Dialogue1,SecondI,0,0,0,,{\pos(640,699)}No, it is already in that process.
+Dialogue: 0,0:06:30.18,0:06:33.35,NanohaW Dialogue1,SecondI,0,0,15,,No, it is already in that process.
 Dialogue: 1,0:06:32.03,0:06:33.95,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\bord0\b1\pos(640,504.5)}Honorary Field Marshal\N{\fs54}Largo Kiel{\b0}
 Dialogue: 0,0:06:32.03,0:06:33.95,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\b1\pos(640,504.5)\c&H000000&}Honorary Field Marshal\N{\fs54}Largo Kiel{\b0}
-Dialogue: 0,0:06:33.35,0:06:34.46,NanohaW Dialogue1,First,0,0,0,,{\pos(640,699)}Marshal Kiel and
+Dialogue: 0,0:06:33.35,0:06:34.46,NanohaW Dialogue1,First,0,0,15,,Marshal Kiel and
 Dialogue: 1,0:06:33.95,0:06:35.87,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\b1\pos(640,504.5)\bord0}Judicial Advisor\N{\fs54}Leone Phils{\b0}
 Dialogue: 0,0:06:33.95,0:06:35.87,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\b1\pos(640,504.5)\c&H000000&}Judicial Advisor\N{\fs54}Leone Phils{\b0}
-Dialogue: 0,0:06:34.46,0:06:37.18,NanohaW Dialogue1,First,0,0,0,,{\pos(640,699)}Judicial Advisor Phils are there too.
+Dialogue: 0,0:06:34.46,0:06:37.18,NanohaW Dialogue1,First,0,0,15,,Judicial Advisor Phils are there too.
 Dialogue: 0,0:06:37.18,0:06:39.89,NanohaW Dialogue1,First,0,0,0,,All three of the legendary admirals are there.
 Dialogue: 0,0:06:39.89,0:06:41.38,NanohaW Dialogue1,First,0,0,0,,But if you look at them now,
 Dialogue: 0,0:06:42.33,0:06:44.30,NanohaW Dialogue1,First,0,0,0,,they just look like a bunch of {\i1}alter Knacker.{\i0}

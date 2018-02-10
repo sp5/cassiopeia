@@ -19,9 +19,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha Strike
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 372
-Active Line: 377
-Video Position: 36348
+Scroll Position: 371
+Active Line: 376
+Video Position: 31890
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -126,12 +126,12 @@ Dialogue: 0,0:06:03.17,0:06:04.88,NanohaW Dialogue1,first,0,0,0,,Please take car
 Dialogue: 0,0:06:04.88,0:06:06.05,NanohaW Dialogue1,firstitalics,0,0,0,,Yes, ma'am!
 Dialogue: 1,0:06:06.20,0:06:10.49,NanohaW Dialogue2,Setting,0,0,0,,{\bord0\blur0.75\fad(489,528)\b1\pos(640,555)}Time-Space Administrative Bureau\NMidchilda Capital/Ground Headquarters
 Dialogue: 0,0:06:06.20,0:06:10.49,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\fad(489,528)\b1\pos(640,555)\c&H000000&\1a&HFF&\t(0,489,\1a&H00&)\t(3762,4290,\1a&HFF&)}Time-Space Administrative Bureau\NMidchilda Capital/Ground Headquarters
-Dialogue: 0,0:06:08.09,0:06:09.01,NanohaW Dialogue1,first,0,0,0,,{\pos(640,699)}What is it?
-Dialogue: 0,0:06:09.01,0:06:11.12,NanohaW Dialogue1,first,0,0,0,,{\pos(640,699)}What's going on here?
+Dialogue: 0,0:06:08.09,0:06:09.01,NanohaW Dialogue1,first,0,0,15,,What is it?
+Dialogue: 0,0:06:09.01,0:06:11.12,NanohaW Dialogue1,first,0,0,15,,What's going on here?
 Dialogue: 1,0:06:11.04,0:06:16.87,NanohaW Dialogue2,Setting,0,0,0,,{\bord0\blur0.75\fad(530,518)\b1\pos(640,576)}Same place, top floor, observation room{\b0}
 Dialogue: 0,0:06:11.04,0:06:16.87,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\fad(530,518)\b1\pos(640,576)\c&H000000&\1a&HFF&\t(0,530,\1a&H00&)\t(5312,5830,\1a&HFF&)}Same place, top floor, observation room{\b0}
-Dialogue: 0,0:06:11.12,0:06:13.12,NanohaW Dialogue1,first,0,0,0,,{\pos(640,699)}This is real-time footage of the Main Office's
-Dialogue: 0,0:06:13.12,0:06:17.04,NanohaW Dialogue1,first,0,0,0,,{\pos(640,699)}Antiquities Department, Riot Force 6.
+Dialogue: 0,0:06:11.12,0:06:13.12,NanohaW Dialogue1,first,0,0,15,,This is real-time footage of the Main Office's
+Dialogue: 0,0:06:13.12,0:06:17.04,NanohaW Dialogue1,first,0,0,15,,Antiquities Department, Riot Force 6.
 Dialogue: 0,0:06:17.04,0:06:22.92,NanohaW Dialogue1,first,0,0,0,,What you're seeing destroyed here are the reported AMF-equipped UFOs.
 Dialogue: 0,0:06:23.85,0:06:29.70,NanohaW Dialogue1,first,0,0,0,,The one performing the shooting is most likely the commander of Riot Force 6, a SS rank mage.
 Dialogue: 0,0:06:30.51,0:06:32.72,NanohaW Dialogue1,first,0,0,0,,A SS rank mage in the Ground Armed Service?
@@ -293,9 +293,9 @@ Dialogue: 0,0:16:56.78,0:16:59.60,NanohaW Dialogue1,first,0,0,0,,A wide-area spa
 Dialogue: 0,0:16:59.60,0:17:00.70,NanohaW Dialogue1,first,0,0,0,,No way!
 Dialogue: 0,0:17:00.70,0:17:04.25,NanohaW Dialogue1,first,0,0,0,,In a distant land, sink into the darkness.
 Dialogue: 0,0:17:04.25,0:17:06.48,NanohaW Dialogue1,Hayate,0,0,0,,{\b1}Diabolic Emission{\b0}
-Dialogue: 0,0:17:22.84,0:17:24.35,NanohaW Device1,Device,0,0,0,,{\pos(640,699)}We won't surrender...
-Dialogue: 0,0:17:24.37,0:17:26.71,NanohaW Device1,Device,0,0,0,,{\pos(640,699)}Just as there is danger of escape.
-Dialogue: 0,0:17:36.73,0:17:40.30,NanohaW Device1,Device,0,0,0,,{\pos(640,699)}Knockout by Buster. After that, arrest it.
+Dialogue: 0,0:17:22.84,0:17:24.35,NanohaW Device1,Device,0,0,15,,We won't surrender...
+Dialogue: 0,0:17:24.37,0:17:26.71,NanohaW Device1,Device,0,0,15,,Just as there is danger of escape.
+Dialogue: 0,0:17:36.73,0:17:40.30,NanohaW Device1,Device,0,0,15,,Knockout by Buster. After that, arrest it.
 Dialogue: 0,0:17:44.37,0:17:46.45,NanohaW Dialogue1,first,0,0,0,,Dieci, Quattro!
 Dialogue: 0,0:17:46.45,0:17:47.33,NanohaW Dialogue1,first,0,0,0,,Stay still.
 Dialogue: 0,0:17:49.54,0:17:51.21,NanohaW Dialogue1,first,0,0,0,,Activate I.S.

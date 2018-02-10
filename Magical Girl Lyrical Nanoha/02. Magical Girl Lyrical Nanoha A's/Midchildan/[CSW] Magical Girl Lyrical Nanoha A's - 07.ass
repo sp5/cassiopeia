@@ -19,9 +19,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 263
-Active Line: 268
-Video Position: 33381
+Scroll Position: 243
+Active Line: 246
+Video Position: 29908
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -285,9 +285,9 @@ Dialogue: 0,0:20:22.35,0:20:24.05,Nanoha Device1,,0,0,0,,...Extension
 Dialogue: 0,0:20:24.05,0:20:27.32,Nanoha Dialogue1,,0,0,0,,{\b1}Divine...{\b0}
 Dialogue: 0,0:20:30.63,0:20:33.83,Nanoha Dialogue1,,0,0,0,,{\b1}...Buster{\b0}
 Dialogue: 0,0:20:35.73,0:20:36.27,Nanoha Dialogue1,,0,0,0,,You're kidding!
-Dialogue: 0,0:20:47.13,0:20:48.66,Nanoha Device1,,0,0,0,,{\pos(476,705)}It's a direct hit.
+Dialogue: 0,0:20:47.13,0:20:48.66,Nanoha Device1,,0,0,15,,It's a direct hit.
 Dialogue: 0,0:20:49.84,0:20:51.88,Nanoha Dialogue1,,0,0,0,,Was that overkill?
-Dialogue: 0,0:20:51.88,0:20:53.41,Nanoha Device1,,0,0,0,,{\pos(476,705)}Don't worry.
+Dialogue: 0,0:20:51.88,0:20:53.41,Nanoha Device1,,0,0,15,,Don't worry.
 Dialogue: 0,0:21:04.59,0:21:06.06,Nanoha Dialogue1,,0,0,0,,You're...
 Dialogue: 0,0:21:06.06,0:21:07.06,Nanoha Dialogue1,,0,0,0,,Go.
 Dialogue: 0,0:21:07.06,0:21:10.98,Nanoha Dialogue1,,0,0,0,,You're going to finish the\N{\i1}Buch der Dunkelheit,{\i0} right?

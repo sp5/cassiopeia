@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 377
-Active Line: 382
-Video Position: 36347
+Scroll Position: 57
+Active Line: 62
+Video Position: 7807
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,7 +98,7 @@ Dialogue: 0,0:05:16.91,0:05:19.74,NanohaW Dialogue1,,0,0,0,,We have a response w
 Dialogue: 0,0:05:19.74,0:05:23.11,NanohaW Dialogue1,,0,0,0,,but our operatives cannot advance any further.\NCan you look into it for us?
 Dialogue: 0,0:05:23.11,0:05:24.62,NanohaW Dialogue1,,0,0,0,,Gate 8...
 Dialogue: 0,0:05:24.62,0:05:25.34,NanohaW Dialogue1,,0,0,0,,Bardiche!
-Dialogue: 0,0:05:25.58,0:05:28.37,NanohaW Device1,,0,0,0,,{\pos(640,699)}Route retrieval end. It arrives within two minutes.
+Dialogue: 0,0:05:25.58,0:05:28.37,NanohaW Device1,,0,0,15,,Route retrieval end. It arrives within two minutes.
 Dialogue: 0,0:05:28.37,0:05:29.60,NanohaW Dialogue1,,0,0,0,,I'll be there shortly.
 Dialogue: 0,0:05:31.35,0:05:32.83,NanohaW Dialogue1,,0,0,0,,Keep going south!
 Dialogue: 0,0:05:32.83,0:05:35.37,NanohaW Dialogue1,,0,0,0,,Hayate, the guard squad's commander has arrived!

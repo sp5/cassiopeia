@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 313
-Active Line: 316
-Video Position: 33437
+Scroll Position: 199
+Active Line: 200
+Video Position: 21274
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -236,7 +236,7 @@ Dialogue: 0,0:14:34.15,0:14:41.46,Nanoha Insert Song,,0,0,0,,The piled feelings 
 Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device1,,0,0,0,,Giant Form
 Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device2,,0,0,0,,{\pos(476,647)}Gigantform
 Dialogue: 0,0:14:41.46,0:14:48.83,Nanoha Insert Song,,0,0,0,,This wish of the wind dries the tears
-Dialogue: 0,0:14:47.27,0:14:50.00,Nanoha Dialogue1,,0,0,0,,Roaring heaven blast!
+Dialogue: 0,0:14:47.27,0:14:50.00,Nanoha Dialogue1,,0,0,0,,Thundering blast!
 Dialogue: 0,0:14:48.83,0:14:57.91,Nanoha Insert Song,,0,0,0,,The released power becomes a sword and pierces through
 Dialogue: 0,0:14:50.94,0:14:53.81,Nanoha Dialogue1,,0,0,0,,{\b1}Giant Smash{\b0}
 Dialogue: 0,0:14:50.94,0:14:53.81,Nanoha Device2,,0,0,0,,{\b1\i0\pos(476,647)}Gigantschlag{\b0\i1}

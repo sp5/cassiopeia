@@ -20,9 +20,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 270
-Active Line: 274
-Video Position: 28764
+Scroll Position: 231
+Active Line: 236
+Video Position: 23856
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Style: Nanoha Sign,Junicode,16,&H0099D2CB,&H000000FF,&H00000000,&H49000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.52,0:00:08.15,Nanoha Narration1,,0,0,0,,It was only a small wish.
+Dialogue: 0,0:00:04.52,0:00:08.15,Nanoha Narration1,,0,0,0,,It was only a small hope.
 Dialogue: 0,0:00:08.82,0:00:11.48,Nanoha Narration1,,0,0,0,,For our days to begin anew.
 Dialogue: 0,0:00:12.82,0:00:16.16,Nanoha Narration1,,0,0,0,,What we decided on was to never give up on fighting.
 Dialogue: 0,0:00:16.98,0:00:21.02,Nanoha Narration1,,0,0,0,,What we swore was to become stronger than yesterday.
@@ -277,7 +277,7 @@ Dialogue: 0,0:16:00.15,0:16:01.64,Nanoha Dialogue1,,0,0,0,,What kind of a story 
 Dialogue: 0,0:16:01.64,0:16:03.90,Nanoha Dialogue1,,0,0,0,,That's for you to read and find out!
 Dialogue: 0,0:16:32.45,0:16:34.76,Nanoha Dialogue1,,0,0,0,,{\i1}Buch der Dunkelheit,{\i0} absorb.
 Dialogue: 0,0:16:34.96,0:16:36.03,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Collecting
-Dialogue: 0,0:16:34.96,0:16:36.03,Nanoha Device1,,0,0,0,,{\pos(476,705)}Sammlung
+Dialogue: 0,0:16:34.96,0:16:36.03,Nanoha Device1,,0,0,15,,Sammlung
 Dialogue: 0,0:16:45.60,0:16:48.06,Nanoha Dialogue1,,0,0,0,,That thing just now was three pages.
 Dialogue: 0,0:16:49.18,0:16:52.10,Nanoha Dialogue1,,0,0,0,,{\i1}Mist,{\i0} it's got a big-ass body,
 Dialogue: 0,0:16:52.10,0:16:54.77,Nanoha Dialogue1,,0,0,0,,but such a dinky little Linker Core.

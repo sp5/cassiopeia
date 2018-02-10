@@ -18,9 +18,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha Strike
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 313
-Active Line: 318
-Video Position: 36370
+Scroll Position: 80
+Active Line: 81
+Video Position: 10594
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,8 +70,8 @@ Dialogue: 0,0:03:05.20,0:03:08.01,NanohaW Dialogue1,Subaru,0,0,0,,Somebody, save
 Dialogue: 0,0:03:26.87,0:03:30.31,NanohaW Dialogue1,Nano,0,0,0,,Good, I made it. I've come to save you.
 Dialogue: 0,0:03:37.26,0:03:39.53,NanohaW Dialogue1,Nano,0,0,0,,You've done your best, right? That's impressive!
 Dialogue: 0,0:03:41.48,0:03:46.82,NanohaW Dialogue1,Nano,0,0,0,,Everything is okay now. I'll take you to a safe place.
-Dialogue: 0,0:03:48.44,0:03:50.89,NanohaW Device1,,0,0,0,,{\pos(640,699)}Upward clearance confirmation.
-Dialogue: 0,0:03:55.62,0:03:58.02,NanohaW Device1,,0,0,0,,{\pos(640,699)}A firing lock is cancelled.
+Dialogue: 0,0:03:48.44,0:03:50.89,NanohaW Device1,,0,0,15,,Upward clearance confirmation.
+Dialogue: 0,0:03:55.62,0:03:58.02,NanohaW Device1,,0,0,15,,A firing lock is cancelled.
 Dialogue: 0,0:03:58.02,0:04:00.47,NanohaW Dialogue1,Nano,0,0,0,,Let's pierce through to the surface with one shot.
 Dialogue: 0,0:04:00.47,0:04:02.70,NanohaW Device1,,0,0,0,,All right. Load Cartridge.
 Dialogue: 0,0:04:09.73,0:04:10.95,NanohaW Device1,,0,0,0,,Buster set.
@@ -117,10 +117,10 @@ Dialogue: 0,0:07:12.56,0:07:15.49,NanohaW Dialogue1,Hayate,0,0,0,,Ah, they're al
 Dialogue: 0,0:07:15.49,0:07:17.94,NanohaW Dialogue1,Hayate,0,0,0,,Rein is really being a proper examiner, too.
 Dialogue: 1,0:07:18.28,0:07:20.98,NanohaW Dialogue2,,0,0,0,,{\c&HD4D6D7&\blur0.75\fad(292,0)\b1\pos(640,504.5)\bord0}Lt. Colonel, Time-Space Administrative Bureau\N{\fs54}Hayate Yagami{\b0}
 Dialogue: 0,0:07:18.28,0:07:20.98,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(292,0)\b1\pos(640,504.5)\c&H000000&\1a&HFF&\t(0,292,\1a&H00&)}Lt. Colonel, Time-Space Administrative Bureau\N{\fs54}Hayate Yagami{\b0}
-Dialogue: 0,0:07:20.96,0:07:24.29,NanohaW Dialogue1,Fate,0,0,0,,Hayate, it's dangerous to watch from the door.
+Dialogue: 0,0:07:20.96,0:07:24.29,NanohaW Dialogue1,Fate,0,0,15,,Hayate, it's dangerous to watch from the door.
 Dialogue: 1,0:07:22.57,0:07:25.94,NanohaW Dialogue2,,0,0,0,,{\c&HD4D6D7&\blur0.75\fad(292,0)\b1\pos(640,504.5)\bord0}Enforcer, Time-Space Administrative Bureau Main Office\N{\fs54}Fate T. Harlaown{\b0}
 Dialogue: 0,0:07:22.57,0:07:25.94,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(292,0)\b1\pos(640,504.5)\c&H000000&\1a&HFF&\t(0,292,\1a&H00&)}Enforcer, Time-Space Administrative Bureau Main Office\N{\fs54}Fate T. Harlaown{\b0}
-Dialogue: 0,0:07:24.29,0:07:25.94,NanohaW Dialogue1,Fate,0,0,0,,{\pos(640,699)}You can see it on the monitor anyway.
+Dialogue: 0,0:07:24.29,0:07:25.94,NanohaW Dialogue1,Fate,0,0,15,,You can see it on the monitor anyway.
 Dialogue: 0,0:07:25.94,0:07:27.51,NanohaW Dialogue1,Hayate,0,0,0,,Okay.
 Dialogue: 0,0:07:32.17,0:07:34.95,NanohaW Dialogue1,Fate,0,0,0,,So these two are the ones you picked out?
 Dialogue: 0,0:07:34.95,0:07:39.66,NanohaW Dialogue1,Hayate,0,0,0,,Yes, and both of them have some pretty interesting grades.
@@ -130,11 +130,11 @@ Dialogue: 0,0:07:48.46,0:07:49.55,NanohaW Dialogue1,Fate,0,0,0,,I see.
 Dialogue: 0,0:07:49.55,0:07:51.10,NanohaW Dialogue1,Hayate,0,0,0,,If they make it onto the squad,
 Dialogue: 0,0:07:51.10,0:07:53.25,NanohaW Dialogue1,Hayate,0,0,0,,They'll be under Nanoha's direct command
 Dialogue: 0,0:07:53.25,0:07:55.28,NanohaW Dialogue1,Hayate,0,0,0,,and training under her.
-Dialogue: 0,0:08:00.03,0:08:02.90,NanohaW Device1,,0,0,0,,{\pos(640,699)}There is no life response within the range.
-Dialogue: 0,0:08:03.45,0:08:05.81,NanohaW Device1,,0,0,0,,{\pos(640,699)}There is no dangerous object, either.
-Dialogue: 0,0:08:06.95,0:08:08.69,NanohaW Device1,,0,0,0,,{\pos(640,699)}Check of the course was finished.
+Dialogue: 0,0:08:00.03,0:08:02.90,NanohaW Device1,,0,0,15,,There is no life response within the range.
+Dialogue: 0,0:08:03.45,0:08:05.81,NanohaW Device1,,0,0,15,,There is no dangerous object, either.
+Dialogue: 0,0:08:06.95,0:08:08.69,NanohaW Device1,,0,0,15,,Check of the course was finished.
 Dialogue: 0,0:08:10.47,0:08:12.47,NanohaW Dialogue1,Nano,0,0,0,,Thank you, Raising Heart.
-Dialogue: 0,0:08:12.47,0:08:17.30,NanohaW Dialogue1,Nano,0,0,0,,The surveillence searchers and the Auto-Spheres's obstruction field calibrations are done.
+Dialogue: 0,0:08:12.47,0:08:17.30,NanohaW Dialogue1,Nano,0,0,0,,The surveillence searchers and the Auto-Spheres' obstruction field calibrations are done.
 Dialogue: 0,0:08:17.30,0:08:19.64,NanohaW Dialogue1,Nano,0,0,0,,Shall we just sit back and watch the show?
 Dialogue: 0,0:08:19.64,0:08:22.26,NanohaW Device1,,0,0,0,,Yes, my master.
 Dialogue: 0,0:08:22.26,0:08:24.64,NanohaW Dialogue1,Rein,0,0,0,,You two will start here.
@@ -204,7 +204,7 @@ Dialogue: 0,0:13:48.07,0:13:51.18,NanohaW Dialogue1,Fate,0,0,0,,It seems the sea
 Dialogue: 0,0:13:53.10,0:13:55.03,NanohaW Dialogue1,Nano,0,0,0,,I wonder if they're in trouble?
 Dialogue: 0,0:13:55.03,0:13:57.55,NanohaW Dialogue1,Nano,0,0,0,,Rein, I'm going to take a look, just in case, all right?
 Dialogue: 0,0:13:57.55,0:13:59.56,NanohaW Dialogue1,Rein,0,0,0,,Yes indeedy, please go ahead.
-Dialogue: 0,0:14:00.05,0:14:01.50,NanohaW Device1,,0,0,0,,{\pos(640,699)}Am I set up?
+Dialogue: 0,0:14:00.05,0:14:01.50,NanohaW Device1,,0,0,15,,Am I set up?
 Dialogue: 0,0:14:01.50,0:14:04.44,NanohaW Dialogue1,Nano,0,0,0,,I suppose. Just to be sure, please.
 Dialogue: 0,0:14:04.44,0:14:07.70,NanohaW Device1,,0,0,0,,All right. Barrier Jacket standing up.
 Dialogue: 0,0:14:09.47,0:14:09.91,NanohaW Dialogue1,Subaru,0,0,0,,Tia!

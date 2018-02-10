@@ -19,9 +19,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 300
-Active Line: 305
-Video Position: 31463
+Scroll Position: 305
+Active Line: 308
+Video Position: 33612
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -234,8 +234,8 @@ Dialogue: 0,0:15:00.28,0:15:02.20,Nanoha Dialogue1,,0,0,0,,She copied it then.
 Dialogue: 0,0:15:03.32,0:15:05.88,Nanoha Dialogue1,,0,0,0,,Fate, we don't have to get too far.
 Dialogue: 0,0:15:05.88,0:15:09.22,Nanoha Dialogue1,,0,0,0,,If we're hit at that range,\Nit can penetrate our shields.
 Dialogue: 0,0:15:09.22,0:15:11.32,Nanoha Dialogue1,,0,0,0,,We have to get far away.
-Dialogue: 0,0:15:21.30,0:15:23.29,Nanoha Device1,,0,0,0,,{\pos(476,705)}Sir, there are noncombatants
-Dialogue: 0,0:15:23.29,0:15:25.21,Nanoha Device1,,0,0,0,,{\pos(476,705)}on the left at 300 yards.
+Dialogue: 0,0:15:21.30,0:15:23.29,Nanoha Device1,,0,0,15,,Sir, there are noncombatants
+Dialogue: 0,0:15:23.29,0:15:25.21,Nanoha Device1,,0,0,15,,on the left at 300 yards.
 Dialogue: 0,0:15:31.41,0:15:33.56,Nanoha Dialogue1,,0,0,0,,There really isn't anybody here!
 Dialogue: 0,0:15:33.56,0:15:36.34,Nanoha Dialogue1,,0,0,0,,They just disappeared all of a sudden.
 Dialogue: 0,0:15:37.70,0:15:41.76,Nanoha Dialogue1,,0,0,0,,Then it got dark, and something is shining.
@@ -344,7 +344,7 @@ Dialogue: 0,0:22:53.52,0:22:54.61,Nanoha Device1,,0,0,0,,Ignition
 Dialogue: 0,0:22:55.59,0:22:56.60,Nanoha Dialogue1,,0,0,0,,...us!
 Dialogue: 0,0:22:59.48,0:23:04.50,Nanoha Dialogue1,,0,0,0,,You too shall sleep within me.
 Dialogue: 0,0:23:15.28,0:23:16.44,Nanoha Dialogue1,,0,0,0,,Fate!
-Dialogue: 0,0:23:21.86,0:23:23.36,Nanoha Device1,,0,0,0,,{\pos(476,705)}Absorption
+Dialogue: 0,0:23:21.86,0:23:23.36,Nanoha Device1,,0,0,15,,Absorption
 Dialogue: 0,0:23:24.46,0:23:29.97,Nanoha Dialogue1,,0,0,0,,Everyone is in a peaceful sleep.
 Dialogue: 0,0:23:35.38,0:23:40.55,Nanoha ED,,0,0,0,,I won't forget even when I grow up
 Dialogue: 0,0:23:40.55,0:23:48.48,Nanoha ED,,0,0,0,,My love, the day that we came across each other

@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 362
-Active Line: 367
-Video Position: 36347
+Scroll Position: 364
+Active Line: 366
+Video Position: 27110
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -217,7 +217,7 @@ Dialogue: 0,0:11:44.88,0:11:46.03,NanohaW Dialogue1,,0,0,0,,Mission
 Dialogue: 0,0:11:46.03,0:11:47.80,NanohaW Dialogue1,,0,0,0,,Start!
 Dialogue: 1,0:12:00.93,0:12:04.43,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.5\b1\pos(640,507.5)}Time-Space Administrative Bureau\NMidchilda Ground Headquarters, Central Command Center{\b0}
 Dialogue: 0,0:12:00.93,0:12:04.43,NanohaW Dialogue2,,0,0,0,,{\bord2.1\blur0.5\b1\pos(640,507.5)\c&H000000&}Time-Space Administrative Bureau\NMidchilda Ground Headquarters, Central Command Center{\b0}
-Dialogue: 0,0:12:02.15,0:12:04.40,NanohaW Dialogue1,,0,0,0,,{\pos(640,699)}Regarding the search for
+Dialogue: 0,0:12:02.15,0:12:04.40,NanohaW Dialogue1,,0,0,15,,Regarding the search for
 Dialogue: 0,0:12:04.40,0:12:06.15,NanohaW Dialogue1,,0,0,0,,antiquities known as Lost Logia,
 Dialogue: 0,0:12:06.15,0:12:09.33,NanohaW Dialogue1,,0,0,0,,I'm sure everyone already knows about them.
 Dialogue: 0,0:12:09.33,0:12:13.28,NanohaW Dialogue1,,0,0,0,,The advanced technologies crafted by various ancient civilizations,
@@ -317,7 +317,7 @@ Dialogue: 0,0:18:36.48,0:18:41.22,NanohaW Dialogue1,,0,0,0,,If I give up because
 Dialogue: 0,0:18:43.88,0:18:47.12,NanohaW Narration1,,0,0,0,,Subaru, I'll attack from above.\NMake sure you get them!
 Dialogue: 0,0:18:47.12,0:18:47.73,NanohaW Narration1,,0,0,0,,Got it!
 Dialogue: 0,0:18:47.73,0:18:50.68,NanohaW Dialogue1,,0,0,0,,A magical attack?\NEven though they have an AMF?
-Dialogue: 0,0:18:50.68,0:18:53.71,NanohaW Device1,,0,0,0,,{\pos(640,699}Yes. There is an available passing method.
+Dialogue: 0,0:18:50.68,0:18:53.71,NanohaW Device1,,0,0,15,,Yes. There is an available passing method.
 Dialogue: 0,0:18:56.69,0:19:03.31,NanohaW Narration1,,0,0,0,,If I put a barrier around my shot,\Nit should make it into the field.
 Dialogue: 0,0:19:03.31,0:19:07.36,NanohaW Narration1,,0,0,0,,As long as the barrier isn't totally dispelled when it hits,
 Dialogue: 0,0:19:07.36,0:19:11.08,NanohaW Narration1,,0,0,0,,The shot should be able to hit the target!

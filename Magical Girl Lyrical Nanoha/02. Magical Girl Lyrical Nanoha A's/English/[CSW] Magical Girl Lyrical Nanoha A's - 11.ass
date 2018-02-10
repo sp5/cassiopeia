@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 293
-Active Line: 298
-Video Position: 32127
+Scroll Position: 265
+Active Line: 270
+Video Position: 29397
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -88,7 +88,7 @@ Dialogue: 0,0:04:56.87,0:04:57.83,Nanoha Dialogue1,,0,0,0,,Right?
 Dialogue: 0,0:04:57.83,0:05:01.77,Nanoha Dialogue1,,0,0,0,,Alicia, since you're the big sister,\NI want you to learn
 Dialogue: 0,0:05:01.77,0:05:04.07,Nanoha Dialogue1,,0,0,0,,from how Fate goes to bed early\Nand wakes up early.
 Dialogue: 0,0:05:07.08,0:05:08.00,Nanoha Dialogue1,,0,0,0,,Um...
-Dialogue: 0,0:05:09.85,0:05:11.24,Nanoha Dialogue1,,0,0,0,,Linith?
+Dialogue: 0,0:05:09.85,0:05:11.24,Nanoha Dialogue1,,0,0,0,,Lynith?
 Dialogue: 0,0:05:11.24,0:05:14.25,Nanoha Dialogue1,,0,0,0,,Yes, what is it, Fate?
 Dialogue: 0,0:05:18.22,0:05:20.24,Nanoha Dialogue1,,0,0,0,,Alicia...
 Dialogue: 0,0:05:25.92,0:05:28.56,Nanoha Dialogue1,,0,0,0,,I take back what I just said.
@@ -112,7 +112,7 @@ Dialogue: 0,0:06:27.46,0:06:28.51,Nanoha Dialogue1,,0,0,0,,That could be it.
 Dialogue: 0,0:06:28.51,0:06:31.49,Nanoha Dialogue1,,0,0,0,,Fate, come over here.
 Dialogue: 0,0:06:50.25,0:06:52.32,Nanoha Dialogue1,,0,0,0,,Seems like you had a nightmare.
 Dialogue: 0,0:06:52.32,0:06:54.32,Nanoha Dialogue1,,0,0,0,,But you'll be okay now.
-Dialogue: 0,0:06:54.32,0:06:58.58,Nanoha Dialogue1,,0,0,0,,Your mother, Alicia, and Linith are all beside you.
+Dialogue: 0,0:06:54.32,0:06:58.58,Nanoha Dialogue1,,0,0,0,,Your mother, Lynith, and Alicia are all beside you.
 Dialogue: 0,0:06:58.58,0:07:01.06,Nanoha Dialogue1,,0,0,0,,Presea, me too.
 Dialogue: 0,0:07:01.06,0:07:03.86,Nanoha Dialogue1,,0,0,0,,Yes, you too.
 Dialogue: 0,0:07:06.07,0:07:10.90,Nanoha Dialogue1,,0,0,0,,Well, your bad dream will go away after breakfast.
@@ -121,7 +121,7 @@ Dialogue: 0,0:07:14.00,0:07:15.08,Nanoha Dialogue1,,0,0,0,,Okay!
 Dialogue: 0,0:07:31.89,0:07:33.56,Nanoha Narration1,,0,0,0,,No.
 Dialogue: 0,0:07:33.56,0:07:36.10,Nanoha Narration1,,0,0,0,,{\i0}This{\i1} is the dream.
 Dialogue: 0,0:07:36.10,0:07:42.56,Nanoha Narration1,,0,0,0,,My mother never smiled at me\Nlike that, not even once.
-Dialogue: 0,0:07:43.35,0:07:48.13,Nanoha Narration1,,0,0,0,,Alicia and Linith are both gone.
+Dialogue: 0,0:07:43.35,0:07:48.13,Nanoha Narration1,,0,0,0,,Alicia and Lynith are both gone.
 Dialogue: 0,0:07:51.11,0:07:53.27,Nanoha Narration1,,0,0,0,,But this is...
 Dialogue: 0,0:07:54.12,0:07:57.07,Nanoha Dialogue1,,0,0,0,,Let's go out to the village today.
 Dialogue: 0,0:07:58.16,0:07:59.45,Nanoha Dialogue1,,0,0,0,,That sounds great.
@@ -133,7 +133,7 @@ Dialogue: 0,0:08:11.06,0:08:12.55,Nanoha Dialogue1,,0,0,0,,That's right!
 Dialogue: 0,0:08:14.60,0:08:18.54,Nanoha Dialogue1,,0,0,0,,Fate, tutor me for the next test.
 Dialogue: 0,0:08:18.54,0:08:19.99,Nanoha Dialogue1,,0,0,0,,Uh... sure.
 Dialogue: 0,0:08:23.31,0:08:24.56,Nanoha Dialogue1,,0,0,0,,Fate?
-Dialogue: 0,0:08:26.98,0:08:30.64,Nanoha Narration1,,0,0,0,,This is the life I always wished for.
+Dialogue: 0,0:08:26.98,0:08:30.64,Nanoha Narration1,,0,0,0,,This is the life I always wanted.
 Dialogue: 0,0:08:31.57,0:08:36.68,Nanoha Narration1,,0,0,0,,The life I dreamed of, over and over...
 Dialogue: 0,0:08:38.22,0:08:39.45,Nanoha Dialogue1,,0,0,0,,I'm sleepy.
 Dialogue: 0,0:08:43.76,0:08:45.06,Nanoha Dialogue1,,0,0,0,,I'm sleepy.
@@ -158,7 +158,7 @@ Dialogue: 0,0:10:16.08,0:10:21.10,Nanoha Dialogue1,,0,0,0,,It's not like I can t
 Dialogue: 0,0:10:21.84,0:10:23.86,Nanoha Device1,,0,0,0,,Reload
 Dialogue: 0,0:10:23.86,0:10:27.44,Nanoha Dialogue1,,0,0,0,,Three magazines and eighteen cartridges left!
 Dialogue: 0,0:10:27.44,0:10:30.86,Nanoha Dialogue1,,0,0,0,,I wonder if I can shoot\NStarlight Breaker?
-Dialogue: 0,0:10:31.22,0:10:32.88,Nanoha Device1,,0,0,0,,{\pos(476,705)}I have a method.
+Dialogue: 0,0:10:31.22,0:10:32.88,Nanoha Device1,,0,0,15,,I have a method.
 Dialogue: 0,0:10:33.77,0:10:36.14,Nanoha Device1,,0,0,0,,Call me "Excelion Mode".
 Dialogue: 0,0:10:36.14,0:10:37.31,Nanoha Dialogue1,,0,0,0,,I can't do that!
 Dialogue: 0,0:10:37.31,0:10:40.87,Nanoha Dialogue1,,0,0,0,,You can't use that until we strengthen your core system!
@@ -206,7 +206,7 @@ Dialogue: 0,0:14:05.26,0:14:06.72,Nanoha Dialogue1,,0,0,0,,Let's stay here.
 Dialogue: 0,0:14:06.72,0:14:08.38,Nanoha Dialogue1,,0,0,0,,Together forever.
 Dialogue: 0,0:14:09.28,0:14:12.90,Nanoha Dialogue1,,0,0,0,,I can stay alive here.
 Dialogue: 0,0:14:12.90,0:14:15.46,Nanoha Dialogue1,,0,0,0,,I can be your big sister.
-Dialogue: 0,0:14:15.46,0:14:21.59,Nanoha Dialogue1,,0,0,0,,You can stay with\NMom, Arf, and Linith.
+Dialogue: 0,0:14:15.46,0:14:21.59,Nanoha Dialogue1,,0,0,0,,You can stay with\NMom, Arf, and Lynith.
 Dialogue: 0,0:14:23.03,0:14:27.08,Nanoha Dialogue1,,0,0,0,,I'll give you all the happiness you wanted.
 Dialogue: 0,0:14:27.08,0:14:32.10,Nanoha Dialogue1,,0,0,0,,The happiness I wanted?
 Dialogue: 0,0:14:32.10,0:14:34.81,Nanoha Dialogue1,,0,0,0,,A healthy body.
@@ -306,7 +306,7 @@ Dialogue: 0,0:20:18.02,0:20:25.03,Nanoha Insert Song,,0,0,0,,Like the white of s
 Dialogue: 0,0:20:20.82,0:20:22.83,Nanoha Dialogue1,,0,0,0,,Clear as crystal, Yuuno!
 Dialogue: 0,0:20:24.26,0:20:26.06,Nanoha Dialogue1,,0,0,0,,That's easy to understand!
 Dialogue: 0,0:20:25.03,0:20:31.80,Nanoha Insert Song,,0,0,0,,We softly feel each other
-Dialogue: 0,0:20:26.06,0:20:27.35,Nanoha Device1,,0,0,0,,{\pos(476,705)}It's so.
+Dialogue: 0,0:20:26.06,0:20:27.35,Nanoha Device1,,0,0,15,,It's so.
 Dialogue: 0,0:20:31.80,0:20:38.71,Nanoha Insert Song,,0,0,0,,You and I melt together
 Dialogue: 0,0:20:33.65,0:20:36.22,Nanoha Dialogue1,,0,0,0,,{\b1}Excelion Buster: Extended Barrel{\b0}
 Dialogue: 0,0:20:36.22,0:20:38.17,Nanoha Dialogue1,,0,0,0,,Mid-range attack mode!

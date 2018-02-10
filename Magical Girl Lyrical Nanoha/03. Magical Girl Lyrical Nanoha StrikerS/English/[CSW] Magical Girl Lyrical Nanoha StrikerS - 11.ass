@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 341
-Active Line: 344
-Video Position: 36502
+Scroll Position: 176
+Active Line: 180
+Video Position: 18578
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,8 +70,8 @@ Dialogue: 0,0:02:43.64,0:02:46.52,NanohaW Dialogue1,FirstI,0,0,0,,But really, it
 Dialogue: 0,0:02:46.52,0:02:48.06,NanohaW Dialogue1,FirstI,0,0,0,,seeing you in uniform.
 Dialogue: 1,0:02:48.05,0:02:54.00,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(509,0)\pos(640,433.312)\bord0\b1}Admiral, Time-Space Administrative Bureau Dimensional Navy\NCaptain of the flagship {\i1}Claudia,{\i0} sponsor of Riot Force 6\N{\fs54}Chrono Harlaown{\b0}
 Dialogue: 0,0:02:48.05,0:02:54.00,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(509,0)\pos(640,433.312)\b1\1a&HFF&\t(0,509,\1a&H00&)}Admiral, Time-Space Administrative Bureau Dimensional Navy\NCaptain of the flagship {\i1}Claudia,{\i0} sponsor of Riot Force 6\N{\fs54}Chrono Harlaown{\b0}
-Dialogue: 0,0:02:49.59,0:02:51.46,NanohaW Dialogue1,First,0,0,0,,Everyone tells me I look silly in uniform,
-Dialogue: 0,0:02:51.46,0:02:53.98,NanohaW Dialogue1,First,0,0,0,,even my wife.
+Dialogue: 0,0:02:49.59,0:02:51.46,NanohaW Dialogue1,First,0,0,15,,Everyone tells me I look silly in uniform,
+Dialogue: 0,0:02:51.46,0:02:53.98,NanohaW Dialogue1,First,0,0,15,,even my wife.
 Dialogue: 0,0:02:55.04,0:02:56.14,NanohaW Dialogue1,First,0,0,0,,Not at all!
 Dialogue: 0,0:02:56.14,0:03:01.94,NanohaW Dialogue1,First,0,0,0,,You look as good as you do in your armor, Admiral Chrono.
 Dialogue: 0,0:03:01.94,0:03:04.87,NanohaW Dialogue1,First,0,0,0,,Thank you, Knight Carim.
@@ -174,11 +174,11 @@ Dialogue: 0,0:09:59.07,0:10:02.04,NanohaW Dialogue1,First,0,0,0,,Where are Knigh
 Dialogue: 0,0:10:02.04,0:10:03.40,NanohaW Dialogue1,First,0,0,0,,They are elsewhere.
 Dialogue: 0,0:10:03.40,0:10:04.86,NanohaW Dialogue1,First,0,0,0,,So you're alone?
 Dialogue: 0,0:10:04.86,0:10:06.06,NanohaW Dialogue1,First,0,0,0,,I am not alone.
-Dialogue: 0,0:10:10.30,0:10:12.44,NanohaW Dialogue1,First,0,0,0,,I have Garyuu.
+Dialogue: 0,0:10:10.30,0:10:12.44,NanohaW Dialogue1,First,0,0,0,,I have Galue.
 Dialogue: 0,0:10:12.44,0:10:14.16,NanohaW Dialogue1,First,0,0,0,,Pardon me.
 Dialogue: 0,0:10:14.16,0:10:17.86,NanohaW Dialogue1,First,0,0,0,,If you need help, contact me.
 Dialogue: 0,0:10:17.86,0:10:19.89,NanohaW Dialogue1,First,0,0,0,,I'll make it my highest priority.
-Dialogue: 0,0:10:20.93,0:10:22.98,NanohaW Dialogue1,First,0,0,0,,Let us go, Garyuu.
+Dialogue: 0,0:10:20.93,0:10:22.98,NanohaW Dialogue1,First,0,0,0,,Let us go, Galue.
 Dialogue: 0,0:10:24.70,0:10:27.44,NanohaW Dialogue1,First,0,0,0,,To find what we're looking for.
 Dialogue: 0,0:10:28.27,0:10:32.12,NanohaW Dialogue1,First,0,0,0,,Stars 1 and Lightning 1 are heading toward the scene.
 Dialogue: 0,0:10:32.12,0:10:33.72,NanohaW Dialogue1,First,0,0,0,,They will engage within one minute.
@@ -218,8 +218,8 @@ Dialogue: 0,0:12:38.64,0:12:40.20,NanohaW Dialogue1,First,0,0,0,,That's an artif
 Dialogue: 0,0:12:40.20,0:12:45.44,NanohaW Dialogue1,First,0,0,0,,Ethics aside, there are many insurmountable problems using current technology,
 Dialogue: 0,0:12:45.44,0:12:46.72,NanohaW Dialogue1,First,0,0,0,,and the cost just isn't worth it.
 Dialogue: 0,0:12:46.72,0:12:54.12,NanohaW Dialogue1,First,0,0,0,,But if someone was out of his mind,\Nhe wouldn't bother...
-Dialogue: 0,0:12:54.82,0:12:56.72,NanohaW Device1,First,0,0,0,,{\pos(640,699)}A movement reaction perception,
-Dialogue: 0,0:12:56.72,0:12:58.15,NanohaW Device1,First,0,0,0,,{\pos(640,699)}at the Gadget Drone.
+Dialogue: 0,0:12:54.82,0:12:56.72,NanohaW Device1,First,0,0,15,,A movement reaction perception,
+Dialogue: 0,0:12:56.72,0:12:58.15,NanohaW Device1,First,0,0,15,,at the Gadget Drone.
 Dialogue: 0,0:12:58.15,0:13:01.11,NanohaW Dialogue1,First,0,0,0,,Incoming! Six small Gadgets!
 Dialogue: 0,0:13:03.59,0:13:07.50,NanohaW Dialogue1,First,0,0,0,,Stars 1 and Lightning 1 have taken out group 2.
 Dialogue: 0,0:13:07.50,0:13:09.79,NanohaW Dialogue1,First,0,0,0,,It's going well.
@@ -351,7 +351,7 @@ Dialogue: 0,0:22:21.31,0:22:22.76,NanohaW Dialogue1,First,0,0,0,,Two.
 Dialogue: 0,0:22:24.18,0:22:26.42,NanohaW Dialogue1,First,0,0,0,,{\b1}Starling's Howl{\b0}
 Dialogue: 0,0:22:24.18,0:22:26.42,NanohaW Device2,First,0,0,0,,{\b1\i0\pos(640,644)}Starengeheul{\b0\i1}
 Dialogue: 0,0:22:54.43,0:22:59.77,NanohaW Dialogue1,First,0,0,0,,Geez! This is what you get for going out without telling us.
-Dialogue: 0,0:22:59.77,0:23:01.40,NanohaW Dialogue1,First,0,0,0,,Lulu, you and Garyuu too.
+Dialogue: 0,0:22:59.77,0:23:01.40,NanohaW Dialogue1,First,0,0,0,,Lulu, you and Galue too.
 Dialogue: 0,0:23:01.40,0:23:02.60,NanohaW Dialogue1,First,0,0,0,,Agito.
 Dialogue: 0,0:23:03.59,0:23:05.32,NanohaW Dialogue1,FirstI,0,0,0,,I was really worried.
 Dialogue: 0,0:23:05.32,0:23:08.33,NanohaW Dialogue1,First,0,0,0,,Well, it's okay now, Lulu.

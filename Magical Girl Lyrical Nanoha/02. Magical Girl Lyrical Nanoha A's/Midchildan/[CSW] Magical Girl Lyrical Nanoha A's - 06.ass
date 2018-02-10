@@ -20,9 +20,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 417
-Active Line: 420
-Video Position: 36565
+Scroll Position: 109
+Active Line: 114
+Video Position: 10675
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -154,7 +154,7 @@ Dialogue: 0,0:06:49.56,0:06:50.98,Nanoha Dialogue1,,0,0,0,,That's wonderful.
 Dialogue: 0,0:06:53.22,0:06:54.70,Nanoha Narration1,,0,0,0,,That's right.
 Dialogue: 0,0:06:54.70,0:06:58.37,Nanoha Narration1,,0,0,0,,It's already been over six months\Nsince everyone came by...
 Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Start up.
-Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device1,,0,0,0,,{\pos(476,705)}Anfang.
+Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device1,,0,0,15,,Anfang.
 Dialogue: 0,0:07:59.96,0:08:02.77,Nanoha Dialogue1,,0,0,0,,Confirmed startup of the{\i1}Buch der Dunkelheit.{\i0}
 Dialogue: 0,0:08:02.77,0:08:05.60,Nanoha Dialogue1,,0,0,0,,We are the {\i1}Schutzritter{\i0}
 Dialogue: 0,0:08:05.60,0:08:08.46,Nanoha Dialogue1,,0,0,0,,who will collect for the {\i1}Buch der Dunkelheit{\i0} and protect its {\i1}Meister.{\i0}
