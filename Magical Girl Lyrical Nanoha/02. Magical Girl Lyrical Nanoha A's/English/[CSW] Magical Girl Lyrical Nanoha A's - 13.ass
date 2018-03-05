@@ -20,9 +20,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 445
-Active Line: 449
-Video Position: 36282
+Scroll Position: 15
+Active Line: 17
+Video Position: 1912
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,20 +43,20 @@ Dialogue: 0,0:00:15.16,0:00:17.53,Nanoha Narration1,,0,0,0,,The long night came 
 Dialogue: 0,0:00:25.80,0:00:29.40,Nanoha Narration1,,0,0,0,,The {\i0}farewell{\i1} at the parting of the ways is not the end,
 Dialogue: 0,0:00:29.40,0:00:31.33,Nanoha Narration1,,0,0,0,,but a word of beginning.
 Dialogue: 0,0:00:32.06,0:00:37.13,Nanoha Narration1,,0,0,0,,The final episode of {\i0}Magical Girl Lyrical Nanoha A's{\i1} will now begin.
-Dialogue: 0,0:00:40.59,0:00:50.59,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
-Dialogue: 0,0:01:07.21,0:01:13.55,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
-Dialogue: 0,0:01:13.55,0:01:19.73,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
-Dialogue: 0,0:01:19.73,0:01:22.76,Nanoha OP,,0,0,0,,Just like the pure white snow
-Dialogue: 0,0:01:22.76,0:01:25.83,Nanoha OP,,0,0,0,,Words that are honest no matter how far you go
-Dialogue: 0,0:01:25.83,0:01:32.71,Nanoha OP,,0,0,0,,It moves me as I wear wings of steel
-Dialogue: 0,0:01:32.71,0:01:38.24,Nanoha OP,,0,0,0,,Each time I am hurt,\NI can become kinder
-Dialogue: 0,0:01:38.24,0:01:46.68,Nanoha OP,,0,0,0,,My only wish is to protect that smile of yours to the end
-Dialogue: 0,0:01:47.72,0:01:53.73,Nanoha OP,,0,0,0,,Memories of sadness engraved across the ages
-Dialogue: 0,0:01:53.73,0:02:00.07,Nanoha OP,,0,0,0,,You are an angel of light, catching them straight on
-Dialogue: 0,0:02:00.07,0:02:05.87,Nanoha OP,,0,0,0,,An eternal blaze that stopped in my heart that day
-Dialogue: 0,0:02:05.87,0:02:09.34,Nanoha OP,,0,0,0,,Releasing the deep darkness
-Dialogue: 0,0:02:09.34,0:02:15.71,Nanoha OP,,0,0,0,,It opens the door of freedom
-Dialogue: 0,0:02:15.71,0:02:22.64,Nanoha OP,,0,0,0,,Towards the strong, boundless future
+Dialogue: 0,0:00:40.40,0:00:50.40,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
+Dialogue: 0,0:01:07.02,0:01:13.36,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
+Dialogue: 0,0:01:13.36,0:01:19.54,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
+Dialogue: 0,0:01:19.54,0:01:22.57,Nanoha OP,,0,0,0,,Just like the pure white snow
+Dialogue: 0,0:01:22.57,0:01:25.64,Nanoha OP,,0,0,0,,Words that are honest no matter how far you go
+Dialogue: 0,0:01:25.64,0:01:32.52,Nanoha OP,,0,0,0,,It moves me as I wear wings of steel
+Dialogue: 0,0:01:32.52,0:01:38.05,Nanoha OP,,0,0,0,,Each time I am hurt,\NI can become kinder
+Dialogue: 0,0:01:38.05,0:01:46.49,Nanoha OP,,0,0,0,,My only wish is to protect that smile of yours to the end
+Dialogue: 0,0:01:47.53,0:01:53.54,Nanoha OP,,0,0,0,,Memories of sadness engraved across the ages
+Dialogue: 0,0:01:53.54,0:01:59.88,Nanoha OP,,0,0,0,,You are an angel of light, catching them straight on
+Dialogue: 0,0:01:59.88,0:02:05.68,Nanoha OP,,0,0,0,,An eternal blaze that stopped in my heart that day
+Dialogue: 0,0:02:05.68,0:02:09.15,Nanoha OP,,0,0,0,,Releasing the deep darkness
+Dialogue: 0,0:02:09.15,0:02:15.52,Nanoha OP,,0,0,0,,It opens the door of freedom
+Dialogue: 0,0:02:15.52,0:02:22.45,Nanoha OP,,0,0,0,,Towards the strong, boundless future
 Dialogue: 0,0:02:27.79,0:02:31.99,Nanoha Dialogue1,,0,0,0,,As expected, the damage is exceedingly serious.
 Dialogue: 0,0:02:32.92,0:02:35.42,Nanoha Dialogue1,,0,0,0,,The protection program was killed,
 Dialogue: 0,0:02:35.42,0:02:38.50,Nanoha Dialogue1,,0,0,0,,but my basic structure is still the same.
@@ -78,16 +78,16 @@ Dialogue: 0,0:03:17.77,0:03:20.74,Nanoha Dialogue1,,0,0,0,,and her Linker Core i
 Dialogue: 0,0:03:20.74,0:03:25.18,Nanoha Dialogue1,,0,0,0,,Her disabled legs\Nshould heal soon, as well.
 Dialogue: 0,0:03:25.18,0:03:30.16,Nanoha Dialogue1,,0,0,0,,I see. Well then, we should say we've had a good life.
 Dialogue: 0,0:03:30.16,0:03:33.44,Nanoha Dialogue1,,0,0,0,,Yes, there's nothing to regret.
-Dialogue: 0,0:03:33.44,0:03:35.52,Nanoha Dialogue1,,0,0,0,,Since it doesn't have its protection program,
+Dialogue: 0,0:03:33.44,0:03:35.52,Nanoha Dialogue1,,0,0,0,,Since she doesn't have her protection program,
 Dialogue: 0,0:03:35.52,0:03:38.48,Nanoha Dialogue1,,0,0,0,,it's easy to completely destroy the Book of the Night Sky.
-Dialogue: 0,0:03:38.48,0:03:41.99,Nanoha Dialogue1,,0,0,0,,As long as we destroy it, it won't ever go out of control again.
+Dialogue: 0,0:03:38.48,0:03:41.99,Nanoha Dialogue1,,0,0,0,,As long as we destroy her,\Nit won't ever go out of control again.
 Dialogue: 0,0:03:42.77,0:03:45.44,Nanoha Dialogue1,,0,0,0,,But in return, we will get erased.
 Dialogue: 0,0:03:46.05,0:03:47.80,Nanoha Dialogue1,,0,0,0,,I'm sorry, Vita.
 Dialogue: 0,0:03:47.80,0:03:49.87,Nanoha Dialogue1,,0,0,0,,Why are you apologizing?
 Dialogue: 0,0:03:49.87,0:03:51.87,Nanoha Dialogue1,,0,0,0,,I don't mind.
 Dialogue: 0,0:03:51.87,0:03:57.71,Nanoha Dialogue1,,0,0,0,,We all knew this might happen.
 Dialogue: 0,0:03:57.71,0:03:59.63,Nanoha Dialogue1,,0,0,0,,No, that's not true.
-Dialogue: 0,0:04:00.65,0:04:02.88,Nanoha Dialogue1,,0,0,0,,You guys will stay.
+Dialogue: 0,0:04:00.65,0:04:02.88,Nanoha Dialogue1,,0,0,0,,You four will stay.
 Dialogue: 0,0:04:02.88,0:04:05.88,Nanoha Dialogue1,,0,0,0,,I'm the only one who will go.
 Dialogue: 0,0:04:07.13,0:04:13.17,Nanoha Dialogue1,,0,0,0,,{\blur0.5\bord0\shad0\an5\pos(476,480)\b1\fs72}Standby, Ready{\b0}
 Dialogue: 0,0:04:13.76,0:04:15.70,Nanoha Dialogue1,,0,0,0,,Destroy the Book of the Night Sky?
@@ -105,7 +105,7 @@ Dialogue: 0,0:04:44.06,0:04:46.00,Nanoha Dialogue1,,0,0,0,,that danger will not 
 Dialogue: 0,0:04:46.84,0:04:51.85,Nanoha Dialogue1,,0,0,0,,That is why the Book of Darkness asked for us to destroy her,
 Dialogue: 0,0:04:51.85,0:04:54.59,Nanoha Dialogue1,,0,0,0,,when she does not have her protection program running.
 Dialogue: 0,0:04:54.59,0:04:55.71,Nanoha Dialogue1,,0,0,0,,No way...
-Dialogue: 0,0:04:55.71,0:04:58.34,Nanoha Dialogue1,,0,0,0,,But then, Signum and the others will...
+Dialogue: 0,0:04:55.71,0:04:58.34,Nanoha Dialogue1,,0,0,0,,But then, Signum and the others will—
 Dialogue: 0,0:04:58.34,0:04:59.20,Nanoha Dialogue1,,0,0,0,,No.
 Dialogue: 0,0:04:59.86,0:05:01.61,Nanoha Dialogue1,,0,0,0,,We will remain.
 Dialogue: 0,0:05:01.61,0:05:02.86,Nanoha Dialogue1,,0,0,0,,Signum...
@@ -116,7 +116,7 @@ Dialogue: 0,0:05:10.12,0:05:15.12,Nanoha Dialogue1,,0,0,0,,Reinforce is asking f
 Dialogue: 0,0:05:15.12,0:05:16.92,Nanoha Dialogue1,,0,0,0,,A favor?
 Dialogue: 0,0:05:21.43,0:05:26.66,Nanoha Dialogue1,,0,0,0,,Hayate, you being happy makes us happier than anything else.
 Dialogue: 0,0:05:26.66,0:05:30.35,Nanoha Dialogue1,,0,0,0,,So Reinforce said she'll go out with a smile.
-Dialogue: 0,0:05:34.60,0:05:40.61,Nanoha Dialogue1,,0,0,0,,So even if it's in your dreams, please praise her, okay?
+Dialogue: 0,0:05:34.60,0:05:40.61,Nanoha Dialogue1,,0,0,0,,So even if it's in your dreams, please think good thoughts about her, okay?
 Dialogue: 0,0:06:00.70,0:06:02.92,Nanoha Dialogue1,,0,0,0,,Oh, you came.
 Dialogue: 0,0:06:05.24,0:06:07.63,Nanoha Dialogue1,,0,0,0,,Reinforce...
 Dialogue: 0,0:06:08.41,0:06:10.93,Nanoha Dialogue1,,0,0,0,,You'll call me by that name?
@@ -272,12 +272,12 @@ Dialogue: 0,0:16:42.84,0:16:45.37,Nanoha Narration1,,0,0,0,,I'd be happy if you 
 Dialogue: 0,0:16:47.88,0:16:52.24,Nanoha Dialogue1,,0,0,0,,I need to tell you about everything that's happened.
 Dialogue: 0,0:16:54.70,0:16:57.49,Nanoha Dialogue1,,0,0,0,,Hayate went back to the hospital?
 Dialogue: 0,0:16:57.49,0:17:01.70,Nanoha Dialogue1,,0,0,0,,Oh yeah, she left when she was still hospitalized.
-Dialogue: 0,0:17:03.91,0:17:05.40,Nanoha Dialogue1,,0,0,0,,Good morning.
-Dialogue: 0,0:17:05.32,0:17:08.47,Nanoha Dialogue1,,0,0,0,,Good morning, Nanoha, Fate.
+Dialogue: 0,0:17:03.91,0:17:05.08,Nanoha Dialogue1,,0,0,0,,Good morning.
+Dialogue: 0,0:17:05.08,0:17:08.47,Nanoha Dialogue1,,0,0,0,,Oh! Good morning, Nanoha, Fate.
 Dialogue: 0,0:17:08.47,0:17:09.36,Nanoha Dialogue1,,0,0,0,,Huh?
 Dialogue: 0,0:17:09.36,0:17:11.17,Nanoha Dialogue1,,0,0,0,,What happened? Are you leaving?
-Dialogue: 0,0:17:11.17,0:17:12.57,Nanoha Dialogue1,,0,0,0,,Unfortunately not.
-Dialogue: 0,0:17:12.57,0:17:15.18,Nanoha Dialogue1,,0,0,0,,I'll be here a little longer.
+Dialogue: 0,0:17:11.17,0:17:12.16,Nanoha Dialogue1,,0,0,0,,Unfortunately not.
+Dialogue: 0,0:17:12.16,0:17:15.18,Nanoha Dialogue1,,0,0,0,,I'll be here a little longer.
 Dialogue: 0,0:17:15.18,0:17:16.34,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:17:16.34,0:17:18.71,Nanoha Dialogue1,,0,0,0,,Well, I'm feeling well,
 Dialogue: 0,0:17:18.71,0:17:21.52,Nanoha Dialogue1,,0,0,0,,and I told Suzuka and Alisa that they didn't need to come visit.

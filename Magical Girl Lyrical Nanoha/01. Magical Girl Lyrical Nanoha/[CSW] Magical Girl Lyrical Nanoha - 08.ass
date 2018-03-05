@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 356
-Active Line: 359
-Video Position: 36597
+Scroll Position: 361
+Active Line: 366
+Video Position: 36791
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -145,8 +145,8 @@ Dialogue: 0,0:08:51.64,0:08:53.14,Nanoha Dialogue1,,0,0,0,,Sorry about that.
 Dialogue: 0,0:08:53.14,0:08:55.28,Nanoha Dialogue1,,0,0,0,,I haven't shown you this form yet!
 Dialogue: 0,0:08:55.28,0:08:57.21,Nanoha Dialogue1,,0,0,0,,Right? You haven't, right?
 Dialogue: 0,0:08:57.21,0:08:58.96,Nanoha Dialogue1,,0,0,0,,You surprised me...
-Dialogue: 0,0:08:59.56,0:09:02.31,Nanoha Dialogue1,,0,0,0,,Er, can I have a moment?
-Dialogue: 0,0:09:03.08,0:09:05.55,Nanoha Dialogue1,,0,0,0,,I am not aware of what's going on here,
+Dialogue: 0,0:08:59.56,0:09:02.14,Nanoha Dialogue1,,0,0,0,,Er, can I have a moment?
+Dialogue: 0,0:09:03.04,0:09:05.55,Nanoha Dialogue1,,0,0,0,,I am not aware of what's going on here,
 Dialogue: 0,0:09:05.55,0:09:07.49,Nanoha Dialogue1,,0,0,0,,but the Captain's waiting on us,
 Dialogue: 0,0:09:07.49,0:09:09.98,Nanoha Dialogue1,,0,0,0,,and if it's at all possible,\Nwe'd like to hear your story quickly.
 Dialogue: 0,0:09:09.98,0:09:12.09,Nanoha Dialogue1,,0,0,0,,Oh... sure...
@@ -154,13 +154,13 @@ Dialogue: 0,0:09:12.09,0:09:13.39,Nanoha Dialogue1,,0,0,0,,I'm sorry.
 Dialogue: 0,0:09:13.39,0:09:15.25,Nanoha Dialogue1,,0,0,0,,This way, then.
 Dialogue: 0,0:09:18.43,0:09:20.41,Nanoha Dialogue1,,0,0,0,,Captain, I have brought them here.
 Dialogue: 0,0:09:33.01,0:09:34.26,Nanoha Dialogue1,,0,0,0,,You must be tired!
-Dialogue: 0,0:09:34.26,0:09:38.26,Nanoha Dialogue1,,0,0,0,,Well, both of you, please, over here. Relax!
+Dialogue: 0,0:09:34.26,0:09:38.26,Nanoha Dialogue1,,0,0,0,,Well, both of you,\Nplease, over here. Relax!
 Dialogue: 0,0:09:40.47,0:09:41.66,Nanoha Dialogue1,,0,0,0,,Please.
-Dialogue: 0,0:09:42.46,0:09:44.33,Nanoha Dialogue1,,0,0,0,,O-okay...
+Dialogue: 0,0:09:41.66,0:09:44.33,Nanoha Dialogue1,,0,0,0,,O-okay...
 Dialogue: 0,0:09:45.59,0:09:48.36,Nanoha Dialogue1,,0,0,0,,I see, that's how it was.
 Dialogue: 0,0:09:48.36,0:09:50.27,Nanoha Dialogue1,,0,0,0,,Those Lost Logia...
 Dialogue: 0,0:09:50.27,0:09:53.48,Nanoha Dialogue1,,0,0,0,,You were the one who unearthed the Jewel Seeds.
-Dialogue: 0,0:09:54.67,0:09:57.28,Nanoha Dialogue1,,0,0,0,,That's why I was trying to collect them.
+Dialogue: 0,0:09:54.40,0:09:57.28,Nanoha Dialogue1,,0,0,0,,That's why I was trying to collect them.
 Dialogue: 0,0:09:57.28,0:09:58.67,Nanoha Dialogue1,,0,0,0,,How admirable.
 Dialogue: 0,0:09:58.67,0:10:01.28,Nanoha Dialogue1,,0,0,0,,But, at the same time, very reckless!
 Dialogue: 0,0:10:03.78,0:10:07.12,Nanoha Dialogue1,,0,0,0,,Um... what exactly are Lost Logia?
@@ -199,9 +199,9 @@ Dialogue: 0,0:11:52.62,0:11:55.26,Nanoha Dialogue1,,0,0,0,,when there was a dime
 Dialogue: 0,0:11:55.26,0:11:58.15,Nanoha Dialogue1,,0,0,0,,Yeah, that was a horrible incident.
 Dialogue: 0,0:11:58.15,0:12:01.80,Nanoha Dialogue1,,0,0,0,,Many neighboring parallel worlds fell to ruin.
 Dialogue: 0,0:12:01.80,0:12:03.68,Nanoha Dialogue1,,0,0,0,,A tragedy that left its mark on history.
-Dialogue: 0,0:12:26.45,0:12:28.48,Nanoha Dialogue1,,0,0,0,,We can't let it happen again.
+Dialogue: 0,0:12:26.45,0:12:28.48,Nanoha Dialogue1,,0,0,0,,Never again.
 Dialogue: 0,0:12:34.23,0:12:38.23,Nanoha Dialogue1,,0,0,0,,From here on, the retrieval of these Lost Logia, the Jewel Seeds,
-Dialogue: 0,0:12:38.23,0:12:41.20,Nanoha Dialogue1,,0,0,0,,will be performed by the\NTime-Space Administrative Bureau.
+Dialogue: 0,0:12:38.23,0:12:40.78,Nanoha Dialogue1,,0,0,0,,will be performed by the\NTime-Space Administrative Bureau.
 Dialogue: 0,0:12:41.54,0:12:44.21,Nanoha Dialogue1,,0,0,0,,You guys should just forget this incident,
 Dialogue: 0,0:12:44.21,0:12:45.64,Nanoha Dialogue1,,0,0,0,,return to your respective worlds,
 Dialogue: 0,0:12:45.64,0:12:47.24,Nanoha Dialogue1,,0,0,0,,and go back to your normal lives.
@@ -244,8 +244,8 @@ Dialogue: 0,0:14:50.16,0:14:53.50,Nanoha Dialogue1,,0,0,0,,Magic is not about th
 Dialogue: 0,0:14:53.50,0:14:55.47,Nanoha Dialogue1,,0,0,0,,You need adaptation to suit the situation,
 Dialogue: 0,0:14:55.47,0:14:58.25,Nanoha Dialogue1,,0,0,0,,and decision-making skills to use them properly!
 Dialogue: 0,0:14:58.25,0:15:01.41,Nanoha Dialogue1,,0,0,0,,Of course, I trust you on that front.
-Dialogue: 0,0:15:01.41,0:15:04.02,Nanoha Dialogue1,,0,0,0,,Chrono, you're the {\i1}Arthra{\i0}'s trump card!
-Dialogue: 0,0:15:09.48,0:15:10.61,Nanoha Dialogue1,,0,0,0,,Captain...
+Dialogue: 0,0:15:01.41,0:15:04.02,Nanoha Dialogue1,,0,0,0,,Chrono, you're the {\i1}Arthra'{\i0}s trump card!
+Dialogue: 0,0:15:08.74,0:15:10.61,Nanoha Dialogue1,,0,0,0,,Oh... Captain!
 Dialogue: 0,0:15:14.36,0:15:16.89,Nanoha Dialogue1,,0,0,0,,Oh, the data for those two.
 Dialogue: 0,0:15:16.89,0:15:17.98,Nanoha Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:15:21.76,0:15:24.67,Nanoha Dialogue1,,0,0,0,,Certainly, these are amazing girls.
@@ -257,8 +257,8 @@ Dialogue: 0,0:15:37.81,0:15:40.75,Nanoha Dialogue1,,0,0,0,,But I wonder what\Nth
 Dialogue: 0,0:15:40.75,0:15:43.81,Nanoha Dialogue1,,0,0,0,,She seemed to be rather desperate about it.
 Dialogue: 0,0:15:43.81,0:15:47.25,Nanoha Dialogue1,,0,0,0,,Perhaps she has a very strong motive.
 Dialogue: 0,0:15:47.25,0:15:49.65,Nanoha Dialogue1,,0,0,0,,Motive, huh...
-Dialogue: 0,0:15:52.53,0:15:54.85,Nanoha Dialogue1,,0,0,0,,She's still a young child, right?
-Dialogue: 0,0:15:54.85,0:15:56.76,Nanoha Dialogue1,,0,0,0,,If she has been leading a normal life,
+Dialogue: 0,0:15:52.53,0:15:54.78,Nanoha Dialogue1,,0,0,0,,She's still a young child, right?
+Dialogue: 0,0:15:54.79,0:15:56.76,Nanoha Dialogue1,,0,0,0,,If she has been leading a normal life,
 Dialogue: 0,0:15:56.76,0:16:00.33,Nanoha Dialogue1,,0,0,0,,I'm sure she's young enough to want to be spoiled by her mom.
 Dialogue: 0,0:16:15.02,0:16:16.15,Nanoha Dialogue1,,0,0,0,,You can't!
 Dialogue: 0,0:16:16.15,0:16:18.32,Nanoha Dialogue1,,0,0,0,,If the Time-Space Administrative Bureau has stepped in,
@@ -301,11 +301,11 @@ Dialogue: 0,0:18:25.55,0:18:26.29,Nanoha Dialogue1,,0,0,0,,And so...
 Dialogue: 0,0:18:26.29,0:18:30.38,Nanoha Dialogue1,,0,0,0,,Both Nanoha and I would like to assist your operations.
 Dialogue: 0,0:18:31.19,0:18:32.60,Nanoha Dialogue1,,0,0,0,,Assist, huh?
 Dialogue: 0,0:18:33.38,0:18:36.62,Nanoha Dialogue1,,0,0,0,,Leaving me aside, I believe that Nanoha's magical powers
-Dialogue: 0,0:18:36.62,0:18:39.66,Nanoha Dialogue1,,0,0,0,,can be a useful combat force from your end.
-Dialogue: 0,0:18:39.66,0:18:42.93,Nanoha Dialogue1,,0,0,0,,Collecting the Jewel Seeds, fighting those girls...
+Dialogue: 0,0:18:36.62,0:18:39.30,Nanoha Dialogue1,,0,0,0,,can be a useful combat force from your end.
+Dialogue: 0,0:18:39.30,0:18:42.93,Nanoha Dialogue1,,0,0,0,,Collecting the Jewel Seeds, fighting those girls...
 Dialogue: 0,0:18:42.93,0:18:46.95,Nanoha Dialogue1,,0,0,0,,In either case, I'm sure we can be very useful to you.
-Dialogue: 0,0:18:47.84,0:18:50.30,Nanoha Dialogue1,,0,0,0,,You've thought it out quite well.
-Dialogue: 0,0:18:50.30,0:18:52.14,Nanoha Dialogue1,,0,0,0,,In that case, I guess it will be all right.
+Dialogue: 0,0:18:47.84,0:18:50.06,Nanoha Dialogue1,,0,0,0,,You've thought it out quite well.
+Dialogue: 0,0:18:50.06,0:18:52.14,Nanoha Dialogue1,,0,0,0,,In that case, I guess it will be all right.
 Dialogue: 0,0:18:52.14,0:18:53.67,Nanoha Dialogue1,,0,0,0,,Mo—
 Dialogue: 0,0:18:53.67,0:18:55.11,Nanoha Dialogue1,,0,0,0,,Captain?!
 Dialogue: 0,0:18:55.11,0:18:56.88,Nanoha Dialogue1,,0,0,0,,Let's have them help us.
@@ -317,7 +317,7 @@ Dialogue: 0,0:19:10.62,0:19:12.21,Nanoha Dialogue1,,0,0,0,,Both of you need to b
 Dialogue: 0,0:19:12.21,0:19:15.36,Nanoha Dialogue1,,0,0,0,,the Time-Space Administrative Bureau during this period.
 Dialogue: 0,0:19:15.36,0:19:18.13,Nanoha Dialogue1,,0,0,0,,That, and you must obey every order given to you.
 Dialogue: 0,0:19:18.13,0:19:20.13,Nanoha Dialogue1,,0,0,0,,Got it?
-Dialogue: 0,0:19:20.74,0:19:22.64,Nanoha Dialogue1,,0,0,0,,Understood.
+Dialogue: 0,0:19:20.13,0:19:22.64,Nanoha Dialogue1,,0,0,0,,Understood.
 Dialogue: 0,0:19:30.11,0:19:32.35,Nanoha Narration1,,0,0,0,,Nanoha, it's been decided.
 Dialogue: 0,0:19:33.31,0:19:35.57,Nanoha Narration1,,0,0,0,,Thank you, Yuuno.
 Dialogue: 0,0:19:35.57,0:19:38.89,Nanoha Dialogue1,,0,0,0,,Now, then... Momoko, Nanoha,
@@ -333,7 +333,7 @@ Dialogue: 0,0:19:50.77,0:19:52.62,Nanoha Dialogue1,,0,0,0,,so I'm going to give 
 Dialogue: 0,0:19:53.67,0:19:55.70,Nanoha Dialogue1,,0,0,0,,Hey, wait!
 Dialogue: 0,0:19:55.70,0:19:57.00,Nanoha Dialogue1,,0,0,0,,I'm going to come watch!
 Dialogue: 0,0:19:57.00,0:19:58.24,Nanoha Dialogue1,,0,0,0,,If you're coming, hurry up!
-Dialogue: 0,0:19:58.24,0:20:00.67,Nanoha Dialogue1,,0,0,0,,Okay! Just a second...
+Dialogue: 0,0:19:58.24,0:19:59.88,Nanoha Dialogue1,,0,0,0,,Okay! Just a second—
 Dialogue: 0,0:20:02.21,0:20:04.50,Nanoha Dialogue1,,0,0,0,,Miyuki, you haven't changed a bit.
 Dialogue: 0,0:20:07.88,0:20:10.10,Nanoha Dialogue1,,0,0,0,,Okay, that should be it.
 Dialogue: 0,0:20:11.02,0:20:11.66,Nanoha Dialogue1,,0,0,0,,Yeah.
@@ -400,4 +400,4 @@ Dialogue: 0,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos
 Dialogue: 1,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,500)\bord0}The Decisive Battle Above the Ocean
 Dialogue: 0,0:25:27.78,0:25:35.40,Nanoha Title2,,0,0,0,,{\fad(459,0)\blur0.5\pos(480,500)\c&HFFFFFF&\1a&HFF&\t(0,459,\1a&H00&)}The Decisive Battle Above the Ocean
 Dialogue: 0,0:25:30.26,0:25:34.49,Nanoha Narration1,,0,0,0,,Episode 9:\NThe Decisive Battle Above the Ocean
-Dialogue: 0,0:25:34.49,0:25:37.09,Nanoha Narration1,,0,0,0,,Lyrical, magical, hoping I won't lose!
+Dialogue: 0,0:25:34.49,0:25:37.09,Nanoha Narration1,,0,0,0,,Lyrical, magical, hoping I won't fail!

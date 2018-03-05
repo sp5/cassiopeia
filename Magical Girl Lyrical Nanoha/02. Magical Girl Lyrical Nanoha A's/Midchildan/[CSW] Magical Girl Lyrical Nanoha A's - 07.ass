@@ -19,9 +19,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 243
-Active Line: 246
-Video Position: 29908
+Scroll Position: 18
+Active Line: 23
+Video Position: 25095
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,32 +41,32 @@ Style: Nanoha Cell,Roboto Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:03.09,0:00:05.76,Nanoha Narration1,,0,0,0,,Each time my heart passes by someone else,
 Dialogue: 0,0:00:05.76,0:00:09.56,Nanoha Narration1,,0,0,0,,each time we collide,\NI had always thought
-Dialogue: 0,0:00:09.56,0:00:12.56,Nanoha Narration1,,0,0,0,,how it would be nice if words and feelings
-Dialogue: 0,0:00:12.56,0:00:15.95,Nanoha Narration1,,0,0,0,,could portray everything that we wish for.
+Dialogue: 0,0:00:09.56,0:00:12.46,Nanoha Narration1,,0,0,0,,how it would be nice if words and feelings
+Dialogue: 0,0:00:12.46,0:00:15.95,Nanoha Narration1,,0,0,0,,could portray everything that we wish for.
 Dialogue: 0,0:00:15.95,0:00:21.96,Nanoha Narration1,,0,0,0,,But there are people with stronger wishes than words or justice.
 Dialogue: 0,0:00:21.96,0:00:26.87,Nanoha Narration1,,0,0,0,,What you need is not words,\Nbut a strong heart.
 Dialogue: 0,0:00:26.87,0:00:29.44,Nanoha Narration1,,0,0,0,,No lies, no hesitation...
 Dialogue: 0,0:00:29.44,0:00:32.34,Nanoha Narration1,,0,0,0,,We will stand against those straightforward eyes
 Dialogue: 0,0:00:32.34,0:00:34.93,Nanoha Narration1,,0,0,0,,with a determined heart.
 Dialogue: 0,0:00:34.93,0:00:39.92,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha A's{\i1}\Nwill now begin.
-Dialogue: 0,0:00:40.59,0:00:50.59,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
-Dialogue: 0,0:01:07.21,0:01:13.55,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
-Dialogue: 0,0:01:13.55,0:01:19.73,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
-Dialogue: 0,0:01:19.73,0:01:22.76,Nanoha OP,,0,0,0,,Just like the pure white snow
-Dialogue: 0,0:01:22.76,0:01:25.83,Nanoha OP,,0,0,0,,Words that are honest no matter how far you go
-Dialogue: 0,0:01:25.83,0:01:32.71,Nanoha OP,,0,0,0,,It moves me as I wear wings of steel
-Dialogue: 0,0:01:32.71,0:01:38.24,Nanoha OP,,0,0,0,,Each time I am hurt,\NI can become kinder
-Dialogue: 0,0:01:38.24,0:01:46.68,Nanoha OP,,0,0,0,,My only wish is to protect that smile of yours to the end
-Dialogue: 0,0:01:47.72,0:01:53.73,Nanoha OP,,0,0,0,,Memories of sadness engraved across the ages
-Dialogue: 0,0:01:53.73,0:02:00.07,Nanoha OP,,0,0,0,,You are an angel of light, catching them straight on
-Dialogue: 0,0:02:00.07,0:02:05.87,Nanoha OP,,0,0,0,,An eternal blaze that stopped in my heart that day
-Dialogue: 0,0:02:05.87,0:02:09.34,Nanoha OP,,0,0,0,,Releasing the deep darkness
-Dialogue: 0,0:02:09.34,0:02:15.71,Nanoha OP,,0,0,0,,It opens the door of freedom
-Dialogue: 0,0:02:15.71,0:02:22.64,Nanoha OP,,0,0,0,,Towards the strong, boundless future
+Dialogue: 0,0:00:40.40,0:00:50.40,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
+Dialogue: 0,0:01:07.02,0:01:13.36,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
+Dialogue: 0,0:01:13.36,0:01:19.54,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
+Dialogue: 0,0:01:19.54,0:01:22.57,Nanoha OP,,0,0,0,,Just like the pure white snow
+Dialogue: 0,0:01:22.57,0:01:25.64,Nanoha OP,,0,0,0,,Words that are honest no matter how far you go
+Dialogue: 0,0:01:25.64,0:01:32.52,Nanoha OP,,0,0,0,,It moves me as I wear wings of steel
+Dialogue: 0,0:01:32.52,0:01:38.05,Nanoha OP,,0,0,0,,Each time I am hurt,\NI can become kinder
+Dialogue: 0,0:01:38.05,0:01:46.49,Nanoha OP,,0,0,0,,My only wish is to protect that smile of yours to the end
+Dialogue: 0,0:01:47.53,0:01:53.54,Nanoha OP,,0,0,0,,Memories of sadness engraved across the ages
+Dialogue: 0,0:01:53.54,0:01:59.88,Nanoha OP,,0,0,0,,You are an angel of light, catching them straight on
+Dialogue: 0,0:01:59.88,0:02:05.68,Nanoha OP,,0,0,0,,An eternal blaze that stopped in my heart that day
+Dialogue: 0,0:02:05.68,0:02:09.15,Nanoha OP,,0,0,0,,Releasing the deep darkness
+Dialogue: 0,0:02:09.15,0:02:15.52,Nanoha OP,,0,0,0,,It opens the door of freedom
+Dialogue: 0,0:02:15.52,0:02:22.45,Nanoha OP,,0,0,0,,Towards the strong, boundless future
 Dialogue: 0,0:02:35.62,0:02:39.99,Nanoha Dialogue1,,0,0,0,,That's all the data we have.\NIs it of any help?
 Dialogue: 0,0:02:39.99,0:02:43.72,Nanoha Dialogue1,,0,0,0,,Yes... thank you. It's a big help.
 Dialogue: 0,0:02:45.90,0:02:48.93,Nanoha Dialogue1,,0,0,0,,Hey, all of you are going to come over here today, right?
-Dialogue: 0,0:02:48.93,0:02:51.73,Nanoha Dialogue1,,0,0,0,,Yeah, regarding the {\i1}Arthra{\i0}.
+Dialogue: 0,0:02:48.93,0:02:51.73,Nanoha Dialogue1,,0,0,0,,Yeah, regarding the {\i1}Arthra.{\i0}
 Dialogue: 0,0:02:51.73,0:02:55.23,Nanoha Dialogue1,,0,0,0,,How about we find some time and have a meal together?
 Dialogue: 0,0:02:55.23,0:02:57.56,Nanoha Dialogue1,,0,0,0,,I'd like to hear about that girl, too.
 Dialogue: 0,0:02:59.28,0:03:00.78,Nanoha Dialogue1,,0,0,0,,That girl?
@@ -89,7 +89,7 @@ Dialogue: 0,0:04:05.71,0:04:09.21,Nanoha Dialogue1,,0,0,0,,But in the end, the c
 Dialogue: 0,0:04:09.21,0:04:11.93,Nanoha Dialogue1,,0,0,0,,Ease of use is also important!
 Dialogue: 0,0:04:11.95,0:04:15.32,Nanoha Dialogue1,,0,0,0,,External memory is very useful, so it's a good thing...
 Dialogue: 0,0:04:15.32,0:04:16.60,Nanoha Dialogue1,,0,0,0,,Really?
-Dialogue: 0,0:04:16.60,0:04:20.44,Nanoha Dialogue1,,0,0,0,,Yeah, you can keep lots of pictures and music in it.
+Dialogue: 0,0:04:16.60,0:04:20.44,Nanoha Dialogue1,,0,0,0,,Yeah, you can keep lots of pictures and music on it.
 Dialogue: 0,0:04:20.44,0:04:25.07,Nanoha Dialogue1,,0,0,0,,And you can attach them to your text messages to send to your friends!
 Dialogue: 0,0:04:25.07,0:04:27.36,Nanoha Dialogue1,,0,0,0,,That's true!
 Dialogue: 0,0:04:27.36,0:04:29.23,Nanoha Dialogue1,,0,0,0,,It's rather useful.
@@ -122,8 +122,8 @@ Dialogue: 0,0:06:04.42,0:06:07.03,Nanoha Dialogue1,,0,0,0,,but we'll help as muc
 Dialogue: 0,0:06:07.03,0:06:10.89,Nanoha Dialogue1,,0,0,0,,After all, it's a request from\NChroboy, my cute apprentice.
 Dialogue: 0,0:06:14.40,0:06:18.74,Nanoha Dialogue1,,0,0,0,,I see... so both Alisa and Suzuka are taking violin lessons?
 Dialogue: 0,0:06:18.74,0:06:19.40,Nanoha Dialogue1,,0,0,0,,Yeah.
-Dialogue: 0,0:06:19.40,0:06:23.62,Nanoha Dialogue1,,0,0,0,,They text me to tell me about their lessons all the time.
-Dialogue: 0,0:06:23.62,0:06:25.28,Nanoha Dialogue1,,0,0,0,,I see.
+Dialogue: 0,0:06:19.40,0:06:23.52,Nanoha Dialogue1,,0,0,0,,They text me to tell me about their lessons all the time.
+Dialogue: 0,0:06:23.52,0:06:25.28,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:06:25.78,0:06:27.30,Nanoha Dialogue1,,0,0,0,,I'm back!
 Dialogue: 0,0:06:36.79,0:06:39.29,Nanoha Dialogue1,,0,0,0,,Has the Captain taken off for the Main Office already?
 Dialogue: 0,0:06:39.29,0:06:40.32,Nanoha Dialogue1,,0,0,0,,Yeah...
@@ -221,7 +221,7 @@ Dialogue: 0,0:14:51.70,0:14:54.97,Nanoha Device1,,0,0,0,,Load Cartridge. Haken F
 Dialogue: 0,0:14:59.28,0:15:01.50,Nanoha Dialogue1,,0,0,0,,{\b1}Haken Saber{\b0}
 Dialogue: 0,0:15:13.10,0:15:14.57,Nanoha Device1,,0,0,0,,Blitz Rush
 Dialogue: 0,0:15:27.02,0:15:28.74,Nanoha Device1,,0,0,0,,Haken Slash
-Dialogue: 0,0:15:33.03,0:15:33.98,Nanoha Dialogue1,,0,0,0,,The sheath!
+Dialogue: 0,0:15:33.03,0:15:33.98,Nanoha Dialogue1,,0,0,0,,The scabbard!
 Dialogue: 0,0:15:39.63,0:15:40.86,Nanoha Device1,,0,0,0,,Plasma Lancer
 Dialogue: 0,0:15:47.88,0:15:48.94,Nanoha Device1,,0,0,0,,Assault Form
 Dialogue: 0,0:15:54.35,0:15:55.72,Nanoha Device1,,0,0,0,,Schwertform
@@ -231,15 +231,15 @@ Dialogue: 0,0:16:14.50,0:16:15.86,Nanoha Dialogue1,,0,0,0,,{\b1}Draconic...{\b0}
 Dialogue: 0,0:16:15.86,0:16:18.14,Nanoha Dialogue1,,0,0,0,,{\b1}...Smasher{\b0}
 Dialogue: 0,0:16:22.44,0:16:23.46,Nanoha Dialogue1,,0,0,0,,{\b1}...Swordflash{\b0}
 Dialogue: 0,0:16:49.86,0:16:54.64,Nanoha Dialogue1,,0,0,0,,If you're a familiar...\Na guardian beast... like me,
-Dialogue: 0,0:16:54.64,0:16:58.62,Nanoha Dialogue1,,0,0,0,,shouldn't you be trying to correct your mistress' errors?!
+Dialogue: 0,0:16:54.64,0:16:58.62,Nanoha Dialogue1,,0,0,0,,shouldn't you be trying to stop your mistresss from making a huge mistake?!
 Dialogue: 0,0:16:58.62,0:17:02.65,Nanoha Dialogue1,,0,0,0,,We fill the {\i1}Buch der Dunkelheit{\i0}\Nof our own will.
 Dialogue: 0,0:17:02.65,0:17:08.38,Nanoha Dialogue1,,0,0,0,,Our mistress has no knowledge of our filling of the pages.
 Dialogue: 0,0:17:08.38,0:17:10.02,Nanoha Dialogue1,,0,0,0,,What?!
 Dialogue: 0,0:17:10.02,0:17:11.95,Nanoha Dialogue1,,0,0,0,,What does that...?
 Dialogue: 0,0:17:13.88,0:17:17.83,Nanoha Dialogue1,,0,0,0,,Fighting for your mistress,\Neven if blood stains your hands?
-Dialogue: 0,0:17:17.83,0:17:22.78,Nanoha Dialogue1,,0,0,0,,As a fellow guardian beast like myself, would you not do so?
+Dialogue: 0,0:17:17.83,0:17:22.78,Nanoha Dialogue1,,0,0,0,,As a fellow guardian beast like myself,\Nwould you not do so?
 Dialogue: 0,0:17:24.91,0:17:26.64,Nanoha Dialogue1,,0,0,0,,I would!
-Dialogue: 0,0:17:26.64,0:17:29.90,Nanoha Dialogue1,,0,0,0,,But, even so!
+Dialogue: 0,0:17:26.64,0:17:29.90,Nanoha Dialogue1,,0,0,0,,But still!
 Dialogue: 0,0:17:37.69,0:17:39.43,Nanoha Narration1,,0,0,0,,Signum and Zafira are...
 Dialogue: 0,0:17:39.43,0:17:42.89,Nanoha Narration1,,0,0,0,,Yes... they're fighting in the desert now.
 Dialogue: 0,0:17:42.89,0:17:46.32,Nanoha Narration1,,0,0,0,,Against Testarossa and her guardian beast.

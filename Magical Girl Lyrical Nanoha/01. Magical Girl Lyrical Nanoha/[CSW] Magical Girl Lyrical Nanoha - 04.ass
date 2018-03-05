@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 228
-Active Line: 230
-Video Position: 36337
+Scroll Position: 182
+Active Line: 187
+Video Position: 28105
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,8 +69,8 @@ Dialogue: 0,0:03:19.80,0:03:23.22,Nanoha Dialogue1,,0,0,0,,Good job! Yuuno, you'
 Dialogue: 0,0:03:25.13,0:03:27.02,Nanoha Dialogue1,,0,0,0,,Still not ready, Nanoha?
 Dialogue: 0,0:03:27.02,0:03:30.66,Nanoha Dialogue1,,0,0,0,,Sorry! Just a bit longer...
 Dialogue: 0,0:03:30.66,0:03:33.44,Nanoha Dialogue1,,0,0,0,,Going out somewhere today?
-Dialogue: 0,0:03:33.44,0:03:36.18,Nanoha Dialogue1,,0,0,0,,Yeah, to the Tsukimuras' house.
-Dialogue: 0,0:03:36.18,0:03:39.65,Nanoha Dialogue1,,0,0,0,,Apparently, Nanoha got an invitation from Suzuka.
+Dialogue: 0,0:03:33.44,0:03:36.00,Nanoha Dialogue1,,0,0,0,,Yeah, to the Tsukimuras' house.
+Dialogue: 0,0:03:36.00,0:03:39.65,Nanoha Dialogue1,,0,0,0,,Apparently, Nanoha got an invitation from Suzuka.
 Dialogue: 0,0:03:39.65,0:03:41.20,Nanoha Dialogue1,,0,0,0,,Oh, I see.
 Dialogue: 0,0:03:41.20,0:03:45.90,Nanoha Dialogue1,,0,0,0,,And you, Kyō, are going to go see Shinobu.
 Dialogue: 0,0:03:45.90,0:03:49.81,Nanoha Dialogue1,,0,0,0,,Well, my main purpose is to keep an eye on Nanoha.
@@ -84,7 +84,7 @@ Dialogue: 0,0:04:09.57,0:04:11.50,Nanoha Dialogue1,,0,0,0,,We're on our way!
 Dialogue: 0,0:04:29.57,0:04:33.20,Nanoha Narration1,,0,0,0,,Today, we're planning a tea party\Nat Suzuka's house.
 Dialogue: 0,0:04:34.14,0:04:37.93,Nanoha Narration1,,0,0,0,,I'm going to spend my day off\Nwith Alisa and Suzuka.
 Dialogue: 0,0:04:37.93,0:04:43.48,Nanoha Narration1,,0,0,0,,And my brother is going to go see\NSuzuka's older sister Shinobu.
-Dialogue: 0,0:04:46.78,0:04:48.98,Nanoha Dialogue1,,0,0,0,,No, it's nothing...
+Dialogue: 0,0:04:46.78,0:04:48.60,Nanoha Dialogue1,,0,0,0,,No, it's nothing...
 Dialogue: 0,0:04:49.98,0:04:51.12,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:05:09.30,0:05:12.62,Nanoha Dialogue1,,0,0,0,,Welcome, Mr. Kyōya, Miss Nanoha.
 Dialogue: 0,0:05:12.62,0:05:15.31,Nanoha Dialogue1,,0,0,0,,Yeah. Thanks for the invitation.
@@ -93,7 +93,7 @@ Dialogue: 0,0:05:17.78,0:05:21.12,Nanoha Narration1,,0,0,0,,This is Noel, the he
 Dialogue: 0,0:05:21.12,0:05:25.21,Nanoha Narration1,,0,0,0,,She doesn't talk much, but she's so beautiful and so cool!
 Dialogue: 0,0:05:25.21,0:05:27.75,Nanoha Dialogue1,,0,0,0,,Please, this way.
 Dialogue: 0,0:05:54.72,0:05:56.96,Nanoha Dialogue1,,0,0,0,,Nanoha, Kyōya!
-Dialogue: 0,0:05:56.96,0:05:58.58,Nanoha Dialogue1,,0,0,0,,Suzuka!
+Dialogue: 0,0:05:56.96,0:05:58.16,Nanoha Dialogue1,,0,0,0,,Suzuka!
 Dialogue: 0,0:05:59.22,0:06:02.51,Nanoha Dialogue1,,0,0,0,,Nanoha, welcome!
 Dialogue: 0,0:06:02.51,0:06:06.73,Nanoha Narration1,,0,0,0,,This is Falin.\NShe's Suzuka's personal maid.
 Dialogue: 0,0:06:06.73,0:06:09.11,Nanoha Narration1,,0,0,0,,She's a very bright and kind lady!
@@ -108,18 +108,18 @@ Dialogue: 0,0:06:26.72,0:06:28.32,Nanoha Dialogue1,,0,0,0,,And for you, Miss Nan
 Dialogue: 0,0:06:28.32,0:06:30.24,Nanoha Dialogue1,,0,0,0,,I'll leave it up to you too.
 Dialogue: 0,0:06:30.24,0:06:33.24,Nanoha Dialogue1,,0,0,0,,As you wish. Falin?
 Dialogue: 0,0:06:33.24,0:06:36.08,Nanoha Dialogue1,,0,0,0,,Yes, roger, sister.
-Dialogue: 0,0:06:38.79,0:06:41.63,Nanoha Dialogue1,,0,0,0,,Then Kyōya and I will be in my room.
+Dialogue: 0,0:06:38.79,0:06:41.63,Nanoha Dialogue1,,0,0,0,,Then, Kyōya and I will be in my room.
 Dialogue: 0,0:06:41.63,0:06:44.23,Nanoha Dialogue1,,0,0,0,,Right, I will bring it over there.
 Dialogue: 0,0:06:50.89,0:06:52.31,Nanoha Dialogue1,,0,0,0,,Morning!
 Dialogue: 0,0:06:52.31,0:06:54.08,Nanoha Dialogue1,,0,0,0,,Yeah! Morning!
 Dialogue: 0,0:06:54.08,0:06:58.91,Nanoha Dialogue1,,0,0,0,,Suzuka's sister and Nanoha's brother\Nare as lovey-dovey as ever!
-Dialogue: 0,0:07:00.68,0:07:01.30,Nanoha Dialogue1,,0,0,0,,Yes.
+Dialogue: 0,0:07:00.68,0:07:01.60,Nanoha Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:07:03.09,0:07:08.69,Nanoha Dialogue1,,0,0,0,,My sister has seemed very happy ever since she got to know Kyōya.
 Dialogue: 0,0:07:08.69,0:07:12.70,Nanoha Dialogue1,,0,0,0,,I wonder if it's the same for my brother?
 Dialogue: 0,0:07:17.53,0:07:22.67,Nanoha Dialogue1,,0,0,0,,But compared to the past,\NI think he's gotten a bit nicer.
 Dialogue: 0,0:07:29.31,0:07:31.93,Nanoha Dialogue1,,0,0,0,,I think he laughs a lot more now.
-Dialogue: 0,0:07:37.10,0:07:41.68,Nanoha Dialogue1,,0,0,0,,Oh, yeah, thanks for inviting me today.
-Dialogue: 0,0:07:41.68,0:07:42.22,Nanoha Dialogue1,,0,0,0,,Same.
+Dialogue: 0,0:07:37.10,0:07:41.52,Nanoha Dialogue1,,0,0,0,,Oh, yeah, thanks for inviting me today.
+Dialogue: 0,0:07:41.52,0:07:42.22,Nanoha Dialogue1,,0,0,0,,Same.
 Dialogue: 0,0:07:42.22,0:07:46.61,Nanoha Dialogue1,,0,0,0,,Not at all. Thank you for coming today.
 Dialogue: 0,0:07:46.61,0:07:49.79,Nanoha Dialogue1,,0,0,0,,You seem to be cheerful enough today.
 Dialogue: 0,0:07:49.79,0:07:55.67,Nanoha Dialogue1,,0,0,0,,Nanoha, you haven't been too cheerful lately.
@@ -151,8 +151,8 @@ Dialogue: 0,0:10:31.53,0:10:32.30,Nanoha Narration1,,0,0,0,,Well...
 Dialogue: 0,0:10:34.86,0:10:36.65,Nanoha Narration1,,0,0,0,,Well...
 Dialogue: 0,0:10:36.65,0:10:37.90,Nanoha Narration1,,0,0,0,,I got it!
 Dialogue: 0,0:10:39.94,0:10:41.16,Nanoha Dialogue1,,0,0,0,,Yuuno?!
-Dialogue: 0,0:10:42.64,0:10:45.51,Nanoha Dialogue1,,0,0,0,,Oh, my... is something wrong with Yuuno?
-Dialogue: 0,0:10:45.51,0:10:47.71,Nanoha Dialogue1,,0,0,0,,Yeah, I think he found something.
+Dialogue: 0,0:10:42.64,0:10:45.38,Nanoha Dialogue1,,0,0,0,,Oh, my... is something wrong with Yuuno?
+Dialogue: 0,0:10:45.38,0:10:47.71,Nanoha Dialogue1,,0,0,0,,Yeah, I think he found something.
 Dialogue: 0,0:10:47.71,0:10:50.25,Nanoha Dialogue1,,0,0,0,,I'll go look for him!
 Dialogue: 0,0:10:50.25,0:10:51.69,Nanoha Dialogue1,,0,0,0,,Would you like us to help?
 Dialogue: 0,0:10:51.69,0:10:55.82,Nanoha Dialogue1,,0,0,0,,I'm fine. I'll be right back, so wait here!
@@ -164,7 +164,7 @@ Dialogue: 0,0:11:22.24,0:11:24.71,Nanoha Dialogue1,,0,0,0,,A space like when we 
 Dialogue: 0,0:11:24.71,0:11:26.75,Nanoha Dialogue1,,0,0,0,,It slightly shifts the flow of time
 Dialogue: 0,0:11:26.75,0:11:29.75,Nanoha Dialogue1,,0,0,0,,between the space where the magic takes effect and normal space.
 Dialogue: 0,0:11:29.75,0:11:32.71,Nanoha Dialogue1,,0,0,0,,I'm pretty good at that magic.
-Dialogue: 0,0:11:37.66,0:11:40.36,Nanoha Dialogue1,,0,0,0,,I can't cut out too large of a space,
+Dialogue: 0,0:11:37.16,0:11:40.36,Nanoha Dialogue1,,0,0,0,,I can't cut out too large of a space,
 Dialogue: 0,0:11:40.96,0:11:43.56,Nanoha Dialogue1,,0,0,0,,but if it's this house and its surroundings,
 Dialogue: 0,0:11:43.56,0:11:44.70,Nanoha Dialogue1,,0,0,0,,I can manage.
 Dialogue: 0,0:12:31.05,0:12:32.58,Nanoha Dialogue1,,0,0,0,,That's...
@@ -190,7 +190,7 @@ Dialogue: 0,0:15:21.15,0:15:24.15,Nanoha Narration1,,0,0,0,,She's not surprised 
 Dialogue: 0,0:15:24.15,0:15:28.61,Nanoha Narration1,,0,0,0,,Maybe there's nothing more that I can teach Nanoha.
 Dialogue: 0,0:15:39.57,0:15:41.29,Nanoha Dialogue1,,0,0,0,,A similar type of mage.
 Dialogue: 0,0:15:43.10,0:15:45.28,Nanoha Dialogue1,,0,0,0,,One who searches for Lost Logia...
-Dialogue: 0,0:15:47.91,0:15:52.17,Nanoha Dialogue1,,0,0,0,,No doubt about it.\NShe's from the same world as me.
+Dialogue: 0,0:15:47.74,0:15:52.17,Nanoha Dialogue1,,0,0,0,,No doubt about it.\NShe's from the same world as me.
 Dialogue: 0,0:15:52.17,0:15:55.80,Nanoha Dialogue1,,0,0,0,,And she knows what\Nthe Jewel Seeds really are!
 Dialogue: 0,0:15:59.82,0:16:03.23,Nanoha Dialogue1,,0,0,0,,The same type of\NIntelligent Device as Bardiche...
 Dialogue: 0,0:16:06.39,0:16:08.78,Nanoha Dialogue1,,0,0,0,,Bardiche?
@@ -217,11 +217,11 @@ Dialogue: 0,0:18:08.55,0:18:09.58,Nanoha Device1,,0,0,0,,Fire.
 Dialogue: 0,0:18:17.11,0:18:17.85,Nanoha Dialogue1,,0,0,0,,Nanoha!
 Dialogue: 0,0:18:49.72,0:18:52.36,Nanoha Device1,,0,0,0,,Sealing Form, set up.
 Dialogue: 0,0:19:02.17,0:19:02.99,Nanoha Dialogue1,,0,0,0,,Capture.
-Dialogue: 0,0:19:25.69,0:19:27.16,Nanoha Device1,,0,0,0,,Order?
-Dialogue: 0,0:19:27.16,0:19:31.77,Nanoha Dialogue1,,0,0,0,,Lost Logia, Jewel Seed, Serial XIV...
+Dialogue: 0,0:19:25.69,0:19:26.80,Nanoha Device1,,0,0,0,,Order?
+Dialogue: 0,0:19:26.80,0:19:31.77,Nanoha Dialogue1,,0,0,0,,Lost Logia, Jewel Seed, Serial XIV...
 Dialogue: 0,0:19:32.83,0:19:33.77,Nanoha Dialogue1,,0,0,0,,Seal.
 Dialogue: 0,0:19:33.77,0:19:34.76,Nanoha Device1,,0,0,0,,Yes, sir.
-Dialogue: 0,0:19:56.72,0:19:58.08,Nanoha Device1,,0,0,0,,Sealing.
+Dialogue: 0,0:19:56.72,0:19:58.08,Nanoha Device1,,0,0,0,,Sealing
 Dialogue: 0,0:20:16.48,0:20:17.97,Nanoha Device1,,0,0,0,,Captured.
 Dialogue: 0,0:21:05.70,0:21:11.97,Nanoha Narration1,,0,0,0,,When I woke up again, the sky had changed color to that of dusk.
 Dialogue: 0,0:21:13.20,0:21:16.94,Nanoha Narration1,,0,0,0,,Yuuno had called for my brother and everyone else.

@@ -18,9 +18,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 199
-Active Line: 200
-Video Position: 33665
+Scroll Position: 18
+Active Line: 21
+Video Position: 33659
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,25 +44,25 @@ Dialogue: 0,0:00:21.50,0:00:24.31,Nanoha Narration1,,0,0,0,,In order to not disa
 Dialogue: 0,0:00:25.50,0:00:28.00,Nanoha Narration1,,0,0,0,,In order to protect\Nthe bonds we've created.
 Dialogue: 0,0:00:28.86,0:00:33.03,Nanoha Narration1,,0,0,0,,We now open the door to the future.
 Dialogue: 0,0:00:35.26,0:00:39.73,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha A's{\i1}\Nwill now begin.
-Dialogue: 0,0:00:40.68,0:00:50.68,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
-Dialogue: 0,0:01:07.30,0:01:13.64,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
-Dialogue: 0,0:01:13.64,0:01:19.82,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
-Dialogue: 0,0:01:19.82,0:01:22.85,Nanoha OP,,0,0,0,,Just like the pure white snow
-Dialogue: 0,0:01:22.85,0:01:25.92,Nanoha OP,,0,0,0,,Words that are honest no matter how far you go
-Dialogue: 0,0:01:25.92,0:01:32.80,Nanoha OP,,0,0,0,,It moves me as I wear wings of steel
-Dialogue: 0,0:01:32.80,0:01:38.33,Nanoha OP,,0,0,0,,Each time I am hurt,\NI can become kinder
-Dialogue: 0,0:01:38.33,0:01:46.77,Nanoha OP,,0,0,0,,My only wish is to protect that smile of yours to the end
-Dialogue: 0,0:01:47.81,0:01:53.82,Nanoha OP,,0,0,0,,Memories of sadness engraved across the ages
-Dialogue: 0,0:01:53.82,0:02:00.16,Nanoha OP,,0,0,0,,You are an angel of light, catching them straight on
-Dialogue: 0,0:02:00.16,0:02:05.96,Nanoha OP,,0,0,0,,An eternal blaze that stopped in my heart that day
-Dialogue: 0,0:02:05.96,0:02:09.43,Nanoha OP,,0,0,0,,Releasing the deep darkness
-Dialogue: 0,0:02:09.43,0:02:15.80,Nanoha OP,,0,0,0,,It opens the door of freedom
-Dialogue: 0,0:02:15.80,0:02:22.73,Nanoha OP,,0,0,0,,Towards the strong, boundless future
+Dialogue: 0,0:00:40.49,0:00:50.49,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
+Dialogue: 0,0:01:07.11,0:01:13.45,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
+Dialogue: 0,0:01:13.45,0:01:19.63,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
+Dialogue: 0,0:01:19.63,0:01:22.66,Nanoha OP,,0,0,0,,Just like the pure white snow
+Dialogue: 0,0:01:22.66,0:01:25.73,Nanoha OP,,0,0,0,,Words that are honest no matter how far you go
+Dialogue: 0,0:01:25.73,0:01:32.61,Nanoha OP,,0,0,0,,It moves me as I wear wings of steel
+Dialogue: 0,0:01:32.61,0:01:38.14,Nanoha OP,,0,0,0,,Each time I am hurt,\NI can become kinder
+Dialogue: 0,0:01:38.14,0:01:46.58,Nanoha OP,,0,0,0,,My only wish is to protect that smile of yours to the end
+Dialogue: 0,0:01:47.62,0:01:53.63,Nanoha OP,,0,0,0,,Memories of sadness engraved across the ages
+Dialogue: 0,0:01:53.63,0:01:59.97,Nanoha OP,,0,0,0,,You are an angel of light, catching them straight on
+Dialogue: 0,0:01:59.97,0:02:05.77,Nanoha OP,,0,0,0,,An eternal blaze that stopped in my heart that day
+Dialogue: 0,0:02:05.77,0:02:09.24,Nanoha OP,,0,0,0,,Releasing the deep darkness
+Dialogue: 0,0:02:09.24,0:02:15.61,Nanoha OP,,0,0,0,,It opens the door of freedom
+Dialogue: 0,0:02:15.61,0:02:22.54,Nanoha OP,,0,0,0,,Towards the strong, boundless future
 Dialogue: 0,0:02:41.84,0:02:43.84,Nanoha Dialogue1,,0,0,0,,The {\i1}Meister{\i0} of the {\i1}Buch der Dunkelheit{\i0}
 Dialogue: 0,0:02:43.84,0:02:46.78,Nanoha Dialogue1,,0,0,0,,has completely separated from the protection program.
 Dialogue: 0,0:02:46.78,0:02:47.73,Nanoha Dialogue1,,0,0,0,,Right.
 Dialogue: 0,0:02:47.73,0:02:49.00,Nanoha Dialogue1,,0,0,0,,Everyone!
-Dialogue: 0,0:02:49.00,0:02:52.86,Nanoha Dialogue1,,0,0,0,,The black sediment below is where it will go out of control!
+Dialogue: 0,0:02:49.00,0:02:52.86,Nanoha Dialogue1,,0,0,0,,The black mass below is where it will go out of control!
 Dialogue: 0,0:02:52.86,0:02:56.63,Nanoha Dialogue1,,0,0,0,,Don't close in recklessly until Chrono gets there!
 Dialogue: 0,0:02:57.80,0:02:58.86,Nanoha Dialogue1,,0,0,0,,Okay!
 Dialogue: 0,0:02:58.85,0:03:04.89,Nanoha Dialogue1,,0,0,0,,{\blur0.5\bord0\shad0\an5\pos(476,480)\b1\fs72}Night's End, Journey's End
@@ -103,13 +103,13 @@ Dialogue: 0,0:06:32.60,0:06:33.86,Nanoha Dialogue1,,0,0,0,,It's okay.
 Dialogue: 0,0:06:34.91,0:06:38.72,Nanoha Dialogue1,,0,0,0,,I'm sorry to break the mood, but...
 Dialogue: 0,0:06:38.72,0:06:42.41,Nanoha Dialogue1,,0,0,0,,Enforcer Chrono Harlaown with the\NTime-Space Administrative Bureau.
 Dialogue: 0,0:06:42.41,0:06:44.90,Nanoha Dialogue1,,0,0,0,,Since there is no time, I will be brief.
-Dialogue: 0,0:06:44.90,0:06:47.05,Nanoha Dialogue1,,0,0,0,,That black sediment,
+Dialogue: 0,0:06:44.90,0:06:47.05,Nanoha Dialogue1,,0,0,0,,That black mass,
 Dialogue: 0,0:06:47.05,0:06:49.12,Nanoha Dialogue1,,0,0,0,,which is the {\i1}Buch der Dunkelheit'{\i0}s\Nprotection program,
 Dialogue: 0,0:06:49.12,0:06:51.20,Nanoha Dialogue1,,0,0,0,,is going to go out of control\Nin a few minutes.
 Dialogue: 0,0:06:51.20,0:06:55.70,Nanoha Dialogue1,,0,0,0,,We need to stop that, no matter what.
 Dialogue: 0,0:06:55.70,0:06:58.04,Nanoha Dialogue1,,0,0,0,,There are currently two plans to stop it.
 Dialogue: 0,0:06:58.04,0:07:02.52,Nanoha Dialogue1,,0,0,0,,Plan A is to stop it by using extremely strong freezing magic.
-Dialogue: 0,0:07:02.52,0:07:07.47,Nanoha Dialogue1,,0,0,0,,Plan B is to finish it with the\N{\i1}Arthra{\i0}'s magical cannon,
+Dialogue: 0,0:07:02.52,0:07:07.47,Nanoha Dialogue1,,0,0,0,,Plan B is to finish it with the\N{\i1}Arthra'{\i0}s magical cannon,
 Dialogue: 0,0:07:07.47,0:07:09.53,Nanoha Dialogue1,,0,0,0,,the Arc-en-Ciel.
 Dialogue: 0,0:07:09.53,0:07:12.84,Nanoha Dialogue1,,0,0,0,,Are there any better methods?
 Dialogue: 0,0:07:12.84,0:07:16.54,Nanoha Dialogue1,,0,0,0,,I wanted to ask the {\i1}Meister{\i0} of the\N{\i1}Buch der Dunkelheit{\i0} and her {\i1}Schutzritter.{\i0}
@@ -143,7 +143,7 @@ Dialogue: 0,0:08:35.36,0:08:38.56,Nanoha Dialogue1,,0,0,0,,Well, it's past that 
 Dialogue: 0,0:08:38.56,0:08:41.23,Nanoha Dialogue1,,0,0,0,,If only we could move the battlefield further out into the ocean...
 Dialogue: 0,0:08:41.23,0:08:43.96,Nanoha Dialogue1,,0,0,0,,It will still distort space\Nout in the ocean.
 Dialogue: 0,0:08:45.37,0:08:49.38,Nanoha Dialogue1,,0,0,0,,Gosh, it's getting all complicated!
-Dialogue: 0,0:08:49.38,0:08:52.84,Nanoha Dialogue1,,0,0,0,,Can't everyone just blast it?
+Dialogue: 0,0:08:49.38,0:08:52.84,Nanoha Dialogue1,,0,0,0,,Can't everyone just, like, blast it?
 Dialogue: 0,0:08:52.84,0:08:54.57,Nanoha Dialogue1,,0,0,0,,A-Arf...
 Dialogue: 0,0:08:54.57,0:08:57.82,Nanoha Dialogue1,,0,0,0,,It's not that simple...
 Dialogue: 0,0:09:00.30,0:09:03.39,Nanoha Dialogue1,,0,0,0,,Blast it, huh....
@@ -187,7 +187,7 @@ Dialogue: 0,0:11:03.14,0:11:05.50,Nanoha Dialogue1,,0,0,0,,We'll break that firs
 Dialogue: 0,0:11:05.50,0:11:07.58,Nanoha Dialogue1,,0,0,0,,When the main body's barrier is destroyed,
 Dialogue: 0,0:11:07.58,0:11:10.75,Nanoha Dialogue1,,0,0,0,,we'll attack all at once and expose the core.
 Dialogue: 0,0:11:10.75,0:11:13.82,Nanoha Dialogue1,,0,0,0,,Then with Yuuno's strong translocation magic,
-Dialogue: 0,0:11:13.82,0:11:16.19,Nanoha Dialogue1,,0,0,0,,we'll send it in front of the {\i1}Arthra{\i0}!
+Dialogue: 0,0:11:13.82,0:11:16.19,Nanoha Dialogue1,,0,0,0,,we'll send it in front of the {\i1}Arthra!{\i0}
 Dialogue: 0,0:11:16.19,0:11:20.19,Nanoha Dialogue1,,0,0,0,,Finally, we'll annihilate it with the Arc-en-Ciel.
 Dialogue: 0,0:11:20.19,0:11:23.16,Nanoha Dialogue1,,0,0,0,,If all goes well, then this is the best way.
 Dialogue: 0,0:11:23.16,0:11:25.64,Nanoha Dialogue1,,0,0,0,,Admiral, can you see?
@@ -196,7 +196,7 @@ Dialogue: 0,0:11:28.00,0:11:31.21,Nanoha Dialogue1,,0,0,0,,The {\i1}Buch der Dun
 Dialogue: 0,0:11:31.21,0:11:34.44,Nanoha Dialogue1,,0,0,0,,The curse ate away many lives
 Dialogue: 0,0:11:34.45,0:11:38.80,Nanoha Dialogue1,,0,0,0,,and ruined the lives of those who got involved.
 Dialogue: 0,0:11:38.80,0:11:45.16,Nanoha Dialogue1,,0,0,0,,Because of that, my mother and many victims' families
-Dialogue: 0,0:11:45.16,0:11:48.81,Nanoha Dialogue1,,0,0,0,,had to live an unfortunate life like this.
+Dialogue: 0,0:11:45.16,0:11:48.81,Nanoha Dialogue1,,0,0,0,,had to live unfortunate lives like this.
 Dialogue: 0,0:11:48.81,0:11:52.81,Nanoha Dialogue1,,0,0,0,,I'm sure it's the same with you and the Liese twins.
 Dialogue: 0,0:11:52.81,0:11:56.36,Nanoha Dialogue1,,0,0,0,,We can't change the past we've lost.
 Dialogue: 0,0:11:56.36,0:11:57.73,Nanoha Device1,,0,0,0,,Start up.
@@ -265,7 +265,7 @@ Dialogue: 0,0:16:16.89,0:16:18.16,Nanoha Device1,,0,0,0,,Bogenform
 Dialogue: 0,0:16:16.89,0:16:18.16,Nanoha Device2,,0,0,0,,{\pos(476,647)}Bow Form
 Dialogue: 0,0:16:17.29,0:16:23.23,Nanoha Insert Song,,0,0,0,,For you and for me
 Dialogue: 0,0:16:23.23,0:16:31.57,Nanoha Insert Song,,0,0,0,,The tears turn into a rainbow and shine in seven colors
-Dialogue: 0,0:16:30.09,0:16:31.86,Nanoha Dialogue1,,0,0,0,,Fly, falcon!
+Dialogue: 0,0:16:30.09,0:16:31.86,Nanoha Dialogue1,,0,0,0,,Race the skies, falcon!
 Dialogue: 0,0:16:31.57,0:16:37.38,Nanoha Insert Song,,0,0,0,,Even for a moment, become the bridge deep down in the heart
 Dialogue: 0,0:16:31.86,0:16:34.07,Nanoha Device1,,0,0,0,,Sturmfalken
 Dialogue: 0,0:16:31.86,0:16:34.07,Nanoha Device2,,0,0,0,,{\pos(476,647)}Storm Falcon
@@ -294,8 +294,8 @@ Dialogue: 0,0:17:59.29,0:18:07.70,Nanoha Insert Song,,0,0,0,,I'll never forget t
 Dialogue: 0,0:18:07.70,0:18:17.70,Nanoha Insert Song,,0,0,0,,I am sure we're brighter than dawn
 Dialogue: 0,0:18:18.14,0:18:33.16,Nanoha Insert Song,,0,0,0,,Let's go without looking back and with a smile
 Dialogue: 0,0:18:18.48,0:18:20.99,Nanoha Dialogue1,,0,0,0,,It's kind of incredible.
-Dialogue: 0,0:18:20.99,0:18:24.12,Nanoha Dialogue1,,0,0,0,,Ordinary attacks don't work after all.
-Dialogue: 0,0:18:24.12,0:18:27.02,Nanoha Dialogue1,,0,0,0,,As it gets damaged, it regenerates!
+Dialogue: 0,0:18:20.99,0:18:23.98,Nanoha Dialogue1,,0,0,0,,Ordinary attacks don't work after all.
+Dialogue: 0,0:18:23.98,0:18:27.02,Nanoha Dialogue1,,0,0,0,,As it gets damaged, it regenerates!
 Dialogue: 0,0:18:27.02,0:18:29.19,Nanoha Dialogue1,,0,0,0,,But the attacks are working.
 Dialogue: 0,0:18:29.19,0:18:31.00,Nanoha Dialogue1,,0,0,0,,Stick with the plan!
 Dialogue: 0,0:18:31.00,0:18:32.98,Nanoha Dialogue1,,0,0,0,,Let's go, Durandal.
@@ -351,8 +351,8 @@ Dialogue: 0,0:23:14.57,0:23:18.27,Nanoha Dialogue1,,0,0,0,,You did really well. 
 Dialogue: 0,0:23:19.71,0:23:20.41,Nanoha Dialogue1,,0,0,0,,Hayate!
 Dialogue: 0,0:23:20.41,0:23:21.74,Nanoha Dialogue1,,0,0,0,,Hayate...
 Dialogue: 0,0:23:21.74,0:23:23.83,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Hayate...
-Dialogue: 0,0:23:23.83,0:23:25.16,Nanoha Dialogue1,,0,0,0,,Hayate!
-Dialogue: 0,0:23:25.16,0:23:28.44,Nanoha Dialogue1,,0,0,0,,Hayate! Hayate!
+Dialogue: 0,0:23:23.83,0:23:24.74,Nanoha Dialogue1,,0,0,0,,Hayate!
+Dialogue: 0,0:23:24.74,0:23:28.44,Nanoha Dialogue1,,0,0,0,,Hayate! Hayate!
 Dialogue: 0,0:23:29.47,0:23:31.32,Nanoha Dialogue1,,0,0,0,,Hayate...
 Dialogue: 0,0:23:31.32,0:23:33.79,Nanoha Dialogue1,,0,0,0,,Hayate?
 Dialogue: 0,0:23:35.32,0:23:40.49,Nanoha ED,,0,0,0,,I won't forget even when I grow up

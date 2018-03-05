@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 118
-Active Line: 120
-Video Position: 13610
+Scroll Position: 9
+Active Line: 12
+Video Position: 1910
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,20 +48,20 @@ Dialogue: 0,0:00:24.24,0:00:27.26,Nanoha Narration1,,0,0,0,,That way, I will be 
 Dialogue: 0,0:00:28.24,0:00:30.96,Nanoha Narration1,,0,0,0,,There are times when\Nthe feelings cross each other.
 Dialogue: 0,0:00:31.98,0:00:33.68,Nanoha Narration1,,0,0,0,,But even then...
 Dialogue: 0,0:00:35.55,0:00:40.04,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha A's{\i1}\Nwill now begin.
-Dialogue: 0,0:00:40.68,0:00:50.68,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
-Dialogue: 0,0:01:07.30,0:01:13.64,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
-Dialogue: 0,0:01:13.64,0:01:19.82,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
-Dialogue: 0,0:01:19.82,0:01:22.85,Nanoha OP,,0,0,0,,Just like the pure white snow
-Dialogue: 0,0:01:22.85,0:01:25.92,Nanoha OP,,0,0,0,,Words that are honest no matter how far you go
-Dialogue: 0,0:01:25.92,0:01:32.80,Nanoha OP,,0,0,0,,It moves me as I wear wings of steel
-Dialogue: 0,0:01:32.80,0:01:38.33,Nanoha OP,,0,0,0,,Each time I am hurt,\NI can become kinder
-Dialogue: 0,0:01:38.33,0:01:46.77,Nanoha OP,,0,0,0,,My only wish is to protect that smile of yours to the end
-Dialogue: 0,0:01:47.81,0:01:53.82,Nanoha OP,,0,0,0,,Memories of sadness engraved across the ages
-Dialogue: 0,0:01:53.82,0:02:00.16,Nanoha OP,,0,0,0,,You are an angel of light, catching them straight on
-Dialogue: 0,0:02:00.16,0:02:05.96,Nanoha OP,,0,0,0,,An eternal blaze that stopped in my heart that day
-Dialogue: 0,0:02:05.96,0:02:09.43,Nanoha OP,,0,0,0,,Releasing the deep darkness
-Dialogue: 0,0:02:09.43,0:02:15.80,Nanoha OP,,0,0,0,,It opens the door of freedom
-Dialogue: 0,0:02:15.80,0:02:22.73,Nanoha OP,,0,0,0,,Towards the strong, boundless future
+Dialogue: 0,0:00:40.49,0:00:50.49,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
+Dialogue: 0,0:01:07.11,0:01:13.45,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
+Dialogue: 0,0:01:13.45,0:01:19.63,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
+Dialogue: 0,0:01:19.63,0:01:22.66,Nanoha OP,,0,0,0,,Just like the pure white snow
+Dialogue: 0,0:01:22.66,0:01:25.73,Nanoha OP,,0,0,0,,Words that are honest no matter how far you go
+Dialogue: 0,0:01:25.73,0:01:32.61,Nanoha OP,,0,0,0,,It moves me as I wear wings of steel
+Dialogue: 0,0:01:32.61,0:01:38.14,Nanoha OP,,0,0,0,,Each time I am hurt,\NI can become kinder
+Dialogue: 0,0:01:38.14,0:01:46.58,Nanoha OP,,0,0,0,,My only wish is to protect that smile of yours to the end
+Dialogue: 0,0:01:47.62,0:01:53.63,Nanoha OP,,0,0,0,,Memories of sadness engraved across the ages
+Dialogue: 0,0:01:53.63,0:01:59.97,Nanoha OP,,0,0,0,,You are an angel of light, catching them straight on
+Dialogue: 0,0:01:59.97,0:02:05.77,Nanoha OP,,0,0,0,,An eternal blaze that stopped in my heart that day
+Dialogue: 0,0:02:05.77,0:02:09.24,Nanoha OP,,0,0,0,,Releasing the deep darkness
+Dialogue: 0,0:02:09.24,0:02:15.61,Nanoha OP,,0,0,0,,It opens the door of freedom
+Dialogue: 0,0:02:15.61,0:02:22.54,Nanoha OP,,0,0,0,,Towards the strong, boundless future
 Dialogue: 0,0:02:38.54,0:02:39.89,Nanoha Dialogue1,,0,0,0,,Welcome, customers!
 Dialogue: 0,0:02:39.89,0:02:42.19,Nanoha Dialogue1,,0,0,0,,Welcome to Mikuniya Supermarket!
 Dialogue: 0,0:02:42.19,0:02:44.56,Nanoha Dialogue1,,0,0,0,,Today's sale items are ingredients for a hot pot,
@@ -104,7 +104,7 @@ Dialogue: 0,0:05:10.34,0:05:12.64,Nanoha Dialogue1,,0,0,0,,At least let us hear 
 Dialogue: 0,0:05:12.64,0:05:15.67,Nanoha Dialogue1,,0,0,0,,The reason you're aiming to complete the Book of Darkness...
 Dialogue: 0,0:05:15.67,0:05:19.61,Nanoha Dialogue1,,0,0,0,,Y'know, there's an old Belkan proverb.
 Dialogue: 0,0:05:20.80,0:05:23.54,Nanoha Dialogue1,,0,0,0,,Messengers of peace don't carry spears.
-Dialogue: 0,0:05:28.58,0:05:31.32,Nanoha Dialogue1,,0,0,0,,It means, only a doofus is gonna bring a weapon
+Dialogue: 0,0:05:28.38,0:05:31.32,Nanoha Dialogue1,,0,0,0,,It means, only a doofus is gonna bring a weapon
 Dialogue: 0,0:05:31.32,0:05:33.76,Nanoha Dialogue1,,0,0,0,,when they want to just talk things out!
 Dialogue: 0,0:05:33.76,0:05:34.62,Nanoha Dialogue1,,0,0,0,,Doofus!
 Dialogue: 0,0:05:35.84,0:05:40.60,Nanoha Dialogue1,,0,0,0,,This from the girl who suddenly attacked us without a word?!
@@ -188,7 +188,7 @@ Dialogue: 0,0:12:23.14,0:12:26.84,Nanoha Dialogue1,,0,0,0,,You and Lævateinn to
 Dialogue: 0,0:12:26.84,0:12:28.84,Nanoha Device1,,0,0,0,,Thanks.
 Dialogue: 0,0:12:26.84,0:12:28.84,Nanoha Device2,,0,0,0,,{\pos(476,647)}Danke.
 Dialogue: 0,0:12:28.85,0:12:31.98,Nanoha Dialogue1,,0,0,0,,If there was nothing that\Nmy body needed to accomplish,
-Dialogue: 0,0:12:31.98,0:12:34.78,Nanoha Dialogue1,,0,0,0,,then my heart would have danced with joy from this battle.
+Dialogue: 0,0:12:31.98,0:12:34.78,Nanoha Dialogue1,,0,0,0,,then my soul would have danced with joy from this battle.
 Dialogue: 0,0:12:34.78,0:12:37.57,Nanoha Dialogue1,,0,0,0,,However, for my friends and for my mistress,
 Dialogue: 0,0:12:37.57,0:12:39.26,Nanoha Dialogue1,,0,0,0,,I can't say that for the time being.
 Dialogue: 0,0:12:40.55,0:12:43.22,Nanoha Dialogue1,,0,0,0,,I'm not confident that I\Ncan win without killing you.
@@ -206,10 +206,10 @@ Dialogue: 0,0:14:06.37,0:14:08.48,Nanoha Narration1,,0,0,0,,Shamal, can you do a
 Dialogue: 0,0:14:08.48,0:14:10.04,Nanoha Narration1,,0,0,0,,I'd like to do something,
 Dialogue: 0,0:14:10.04,0:14:13.02,Nanoha Narration1,,0,0,0,,but the Bureau's operatives are maintaining a barrier from outside.
 Dialogue: 0,0:14:13.02,0:14:15.38,Nanoha Narration1,,0,0,0,,I don't have enough magical power to break through it!
-Dialogue: 0,0:14:15.38,0:14:19.79,Nanoha Narration1,,0,0,0,,You'd need power like Signum's Falcon or Vita's Giant form for that.
-Dialogue: 0,0:14:15.38,0:14:19.79,Nanoha Device2,,0,0,0,,{\pos(162,175)}Falken
-Dialogue: 0,0:14:15.38,0:14:19.79,Nanoha Device2,,0,0,0,,{\pos(500,175)}Gigant
-Dialogue: 0,0:14:19.79,0:14:21.79,Nanoha Narration1,,0,0,0,,Neither of them have a free hand right now.
+Dialogue: 0,0:14:15.38,0:14:19.77,Nanoha Narration1,,0,0,0,,You'd need power like Signum's Falcon or Vita's Giant form for that.
+Dialogue: 0,0:14:15.38,0:14:19.77,Nanoha Device2,,0,0,0,,{\pos(162,175)}Falken
+Dialogue: 0,0:14:15.38,0:14:19.77,Nanoha Device2,,0,0,0,,{\pos(500,175)}Gigant
+Dialogue: 0,0:14:19.77,0:14:21.79,Nanoha Narration1,,0,0,0,,Neither of them have a free hand right now.
 Dialogue: 0,0:14:21.79,0:14:23.79,Nanoha Narration1,,0,0,0,,There's no choice. Use it.
 Dialogue: 0,0:14:23.79,0:14:25.36,Nanoha Narration1,,0,0,0,,I know that, but...
 Dialogue: 0,0:14:27.99,0:14:30.51,Nanoha Narration1,,0,0,0,,Shamal?! What's wrong, Shamal?!
@@ -228,7 +228,7 @@ Dialogue: 0,0:15:18.00,0:15:21.63,Nanoha Dialogue1,,0,0,0,,Use the power of the 
 Dialogue: 0,0:15:21.63,0:15:23.17,Nanoha Dialogue1,,0,0,0,,But that's...
 Dialogue: 0,0:15:23.17,0:15:26.75,Nanoha Dialogue1,,0,0,0,,The pages that are used up can be added again.
 Dialogue: 0,0:15:26.75,0:15:28.94,Nanoha Dialogue1,,0,0,0,,If your comrades are defeated first,\Nit will be too late.
-Dialogue: 0,0:15:38.91,0:15:42.92,Nanoha Narration1,,0,0,0,,Everyone! I'm going to shoot\Na cannon to destroy the barrier!
+Dialogue: 0,0:15:38.91,0:15:42.92,Nanoha Narration1,,0,0,0,,Everyone! I'm going to fire\Na blast to destroy the barrier!
 Dialogue: 0,0:15:42.92,0:15:44.92,Nanoha Narration1,,0,0,0,,Avoid it as best as you can, and retreat!
 Dialogue: 0,0:15:44.92,0:15:46.36,Nanoha Narration1,,0,0,0,,Right!
 Dialogue: 0,0:15:49.88,0:15:52.42,Nanoha Dialogue1,,0,0,0,,Who in the worlds are you?\NAre you another one of them?
@@ -248,8 +248,8 @@ Dialogue: 0,0:17:04.85,0:17:07.52,Nanoha Dialogue1,,0,0,0,,Individual defenses!
 Dialogue: 0,0:17:13.98,0:17:15.99,Nanoha Dialogue1,,0,0,0,,I'm sorry, Testarossa.
 Dialogue: 0,0:17:15.99,0:17:17.58,Nanoha Dialogue1,,0,0,0,,We'll finish this duel another time.
 Dialogue: 0,0:17:17.58,0:17:19.30,Nanoha Dialogue1,,0,0,0,,Signum!
-Dialogue: 0,0:17:20.30,0:17:23.57,Nanoha Dialogue1,,0,0,0,,Vita, the {\i1}Wolkenritter{\i0}'s Knight of the Steel Hammer.
-Dialogue: 0,0:17:20.30,0:17:23.57,Nanoha Device2,,0,0,0,,{\pos(560,590)}Cloud Knights
+Dialogue: 0,0:17:20.00,0:17:23.57,Nanoha Dialogue1,,0,0,0,,Vita, the {\i1}Wolkenritter'{\i0}s Knight of the Steel Hammer.
+Dialogue: 0,0:17:20.00,0:17:23.57,Nanoha Device2,,0,0,0,,{\pos(560,590)}Cloud Knights
 Dialogue: 0,0:17:23.57,0:17:24.56,Nanoha Dialogue1,,0,0,0,,What's your name?
 Dialogue: 0,0:17:25.14,0:17:26.52,Nanoha Dialogue1,,0,0,0,,Nanoha.
 Dialogue: 0,0:17:26.52,0:17:28.06,Nanoha Dialogue1,,0,0,0,,Nanoha Takamachi!
@@ -270,7 +270,7 @@ Dialogue: 0,0:18:02.34,0:18:05.62,Nanoha Dialogue1,,0,0,0,,But they're jamming t
 Dialogue: 0,0:18:12.94,0:18:16.78,Nanoha Narration1,,0,0,0,,Nanoha, Fate, Arf, are you all right?
 Dialogue: 0,0:18:17.86,0:18:22.36,Nanoha Dialogue1,,0,0,0,,Yeah. Thanks, Yuuno, Miss Arf...
 Dialogue: 0,0:18:31.70,0:18:32.78,Nanoha Dialogue1,,0,0,0,,Over here, over here!
-Dialogue: 0,0:18:36.07,0:18:39.32,Nanoha Dialogue1,,0,0,0,,Your kitties are all\Ngood babies, Suzuka!
+Dialogue: 0,0:18:35.90,0:18:39.32,Nanoha Dialogue1,,0,0,0,,Your kitties are all\Ngood babies, Suzuka!
 Dialogue: 0,0:18:45.46,0:18:49.34,Nanoha Dialogue1,,0,0,0,,But I'm really sorry for barging in so suddenly.
 Dialogue: 0,0:18:49.34,0:18:53.64,Nanoha Dialogue1,,0,0,0,,No, not at all. I'm happy that you came out here.
 Dialogue: 0,0:18:55.59,0:18:56.98,Nanoha Dialogue1,,0,0,0,,Oh, I'll get it.
