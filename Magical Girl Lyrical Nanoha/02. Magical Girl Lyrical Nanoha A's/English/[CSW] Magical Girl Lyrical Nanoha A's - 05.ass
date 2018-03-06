@@ -20,8 +20,8 @@ Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
 Scroll Position: 7
-Active Line: 12
-Video Position: 1983
+Active Line: 9
+Video Position: 1311
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +48,7 @@ Dialogue: 0,0:00:24.24,0:00:27.26,Nanoha Narration1,,0,0,0,,That way, I will be 
 Dialogue: 0,0:00:28.24,0:00:30.96,Nanoha Narration1,,0,0,0,,There are times when\Nthe feelings cross each other.
 Dialogue: 0,0:00:31.98,0:00:33.68,Nanoha Narration1,,0,0,0,,But even then...
 Dialogue: 0,0:00:35.55,0:00:40.04,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha A's{\i1}\Nwill now begin.
-Dialogue: 0,0:00:40.49,0:00:50.49,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
+Dialogue: 0,0:00:40.49,0:00:54.72,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
 Dialogue: 0,0:01:07.20,0:01:13.58,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
 Dialogue: 0,0:01:13.58,0:01:19.64,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
 Dialogue: 0,0:01:19.64,0:01:22.72,Nanoha OP,,0,0,0,,Just like the pure white snow

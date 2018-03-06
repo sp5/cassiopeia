@@ -20,9 +20,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 11
-Active Line: 13
-Video Position: 2351
+Scroll Position: 73
+Active Line: 75
+Video Position: 7370
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,7 +43,7 @@ Dialogue: 0,0:00:15.16,0:00:17.53,Nanoha Narration1,,0,0,0,,The long night came 
 Dialogue: 0,0:00:25.80,0:00:29.40,Nanoha Narration1,,0,0,0,,The {\i0}farewell{\i1} at the parting of the ways is not the end,
 Dialogue: 0,0:00:29.40,0:00:31.33,Nanoha Narration1,,0,0,0,,but a word of beginning.
 Dialogue: 0,0:00:32.06,0:00:37.13,Nanoha Narration1,,0,0,0,,The final episode of {\i0}Magical Girl Lyrical Nanoha A's{\i1} will now begin.
-Dialogue: 0,0:00:40.41,0:00:50.41,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
+Dialogue: 0,0:00:40.41,0:00:54.63,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
 Dialogue: 0,0:01:07.12,0:01:13.50,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
 Dialogue: 0,0:01:13.50,0:01:19.56,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
 Dialogue: 0,0:01:19.56,0:01:22.64,Nanoha OP,,0,0,0,,Just like the pure white snow
@@ -111,7 +111,7 @@ Dialogue: 0,0:04:59.86,0:05:01.61,Nanoha Dialogue1,,0,0,0,,We will remain.
 Dialogue: 0,0:05:01.61,0:05:02.86,Nanoha Dialogue1,,0,0,0,,Signum...
 Dialogue: 0,0:05:02.86,0:05:05.31,Nanoha Dialogue1,,0,0,0,,Along with the protection program,
 Dialogue: 0,0:05:05.31,0:05:07.37,Nanoha Dialogue1,,0,0,0,,it seems that we\Nguardian knight programs
-Dialogue: 0,0:05:07.37,0:05:10.12,Nanoha Dialogue1,,0,0,0,,were freed from the operating system.
+Dialogue: 0,0:05:07.37,0:05:10.12,Nanoha Dialogue1,,0,0,0,,were decoupled from the core.
 Dialogue: 0,0:05:10.12,0:05:15.12,Nanoha Dialogue1,,0,0,0,,Reinforce is asking for a favor from you two.
 Dialogue: 0,0:05:15.12,0:05:16.92,Nanoha Dialogue1,,0,0,0,,A favor?
 Dialogue: 0,0:05:21.43,0:05:26.66,Nanoha Dialogue1,,0,0,0,,Hayate, you being happy makes us happier than anything else.

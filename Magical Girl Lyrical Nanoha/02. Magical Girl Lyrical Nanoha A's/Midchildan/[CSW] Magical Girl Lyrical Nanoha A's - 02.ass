@@ -19,9 +19,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 12
-Active Line: 16
-Video Position: 2217
+Scroll Position: 6
+Active Line: 10
+Video Position: 969
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +48,7 @@ Dialogue: 0,0:00:20.11,0:00:23.70,Nanoha Narration1,,0,0,0,,An encounter... a ba
 Dialogue: 0,0:00:24.54,0:00:27.48,Nanoha Narration1,,0,0,0,,Destiny is quietly being set in motion.
 Dialogue: 0,0:00:29.32,0:00:34.18,Nanoha Narration1,,0,0,0,,Even in the storm, believing in the bonds that tie hearts together.
 Dialogue: 0,0:00:35.09,0:00:39.95,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha A's{\i1}\Nwill now begin.
-Dialogue: 0,0:00:40.41,0:00:50.41,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
+Dialogue: 0,0:00:40.41,0:00:54.63,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
 Dialogue: 0,0:01:07.12,0:01:13.50,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
 Dialogue: 0,0:01:13.50,0:01:19.56,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
 Dialogue: 0,0:01:19.56,0:01:22.64,Nanoha OP,,0,0,0,,Just like the pure white snow
