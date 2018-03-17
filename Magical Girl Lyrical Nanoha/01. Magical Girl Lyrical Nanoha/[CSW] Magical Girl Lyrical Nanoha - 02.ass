@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 338
-Active Line: 339
-Video Position: 36749
+Scroll Position: 39
+Active Line: 41
+Video Position: 5872
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,15 +67,15 @@ Dialogue: 0,0:03:05.52,0:03:07.56,Nanoha Device1,,0,0,0,,Protection
 Dialogue: 0,0:03:26.67,0:03:29.40,Nanoha Dialogue1,,0,0,0,,Our magic, called programs, are magical equations
 Dialogue: 0,0:03:29.40,0:03:31.44,Nanoha Dialogue1,,0,0,0,,that are embedded into executors.
 Dialogue: 0,0:03:31.44,0:03:37.46,Nanoha Dialogue1,,0,0,0,,The caster's mental energy is needed to execute those equations.
-Dialogue: 0,0:03:40.48,0:03:44.82,Nanoha Dialogue1,,0,0,0,,And that is a thought entity, created under an ominous power.
-Dialogue: 0,0:03:45.49,0:03:48.49,Nanoha Dialogue1,,0,0,0,,To stop its activity, you need to seal it with that staff,
+Dialogue: 0,0:03:40.18,0:03:44.82,Nanoha Dialogue1,,0,0,0,,And that is a thought entity, created under an ominous power.
+Dialogue: 0,0:03:44.82,0:03:48.49,Nanoha Dialogue1,,0,0,0,,To stop its activity, you need to seal it with that staff
 Dialogue: 0,0:03:48.49,0:03:50.85,Nanoha Dialogue1,,0,0,0,,and turn it back into its original form.
-Dialogue: 0,0:03:51.05,0:03:54.38,Nanoha Dialogue1,,0,0,0,,I don't really get it.\NWhat should I do?
+Dialogue: 0,0:03:50.85,0:03:54.38,Nanoha Dialogue1,,0,0,0,,I don't really get it.\NWhat should I do?
 Dialogue: 0,0:03:54.38,0:03:57.82,Nanoha Dialogue1,,0,0,0,,Just like what you did earlier, basic maneuvers
 Dialogue: 0,0:03:57.82,0:04:00.58,Nanoha Dialogue1,,0,0,0,,such as attacking and defending will happen just by wishing for them.
 Dialogue: 0,0:04:00.58,0:04:03.30,Nanoha Dialogue1,,0,0,0,,However, to use magic that requires a higher level of power,
-Dialogue: 0,0:04:03.30,0:04:04.80,Nanoha Dialogue1,,0,0,0,,you need an incantation.
-Dialogue: 0,0:04:04.80,0:04:06.21,Nanoha Dialogue1,,0,0,0,,An incantation?
+Dialogue: 0,0:04:03.30,0:04:04.88,Nanoha Dialogue1,,0,0,0,,you need an incantation.
+Dialogue: 0,0:04:04.88,0:04:06.21,Nanoha Dialogue1,,0,0,0,,An incantation?
 Dialogue: 0,0:04:06.21,0:04:08.10,Nanoha Dialogue1,,0,0,0,,Open up your heart.
 Dialogue: 0,0:04:08.10,0:04:11.64,Nanoha Dialogue1,,0,0,0,,Your own incantation should come to mind within your heart.
 Dialogue: 0,0:04:29.52,0:04:31.56,Nanoha Device1,,0,0,0,,Protection

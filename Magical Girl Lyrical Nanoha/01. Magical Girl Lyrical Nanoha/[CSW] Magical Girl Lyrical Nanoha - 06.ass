@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 217
-Active Line: 221
-Video Position: 27344
+Scroll Position: 219
+Active Line: 220
+Video Position: 30216
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -86,8 +86,8 @@ Dialogue: 0,0:04:02.64,0:04:04.89,Nanoha Dialogue1,,0,0,0,,I'm sorry, Alisa.
 Dialogue: 0,0:04:05.84,0:04:08.39,Nanoha Dialogue1,,0,0,0,,Alisa! Alisa!
 Dialogue: 0,0:04:10.45,0:04:11.91,Nanoha Dialogue1,,0,0,0,,Alisa...
 Dialogue: 0,0:04:11.91,0:04:12.88,Nanoha Dialogue1,,0,0,0,,What is it?
-Dialogue: 0,0:04:12.88,0:04:16.22,Nanoha Dialogue1,,0,0,0,,I kind of understand why you're so angry,
-Dialogue: 0,0:04:16.22,0:04:18.32,Nanoha Dialogue1,,0,0,0,,but you shouldn't have gotten that mad.
+Dialogue: 0,0:04:12.88,0:04:16.04,Nanoha Dialogue1,,0,0,0,,I kind of understand why you're so angry,
+Dialogue: 0,0:04:16.04,0:04:18.32,Nanoha Dialogue1,,0,0,0,,but you shouldn't have gotten that mad.
 Dialogue: 0,0:04:18.32,0:04:20.16,Nanoha Dialogue1,,0,0,0,,I mean, it irritates me!
 Dialogue: 0,0:04:20.16,0:04:23.23,Nanoha Dialogue1,,0,0,0,,It's plain obvious that she's worried about something.
 Dialogue: 0,0:04:23.23,0:04:25.40,Nanoha Dialogue1,,0,0,0,,It's plain obvious that she's in trouble!
@@ -255,7 +255,7 @@ Dialogue: 0,0:18:31.65,0:18:33.92,Nanoha Narration1,,0,0,0,,The reason why I mad
 Dialogue: 0,0:18:33.92,0:18:36.05,Nanoha Narration1,,0,0,0,,was because I couldn't tell her how I really felt,
 Dialogue: 0,0:18:36.05,0:18:38.55,Nanoha Narration1,,0,0,0,,what I was really thinking.
 Dialogue: 0,0:18:43.33,0:18:45.80,Nanoha Dialogue1,,0,0,0,,Alright! Nanoha, hurry up and capture it!
-Dialogue: 0,0:18:45.80,0:18:46.98,Nanoha Narration1,,0,0,0,,As if I'll let you!
+Dialogue: 0,0:18:45.80,0:18:46.98,Nanoha Narration1,,0,0,0,,As if!
 Dialogue: 0,0:19:00.44,0:19:02.35,Nanoha Narration1,,0,0,0,,Because we both have a goal,
 Dialogue: 0,0:19:02.35,0:19:05.38,Nanoha Narration1,,0,0,0,,we probably can't help clashing against each other.
 Dialogue: 0,0:19:05.38,0:19:07.24,Nanoha Narration1,,0,0,0,,But I still want to know!
@@ -270,10 +270,10 @@ Dialogue: 0,0:19:49.43,0:19:50.90,Nanoha Dialogue1,,0,0,0,,Texting Nanoha?
 Dialogue: 0,0:19:50.90,0:19:53.08,Nanoha Dialogue1,,0,0,0,,Yeah. Saying my lesson is over.
 Dialogue: 0,0:19:59.84,0:20:01.11,Nanoha Dialogue1,,0,0,0,,Now, let's go home.
 Dialogue: 0,0:20:01.11,0:20:03.08,Nanoha Dialogue1,,0,0,0,,Okay... hold on a second!
-Dialogue: 1,0:20:04.21,0:20:06.51,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\pos(306.176,247)\frz4.767\fs36\c&HA46B77&\frx7\org(85.589,276)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine
-Dialogue: 1,0:20:06.51,0:20:08.50,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\pos(306.176,247)\frz4.767\fs36\c&HA46B77&\frx7\org(85.589,276)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope
-Dialogue: 1,0:20:08.50,0:20:10.98,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\frz4.767\fs36\c&HA46B77&\frx7\org(85.589,276)\pos(306.176,265)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope your\Nworries
-Dialogue: 1,0:20:11.00,0:20:11.25,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\frz4.767\fs36\c&HA46B77&\frx7\org(85.589,276)\pos(306.176,265)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope your\Nworries are solved
+Dialogue: 1,0:20:04.21,0:20:06.51,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\fs32\c&HA46B77&\org(599.125,966)\frz8.66\frx359\fry2\pos(430.306,251)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine
+Dialogue: 1,0:20:06.51,0:20:08.50,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\fs32\c&HA46B77&\org(599.125,966)\frz8.66\frx359\fry2\pos(430.306,251)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope
+Dialogue: 1,0:20:08.50,0:20:10.98,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\fs32\c&HA46B77&\org(599.125,966)\frz8.66\frx359\fry2\pos(430.306,267)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope your\Nworries
+Dialogue: 1,0:20:11.00,0:20:11.25,Nanoha Dialogue2,,0,0,0,,{\an4\blur0.75\fs32\c&HA46B77&\org(599.125,966)\frz8.66\frx359\fry2\pos(430.306,267)}I just got done with my\Nlesson. I'm going to go\Nhome and have dinner\Nnow. Alisa isn't all too\Nupset, so everything is\Nfine. Nanoha, I hope your\Nworries are solved
 Dialogue: 0,0:20:04.21,0:20:11.25,Nanoha Dialogue2,,0,0,0,,{\p1\1c&HFACCCD&\pos(1,219)\blur0.75}m 275 123 l 589 101 661 517 346 540{\p0}
 Dialogue: 0,0:20:12.32,0:20:16.20,Nanoha Dialogue1,,0,0,0,,...your worries are solved soon.
 Dialogue: 0,0:20:16.20,0:20:20.45,Nanoha Dialogue1,,0,0,0,,Please do your best.\NI'll always be cheering you on.
@@ -284,8 +284,8 @@ Dialogue: 0,0:20:36.32,0:20:38.42,Nanoha Device1,,0,0,0,,Divine Shooter
 Dialogue: 0,0:20:39.17,0:20:40.03,Nanoha Device1,,0,0,0,,Defenser
 Dialogue: 0,0:20:48.38,0:20:50.07,Nanoha Dialogue1,,0,0,0,,Fate!
 Dialogue: 0,0:20:54.48,0:20:56.48,Nanoha Dialogue1,,0,0,0,,You said that just talking it out,
-Dialogue: 0,0:20:56.48,0:20:58.55,Nanoha Dialogue1,,0,0,0,,mere words, won't get the point across.
-Dialogue: 0,0:20:58.55,0:21:01.42,Nanoha Dialogue1,,0,0,0,,But I'm sure there are things out there that don't make it across
+Dialogue: 0,0:20:56.48,0:20:58.28,Nanoha Dialogue1,,0,0,0,,mere words, won't get the point across.
+Dialogue: 0,0:20:58.28,0:21:01.42,Nanoha Dialogue1,,0,0,0,,But I'm sure there are things out there that don't make it across
 Dialogue: 0,0:21:01.42,0:21:04.06,Nanoha Dialogue1,,0,0,0,,unless you talk, unless you put them into words!
 Dialogue: 0,0:21:04.06,0:21:07.43,Nanoha Dialogue1,,0,0,0,,Clashing with each other, competing with each other,
 Dialogue: 0,0:21:07.43,0:21:09.90,Nanoha Dialogue1,,0,0,0,,maybe that can't be avoided...

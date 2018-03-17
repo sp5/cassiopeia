@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 361
-Active Line: 366
-Video Position: 36791
+Scroll Position: 239
+Active Line: 244
+Video Position: 24443
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,8 +42,8 @@ Dialogue: 0,0:00:17.16,0:00:19.46,Nanoha Narration1,,0,0,0,,thanks to yet anothe
 Dialogue: 0,0:00:20.04,0:00:22.24,Nanoha Narration1,,0,0,0,,A small light shining on one's feelings
 Dialogue: 0,0:00:22.24,0:00:24.97,Nanoha Narration1,,0,0,0,,while walking through the forest of hesitation
 Dialogue: 0,0:00:24.97,0:00:26.96,Nanoha Narration1,,0,0,0,,is most likely found in one's heart.
-Dialogue: 0,0:00:27.78,0:00:29.96,Nanoha Narration1,,0,0,0,,Because I decided to believe, and move forward,
-Dialogue: 0,0:00:30.84,0:00:33.49,Nanoha Narration1,,0,0,0,,even if I am headed towards a shadowed sky.
+Dialogue: 0,0:00:27.78,0:00:29.96,Nanoha Narration1,,0,0,0,,Because I decided to believe and move forward,
+Dialogue: 0,0:00:30.45,0:00:33.49,Nanoha Narration1,,0,0,0,,even if I am headed towards a shadowed sky.
 Dialogue: 0,0:00:35.26,0:00:39.08,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha{\i1}\Nwill now begin.
 Dialogue: 0,0:00:56.62,0:01:00.56,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
 Dialogue: 0,0:01:00.56,0:01:04.09,Nanoha OP,,0,0,0,,I always shivered from uncertainty
@@ -100,29 +100,29 @@ Dialogue: 0,0:05:46.45,0:05:50.38,Nanoha Dialogue1,,0,0,0,,They are fleeing usin
 Dialogue: 0,0:05:50.38,0:05:51.70,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:05:57.33,0:06:00.87,Nanoha Dialogue1,,0,0,0,,Well, the battle was stopped quickly,
 Dialogue: 0,0:06:00.87,0:06:03.50,Nanoha Dialogue1,,0,0,0,,and we've finished securing the Lost Logia,
-Dialogue: 0,0:06:03.50,0:06:05.41,Nanoha Dialogue1,,0,0,0,,so I will say that was good enough.
-Dialogue: 0,0:06:05.41,0:06:08.11,Nanoha Dialogue1,,0,0,0,,And we'll be able to hear about the situation.
+Dialogue: 0,0:06:03.50,0:06:05.08,Nanoha Dialogue1,,0,0,0,,so I will say that was good enough.
+Dialogue: 0,0:06:05.08,0:06:08.11,Nanoha Dialogue1,,0,0,0,,And we'll be able to hear about the situation.
 Dialogue: 0,0:06:11.08,0:06:12.97,Nanoha Dialogue1,,0,0,0,,Chrono, well done.
 Dialogue: 0,0:06:12.97,0:06:16.78,Nanoha Dialogue1,,0,0,0,,I'm sorry. I let one of them get away.
 Dialogue: 0,0:06:17.42,0:06:18.73,Nanoha Dialogue1,,0,0,0,,It's all right.
 Dialogue: 0,0:06:18.73,0:06:21.86,Nanoha Dialogue1,,0,0,0,,You know, I'd like to hear some of the story,
 Dialogue: 0,0:06:21.86,0:06:25.23,Nanoha Dialogue1,,0,0,0,,so can you guide those kids aboard the {\i1}Arthra?{\i0}
 Dialogue: 0,0:06:25.23,0:06:28.26,Nanoha Dialogue1,,0,0,0,,Roger that. I'll return immediately.
-Dialogue: 0,0:06:42.84,0:06:44.35,Nanoha Dialogue1,,0,0,0,,Yuuno...
-Dialogue: 0,0:06:44.35,0:06:46.86,Nanoha Dialogue1,,0,0,0,,Yuuno, what in the world is this?
-Dialogue: 0,0:06:46.86,0:06:48.85,Nanoha Dialogue1,,0,0,0,,This is inside a dimensional transport
-Dialogue: 0,0:06:48.85,0:06:51.05,Nanoha Dialogue1,,0,0,0,,owned by the Time-Space Administrative Bureau.
-Dialogue: 0,0:06:51.05,0:06:55.09,Nanoha Dialogue1,,0,0,0,,Well, to put it simply, it's\Na ship that can freely move
-Dialogue: 0,0:06:55.09,0:06:58.19,Nanoha Dialogue1,,0,0,0,,through the many dimensions that exist in the multiverse.
-Dialogue: 0,0:06:58.19,0:07:02.44,Nanoha Dialogue1,,0,0,0,,I-I don't think that's really simple.
+Dialogue: 0,0:06:42.84,0:06:44.35,Nanoha Narration1,,0,0,0,,Yuuno...
+Dialogue: 0,0:06:44.35,0:06:46.86,Nanoha Narration1,,0,0,0,,Yuuno, what in the world is this?
+Dialogue: 0,0:06:46.86,0:06:48.85,Nanoha Narration1,,0,0,0,,This is inside a dimensional transport
+Dialogue: 0,0:06:48.85,0:06:51.05,Nanoha Narration1,,0,0,0,,owned by the Time-Space Administrative Bureau.
+Dialogue: 0,0:06:51.05,0:06:55.09,Nanoha Narration1,,0,0,0,,Well, to put it simply, it's\Na ship that can freely move
+Dialogue: 0,0:06:55.09,0:06:58.19,Nanoha Narration1,,0,0,0,,through the many dimensions that exist in the multiverse.
+Dialogue: 0,0:06:58.19,0:07:02.44,Nanoha Narration1,,0,0,0,,I-I don't think that's really simple.
 Dialogue: 0,0:07:02.44,0:07:04.00,Nanoha Narration1,,0,0,0,,Let's see...
 Dialogue: 0,0:07:04.00,0:07:06.33,Nanoha Narration1,,0,0,0,,Other than the world that you live in, Nanoha,
 Dialogue: 0,0:07:06.33,0:07:08.64,Nanoha Narration1,,0,0,0,,there are many other worlds,
 Dialogue: 0,0:07:08.64,0:07:11.27,Nanoha Narration1,,0,0,0,,and my world is one of them.
 Dialogue: 0,0:07:11.27,0:07:14.14,Nanoha Narration1,,0,0,0,,This ship can cross between those worlds.
 Dialogue: 0,0:07:14.14,0:07:17.55,Nanoha Narration1,,0,0,0,,And it's them, the Time-Space Administrative Bureau,
-Dialogue: 0,0:07:17.55,0:07:20.35,Nanoha Narration1,,0,0,0,,that controls events that affect those worlds.
-Dialogue: 0,0:07:20.35,0:07:21.91,Nanoha Dialogue1,,0,0,0,,I see.
+Dialogue: 0,0:07:17.55,0:07:20.35,Nanoha Narration1,,0,0,0,,that regulates events\Nthat affect those worlds.
+Dialogue: 0,0:07:20.35,0:07:21.91,Nanoha Narration1,,0,0,0,,I see.
 Dialogue: 0,0:07:26.46,0:07:30.52,Nanoha Dialogue1,,0,0,0,,You must be uncomfortable wearing that outfit for such a long time.
 Dialogue: 0,0:07:30.52,0:07:33.99,Nanoha Dialogue1,,0,0,0,,You can release your Barrier Jacket and Device.
 Dialogue: 0,0:07:33.99,0:07:35.96,Nanoha Dialogue1,,0,0,0,,I see.
@@ -213,7 +213,7 @@ Dialogue: 0,0:12:56.75,0:13:00.62,Nanoha Dialogue1,,0,0,0,,Well, I'm sure you ca
 Dialogue: 0,0:13:00.62,0:13:02.96,Nanoha Dialogue1,,0,0,0,,Take your time, sleep on it tonight,
 Dialogue: 0,0:13:02.96,0:13:04.43,Nanoha Dialogue1,,0,0,0,,talk it out between you two,
 Dialogue: 0,0:13:04.43,0:13:06.89,Nanoha Dialogue1,,0,0,0,,and we'll discuss it again afterwards.
-Dialogue: 0,0:13:06.89,0:13:09.36,Nanoha Dialogue1,,0,0,0,,I'll see you out. Is where\NI found you all right?
+Dialogue: 0,0:13:06.89,0:13:09.36,Nanoha Dialogue1,,0,0,0,,I'll see you out.\NIs where I found you all right?
 Dialogue: 0,0:13:12.33,0:13:13.38,Nanoha Dialogue1,,0,0,0,,Sure.
 Dialogue: 0,0:13:17.51,0:13:19.91,Nanoha Dialogue1,,0,0,0,,Should we go home for now?
 Dialogue: 0,0:13:19.91,0:13:21.23,Nanoha Dialogue1,,0,0,0,,Yeah.
@@ -241,7 +241,7 @@ Dialogue: 0,0:14:39.83,0:14:42.65,Nanoha Dialogue1,,0,0,0,,The girl in the black
 Dialogue: 0,0:14:42.65,0:14:46.72,Nanoha Dialogue1,,0,0,0,,Their maximum execution power is more than triple that.
 Dialogue: 0,0:14:46.72,0:14:50.16,Nanoha Dialogue1,,0,0,0,,If it's just about magical power, they out-power you, Chrono.
 Dialogue: 0,0:14:50.16,0:14:53.50,Nanoha Dialogue1,,0,0,0,,Magic is not about the quantity of your magical power.
-Dialogue: 0,0:14:53.50,0:14:55.47,Nanoha Dialogue1,,0,0,0,,You need adaptation to suit the situation,
+Dialogue: 0,0:14:53.50,0:14:55.47,Nanoha Dialogue1,,0,0,0,,You need adaptation to suit the situation
 Dialogue: 0,0:14:55.47,0:14:58.25,Nanoha Dialogue1,,0,0,0,,and decision-making skills to use them properly!
 Dialogue: 0,0:14:58.25,0:15:01.41,Nanoha Dialogue1,,0,0,0,,Of course, I trust you on that front.
 Dialogue: 0,0:15:01.41,0:15:04.02,Nanoha Dialogue1,,0,0,0,,Chrono, you're the {\i1}Arthra'{\i0}s trump card!
@@ -276,9 +276,9 @@ Dialogue: 0,0:16:42.54,0:16:45.24,Nanoha Dialogue1,,0,0,0,,and she keeps doing h
 Dialogue: 0,0:16:45.72,0:16:49.08,Nanoha Dialogue1,,0,0,0,,Don't say bad things about my mother.
 Dialogue: 0,0:16:49.08,0:16:50.23,Nanoha Dialogue1,,0,0,0,,I will too!
 Dialogue: 0,0:16:50.23,0:16:53.91,Nanoha Dialogue1,,0,0,0,,Because I'm worried about you, Fate!
-Dialogue: 0,0:16:54.46,0:16:56.19,Nanoha Dialogue1,,0,0,0,,When you're sad,
+Dialogue: 0,0:16:53.91,0:16:56.19,Nanoha Dialogue1,,0,0,0,,When you're sad,
 Dialogue: 0,0:16:56.19,0:16:59.46,Nanoha Dialogue1,,0,0,0,,my heart hurts so much that it's like being torn apart!
-Dialogue: 0,0:16:59.46,0:17:03.13,Nanoha Dialogue1,,0,0,0,,When you're crying, my eyes and the back of my nose sting,
+Dialogue: 0,0:16:59.46,0:17:03.13,Nanoha Dialogue1,,0,0,0,,When you're crying, Fate, my eyes and the back of my nose sting,
 Dialogue: 0,0:17:03.13,0:17:05.27,Nanoha Dialogue1,,0,0,0,,and I can't do anything about it!
 Dialogue: 0,0:17:05.27,0:17:10.25,Nanoha Dialogue1,,0,0,0,,I don't like it when you're crying or grieving over something!
 Dialogue: 0,0:17:12.84,0:17:18.05,Nanoha Dialogue1,,0,0,0,,Our spirits are linked together, just a little, Arf.
@@ -287,7 +287,7 @@ Dialogue: 0,0:17:19.28,0:17:20.88,Nanoha Dialogue1,,0,0,0,,If it's hurting you,
 Dialogue: 0,0:17:20.88,0:17:23.87,Nanoha Dialogue1,,0,0,0,,I won't feel sad anymore, and I won't cry again.
 Dialogue: 0,0:17:26.72,0:17:32.19,Nanoha Dialogue1,,0,0,0,,All I want is for you\Nto smile and be happy, Fate!
 Dialogue: 0,0:17:32.19,0:17:35.36,Nanoha Dialogue1,,0,0,0,,Why... why won't you understand that?
-Dialogue: 0,0:17:35.76,0:17:37.79,Nanoha Dialogue1,,0,0,0,,Thank you, Arf.
+Dialogue: 0,0:17:35.36,0:17:37.79,Nanoha Dialogue1,,0,0,0,,Thank you, Arf.
 Dialogue: 0,0:17:37.79,0:17:42.76,Nanoha Dialogue1,,0,0,0,,But I want to fulfill my mother's wishes.
 Dialogue: 0,0:17:42.76,0:17:47.12,Nanoha Dialogue1,,0,0,0,,It's not just for my mother.\NI'm sure it's for myself as well.
 Dialogue: 0,0:17:47.12,0:17:50.00,Nanoha Dialogue1,,0,0,0,,So, just a little bit longer...

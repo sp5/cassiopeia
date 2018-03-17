@@ -17,9 +17,10 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 960x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha - 01 (BDRip 960x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Scroll Position: 99
-Active Line: 104
-Video Position: 11329
+Video Zoom Percent: 1.300000
+Scroll Position: 203
+Active Line: 206
+Video Position: 20466
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -80,8 +81,8 @@ Dialogue: 0,0:05:00.16,0:05:04.99,Nanoha Narration1,,0,0,0,,And in the Takamachi
 Dialogue: 0,0:05:05.63,0:05:06.67,Nanoha Dialogue1,,0,0,0,,Good morning!
 Dialogue: 0,0:05:06.67,0:05:08.55,Nanoha Dialogue1,,0,0,0,,Oh, Nanoha! Good morning!
 Dialogue: 0,0:05:09.17,0:05:10.24,Nanoha Dialogue1,,0,0,0,,Good morning, Nanoha.
-Dialogue: 0,0:05:10.24,0:05:12.31,Nanoha Dialogue1,,0,0,0,,Here, take these, please.
-Dialogue: 0,0:05:12.31,0:05:13.12,Nanoha Dialogue1,,0,0,0,,Okay.
+Dialogue: 0,0:05:10.24,0:05:12.10,Nanoha Dialogue1,,0,0,0,,Here, take these, please.
+Dialogue: 0,0:05:12.10,0:05:13.12,Nanoha Dialogue1,,0,0,0,,Okay.
 Dialogue: 0,0:05:13.12,0:05:17.07,Nanoha Narration1,,0,0,0,,These two are my father and mother.
 Dialogue: 0,0:05:17.07,0:05:19.13,Nanoha Dialogue1,,0,0,0,,You woke up all on your own!
 Dialogue: 0,0:05:19.13,0:05:20.63,Nanoha Dialogue1,,0,0,0,,Such a good girl.
@@ -103,9 +104,9 @@ Dialogue: 0,0:05:54.35,0:05:56.91,Nanoha Narration1,,0,0,0,,as well as for all t
 Dialogue: 0,0:05:56.91,0:05:59.18,Nanoha Dialogue1,,0,0,0,,Where are my brother and sister?
 Dialogue: 0,0:06:00.08,0:06:01.94,Nanoha Dialogue1,,0,0,0,,They might be over at the dojo.
 Dialogue: 0,0:06:07.68,0:06:10.93,Nanoha Dialogue1,,0,0,0,,Good morning, you two!\NIt's time for breakfast!
-Dialogue: 0,0:06:11.70,0:06:12.53,Nanoha Dialogue1,,0,0,0,,Morning.
+Dialogue: 0,0:06:11.58,0:06:12.53,Nanoha Dialogue1,,0,0,0,,Morning.
 Dialogue: 0,0:06:12.53,0:06:14.64,Nanoha Dialogue1,,0,0,0,,Oh, Nanoha. Good morning.
-Dialogue: 0,0:06:14.64,0:06:15.77,Nanoha Dialogue1,,0,0,0,,Here.
+Dialogue: 0,0:06:14.64,0:06:15.28,Nanoha Dialogue1,,0,0,0,,Here.
 Dialogue: 0,0:06:15.77,0:06:17.31,Nanoha Dialogue1,,0,0,0,,Thanks.
 Dialogue: 0,0:06:17.31,0:06:20.71,Nanoha Narration1,,0,0,0,,These two are my older siblings.
 Dialogue: 0,0:06:20.71,0:06:23.19,Nanoha Dialogue1,,0,0,0,,Then that's it for this morning, Miyuki.
@@ -151,7 +152,7 @@ Dialogue: 0,0:08:18.89,0:08:21.39,Nanoha Dialogue1,,0,0,0,,must have been a very
 Dialogue: 0,0:08:21.39,0:08:26.50,Nanoha Dialogue1,,0,0,0,,Just like this, there are various jobs in all sorts of places,
 Dialogue: 0,0:08:26.50,0:08:29.65,Nanoha Dialogue1,,0,0,0,,so what kind of jobs would you like to hold when you grow up?
 Dialogue: 0,0:08:30.37,0:08:33.70,Nanoha Dialogue1,,0,0,0,,It might be a good idea to start thinking about that now.
-Dialogue: 0,0:08:35.14,0:08:36.71,Nanoha Dialogue1,,0,0,0,,Rise!
+Dialogue: 0,0:08:35.14,0:08:35.88,Nanoha Dialogue1,,0,0,0,,Rise!
 Dialogue: 0,0:08:43.55,0:08:44.89,Nanoha Dialogue1,,0,0,0,,My future, huh...
 Dialogue: 0,0:08:47.96,0:08:49.99,Nanoha Dialogue1,,0,0,0,,Alisa, Suzuka,
 Dialogue: 0,0:08:49.99,0:08:51.96,Nanoha Dialogue1,,0,0,0,,you two know what you want to be when you grow up, right?
@@ -165,7 +166,7 @@ Dialogue: 0,0:09:17.78,0:09:21.49,Nanoha Dialogue1,,0,0,0,,That's one vision for
 Dialogue: 0,0:09:21.49,0:09:25.98,Nanoha Dialogue1,,0,0,0,,I have a feeling that there's something else that I want to do,
 Dialogue: 0,0:09:25.98,0:09:29.00,Nanoha Dialogue1,,0,0,0,,but it's not really clear what exactly that thing is.
 Dialogue: 0,0:09:29.00,0:09:32.80,Nanoha Dialogue1,,0,0,0,,I don't have any special traits or talents.
-Dialogue: 0,0:09:32.80,0:09:34.51,Nanoha Dialogue1,,0,0,0,,You idiot!
+Dialogue: 0,0:09:32.80,0:09:34.50,Nanoha Dialogue1,,0,0,0,,You idiot!
 Dialogue: 0,0:09:34.50,0:09:37.07,Nanoha Dialogue1,,0,0,0,,Don't say that about yourself!
 Dialogue: 0,0:09:37.07,0:09:38.11,Nanoha Dialogue1,,0,0,0,,That's right.
 Dialogue: 0,0:09:38.11,0:09:40.89,Nanoha Dialogue1,,0,0,0,,I'm sure there is something that only you can do, Nanoha.
@@ -191,26 +192,26 @@ Dialogue: 0,0:10:55.92,0:10:57.21,Nanoha Dialogue1,,0,0,0,,Nanoha?
 Dialogue: 0,0:10:57.65,0:10:58.92,Nanoha Dialogue1,,0,0,0,,No, it's nothing.
 Dialogue: 0,0:10:59.65,0:11:00.82,Nanoha Dialogue1,,0,0,0,,Sorry, sorry.
 Dialogue: 0,0:11:00.82,0:11:01.82,Nanoha Dialogue1,,0,0,0,,Are you all right?
-Dialogue: 0,0:11:01.82,0:11:03.02,Nanoha Dialogue1,,0,0,0,,Yeah.
-Dialogue: 0,0:11:03.02,0:11:03.95,Nanoha Dialogue1,,0,0,0,,Then let's go.
+Dialogue: 0,0:11:01.82,0:11:02.91,Nanoha Dialogue1,,0,0,0,,Yeah.
+Dialogue: 0,0:11:02.91,0:11:03.95,Nanoha Dialogue1,,0,0,0,,Then let's go.
 Dialogue: 0,0:11:04.59,0:11:05.78,Nanoha Dialogue1,,0,0,0,,That's impossible.
 Dialogue: 0,0:11:06.66,0:11:07.56,Nanoha Dialogue1,,0,0,0,,Nanoha!
-Dialogue: 0,0:11:07.56,0:11:09.06,Nanoha Dialogue1,,0,0,0,,Y-yeah!
-Dialogue: 0,0:11:13.57,0:11:14.26,Nanoha Narration1,,0,0,0,,Help me!
+Dialogue: 0,0:11:07.56,0:11:09.06,Nanoha Dialogue1,,0,0,0,,Y-Yeah!
+Dialogue: 0,0:11:13.36,0:11:14.26,Nanoha Narration1,,0,0,0,,Help me!
 Dialogue: 0,0:11:17.71,0:11:18.61,Nanoha Dialogue1,,0,0,0,,Nanoha?
 Dialogue: 0,0:11:18.61,0:11:21.04,Nanoha Dialogue1,,0,0,0,,Did you hear something just now?
 Dialogue: 0,0:11:21.04,0:11:22.18,Nanoha Dialogue1,,0,0,0,,Something?
 Dialogue: 0,0:11:22.18,0:11:24.33,Nanoha Dialogue1,,0,0,0,,Like a voice.
 Dialogue: 0,0:11:24.33,0:11:25.81,Nanoha Dialogue1,,0,0,0,,Not really.
 Dialogue: 0,0:11:25.81,0:11:27.58,Nanoha Dialogue1,,0,0,0,,I don't think I heard anything.
-Dialogue: 0,0:11:35.66,0:11:36.59,Nanoha Narration1,,0,0,0,,Help me!
+Dialogue: 0,0:11:35.50,0:11:36.59,Nanoha Narration1,,0,0,0,,Help me!
 Dialogue: 0,0:11:37.67,0:11:38.96,Nanoha Dialogue1,,0,0,0,,Nanoha!
 Dialogue: 0,0:11:38.96,0:11:40.35,Nanoha Dialogue1,,0,0,0,,Nanoha?!
 Dialogue: 0,0:11:44.67,0:11:47.20,Nanoha Dialogue1,,0,0,0,,I think it was from over here.
 Dialogue: 0,0:12:09.62,0:12:12.95,Nanoha Dialogue1,,0,0,0,,What's wrong, Nanoha?!\NYou ran off so suddenly!
 Dialogue: 0,0:12:12.95,0:12:15.10,Nanoha Dialogue1,,0,0,0,,Look, an animal.
-Dialogue: 0,0:12:15.10,0:12:16.83,Nanoha Dialogue1,,0,0,0,,It looks like it's hurt.
-Dialogue: 0,0:12:16.83,0:12:18.88,Nanoha Dialogue1,,0,0,0,,Yeah... what should we do?
+Dialogue: 0,0:12:15.10,0:12:16.28,Nanoha Dialogue1,,0,0,0,,It looks like it's hurt.
+Dialogue: 0,0:12:16.28,0:12:18.88,Nanoha Dialogue1,,0,0,0,,Yeah... what should we do?
 Dialogue: 0,0:12:18.88,0:12:22.60,Nanoha Dialogue1,,0,0,0,,What should we do?\NMaybe a hospital for starters?
 Dialogue: 0,0:12:22.60,0:12:23.67,Nanoha Dialogue1,,0,0,0,,You mean a vet!
 Dialogue: 0,0:12:23.67,0:12:26.68,Nanoha Dialogue1,,0,0,0,,Was there a vet around here?
@@ -226,48 +227,49 @@ Dialogue: 0,0:12:45.85,0:12:48.89,Nanoha Dialogue2,,0,0,0,,{\t(\fscx108\fscy108)
 Dialogue: 0,0:12:50.94,0:12:53.63,Nanoha Dialogue1,,0,0,0,,His wounds weren't that bad,
 Dialogue: 0,0:12:53.63,0:12:56.30,Nanoha Dialogue1,,0,0,0,,but he seems to be very weak right now.
 Dialogue: 0,0:12:56.30,0:12:59.94,Nanoha Dialogue1,,0,0,0,,Maybe he's been on his own for a while.
-Dialogue: 0,0:12:59.94,0:13:02.78,Nanoha Dialogue1,,0,0,0,,Thank you so much, Doctor!
-Dialogue: 0,0:13:02.78,0:13:04.17,Nanoha Dialogue1,,0,0,0,,Thank you very much!
+Dialogue: 0,0:12:59.94,0:13:02.68,Nanoha Dialogue1,,0,0,0,,Thank you so much, Doctor!
+Dialogue: 0,0:13:02.68,0:13:04.17,Nanoha Dialogue1,,0,0,0,,Thank you very much!
 Dialogue: 0,0:13:04.17,0:13:07.72,Nanoha Dialogue1,,0,0,0,,Oh, you're welcome!
 Dialogue: 0,0:13:09.84,0:13:13.72,Nanoha Dialogue1,,0,0,0,,Doctor, this is a ferret, right?
-Dialogue: 0,0:13:13.72,0:13:16.22,Nanoha Dialogue1,,0,0,0,,I wonder if he was someone's pet?
-Dialogue: 0,0:13:16.22,0:13:18.11,Nanoha Dialogue1,,0,0,0,,Is he a ferret?
+Dialogue: 0,0:13:13.72,0:13:16.12,Nanoha Dialogue1,,0,0,0,,I wonder if he was someone's pet?
+Dialogue: 0,0:13:16.12,0:13:18.11,Nanoha Dialogue1,,0,0,0,,Is he a ferret?
 Dialogue: 0,0:13:18.11,0:13:20.29,Nanoha Dialogue1,,0,0,0,,He's a strange breed if he is.
 Dialogue: 0,0:13:20.29,0:13:23.11,Nanoha Dialogue1,,0,0,0,,And on the collar...
 Dialogue: 0,0:13:23.11,0:13:25.72,Nanoha Dialogue1,,0,0,0,,Is this a gem?
 Dialogue: 0,0:13:27.77,0:13:29.37,Nanoha Dialogue1,,0,0,0,,He woke up!
 Dialogue: 0,0:13:39.35,0:13:40.71,Nanoha Dialogue1,,0,0,0,,He's looking...
-Dialogue: 0,0:13:42.60,0:13:45.14,Nanoha Dialogue1,,0,0,0,,Nanoha, he's looking at you.
-Dialogue: 0,0:13:45.14,0:13:46.79,Nanoha Dialogue1,,0,0,0,,Yeah...
+Dialogue: 0,0:13:42.60,0:13:44.70,Nanoha Dialogue1,,0,0,0,,Nanoha, he's looking at you.
+Dialogue: 0,0:13:44.70,0:13:46.79,Nanoha Dialogue1,,0,0,0,,Y-Yeah...
 Dialogue: 0,0:13:46.79,0:13:49.08,Nanoha Dialogue1,,0,0,0,,Um... um...
 Dialogue: 0,0:13:58.73,0:14:01.40,Nanoha Dialogue1,,0,0,0,,It's best to let him rest for a while,
 Dialogue: 0,0:14:01.40,0:14:04.40,Nanoha Dialogue1,,0,0,0,,so I'll take care of him here until tomorrow.
-Dialogue: 0,0:14:06.81,0:14:08.99,Nanoha Dialogue1,,0,0,0,,Yes, please do!
-Dialogue: 0,0:14:08.99,0:14:12.78,Nanoha Dialogue1,,0,0,0,,So come by again tomorrow to see how he's doing, okay?
-Dialogue: 0,0:14:12.78,0:14:14.24,Nanoha Dialogue1,,0,0,0,,Yes, we will!
-Dialogue: 0,0:14:14.24,0:14:16.42,Nanoha Dialogue1,,0,0,0,,Oh no, it's time for cram school!
-Dialogue: 0,0:14:16.42,0:14:17.35,Nanoha Dialogue1,,0,0,0,,You're right!
-Dialogue: 0,0:14:17.35,0:14:21.55,Nanoha Dialogue1,,0,0,0,,Then, Doctor, excuse us...\NWe'll be back tomorrow!
+Dialogue: 0,0:14:06.64,0:14:08.99,Nanoha Dialogue1,,0,0,0,,Yes, please do!
+Dialogue: 0,0:14:08.99,0:14:20.27,Nanoha Dialogue2,,0,0,0,,{\fax-0.5\an8\blur0.5\b1\fs9\c&HDFFEED&\frz5.684\move(609.135,670,754.286,622,25,11244)}Makihara Veterinary{\b0}
+Dialogue: 1,0:14:08.99,0:14:12.78,Nanoha Dialogue1,,0,0,0,,So come by again tomorrow to see how he's doing, okay?
+Dialogue: 1,0:14:12.78,0:14:14.24,Nanoha Dialogue1,,0,0,0,,Yes, we will!
+Dialogue: 1,0:14:14.24,0:14:16.42,Nanoha Dialogue1,,0,0,0,,Oh no, it's time for cram school!
+Dialogue: 1,0:14:16.42,0:14:17.35,Nanoha Dialogue1,,0,0,0,,You're right!
+Dialogue: 1,0:14:17.35,0:14:21.55,Nanoha Dialogue1,,0,0,0,,Then, Doctor, excuse us...\NWe'll be back tomorrow!
 Dialogue: 0,0:14:23.52,0:14:27.22,Nanoha Dialogue1,,0,0,0,,Well, let's start with an application of what we learned last time.
 Dialogue: 0,0:14:28.22,0:14:31.29,Nanoha Dialogue1,,0,0,0,,Starting from the top of page 47 of the textbook.
 Dialogue: 0,0:14:31.29,0:14:32.76,Nanoha Dialogue1,,0,0,0,,Let's look at the sample problem.
-Dialogue: 0,0:14:32.75,0:14:34.33,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\pos(770.311,333.5)}What should we do\Nwith this guy?\N—N
-Dialogue: 0,0:14:34.33,0:14:34.70,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(762.294,338,1080.626,205,2,335)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:32.75,0:14:34.29,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\pos(770.311,333.5)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:34.29,0:14:34.62,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(770.311,333.5,990.531,240.5,0,292)}What should we do\Nwith this guy?\N—N
 Dialogue: 0,0:14:33.90,0:14:37.26,Nanoha Dialogue1,,0,0,0,,The sample problem says 39/45.
-Dialogue: 0,0:14:37.01,0:14:37.51,Alisa Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\move(819.22,74.5,293.672,295.5,33,492)}We have dogs\Nrunning around\Nin our backyard...\N—A
-Dialogue: 0,0:14:37.51,0:14:39.83,Alisa Handwriting,,0,0,0,,{\an5\c&H707677&\blur0.75\frz24.31\pos(290.669,298.5)}We have dogs\Nrunning around\Nin our backyard...\N—A
-Dialogue: 0,0:14:39.83,0:14:40.21,Alisa Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\move(283.662,301.5,-68.705,457.5,7,341)}We have dogs\Nrunning around\Nin our backyard...\N—A
-Dialogue: 0,0:14:37.17,0:14:37.51,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(1027.579,228.5,775.316,332.5,40,332)}What should we do\Nwith this guy?\N—N
-Dialogue: 0,0:14:37.51,0:14:39.83,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\pos(770.311,333.5)}What should we do\Nwith this guy?\N—N
-Dialogue: 0,0:14:39.83,0:14:40.46,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(770.311,333.5,16.526,668.5,7,591)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:37.01,0:14:37.55,Alisa Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\move(819.22,74.5,290.669,298.5,33,492)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:37.55,0:14:39.79,Alisa Handwriting,,0,0,0,,{\an5\c&H707677&\blur0.75\frz24.31\pos(290.669,298.5)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:39.79,0:14:40.21,Alisa Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz24.31\move(290.669,298.5,-68.705,457.5,7,341)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:37.17,0:14:37.55,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(1027.579,228.5,770.311,333.5,40,332)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:37.55,0:14:39.79,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\pos(770.311,333.5)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:39.79,0:14:40.46,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(770.311,333.5,10.011,674,7,631)}What should we do\Nwith this guy?\N—N
 Dialogue: 0,0:14:39.01,0:14:41.74,Nanoha Dialogue1,,0,0,0,,Both the numerator and denominator can be divided by three.
 Dialogue: 0,0:14:41.74,0:14:43.70,Nanoha Dialogue1,,0,0,0,,So it can be reduced to 13/15.
-Dialogue: 0,0:14:42.60,0:14:43.01,Suzuka Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz23.03\move(9.253,752,409.669,578,32,407)}We have cats\Nin our house too.\N—S
-Dialogue: 0,0:14:43.01,0:14:44.80,Suzuka Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz23.03\pos(411.671,577)}We have cats\Nin our house too.\N—S
-Dialogue: 0,0:14:42.40,0:14:43.01,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(16.526,667.5,767.308,334.5,23,407)}What should we do\Nwith this guy?\N—N
-Dialogue: 0,0:14:43.01,0:14:44.80,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\pos(770.311,333.5)}What should we do\Nwith this guy?\N—N
-Dialogue: 0,0:14:42.70,0:14:43.01,Alisa Handwriting,,0,0,0,,{\an5\c&H707677&\blur0.75\frz24.31\move(19.386,421.5,288.667,299.5,15,307)}We have dogs\Nrunning around\Nin our backyard...\N—A
-Dialogue: 0,0:14:43.01,0:14:44.80,Alisa Handwriting,,0,0,0,,{\an5\c&H707677&\blur0.75\frz24.31\pos(290.669,298.5)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:42.60,0:14:43.05,Suzuka Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz23.03\move(9.253,752,411.671,577,32,407)}We have cats\Nin our house too.\N—S
+Dialogue: 0,0:14:43.05,0:14:44.80,Suzuka Handwriting,,0,0,0,,{\an5\c&H737373&\blur0.75\frz23.03\pos(411.671,577)}We have cats\Nin our house too.\N—S
+Dialogue: 0,0:14:42.40,0:14:43.05,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\move(18.528,666.5,770.311,333.5,23,407)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:43.05,0:14:44.80,Nanoha Handwriting,,0,0,0,,{\an5\frz23.81\c&H737373&\blur0.75\pos(770.311,333.5)}What should we do\Nwith this guy?\N—N
+Dialogue: 0,0:14:42.70,0:14:43.05,Alisa Handwriting,,0,0,0,,{\an5\c&H707677&\blur0.75\frz24.31\move(13.38,422.5,290.669,298.5,15,307)}We have dogs\Nrunning around\Nin our backyard...\N—A
+Dialogue: 0,0:14:43.05,0:14:44.80,Alisa Handwriting,,0,0,0,,{\an5\c&H707677&\blur0.75\frz24.31\pos(290.669,298.5)}We have dogs\Nrunning around\Nin our backyard...\N—A
 Dialogue: 0,0:14:45.81,0:14:48.15,Nanoha Narration1,,0,0,0,,We handle food as our business,
 Dialogue: 0,0:14:48.15,0:14:51.28,Nanoha Narration1,,0,0,0,,so raising pets is basically out of the question.
 Dialogue: 0,0:14:51.28,0:14:53.98,Nanoha Dialogue1,,0,0,0,,Then let's have the answer to this question answered by...
@@ -294,18 +296,18 @@ Dialogue: 0,0:15:44.00,0:15:46.21,Nanoha Dialogue1,,0,0,0,,Ferrets are small cri
 Dialogue: 0,0:15:46.21,0:15:47.25,Nanoha Dialogue1,,0,0,0,,You know about them?
 Dialogue: 0,0:15:48.48,0:15:49.51,Nanoha Dialogue1,,0,0,0,,It was about this big.
 Dialogue: 0,0:15:49.51,0:15:51.43,Nanoha Dialogue1,,0,0,0,,If it's for a short while...
-Dialogue: 0,0:15:51.43,0:15:54.38,Nanoha Dialogue1,,0,0,0,,...and if you keep it in a cage and take proper care of it,
-Dialogue: 0,0:15:54.38,0:15:55.95,Nanoha Dialogue1,,0,0,0,,I don't mind.
-Dialogue: 0,0:15:55.95,0:15:57.43,Nanoha Dialogue1,,0,0,0,,Kyōya, Miyuki, what do you think?
+Dialogue: 0,0:15:51.43,0:15:54.16,Nanoha Dialogue1,,0,0,0,,...and if you keep it in a cage and take proper care of it,
+Dialogue: 0,0:15:54.16,0:15:55.70,Nanoha Dialogue1,,0,0,0,,I don't mind.
+Dialogue: 0,0:15:55.70,0:15:57.43,Nanoha Dialogue1,,0,0,0,,Kyōya, Miyuki, what do you think?
 Dialogue: 0,0:15:57.43,0:15:59.84,Nanoha Dialogue1,,0,0,0,,I don't have any problems with it.
 Dialogue: 0,0:15:59.84,0:16:00.58,Nanoha Dialogue1,,0,0,0,,Neither do I.
 Dialogue: 0,0:16:02.82,0:16:03.86,Nanoha Dialogue1,,0,0,0,,And that's that.
 Dialogue: 0,0:16:03.86,0:16:04.90,Nanoha Dialogue1,,0,0,0,,Isn't that nice?
 Dialogue: 0,0:16:05.82,0:16:07.69,Nanoha Dialogue1,,0,0,0,,Yeah! Thank you!
-Dialogue: 0,0:16:08.65,0:16:10.96,Nanoha Dialogue1,,0,0,0,,Now, eat up before it gets cold.
-Dialogue: 0,0:16:10.96,0:16:12.03,Nanoha Dialogue1,,0,0,0,,Okay!
-Dialogue: 0,0:16:12.03,0:16:13.87,Nanoha Dialogue1,,0,0,0,,Momoko, can you pass me the salad?
-Dialogue: 0,0:16:13.87,0:16:15.00,Nanoha Dialogue1,,0,0,0,,Sure, here you go.
+Dialogue: 0,0:16:08.65,0:16:10.84,Nanoha Dialogue1,,0,0,0,,Now, eat up before it gets cold.
+Dialogue: 0,0:16:10.84,0:16:12.03,Nanoha Dialogue1,,0,0,0,,Okay!
+Dialogue: 0,0:16:12.03,0:16:13.74,Nanoha Dialogue1,,0,0,0,,Momoko, can you pass me the salad?
+Dialogue: 0,0:16:13.74,0:16:15.00,Nanoha Dialogue1,,0,0,0,,Sure, here you go.
 Dialogue: 0,0:16:15.00,0:16:15.50,Nanoha Dialogue1,,0,0,0,,Me too.
 Dialogue: 0,0:16:15.50,0:16:16.34,Nanoha Dialogue1,,0,0,0,,Coming!
 Dialogue: 0,0:16:19.79,0:16:22.01,Nanoha Narration1,,0,0,0,,Alisa, Suzuka,
@@ -324,12 +326,14 @@ Dialogue: 0,0:17:09.44,0:17:12.09,Nanoha Dialogue1,,0,0,0,,Is the little guy tal
 Dialogue: 0,0:17:12.09,0:17:14.38,Nanoha Narration1,,0,0,0,,Please, come to me!
 Dialogue: 0,0:17:14.38,0:17:17.80,Nanoha Narration1,,0,0,0,,Time is... danger is... now...
 Dialogue: 0,0:17:29.77,0:17:32.36,Nanoha Narration1,,0,0,0,,Please reach her!
-Dialogue: 0,0:17:48.24,0:17:50.00,Nanoha Dialogue2,,0,0,0,,{\t(\fscx85\fscy85)\an7\blur1\b1\fs48\org(480,360)\move(4.404,150.5,327.741,192.5,36,1746)\frx358\fry353\frz356.3}Makihara Veterinary{\b0}
+Dialogue: 0,0:17:48.24,0:17:49.27,Nanoha Dialogue2,,0,0,0,,{\t(\fscx85\fscy85)\an7\blur2\b1\fs40\org(-5.506,154)\fry343\frz2.236\move(35.436,156.5,231.641,192.5,36,1746)}Makihara {\blur1}Veterinary
+Dialogue: 0,0:17:49.27,0:17:50.00,Nanoha Dialogue2,,0,0,0,,{\fscx85\fscy85\t(\fscx75\fscy75)\an7\blur1\b1\fs40\org(-5.506,154)\fry343\frz2.236\move(149.555,177.5,223.632,190.5,7,716)}Makihara {\blur2}Veterinary
 Dialogue: 0,0:18:02.54,0:18:04.27,Nanoha Dialogue1,,0,0,0,,That sound again?!
+Dialogue: 0,0:18:04.26,0:18:07.29,Nanoha Dialogue2,,0,0,0,,{\an8\blur0.5\b1\fs8\c&HEFE0C2&\frz18.52\pos(576.77,633.692)}Makihara Veterinary{\b0}
 Dialogue: 0,0:18:28.87,0:18:29.88,Nanoha Dialogue1,,0,0,0,,That was...
 Dialogue: 0,0:18:48.22,0:18:50.60,Nanoha Dialogue1,,0,0,0,,What?! What in the world is going on?!
 Dialogue: 0,0:18:53.63,0:18:55.40,Nanoha Dialogue1,,0,0,0,,You came for me?
-Dialogue: 0,0:18:56.36,0:18:57.79,Nanoha Dialogue1,,0,0,0,,It talked!
+Dialogue: 0,0:18:56.36,0:18:57.79,Nanoha Dialogue1,,0,0,0,,He talked!
 Dialogue: 0,0:19:07.98,0:19:11.38,Nanoha Dialogue1,,0,0,0,,Well... I really don't know what's going on here.
 Dialogue: 0,0:19:11.38,0:19:13.90,Nanoha Dialogue1,,0,0,0,,What in the world was that?\NWhat's going on?!
 Dialogue: 0,0:19:13.90,0:19:16.30,Nanoha Dialogue1,,0,0,0,,You have talent.
@@ -338,8 +342,8 @@ Dialogue: 0,0:19:20.15,0:19:21.39,Nanoha Dialogue1,,0,0,0,,Talent?
 Dialogue: 0,0:19:21.39,0:19:23.75,Nanoha Dialogue1,,0,0,0,,I came here from a different world,
 Dialogue: 0,0:19:23.75,0:19:26.29,Nanoha Dialogue1,,0,0,0,,in order to search for a certain something.
 Dialogue: 0,0:19:26.29,0:19:30.76,Nanoha Dialogue1,,0,0,0,,But I might not be able to make that happen with my power alone.
-Dialogue: 0,0:19:30.77,0:19:34.03,Nanoha Dialogue1,,0,0,0,,So, I know this will be a burden for you,
-Dialogue: 0,0:19:34.03,0:19:36.40,Nanoha Dialogue1,,0,0,0,,but I need someone with talent to help me out.
+Dialogue: 0,0:19:30.77,0:19:33.90,Nanoha Dialogue1,,0,0,0,,So, I know this will be a burden for you,
+Dialogue: 0,0:19:33.90,0:19:36.40,Nanoha Dialogue1,,0,0,0,,but I need someone with talent to help me out.
 Dialogue: 0,0:19:37.40,0:19:39.90,Nanoha Dialogue1,,0,0,0,,I will reward you. I will make sure to!
 Dialogue: 0,0:19:39.90,0:19:43.71,Nanoha Dialogue1,,0,0,0,,I want you to use the power that I have!
 Dialogue: 0,0:19:43.71,0:19:47.18,Nanoha Dialogue1,,0,0,0,,My power.... magic power!
@@ -351,7 +355,7 @@ Dialogue: 0,0:20:07.83,0:20:09.03,Nanoha Dialogue1,,0,0,0,,Take this!
 Dialogue: 0,0:20:11.17,0:20:12.67,Nanoha Dialogue1,,0,0,0,,It's warm.
 Dialogue: 0,0:20:12.67,0:20:16.04,Nanoha Dialogue1,,0,0,0,,Hold it, close your eyes, and open your mind.
 Dialogue: 0,0:20:16.04,0:20:18.00,Nanoha Dialogue1,,0,0,0,,Repeat after me.
-Dialogue: 0,0:20:23.15,0:20:24.57,Nanoha Dialogue1,,0,0,0,,Okay? Here goes!
+Dialogue: 0,0:20:23.00,0:20:24.57,Nanoha Dialogue1,,0,0,0,,Okay? Here goes!
 Dialogue: 0,0:20:25.29,0:20:26.45,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:20:28.56,0:20:31.12,Nanoha Dialogue1,,0,0,0,,I am the one who has been given a mission.
 Dialogue: 0,0:20:31.12,0:20:35.63,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}I am the one who has been given a mission.

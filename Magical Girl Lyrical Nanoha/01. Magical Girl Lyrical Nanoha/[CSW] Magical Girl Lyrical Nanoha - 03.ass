@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 78
-Active Line: 80
-Video Position: 10616
+Scroll Position: 39
+Active Line: 41
+Video Position: 6332
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -67,7 +67,7 @@ Dialogue: 0,0:03:16.96,0:03:19.22,Nanoha Dialogue1,,0,0,0,,Nanoha, thanks for th
 Dialogue: 0,0:03:26.46,0:03:30.73,Nanoha Narration1,,0,0,0,,Well, I'm now working as what you'd call a magical girl.
 Dialogue: 0,0:03:44.11,0:03:46.04,Nanoha Dialogue1,,0,0,0,,Nanoha, are you all right?
 Dialogue: 0,0:03:46.04,0:03:50.66,Nanoha Dialogue1,,0,0,0,,I'm all right, but I'm a bit tired.
-Dialogue: 0,0:03:52.88,0:03:54.62,Nanoha Dialogue1,,0,0,0,,Nanoha! Nanoha, are you all right?
+Dialogue: 0,0:03:52.50,0:03:54.62,Nanoha Dialogue1,,0,0,0,,N-Nanoha! Nanoha, are you all right?
 Dialogue: 1,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\blur0.5\frx30\pos(478.999,145)\bord0}Episode 3
 Dialogue: 0,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\blur3\frx30\pos(478.999,145)\c&H8352A8&}Episode 3
 Dialogue: 1,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(482.671,506)\bord0}The City's in a Lot of Danger?
@@ -75,11 +75,16 @@ Dialogue: 0,0:03:55.32,0:04:01.34,Nanoha Title1,,0,0,0,,{\an5\blur3\frx-30\pos(4
 Dialogue: 0,0:04:09.84,0:04:13.76,Nanoha Dialogue1,,0,0,0,,Nanoha, it's morning.\NYou should get up soon.
 Dialogue: 0,0:04:13.76,0:04:19.04,Nanoha Dialogue1,,0,0,0,,Today's Sunday, so let me sleep in just a bit more.
 Dialogue: 0,0:04:19.04,0:04:20.28,Nanoha Dialogue1,,0,0,0,,Nanoha!
+Dialogue: 0,0:04:20.28,0:04:21.36,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Nanoha!
+Dialogue: 0,0:04:21.36,0:04:23.86,Nanoha Dialogue1,,0,0,0,,You can't sleep all day!
 Dialogue: 0,0:04:20.28,0:04:23.86,Nanoha Narration1,,0,0,0,,I'm Nanoha Takamachi, a third-grader.
 Dialogue: 0,0:04:24.72,0:04:27.08,Nanoha Narration1,,0,0,0,,Thanks to an introduction and a series of coincidences,
 Dialogue: 0,0:04:27.08,0:04:31.25,Nanoha Narration1,,0,0,0,,I met Yuuno, who is a mage from another world.
 Dialogue: 0,0:04:31.25,0:04:34.13,Nanoha Narration1,,0,0,0,,During the day,\NI'm an ordinary schoolgirl,
+Dialogue: 0,0:04:32.35,0:04:33.16,Nanoha Dialogue1,,0,0,0,,Nanoha!
+Dialogue: 0,0:04:33.16,0:04:34.64,Nanoha Dialogue1,,0,0,0,,Hey, Nanoha!
 Dialogue: 0,0:04:34.13,0:04:36.88,Nanoha Narration1,,0,0,0,,and at night, I'm a magical girl,
+Dialogue: 0,0:04:34.64,0:04:36.20,Nanoha Dialogue1,,0,0,0,,Nanoha! Nanoha!
 Dialogue: 0,0:04:36.88,0:04:40.54,Nanoha Narration1,,0,0,0,,searching for the Jewel Seeds, which Yuuno is looking for.
 Dialogue: 0,0:04:51.04,0:04:53.02,Nanoha Device1,,0,0,0,,Confirmation.
 Dialogue: 0,0:05:01.39,0:05:03.30,Nanoha Narration1,,0,0,0,,It's been one week since I met Yuuno.

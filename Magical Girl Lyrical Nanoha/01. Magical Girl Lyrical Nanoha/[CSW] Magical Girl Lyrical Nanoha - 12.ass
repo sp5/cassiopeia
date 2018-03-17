@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 269
-Active Line: 271
-Video Position: 33004
+Scroll Position: 179
+Active Line: 184
+Video Position: 21766
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -76,9 +76,9 @@ Dialogue: 0,0:03:10.00,0:03:12.44,Nanoha Dialogue1,,0,0,0,,Arf, you stay by Fate
 Dialogue: 0,0:03:12.44,0:03:14.02,Nanoha Dialogue1,,0,0,0,,Right!
 Dialogue: 0,0:03:14.03,0:03:15.23,Nanoha Dialogue1,,0,0,0,,Let's go!
 Dialogue: 0,0:03:15.23,0:03:16.50,Nanoha Dialogue1,,0,0,0,,Yeah!
-Dialogue: 0,0:03:16.50,0:03:20.08,Nanoha Dialogue1,,0,0,0,,Chrono, Miss Nanoha, Yuuno!
-Dialogue: 0,0:03:20.08,0:03:22.10,Nanoha Dialogue1,,0,0,0,,I'm going to head on-site as well!
-Dialogue: 0,0:03:22.10,0:03:25.20,Nanoha Dialogue1,,0,0,0,,I will trust you all with\Nthe arrest of Presea Testarossa!
+Dialogue: 0,0:03:16.50,0:03:19.99,Nanoha Dialogue1,,0,0,0,,Chrono, Nanoha, Yuuno!
+Dialogue: 0,0:03:19.99,0:03:21.99,Nanoha Dialogue1,,0,0,0,,I'm going to head on-site as well!
+Dialogue: 0,0:03:21.99,0:03:25.20,Nanoha Dialogue1,,0,0,0,,I will trust you all with\Nthe arrest of Presea Testarossa!
 Dialogue: 0,0:03:25.20,0:03:26.26,Nanoha Dialogue1,,0,0,0,,Roger!
 Dialogue: 0,0:03:33.64,0:03:39.67,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,240)}{\b1}Episode 12{\b0}
 Dialogue: 0,0:03:33.64,0:03:39.67,Nanoha Dialogue2,,0,0,0,,{\blur0.5\an5\pos(480,480)}{\b1}When Our Fates Are Sealed{\b0}
@@ -134,7 +134,7 @@ Dialogue: 0,0:08:10.92,0:08:13.08,Nanoha Narration1,,0,0,0,,Arf, you've been at 
 Dialogue: 0,0:08:14.18,0:08:16.53,Nanoha Narration1,,0,0,0,,I'm sure you were deeply saddened
 Dialogue: 0,0:08:16.53,0:08:18.96,Nanoha Narration1,,0,0,0,,when I didn't listen\Nto what you had to say.
 Dialogue: 0,0:08:22.04,0:08:25.22,Nanoha Narration1,,0,0,0,,That girl in the white outfit who\NI clashed with so many times...
-Dialogue: 0,0:08:27.00,0:08:29.37,Nanoha Narration1,,0,0,0,,The first person who looked at me straight on,
+Dialogue: 0,0:08:27.00,0:08:29.37,Nanoha Narration1,,0,0,0,,The first person who looked at me straight on
 Dialogue: 0,0:08:29.37,0:08:32.00,Nanoha Narration1,,0,0,0,,and treated me as an equal.
 Dialogue: 0,0:08:33.04,0:08:35.66,Nanoha Narration1,,0,0,0,,I saw her many times,\NI fought her many times,
 Dialogue: 0,0:08:36.51,0:08:40.68,Nanoha Narration1,,0,0,0,,and she called out my name so many times.
@@ -219,7 +219,7 @@ Dialogue: 0,0:14:30.10,0:14:32.08,Nanoha Dialogue1,,0,0,0,,I'm sorry I made you 
 Dialogue: 0,0:14:32.08,0:14:34.64,Nanoha Dialogue1,,0,0,0,,I'll end it with my own hands,
 Dialogue: 0,0:14:35.37,0:14:39.66,Nanoha Dialogue1,,0,0,0,,and after that, I'll begin\Nto be my true self.
 Dialogue: 0,0:14:54.42,0:14:57.16,Nanoha Dialogue1,,0,0,0,,Just a little bit more...
-Dialogue: 0,0:15:07.82,0:15:10.94,Nanoha Dialogue1,,0,0,0,,We can head to the reactor\Nfrom that elevator.
+Dialogue: 0,0:15:07.82,0:15:10.94,Nanoha Dialogue1,,0,0,0,,You can head to the reactor\Nfrom that elevator.
 Dialogue: 0,0:15:10.94,0:15:12.72,Nanoha Dialogue1,,0,0,0,,Okay, thanks!
 Dialogue: 0,0:15:13.30,0:15:17.60,Nanoha Dialogue1,,0,0,0,,Fate, are you going to\Nhead over to your mom?
 Dialogue: 0,0:15:17.60,0:15:18.48,Nanoha Dialogue1,,0,0,0,,Yeah.

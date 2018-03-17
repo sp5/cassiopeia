@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 313
-Active Line: 317
-Video Position: 29904
+Scroll Position: 292
+Active Line: 295
+Video Position: 27871
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -185,7 +185,7 @@ Dialogue: 0,0:10:43.01,0:10:46.01,Nanoha Dialogue1,,0,0,0,,Yes, Mom.
 Dialogue: 0,0:10:48.75,0:10:52.09,Nanoha Dialogue1,,0,0,0,,And that's how it's been for the past ten days.
 Dialogue: 0,0:10:52.09,0:10:54.75,Nanoha Dialogue1,,0,0,0,,Oh, I see!
 Dialogue: 0,0:10:54.75,0:10:56.46,Nanoha Narration1,,0,0,0,,Mrs. Lindy...
-Dialogue: 0,0:10:56.46,0:10:58.59,Nanoha Narration1,,0,0,0,,It's either a really great cover-up,
+Dialogue: 0,0:10:56.46,0:10:58.59,Nanoha Narration1,,0,0,0,,It's either a really great cover-up
 Dialogue: 0,0:10:58.59,0:11:00.26,Nanoha Narration1,,0,0,0,,or a complete lie...
 Dialogue: 0,0:11:00.26,0:11:01.66,Nanoha Narration1,,0,0,0,,Amazing.
 Dialogue: 0,0:11:01.66,0:11:03.76,Nanoha Narration1,,0,0,0,,I can't tell them the truth.
@@ -267,7 +267,7 @@ Dialogue: 0,0:15:42.62,0:15:43.90,Nanoha Narration1,,0,0,0,,Yes.
 Dialogue: 0,0:15:44.54,0:15:47.65,Nanoha Dialogue1,,0,0,0,,Chrono Harlaown with the Time-Space\NAdministrative Bureau here.
 Dialogue: 0,0:15:47.65,0:15:50.16,Nanoha Dialogue1,,0,0,0,,It seems like the situation is very complex.
 Dialogue: 0,0:15:50.16,0:15:53.47,Nanoha Dialogue1,,0,0,0,,If you speak honestly, I will make sure it doesn't work against you.
-Dialogue: 0,0:15:53.47,0:15:58.54,Nanoha Dialogue1,,0,0,0,,About you, and about your master, Fate Testarossa.
+Dialogue: 0,0:15:53.47,0:15:58.54,Nanoha Dialogue1,,0,0,0,,About you, and about\Nyour mistress, Fate Testarossa.
 Dialogue: 0,0:16:00.07,0:16:02.48,Nanoha Narration1,,0,0,0,,I'll tell you everything.
 Dialogue: 0,0:16:02.48,0:16:06.48,Nanoha Narration1,,0,0,0,,But you have to promise me that you will save Fate!
 Dialogue: 0,0:16:06.48,0:16:08.98,Nanoha Narration1,,0,0,0,,She hasn't done anything wrong!
@@ -329,10 +329,10 @@ Dialogue: 0,0:18:56.24,0:18:58.92,Nanoha Dialogue1,,0,0,0,,wasn't because you we
 Dialogue: 0,0:18:58.92,0:19:01.24,Nanoha Dialogue1,,0,0,0,,or because you were always distracted.
 Dialogue: 0,0:19:01.24,0:19:05.82,Nanoha Dialogue1,,0,0,0,,It was because you looked troubled and confused, Nanoha.
 Dialogue: 0,0:19:05.82,0:19:07.60,Nanoha Dialogue1,,0,0,0,,And every so often...
-Dialogue: 0,0:19:07.60,0:19:10.80,Nanoha Dialogue1,,0,0,0,,You looked like you were going to go somewhere,
+Dialogue: 0,0:19:07.60,0:19:10.80,Nanoha Dialogue1,,0,0,0,,You looked like you were going to go somewhere
 Dialogue: 0,0:19:10.80,0:19:13.84,Nanoha Dialogue1,,0,0,0,,and never come back\Nto see us ever again.
 Dialogue: 0,0:19:22.44,0:19:24.77,Nanoha Dialogue1,,0,0,0,,I won't be going anywhere.
-Dialogue: 0,0:19:26.08,0:19:27.32,Nanoha Dialogue1,,0,0,0,,You're my friends.
+Dialogue: 0,0:19:25.42,0:19:27.32,Nanoha Dialogue1,,0,0,0,,You're my friends.
 Dialogue: 0,0:19:27.32,0:19:28.92,Nanoha Dialogue1,,0,0,0,,I wouldn't go anywhere!
 Dialogue: 0,0:19:30.08,0:19:31.02,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:19:37.06,0:19:38.06,Nanoha Narration1,,0,0,0,,Right.
@@ -354,7 +354,7 @@ Dialogue: 0,0:20:37.80,0:20:40.74,Nanoha Dialogue1,,0,0,0,,Well, you're a strong
 Dialogue: 0,0:20:40.74,0:20:43.43,Nanoha Dialogue1,,0,0,0,,I'm not all that worried.
 Dialogue: 0,0:20:43.43,0:20:46.14,Nanoha Dialogue1,,0,0,0,,Make sure to do your best!
 Dialogue: 0,0:20:47.23,0:20:48.14,Nanoha Dialogue1,,0,0,0,,I will!
-Dialogue: 0,0:20:55.84,0:21:00.34,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,375)\an5\pos(480,490.5)}{\fs45\b1}City of Uminari suburbs\NTakamachi residence, 5:27 AM{\b0}
+Dialogue: 0,0:20:55.84,0:21:00.34,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,460)\an5\pos(480,490.5)}{\fs45\b1}City of Uminari suburbs\NTakamachi residence, 5:27 AM{\b0}
 Dialogue: 0,0:21:05.18,0:21:05.78,Nanoha Narration1,,0,0,0,,Nanoha!
 Dialogue: 0,0:21:18.49,0:21:22.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\an5\pos(480,564)\fs45\b1\c&HFEFFEF&}Uminari Seaside Park, 5:55 AM{\b0}
 Dialogue: 0,0:21:31.22,0:21:33.64,Nanoha Dialogue1,,0,0,0,,It's all right if it's here, right?

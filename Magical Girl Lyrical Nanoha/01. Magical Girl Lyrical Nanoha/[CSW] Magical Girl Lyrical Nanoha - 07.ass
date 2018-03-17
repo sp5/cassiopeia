@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 73
-Active Line: 74
-Video Position: 10634
+Scroll Position: 125
+Active Line: 127
+Video Position: 16814
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,7 +60,7 @@ Dialogue: 0,0:01:53.69,0:01:58.23,Nanoha OP,,0,0,0,,Right now, a warmth that mig
 Dialogue: 0,0:01:58.23,0:02:02.80,Nanoha OP,,0,0,0,,Parts itself from the past, and overflows
 Dialogue: 0,0:02:02.80,0:02:07.37,Nanoha OP,,0,0,0,,I'll be by your side forever
 Dialogue: 0,0:02:07.37,0:02:17.37,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
-Dialogue: 0,0:02:24.07,0:02:28.89,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(959,1293)\an5\pos(480.676,490.5)}{\fs45\b1}April 26, 8:27 PM\NCity of Uminari outskirts, within the barrier{\b0}{\b0}
+Dialogue: 0,0:02:24.07,0:02:28.89,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(959,1293)\an5\pos(480.676,490.5)}{\fs45\b1}April 26, 8:27 PM\NCity of Uminari, downtown, within the barrier{\b0}{\b0}
 Dialogue: 0,0:02:40.97,0:02:41.97,Nanoha Narration1,,0,0,0,,Fate!
 Dialogue: 0,0:02:41.97,0:02:42.99,Nanoha Dialogue1,,0,0,0,,Nanoha!
 Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,240)}{\blur0.5\b1}Episode 7{\b0}
@@ -117,11 +117,11 @@ Dialogue: 0,0:07:31.52,0:07:32.50,Nanoha Dialogue1,,0,0,0,,You're right.
 Dialogue: 0,0:07:38.51,0:07:41.58,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,1043)\an5\pos(480,490.5)}{\fs45\b1}April 27, 6:15 AM\NTakamachi residence{\b0}
 Dialogue: 0,0:07:58.99,0:08:01.25,Nanoha Dialogue1,,0,0,0,,Hm? Nanoha?
 Dialogue: 0,0:08:01.25,0:08:03.19,Nanoha Dialogue1,,0,0,0,,Oh, Miyuki.
-Dialogue: 0,0:08:03.19,0:08:05.99,Nanoha Dialogue1,,0,0,0,,What's wrong? You're up really early today.
+Dialogue: 0,0:08:03.19,0:08:05.99,Nanoha Dialogue1,,0,0,0,,What's wrong?\NYou're up really early today.
 Dialogue: 0,0:08:05.99,0:08:09.59,Nanoha Dialogue1,,0,0,0,,Well, I just kinda woke up, so...
 Dialogue: 0,0:08:09.59,0:08:10.59,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:08:10.59,0:08:13.26,Nanoha Dialogue1,,0,0,0,,Hey, where's Kyōya?
-Dialogue: 0,0:08:13.26,0:08:14.73,Nanoha Dialogue1,,0,0,0,,Yeah...
+Dialogue: 0,0:08:13.26,0:08:14.73,Nanoha Dialogue1,,0,0,0,,Oh yeah...
 Dialogue: 0,0:08:14.73,0:08:19.23,Nanoha Dialogue1,,0,0,0,,He's gone running with Dad this morning,\Na little further than usual.
 Dialogue: 0,0:08:21.74,0:08:22.46,Nanoha Dialogue1,,0,0,0,,Um...
 Dialogue: 0,0:08:22.69,0:08:23.08,Nanoha Dialogue1,,0,0,0,,Huh?
@@ -162,8 +162,8 @@ Dialogue: 0,0:10:56.41,0:10:58.92,Nanoha Dialogue1,,0,0,0,,Open, doors of luring
 Dialogue: 0,0:10:58.92,0:11:03.10,Nanoha Dialogue1,,0,0,0,,To the Garden of Time, to the head of the House of Testarossa!
 Dialogue: 0,0:11:16.51,0:11:20.38,Nanoha Dialogue2,,0,0,0,,{\4a&3F&\shad2\blur0.5\fad(417,876)\an5\pos(480,490.5)}{\fs45\b1}Same day, same time\NThe Dimensional Sea{\b0}
 Dialogue: 0,0:11:20.52,0:11:23.47,Nanoha Dialogue2,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(417,0)\an5\pos(480,422)}{\fs45\b1}Time-Space Administrative Bureau\NInterdimensional Flagship\N{\i1}Arthra{\b0\i0}
-Dialogue: 0,0:11:36.77,0:11:39.97,Nanoha Dialogue1,,0,0,0,,How is everyone doing?\NIs this journey going well?
-Dialogue: 0,0:11:39.97,0:11:44.14,Nanoha Dialogue1,,0,0,0,,We're currently cruising at triple ship speed.
+Dialogue: 0,0:11:36.48,0:11:39.97,Nanoha Dialogue1,,0,0,0,,How is everyone doing?\NIs this journey going well?
+Dialogue: 0,0:11:39.97,0:11:44.14,Nanoha Dialogue1,,0,0,0,,Ma'am, we're currently cruising at triple ship speed.
 Dialogue: 0,0:11:44.14,0:11:46.28,Nanoha Dialogue1,,0,0,0,,We will be arriving at the destination dimension
 Dialogue: 0,0:11:46.28,0:11:49.08,Nanoha Dialogue1,,0,0,0,,in approximately 160 bexas.
 Dialogue: 0,0:11:49.08,0:11:51.38,Nanoha Dialogue1,,0,0,0,,Since the last small dimensional tremor,
@@ -260,7 +260,7 @@ Dialogue: 0,0:18:03.38,0:18:04.50,Nanoha Dialogue1,,0,0,0,,So let's go.
 Dialogue: 0,0:18:06.01,0:18:07.16,Nanoha Dialogue1,,0,0,0,,This time...
 Dialogue: 0,0:18:10.62,0:18:12.52,Nanoha Dialogue1,,0,0,0,,We can't fail.
 Dialogue: 0,0:18:18.48,0:18:21.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,876)\an5\pos(480,422)}{\fs45\b1}April 27, 1:32 PM\NSeishō University Magnet Elementary School\NThird grade, classroom 1{\b0}
-Dialogue: 0,0:18:28.90,0:18:33.52,Nanoha Dialogue2,,0,0,0,,{\fad(0,917)\an5\pos(480,490.5)}{\fs45\b1}April 27, 4:10 PM\NCity of Uminari outskirts{\b0}
+Dialogue: 0,0:18:28.90,0:18:33.52,Nanoha Dialogue2,,0,0,0,,{\fad(0,917)\an5\pos(480,490.5)}{\fs45\b1}April 27, 4:10 PM\NCity of Uminari, downtown{\b0}
 Dialogue: 0,0:18:37.35,0:18:39.80,Nanoha Dialogue1,,0,0,0,,How are you, Bardiche?
 Dialogue: 0,0:18:39.80,0:18:41.80,Nanoha Device1,,0,0,0,,Recovery complete.
 Dialogue: 0,0:18:41.80,0:18:45.56,Nanoha Dialogue1,,0,0,0,,I see. You did your best. Good job.
