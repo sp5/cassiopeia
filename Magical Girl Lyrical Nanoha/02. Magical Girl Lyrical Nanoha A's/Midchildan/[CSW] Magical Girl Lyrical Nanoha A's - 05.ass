@@ -20,8 +20,8 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 332
-Active Line: 337
+Scroll Position: 244
+Active Line: 248
 Video Position: 35935
 
 [V4+ Styles]
@@ -288,10 +288,22 @@ Dialogue: 0,0:19:36.80,0:19:40.07,Nanoha Dialogue1,,0,0,0,,It was too lonely for
 Dialogue: 0,0:19:40.07,0:19:42.74,Nanoha Dialogue1,,0,0,0,,so Suzuka invited me to her place.
 Dialogue: 0,0:19:42.74,0:19:45.27,Nanoha Dialogue1,,0,0,0,,Yeah, that's all.
 Dialogue: 0,0:19:46.81,0:19:48.94,Nanoha Dialogue1,,0,0,0,,I was treated to dinner at Suzuka's house!
-Dialogue: 1,0:19:48.94,0:19:54.98,Hayate Handwriting,,0,0,0,,{\t(\fscy180\fscx180)\blur0.5\an5\c&H53494E&\move(480.678,359,477.678,250,39,6004)}It's a big helping...\NDessert is in\Nthe fridge!
-Dialogue: 0,0:19:48.94,0:19:54.98,Hayate Handwriting,,0,0,0,,{\t(\fscy180\fscx180)\blur2\an3\p1\c&HE1E3F0&\move(225,118,19,-180,39,6004)}m 366 302 l 589 302 589 423 366 423{\p0}
-Dialogue: 1,0:19:48.94,0:19:54.98,Hayate Handwriting,,0,0,0,,{\t(\fscy180\fscx180)\an5\c&H53494E&\move(525,573,562,642,39,6004)}—Hayate
-Dialogue: 0,0:19:48.94,0:19:54.98,Hayate Handwriting,,0,0,0,,{\t(\fscy180\fscx180)\blur2\an3\p1\c&HE1E3F0&\move(66,20,-250,-350,39,5962)}m 504 563 l 589 563 589 590 504 590{\p0}
+Dialogue: 1,0:19:48.94,0:19:50.23,Hayate Handwriting,,0,0,0,,{\t(\fscy110\fscx110)\blur0.5\an5\c&H53494E&\move(479.678,358,479.678,344,39,1249)}It's a big helping...\NDessert is in\Nthe fridge!
+Dialogue: 0,0:19:48.94,0:19:50.23,Hayate Handwriting,,0,0,0,,{\t(\fscy110\fscx110)\blur2\an3\p1\c&HE1E3F0&\move(225,118,199,82,0,1249)}m 366 302 l 589 302 589 423 366 423{\p0}
+Dialogue: 1,0:19:48.94,0:19:50.23,Hayate Handwriting,,0,0,0,,{\t(\fscy110\fscx110)\an5\c&H53494E&\move(525,573,530,582,0,1249)}—Hayate
+Dialogue: 0,0:19:48.94,0:19:50.23,Hayate Handwriting,,0,0,0,,{\t(\fscy110\fscx110)\blur2\an3\p1\c&HE1E3F0&\move(66,20,29,-21,0,1249)}m 504 563 l 589 563 589 590 504 590{\p0}
+Dialogue: 1,0:19:50.23,0:19:52.35,Hayate Handwriting,,0,0,0,,{\fscy110\fscx110\t(\fscy132\fscx132)\blur0.5\an5\c&H53494E&\move(479.678,344,483.678,315,0,2086)}It's a big helping...\NDessert is in\Nthe fridge!
+Dialogue: 0,0:19:50.23,0:19:52.35,Hayate Handwriting,,0,0,0,,{\fscy110\fscx110\t(\fscy132\fscx132)\blur2\an3\p1\c&HE1E3F0&\move(199,82,140,-2,0,2086)}m 366 302 l 589 302 589 423 366 423{\p0}
+Dialogue: 1,0:19:50.23,0:19:52.35,Hayate Handwriting,,0,0,0,,{\fscy110\fscx110\t(\fscy132\fscx132)\an5\c&H53494E&\move(530,582,540,606,0,2086)}—Hayate
+Dialogue: 0,0:19:50.23,0:19:52.35,Hayate Handwriting,,0,0,0,,{\fscy110\fscx110\t(\fscy132\fscx132)\blur2\an3\p1\c&HE1E3F0&\move(29,-21,-60,-121,0,2086)}m 504 563 l 589 563 589 590 504 590{\p0}
+Dialogue: 1,0:19:52.35,0:19:53.91,Hayate Handwriting,,0,0,0,,{\fscy132\fscx132\t(\fscy160\fscx160)\blur0.5\an5\c&H53494E&\move(483.678,315,484,276,0,1551)}It's a big helping...\NDessert is in\Nthe fridge!
+Dialogue: 0,0:19:52.35,0:19:53.91,Hayate Handwriting,,0,0,0,,{\fscy132\fscx132\t(\fscy160\fscx160)\blur2\an3\p1\c&HE1E3F0&\move(140,-2,70,-106,0,1551)}m 366 302 l 589 302 589 423 366 423{\p0}
+Dialogue: 1,0:19:52.35,0:19:53.91,Hayate Handwriting,,0,0,0,,{\fscy132\fscx132\t(\fscy160\fscx160)\an5\c&H53494E&\move(540,606,549,625,0,1551)}—Hayate
+Dialogue: 0,0:19:52.35,0:19:53.91,Hayate Handwriting,,0,0,0,,{\fscy132\fscx132\t(\fscy160\fscx160)\blur2\an3\p1\c&HE1E3F0&\move(-60,-121,-176,-255,0,1551)}m 504 563 l 589 563 589 590 504 590{\p0}
+Dialogue: 1,0:19:53.91,0:19:54.98,Hayate Handwriting,,0,0,0,,{\fscy160\fscx160\t(\fscy185\fscx185)\blur0.5\an5\c&H53494E&\move(484,276,483,243,0,1034)}It's a big helping...\NDessert is in\Nthe fridge!
+Dialogue: 0,0:19:53.91,0:19:54.98,Hayate Handwriting,,0,0,0,,{\fscy160\fscx160\t(\fscy185\fscx185)\blur2\an3\p1\c&HE1E3F0&\move(70,-106,9,-197,0,1034)}m 366 302 l 589 302 589 423 366 423{\p0}
+Dialogue: 1,0:19:53.91,0:19:54.98,Hayate Handwriting,,0,0,0,,{\fscy160\fscx160\t(\fscy185\fscx185)\an5\c&H53494E&\move(549,625,560.333,647.333,0,1034)}—Hayate
+Dialogue: 0,0:19:53.91,0:19:54.98,Hayate Handwriting,,0,0,0,,{\fscy160\fscx160\t(\fscy185\fscx185)\blur2\an3\p1\c&HE1E3F0&\move(-176,-255,-273.333,-369.333,0,1034)}m 504 563 l 589 563 589 590 504 590{\p0}
 Dialogue: 2,0:19:49.64,0:19:51.98,Nanoha Dialogue1,,0,0,0,,I have all the ingredients cut up in the fridge,
 Dialogue: 2,0:19:51.98,0:19:55.06,Nanoha Dialogue1,,0,0,0,,and the broth is already in the pot, so it should be ready to eat.
 Dialogue: 0,0:19:55.82,0:19:57.29,Nanoha Dialogue1,,0,0,0,,You guys should eat up!
