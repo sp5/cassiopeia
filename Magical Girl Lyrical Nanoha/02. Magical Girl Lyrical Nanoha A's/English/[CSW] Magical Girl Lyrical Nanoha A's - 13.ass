@@ -20,9 +20,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 73
-Active Line: 75
-Video Position: 7370
+Scroll Position: 411
+Active Line: 416
+Video Position: 29223
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,7 +82,7 @@ Dialogue: 0,0:03:33.44,0:03:35.52,Nanoha Dialogue1,,0,0,0,,Since she doesn't hav
 Dialogue: 0,0:03:35.52,0:03:38.48,Nanoha Dialogue1,,0,0,0,,it's easy to completely destroy the Book of the Night Sky.
 Dialogue: 0,0:03:38.48,0:03:41.99,Nanoha Dialogue1,,0,0,0,,As long as we destroy her,\Nit won't ever go out of control again.
 Dialogue: 0,0:03:42.77,0:03:45.44,Nanoha Dialogue1,,0,0,0,,But in return, we will get erased.
-Dialogue: 0,0:03:46.05,0:03:47.80,Nanoha Dialogue1,,0,0,0,,I'm sorry, Vita.
+Dialogue: 0,0:03:45.44,0:03:47.80,Nanoha Dialogue1,,0,0,0,,I'm sorry, Vita.
 Dialogue: 0,0:03:47.80,0:03:49.87,Nanoha Dialogue1,,0,0,0,,Why are you apologizing?
 Dialogue: 0,0:03:49.87,0:03:51.87,Nanoha Dialogue1,,0,0,0,,I don't mind.
 Dialogue: 0,0:03:51.87,0:03:57.71,Nanoha Dialogue1,,0,0,0,,We all knew this might happen.
@@ -203,7 +203,7 @@ Dialogue: 0,0:11:58.90,0:12:02.46,Nanoha Dialogue1,,0,0,0,,And you young heroes.
 Dialogue: 0,0:12:03.41,0:12:08.36,Nanoha Dialogue1,,0,0,0,,Thank you and goodbye.
 Dialogue: 0,0:12:42.36,0:12:43.67,Nanoha Dialogue1,,0,0,0,,Hayate...
 Dialogue: 0,0:12:43.67,0:12:45.07,Nanoha Dialogue1,,0,0,0,,Hayate!
-Dialogue: 0,0:12:51.61,0:12:54.92,Nanoha Dialogue1,,0,0,0,,I see... okay, got it.
+Dialogue: 0,0:12:50.90,0:12:54.92,Nanoha Dialogue1,,0,0,0,,I see... okay, got it.
 Dialogue: 0,0:12:54.92,0:12:57.19,Nanoha Dialogue1,,0,0,0,,Thanks for the message.
 Dialogue: 0,0:12:57.19,0:12:59.92,Nanoha Dialogue1,,0,0,0,,Please rest at home for today.
 Dialogue: 0,0:12:59.92,0:13:02.59,Nanoha Dialogue1,,0,0,0,,I'll go home tomorrow.
@@ -347,11 +347,11 @@ Dialogue: 0,0:20:06.39,0:20:11.19,Nanoha Dialogue1,,0,0,0,,They said that all th
 Dialogue: 0,0:20:11.19,0:20:12.19,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:20:12.19,0:20:16.82,Nanoha Dialogue1,,0,0,0,,Hayate might have been involved with that thing last night too.
 Dialogue: 0,0:20:16.82,0:20:18.11,Nanoha Dialogue1,,0,0,0,,I wonder?
-Dialogue: 0,0:20:18.11,0:20:23.86,Nanoha Dialogue1,,0,0,0,,Well, if Nanoha wants to keep it a secret, then I don't mind.
-Dialogue: 0,0:20:23.86,0:20:26.63,Nanoha Dialogue1,,0,0,0,,If they're gonna tell us, then let's listen.
+Dialogue: 0,0:20:18.11,0:20:23.86,Nanoha Dialogue1,,0,0,0,,Well, if Nanoha and them want to keep it a secret, then I don't mind.
+Dialogue: 0,0:20:23.86,0:20:26.63,Nanoha Dialogue1,,0,0,0,,But if they're gonna tell us, then let's listen.
 Dialogue: 0,0:20:26.63,0:20:27.80,Nanoha Dialogue1,,0,0,0,,Yes...
 Dialogue: 0,0:20:27.80,0:20:33.25,Nanoha Dialogue1,,0,0,0,,I wish she could tell us the part\Nabout how she met Fate.
-Dialogue: 0,0:20:33.94,0:20:40.52,Nanoha Dialogue1,,0,0,0,,I feel we can become much closer\Nif they tell us everything.
+Dialogue: 0,0:20:33.25,0:20:40.52,Nanoha Dialogue1,,0,0,0,,I feel we can become much closer\Nif they tell us everything.
 Dialogue: 0,0:20:40.52,0:20:42.51,Nanoha Dialogue1,,0,0,0,,Yeah, that's right.
 Dialogue: 0,0:20:43.34,0:20:46.55,Nanoha Dialogue1,,0,0,0,,I see, so you are going to work at the Main Office too.
 Dialogue: 0,0:20:46.55,0:20:47.35,Nanoha Dialogue1,,0,0,0,,Yeah.
@@ -451,8 +451,8 @@ Dialogue: 0,0:24:09.47,0:24:13.50,Nanoha ED,,0,0,0,,I won't forget even when I g
 Dialogue: 0,0:24:10.37,0:24:11.63,Nanoha Dialogue1,,0,0,15,,Do you have work today?
 Dialogue: 0,0:24:11.63,0:24:12.62,Nanoha Dialogue1,,0,0,15,,Yeah.
 Dialogue: 0,0:24:12.62,0:24:15.61,Nanoha Dialogue1,,0,0,15,,We're all getting together today.
-Dialogue: 1,0:24:13.12,0:24:17.62,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,432)\b1\bord0\shad0}Along with training incoming staff in combat tactics, she is doing amazing work as an investigations officer.{\b0}
-Dialogue: 0,0:24:13.12,0:24:17.62,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,432)\b1\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}Along with training incoming staff in combat tactics, she is doing amazing work as an investigations officer.{\b0}
+Dialogue: 1,0:24:13.12,0:24:17.62,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,432)\b1\bord0\shad0}Along with training incoming operatives in combat tactics, she is doing amazing work as an investigations officer.{\b0}
+Dialogue: 0,0:24:13.12,0:24:17.62,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\pos(476,432)\b1\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}Along with training incoming operatives in combat tactics, she is doing amazing work as an investigations officer.{\b0}
 Dialogue: 0,0:24:13.50,0:24:17.14,Nanoha ED,,0,0,0,,The days when we met
 Dialogue: 0,0:24:15.61,0:24:17.73,Nanoha Dialogue1,,0,0,15,,I'm gonna leave after lunch,
 Dialogue: 0,0:24:17.73,0:24:19.28,Nanoha Dialogue1,,0,0,15,,so can you please lend me your notes?

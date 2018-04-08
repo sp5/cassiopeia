@@ -20,7 +20,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Video Position: 375
+Scroll Position: 257
+Active Line: 260
+Video Position: 6434
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,7 +70,7 @@ Dialogue: 0,0:02:34.25,0:02:36.13,Nanoha Dialogue1,,0,0,0,,{\i1}End of message.{
 Dialogue: 0,0:03:17.59,0:03:18.97,Nanoha Dialogue1,,0,0,0,,It's already midnight.
 Dialogue: 0,0:04:13.13,0:04:16.17,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}I'm breaking the seal.
 Dialogue: 0,0:04:13.13,0:04:16.17,Nanoha Device1,,0,0,15,,Ich entferne eine Versiegelung.
-Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Start up.
+Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Booting.
 Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device1,,0,0,15,,Anfang.
 Dialogue: 1,0:04:36.78,0:04:42.82,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,511)\bord0}The Beginning Comes Suddenly
 Dialogue: 0,0:04:36.78,0:04:42.82,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,511)\c&H901E38&}The Beginning Comes Suddenly
@@ -173,7 +175,7 @@ Dialogue: 0,0:10:27.23,0:10:32.06,Nanoha Dialogue1,,0,0,0,,Yeah, nothing concern
 Dialogue: 0,0:10:34.69,0:10:38.90,Nanoha Dialogue1,,0,0,0,,On this end, there is a situation that isn't too happy.
 Dialogue: 0,0:10:38.90,0:10:40.82,Nanoha Dialogue1,,0,0,0,,An unhappy situation?
 Dialogue: 0,0:10:40.82,0:10:42.44,Nanoha Dialogue1,,0,0,0,,A Lost Logia.
-Dialogue: 0,0:10:42.44,0:10:45.91,Nanoha Dialogue1,,0,0,0,,A very dangerous item with a civilian search request.
+Dialogue: 0,0:10:42.44,0:10:45.91,Nanoha Dialogue1,,0,0,0,,A very dangerous item at the top of the search list.
 Dialogue: 0,0:10:47.45,0:10:51.13,Nanoha Dialogue1,,0,0,0,,Its marks have been found on several worlds,
 Dialogue: 0,0:10:51.13,0:10:53.71,Nanoha Dialogue1,,0,0,0,,and the one in charge of searching for it is all worked up.
 Dialogue: 0,0:10:53.71,0:10:54.80,Nanoha Dialogue1,,0,0,0,,Really...
@@ -238,7 +240,7 @@ Dialogue: 1,0:15:12.63,0:15:17.66,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\
 Dialogue: 0,0:15:12.63,0:15:17.66,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}December 2, 7:45 PM\NCity of Uminari, downtown{\b0}
 Dialogue: 0,0:15:27.19,0:15:29.86,Nanoha Dialogue1,,0,0,0,,How is it, Vita? Think you can find it?
 Dialogue: 0,0:15:29.86,0:15:32.91,Nanoha Dialogue1,,0,0,0,,It's like it's here, but it's not here.
-Dialogue: 0,0:15:35.08,0:15:36.99,Nanoha Dialogue1,,0,0,0,,A curiously large magical response
+Dialogue: 0,0:15:34.89,0:15:36.99,Nanoha Dialogue1,,0,0,0,,A curiously large magical response
 Dialogue: 0,0:15:36.99,0:15:39.50,Nanoha Dialogue1,,0,0,0,,that's been appearing every so often for a while now.
 Dialogue: 0,0:15:39.50,0:15:41.08,Nanoha Dialogue1,,0,0,0,,If we can catch it,
 Dialogue: 0,0:15:41.08,0:15:44.27,Nanoha Dialogue1,,0,0,0,,I think we can gain about twenty pages at once.
@@ -301,19 +303,19 @@ Dialogue: 0,0:23:24.44,0:23:25.99,Nanoha Device1,,0,0,0,,Scythe Form
 Dialogue: 0,0:23:29.08,0:23:30.49,Nanoha Dialogue1,,0,0,0,,Her friends.
 Dialogue: 0,0:23:36.45,0:23:41.62,Nanoha ED,,0,0,0,,I won't forget even when I grow up
 Dialogue: 0,0:23:41.62,0:23:49.55,Nanoha ED,,0,0,0,,My love, the day that we came across each other
-Dialogue: 0,0:23:50.20,0:23:54.33,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
-Dialogue: 0,0:23:54.33,0:23:58.04,Nanoha ED,,0,0,0,,I kept you in tears
-Dialogue: 0,0:23:58.04,0:24:01.44,Nanoha ED,,0,0,0,,I remember the promise
+Dialogue: 0,0:23:50.24,0:23:54.33,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
+Dialogue: 0,0:23:54.33,0:23:57.84,Nanoha ED,,0,0,0,,I kept you in tears
+Dialogue: 0,0:23:57.84,0:24:01.44,Nanoha ED,,0,0,0,,I remember the promise
 Dialogue: 0,0:24:01.44,0:24:07.90,Nanoha ED,,0,0,0,,My love, the smile that I love so much
-Dialogue: 0,0:24:12.95,0:24:18.55,Nanoha ED,,0,0,0,,That day, when the secret door opened
+Dialogue: 0,0:24:12.82,0:24:18.55,Nanoha ED,,0,0,0,,That day, when the secret door opened
 Dialogue: 0,0:24:19.96,0:24:25.99,Nanoha ED,,0,0,0,,I was chasing after a small white butterfly
-Dialogue: 0,0:24:28.34,0:24:34.24,Nanoha ED,,0,0,0,,I got lost, and I wanted to cry
-Dialogue: 0,0:24:34.24,0:24:37.98,Nanoha ED,,0,0,0,,My true wishes, my true feelings
-Dialogue: 0,0:24:37.98,0:24:42.48,Nanoha ED,,0,0,0,,Maybe you taught those to me
+Dialogue: 0,0:24:28.34,0:24:34.04,Nanoha ED,,0,0,0,,I got lost, and I wanted to cry
+Dialogue: 0,0:24:34.04,0:24:37.70,Nanoha ED,,0,0,0,,My true wishes, my true feelings
+Dialogue: 0,0:24:37.70,0:24:42.48,Nanoha ED,,0,0,0,,Maybe you taught those to me
 Dialogue: 0,0:24:42.48,0:24:46.62,Nanoha ED,,0,0,0,,Guarded by such kind feelings
 Dialogue: 0,0:24:46.62,0:24:50.19,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time
-Dialogue: 0,0:24:50.19,0:24:53.99,Nanoha ED,,0,0,0,,How you thought dear of me
-Dialogue: 0,0:24:53.99,0:24:59.96,Nanoha ED,,0,0,0,,My love, I won't forget all of you
+Dialogue: 0,0:24:50.19,0:24:53.86,Nanoha ED,,0,0,0,,How you thought dear of me
+Dialogue: 0,0:24:53.86,0:24:59.79,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:06.89,0:25:11.00,Nanoha Title2,,0,0,0,,{\fad(0,940)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:06.89,0:25:11.00,Nanoha Title2,,0,0,0,,{\fad(0,940)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3170,4110,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:09.36,0:25:11.61,Nanoha Narration1,,0,0,0,,Beginnings always come so suddenly.

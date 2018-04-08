@@ -18,9 +18,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 6
-Active Line: 8
-Video Position: 1311
+Scroll Position: 334
+Active Line: 337
+Video Position: 24134
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -89,8 +89,8 @@ Dialogue: 0,0:05:10.03,0:05:13.03,Nanoha Dialogue1,,0,0,0,,Reinforce, the Wind o
 Dialogue: 0,0:05:13.03,0:05:15.81,Nanoha Dialogue1,,0,0,0,,{\b1}Set up!{\b0}
 Dialogue: 0,0:05:39.79,0:05:41.44,Nanoha Dialogue1,,0,0,0,,Hayate...
 Dialogue: 0,0:05:43.28,0:05:45.02,Nanoha Dialogue1,,0,0,0,,I'm sorry.
-Dialogue: 0,0:05:45.02,0:05:49.32,Nanoha Dialogue1,,0,0,0,,Um, Hayate, we...
-Dialogue: 0,0:05:49.32,0:05:52.12,Nanoha Dialogue1,,0,0,0,,It's okay. I understand it all.
+Dialogue: 0,0:05:45.02,0:05:49.14,Nanoha Dialogue1,,0,0,0,,Um, Hayate, we...
+Dialogue: 0,0:05:49.14,0:05:52.12,Nanoha Dialogue1,,0,0,0,,It's okay. I understand it all.
 Dialogue: 0,0:05:52.12,0:05:54.58,Nanoha Dialogue1,,0,0,0,,Reinforce told me.
 Dialogue: 0,0:05:54.58,0:05:58.14,Nanoha Dialogue1,,0,0,0,,But let's worry about the details later.
 Dialogue: 0,0:05:58.14,0:05:59.29,Nanoha Dialogue1,,0,0,0,,Right now...
@@ -136,7 +136,7 @@ Dialogue: 0,0:08:15.62,0:08:18.35,Nanoha Dialogue1,,0,0,0,,Please make a decisio
 Dialogue: 0,0:08:20.55,0:08:21.88,Nanoha Dialogue1,,0,0,0,,Is there any way?
 Dialogue: 0,0:08:21.88,0:08:22.86,Nanoha Dialogue1,,0,0,0,,Sorry.
 Dialogue: 0,0:08:22.86,0:08:24.92,Nanoha Dialogue1,,0,0,0,,I don't think we can be of much use.
-Dialogue: 0,0:08:24.92,0:08:28.76,Nanoha Dialogue1,,0,0,0,,We have hardly ever seen it go out of control.
+Dialogue: 0,0:08:24.92,0:08:28.92,Nanoha Dialogue1,,0,0,0,,We have hardly ever seen it go out of control.
 Dialogue: 0,0:08:28.92,0:08:31.78,Nanoha Dialogue1,,0,0,0,,But we have to stop it somehow!
 Dialogue: 0,0:08:31.78,0:08:35.36,Nanoha Dialogue1,,0,0,0,,I don't want Hayate's house to get wrecked!
 Dialogue: 0,0:08:35.36,0:08:38.56,Nanoha Dialogue1,,0,0,0,,Well, it's past that point by now.
@@ -230,9 +230,9 @@ Dialogue: 0,0:14:13.16,0:14:13.96,Nanoha Dialogue1,,0,0,0,,Chain it!
 Dialogue: 0,0:14:13.96,0:14:16.27,Nanoha Dialogue1,,0,0,0,,{\b1}Steel Yoke{\b0}
 Dialogue: 0,0:14:23.66,0:14:26.57,Nanoha Dialogue1,,0,0,0,,You better keep up with me,\NNanoha Takamachi.
 Dialogue: 0,0:14:26.57,0:14:28.36,Nanoha Dialogue1,,0,0,0,,You too, Vita!
-Dialogue: 0,0:14:27.31,0:14:34.15,Nanoha Insert Song,,0,0,0,,The warmth of the hands gives me strength
+Dialogue: 0,0:14:27.31,0:14:33.87,Nanoha Insert Song,,0,0,0,,The warmth of the hands gives me strength
 Dialogue: 0,0:14:29.51,0:14:33.87,Nanoha Dialogue1,,0,0,0,,Vita, {\i1}Ritter{\i0} of the Steel Hammer, and Graf Eisen, the Iron Count!
-Dialogue: 0,0:14:34.15,0:14:41.46,Nanoha Insert Song,,0,0,0,,The piled feelings pass through the sky
+Dialogue: 0,0:14:33.87,0:14:41.46,Nanoha Insert Song,,0,0,0,,The piled feelings pass through the sky
 Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device1,,0,0,0,,Gigantform
 Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device2,,0,0,0,,{\pos(476,647)}Giant Form
 Dialogue: 0,0:14:41.46,0:14:48.83,Nanoha Insert Song,,0,0,0,,This wish of the wind dries the tears
@@ -271,8 +271,8 @@ Dialogue: 0,0:16:31.86,0:16:34.07,Nanoha Device1,,0,0,0,,Sturmfalken
 Dialogue: 0,0:16:31.86,0:16:34.07,Nanoha Device2,,0,0,0,,{\pos(476,647)}Storm Falcon
 Dialogue: 0,0:16:37.38,0:16:47.69,Nanoha Insert Song,,0,0,0,,Spread great wings and innocently smile like the sun on the hill
 Dialogue: 0,0:16:42.94,0:16:46.58,Nanoha Dialogue1,,0,0,0,,Fate Testarossa, Bardiche Zanber.
-Dialogue: 0,0:16:46.58,0:16:47.95,Nanoha Dialogue1,,0,0,0,,Here I go!
-Dialogue: 0,0:16:47.69,0:16:57.95,Nanoha Insert Song,,0,0,0,,The sky is waiting for the light, so let's fly
+Dialogue: 0,0:16:46.58,0:16:47.95,Nanoha Dialogue1,,0,0,0,,Here we go!
+Dialogue: 0,0:16:47.69,0:17:02.08,Nanoha Insert Song,,0,0,0,,The sky is waiting for the light, so let's fly
 Dialogue: 0,0:17:03.11,0:17:04.64,Nanoha Dialogue1,,0,0,0,,Cut through! Lightning!
 Dialogue: 0,0:17:05.54,0:17:06.90,Nanoha Device1,,0,0,0,,Jet Zanber
 Dialogue: 0,0:17:14.21,0:17:21.52,Nanoha Insert Song,,0,0,0,,Even though you cry at night when you mature
@@ -337,7 +337,7 @@ Dialogue: 0,0:22:20.73,0:22:24.55,Nanoha Dialogue1,,0,0,0,,We'll observe the res
 Dialogue: 0,0:22:24.55,0:22:25.92,Nanoha Dialogue1,,0,0,0,,Roger!
 Dialogue: 0,0:22:28.44,0:22:33.99,Nanoha Dialogue1,,0,0,0,,So, you guys at the scene, great job!
 Dialogue: 0,0:22:33.99,0:22:36.79,Nanoha Dialogue1,,0,0,0,,The situation has been resolved successfully!
-Dialogue: 0,0:22:40.29,0:22:46.30,Nanoha Dialogue1,,0,0,0,,We still have to collect the wreckage\Nand restore the suburbs,
+Dialogue: 0,0:22:40.29,0:22:46.30,Nanoha Dialogue1,,0,0,0,,We still have to collect the wreckage\Nand restore the city,
 Dialogue: 0,0:22:46.30,0:22:49.88,Nanoha Dialogue1,,0,0,0,,but please return to\Nthe {\i1}Arthra{\i0} for now and rest.
 Dialogue: 0,0:22:52.60,0:22:55.32,Nanoha Dialogue1,,0,0,0,,What about Alisa and Suzuka?
 Dialogue: 0,0:22:55.32,0:22:55.97,Nanoha Dialogue1,,0,0,0,,Right.
@@ -355,25 +355,25 @@ Dialogue: 0,0:23:23.83,0:23:24.74,Nanoha Dialogue1,,0,0,0,,Hayate!
 Dialogue: 0,0:23:24.74,0:23:28.44,Nanoha Dialogue1,,0,0,0,,Hayate! Hayate!
 Dialogue: 0,0:23:29.47,0:23:31.32,Nanoha Dialogue1,,0,0,0,,Hayate...
 Dialogue: 0,0:23:31.32,0:23:33.79,Nanoha Dialogue1,,0,0,0,,Hayate?
-Dialogue: 0,0:23:35.32,0:23:40.49,Nanoha ED,,0,0,0,,I won't forget even when I grow up
-Dialogue: 0,0:23:40.49,0:23:48.42,Nanoha ED,,0,0,0,,My love, the day that we came across each other
-Dialogue: 0,0:23:49.07,0:23:53.20,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
-Dialogue: 0,0:23:53.20,0:23:56.91,Nanoha ED,,0,0,0,,I kept you in tears
-Dialogue: 0,0:23:56.91,0:24:00.31,Nanoha ED,,0,0,0,,I remember the promise
-Dialogue: 0,0:24:00.31,0:24:06.77,Nanoha ED,,0,0,0,,My love, the smile that I love so much
-Dialogue: 0,0:24:11.82,0:24:17.42,Nanoha ED,,0,0,0,,That day, when the secret door opened
-Dialogue: 0,0:24:18.83,0:24:24.86,Nanoha ED,,0,0,0,,I was chasing after a small white butterfly
-Dialogue: 0,0:24:27.21,0:24:33.11,Nanoha ED,,0,0,0,,I got lost, and I wanted to cry
-Dialogue: 0,0:24:33.11,0:24:36.85,Nanoha ED,,0,0,0,,My true wishes, my true feelings
-Dialogue: 0,0:24:36.85,0:24:41.35,Nanoha ED,,0,0,0,,Maybe you taught those to me
-Dialogue: 0,0:24:41.35,0:24:45.49,Nanoha ED,,0,0,0,,Guarded by such kind feelings
-Dialogue: 0,0:24:45.49,0:24:49.06,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time
-Dialogue: 0,0:24:49.06,0:24:52.86,Nanoha ED,,0,0,0,,How you thought dear of me
-Dialogue: 0,0:24:52.86,0:24:58.83,Nanoha ED,,0,0,0,,My love, I won't forget all of you
+Dialogue: 0,0:23:35.47,0:23:40.64,Nanoha ED,,0,0,0,,I won't forget even when I grow up
+Dialogue: 0,0:23:40.64,0:23:48.57,Nanoha ED,,0,0,0,,My love, the day that we came across each other
+Dialogue: 0,0:23:49.26,0:23:53.35,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
+Dialogue: 0,0:23:53.35,0:23:56.86,Nanoha ED,,0,0,0,,I kept you in tears
+Dialogue: 0,0:23:56.86,0:24:00.46,Nanoha ED,,0,0,0,,I remember the promise
+Dialogue: 0,0:24:00.46,0:24:06.92,Nanoha ED,,0,0,0,,My love, the smile that I love so much
+Dialogue: 0,0:24:11.84,0:24:17.57,Nanoha ED,,0,0,0,,That day, when the secret door opened
+Dialogue: 0,0:24:18.98,0:24:25.01,Nanoha ED,,0,0,0,,I was chasing after a small white butterfly
+Dialogue: 0,0:24:27.36,0:24:33.06,Nanoha ED,,0,0,0,,I got lost, and I wanted to cry
+Dialogue: 0,0:24:33.06,0:24:36.72,Nanoha ED,,0,0,0,,My true wishes, my true feelings
+Dialogue: 0,0:24:36.72,0:24:41.50,Nanoha ED,,0,0,0,,Maybe you taught those to me
+Dialogue: 0,0:24:41.50,0:24:45.64,Nanoha ED,,0,0,0,,Guarded by such kind feelings
+Dialogue: 0,0:24:45.64,0:24:49.21,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time
+Dialogue: 0,0:24:49.21,0:24:52.88,Nanoha ED,,0,0,0,,How you thought dear of me
+Dialogue: 0,0:24:52.88,0:24:58.78,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,870)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,870)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3120,3990,\1a&HFF&)}Next Episode Preview
-Dialogue: 0,0:25:08.78,0:25:10.76,Nanoha Narration1,,0,0,0,,And so, the {\i0}Buch der Dunkelheit{\i1} Incident
-Dialogue: 0,0:25:10.76,0:25:12.46,Nanoha Narration1,,0,0,0,,comes to an end.
+Dialogue: 0,0:25:08.78,0:25:10.70,Nanoha Narration1,,0,0,0,,And so, the {\i0}Buch der Dunkelheit{\i1} Incident
+Dialogue: 0,0:25:10.70,0:25:12.46,Nanoha Narration1,,0,0,0,,comes to an end.
 Dialogue: 0,0:25:12.46,0:25:18.23,Nanoha Narration1,,0,0,0,,We give thanks and smiles to all we met.
 Dialogue: 0,0:25:18.23,0:25:21.56,Nanoha Narration1,,0,0,0,,And then departures and farewells.
 Dialogue: 0,0:25:21.56,0:25:24.24,Nanoha Narration1,,0,0,0,,A time to start heading in a new direction.

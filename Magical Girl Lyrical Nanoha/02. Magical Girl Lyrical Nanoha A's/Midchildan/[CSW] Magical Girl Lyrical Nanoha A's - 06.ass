@@ -20,9 +20,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 9
-Active Line: 11
-Video Position: 1335
+Scroll Position: 394
+Active Line: 397
+Video Position: 20994
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -73,8 +73,8 @@ Dialogue: 0,0:02:39.51,0:02:43.31,Nanoha Dialogue1,,0,0,0,,Fate, you just had a 
 Dialogue: 0,0:02:43.31,0:02:46.52,Nanoha Dialogue1,,0,0,0,,You are a human who was properly granted life into this world.
 Dialogue: 0,0:02:46.52,0:02:50.04,Nanoha Dialogue1,,0,0,0,,The test results said so too, right?
 Dialogue: 0,0:02:50.04,0:02:52.02,Nanoha Dialogue1,,0,0,0,,Stop talking like that.
-Dialogue: 0,0:02:53.12,0:02:54.06,Nanoha Dialogue1,,0,0,0,,Yes...
-Dialogue: 0,0:02:54.06,0:02:55.62,Nanoha Dialogue1,,0,0,0,,I'm sorry.
+Dialogue: 0,0:02:53.12,0:02:54.00,Nanoha Dialogue1,,0,0,0,,Yes...
+Dialogue: 0,0:02:54.00,0:02:55.62,Nanoha Dialogue1,,0,0,0,,I'm sorry.
 Dialogue: 0,0:02:55.62,0:02:56.73,Nanoha Dialogue1,,0,0,0,,Oh!
 Dialogue: 0,0:02:56.73,0:02:58.78,Nanoha Dialogue1,,0,0,0,,Do you want me to explain on the monitors?
 Dialogue: 0,0:03:04.78,0:03:06.77,Nanoha Dialogue1,,0,0,0,,The guardians are programs
@@ -102,17 +102,17 @@ Dialogue: 0,0:04:07.10,0:04:10.50,Nanoha Dialogue1,,0,0,0,,It just may be the ca
 Dialogue: 0,0:04:10.50,0:04:12.98,Nanoha Dialogue1,,0,0,0,,Oh, that would be great, because it's easy to understand!
 Dialogue: 0,0:04:12.98,0:04:14.24,Nanoha Dialogue1,,0,0,0,,Wouldn't it?
 Dialogue: 0,0:04:14.24,0:04:15.87,Nanoha Dialogue1,,0,0,0,,If it's before the {\i1}Buch der Dunkelheit{\i0} is complete,
-Dialogue: 0,0:04:15.87,0:04:18.00,Nanoha Dialogue1,,0,0,0,,she should be an ordinary mage as well.
+Dialogue: 0,0:04:15.87,0:04:18.38,Nanoha Dialogue1,,0,0,0,,they should be an ordinary mage as well.
 Dialogue: 0,0:04:18.73,0:04:24.20,Nanoha Dialogue1,,0,0,0,,In any case, I'd like more detailed data about the {\i1}Buch der Dunkelheit.{\i0}
 Dialogue: 0,0:04:27.49,0:04:28.36,Nanoha Dialogue1,,0,0,0,,Yuuno...
 Dialogue: 0,0:04:28.36,0:04:30.70,Nanoha Dialogue1,,0,0,0,,I'd like to ask something of you, starting tomorrow.
 Dialogue: 0,0:04:30.70,0:04:33.44,Nanoha Dialogue1,,0,0,0,,Huh? Sure, but...
 Dialogue: 0,0:04:37.16,0:04:39.03,Nanoha Narration1,,0,0,0,,Hey, Yuuno...
-Dialogue: 0,0:04:39.03,0:04:41.96,Nanoha Narration1,,0,0,0,,What kind of a person do you think the {\i0}Buch der Dunkelheit'{\i1}s {\i1}Meister{\i0} is?
+Dialogue: 0,0:04:39.03,0:04:41.96,Nanoha Narration1,,0,0,0,,What kind of a person do you think the {\i0}Buch der Dunkelheit'{\i1}s {\i0}Meister{\i1} is?
 Dialogue: 0,0:04:41.96,0:04:45.50,Nanoha Narration1,,0,0,0,,The {\i0}Buch der Dunkelheit{\i1} randomly chooses someone
 Dialogue: 0,0:04:45.50,0:04:48.47,Nanoha Narration1,,0,0,0,,with potential to control it as its new host.
 Dialogue: 0,0:04:48.47,0:04:50.07,Nanoha Narration1,,0,0,0,,I see...
-Dialogue: 0,0:04:51.06,0:04:54.64,Nanoha Narration1,,0,0,0,,You never know.\NMaybe she's someone our age.
+Dialogue: 0,0:04:51.06,0:04:54.64,Nanoha Narration1,,0,0,0,,You never know.\NMaybe they're someone our age.
 Dialogue: 0,0:04:54.64,0:04:57.41,Nanoha Narration1,,0,0,0,,Of all things, I think that's...
 Dialogue: 0,0:05:05.14,0:05:08.79,Nanoha Narration1,,0,0,0,,Suzuka has a friend sleeping over today.
 Dialogue: 0,0:05:08.79,0:05:09.83,Nanoha Narration1,,0,0,0,,Really?
@@ -136,7 +136,7 @@ Dialogue: 0,0:05:58.31,0:06:00.24,Nanoha Dialogue1,,0,0,0,,She said she'll be ba
 Dialogue: 0,0:06:01.21,0:06:02.90,Nanoha Dialogue1,,0,0,0,,What about you, Signum?
 Dialogue: 0,0:06:02.90,0:06:03.98,Nanoha Dialogue1,,0,0,0,,What about me?
 Dialogue: 0,0:06:03.98,0:06:05.64,Nanoha Dialogue1,,0,0,0,,Are you all right?
-Dialogue: 0,0:06:05.64,0:06:09.61,Nanoha Dialogue1,,0,0,0,,Your magical powers seem to be quite drained.
+Dialogue: 0,0:06:05.64,0:06:09.61,Nanoha Dialogue1,,0,0,0,,Your mana seems to be quite drained.
 Dialogue: 0,0:06:09.61,0:06:13.26,Nanoha Dialogue1,,0,0,0,,Your leader was not made to be that weak.
 Dialogue: 0,0:06:13.26,0:06:15.06,Nanoha Dialogue1,,0,0,0,,I am fine.
 Dialogue: 0,0:06:15.06,0:06:17.98,Nanoha Dialogue1,,0,0,0,,You have changed quite a bit too.
@@ -153,7 +153,7 @@ Dialogue: 0,0:06:44.99,0:06:48.48,Nanoha Dialogue1,,0,0,0,,It's like every day i
 Dialogue: 0,0:06:49.56,0:06:50.98,Nanoha Dialogue1,,0,0,0,,That's wonderful.
 Dialogue: 0,0:06:53.22,0:06:54.70,Nanoha Narration1,,0,0,0,,That's right.
 Dialogue: 0,0:06:54.70,0:06:58.37,Nanoha Narration1,,0,0,0,,It's already been over six months\Nsince everyone came by...
-Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Start up.
+Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Booting.
 Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device1,,0,0,15,,Anfang.
 Dialogue: 0,0:07:59.64,0:08:02.77,Nanoha Dialogue1,,0,0,0,,Confirmed startup of the {\i1}Buch der Dunkelheit.{\i0}
 Dialogue: 0,0:08:02.77,0:08:05.60,Nanoha Dialogue1,,0,0,0,,We are the {\i1}Schutzritter{\i0}
@@ -164,7 +164,7 @@ Dialogue: 0,0:08:13.48,0:08:14.96,Nanoha Dialogue1,,0,0,0,,We serve at your comm
 Dialogue: 0,0:08:23.75,0:08:25.56,Nanoha Narration1,,0,0,0,,Hey, hold on.
 Dialogue: 0,0:08:25.56,0:08:27.13,Nanoha Narration1,,0,0,0,,Vita, shh!
 Dialogue: 0,0:08:27.13,0:08:28.13,Nanoha Narration1,,0,0,0,,But...
-Dialogue: 0,0:08:28.13,0:08:32.24,Nanoha Narration1,,0,0,0,,Stay quiet. Discourtesy in front of the {\i1}Meister{\i0} is forbidden.
+Dialogue: 0,0:08:28.13,0:08:32.24,Nanoha Narration1,,0,0,0,,Stay quiet. Discourtesy in front of the {\i0}Meister{\i1} is forbidden.
 Dialogue: 0,0:08:32.24,0:08:33.73,Nanoha Narration1,,0,0,0,,Discourtesy, or whatever,
 Dialogue: 0,0:08:33.73,0:08:37.63,Nanoha Narration1,,0,0,0,,she looks like she's passed out.
 Dialogue: 0,0:08:37.63,0:08:39.13,Nanoha Narration1,,0,0,0,,You're kidding!
@@ -210,17 +210,17 @@ Dialogue: 0,0:10:35.95,0:10:39.86,Nanoha Dialogue1,,0,0,0,,It's been on the book
 Dialogue: 0,0:10:39.86,0:10:43.75,Nanoha Dialogue1,,0,0,0,,I took good care of it because it was a very pretty book.
 Dialogue: 0,0:10:43.75,0:10:46.93,Nanoha Dialogue1,,0,0,0,,At the time of awakening, and while you were asleep,
 Dialogue: 0,0:10:46.93,0:10:49.62,Nanoha Dialogue1,,0,0,0,,did you hear the voice of the {\i1}Buch der Dunkelheit?{\i0}
-Dialogue: 0,0:10:50.74,0:10:54.80,Nanoha Dialogue1,,0,0,0,,I'm not a mage or anything, so everything's kind of vague.
+Dialogue: 0,0:10:50.60,0:10:54.80,Nanoha Dialogue1,,0,0,0,,I'm not a mage or anything, so everything's kind of vague.
 Dialogue: 0,0:10:54.80,0:10:56.08,Nanoha Dialogue1,,0,0,0,,Ah! There was.
 Dialogue: 0,0:10:57.28,0:10:59.43,Nanoha Dialogue1,,0,0,0,,There's one thing that I found out.
 Dialogue: 0,0:10:59.43,0:11:01.21,Nanoha Dialogue1,,0,0,0,,As the {\i1}Meister{\i0} of the {\i1}Buch der Dunkelheit,{\i0}
 Dialogue: 0,0:11:01.21,0:11:03.06,Nanoha Dialogue1,,0,0,0,,I have to provide\Nclothing, food, and shelter
 Dialogue: 0,0:11:03.06,0:11:05.54,Nanoha Dialogue1,,0,0,0,,for all the {\i1}Schutzritter.{\i0}
-Dialogue: 0,0:11:05.54,0:11:09.32,Nanoha Dialogue1,,0,0,0,,Fortunately, I have a place to live, and I'm good at cooking.
+Dialogue: 0,0:11:05.54,0:11:09.32,Nanoha Dialogue1,,0,0,0,,Fortunately, I have a place to live,\Nand I'm good at cooking.
 Dialogue: 0,0:11:09.32,0:11:11.56,Nanoha Dialogue1,,0,0,0,,I'll go buy clothes for all of you,
 Dialogue: 0,0:11:11.56,0:11:13.44,Nanoha Dialogue1,,0,0,0,,so let me measure you and figure out your sizes.
 Dialogue: 0,0:11:14.59,0:11:17.19,Nanoha Narration1,,0,0,0,,Yes... really...
-Dialogue: 0,0:11:17.19,0:11:21.07,Nanoha Narration1,,0,0,0,,Everything was different from all our previous{\i0}Meisters.{\i1}
+Dialogue: 0,0:11:17.19,0:11:21.07,Nanoha Narration1,,0,0,0,,Everything was different from all our previous {\i0}Meisters.{\i1}
 Dialogue: 0,0:11:22.10,0:11:26.57,Nanoha Narration1,,0,0,0,,{\i0}Meister{\i1} Hayate's treatment of us,\Nunlike the other {\i0}Meisters,{\i1}
 Dialogue: 0,0:11:26.57,0:11:30.32,Nanoha Narration1,,0,0,0,,wasn't beating down on us\Nor treating us like tools.
 Dialogue: 0,0:11:31.14,0:11:34.94,Nanoha Narration1,,0,0,0,,It was as if she were treating us like family.
@@ -267,19 +267,19 @@ Dialogue: 0,0:13:46.86,0:13:49.39,Nanoha Narration1,,0,0,0,,had been spending ou
 Dialogue: 0,0:13:50.50,0:13:53.64,Nanoha Dialogue1,,0,0,0,,Wow, so pretty!
 Dialogue: 0,0:13:55.28,0:13:56.74,Nanoha Dialogue1,,0,0,0,,{\i1}Meister{\i0} Hayate...
 Dialogue: 0,0:13:57.20,0:13:59.77,Nanoha Dialogue1,,0,0,0,,Is it really all right?
-Dialogue: 0,0:13:59.77,0:14:01.38,Nanoha Dialogue1,,0,0,0,,Is what all right?
-Dialogue: 0,0:14:01.38,0:14:03.28,Nanoha Dialogue1,,0,0,0,,About the {\i1}Buch der Dunkelheit.{\i0}
+Dialogue: 0,0:13:59.77,0:14:01.13,Nanoha Dialogue1,,0,0,0,,Is what all right?
+Dialogue: 0,0:14:01.13,0:14:03.28,Nanoha Dialogue1,,0,0,0,,About the {\i1}Buch der Dunkelheit.{\i0}
 Dialogue: 0,0:14:03.28,0:14:05.35,Nanoha Dialogue1,,0,0,0,,As soon as you wish it so,
 Dialogue: 0,0:14:05.35,0:14:08.84,Nanoha Dialogue1,,0,0,0,,we can fill the pages of the{\i1}Buch der Dunkelheit,{\i0}
 Dialogue: 0,0:14:08.84,0:14:12.36,Nanoha Dialogue1,,0,0,0,,and you can gain great power.
 Dialogue: 0,0:14:12.36,0:14:15.36,Nanoha Dialogue1,,0,0,0,,I'm sure your legs would heal as well.
 Dialogue: 0,0:14:15.36,0:14:16.96,Nanoha Dialogue1,,0,0,0,,No way.
-Dialogue: 0,0:14:16.96,0:14:19.22,Nanoha Dialogue1,,0,0,0,,To fill the pages of the{\i1}Buch der Dunkelheit,{\i0}
+Dialogue: 0,0:14:16.96,0:14:19.22,Nanoha Dialogue1,,0,0,0,,To fill the pages of the {\i1}Buch der Dunkelheit,{\i0}
 Dialogue: 0,0:14:19.22,0:14:22.24,Nanoha Dialogue1,,0,0,0,,you have to trouble all sorts of people, right?
 Dialogue: 0,0:14:23.37,0:14:24.80,Nanoha Dialogue1,,0,0,0,,That's wrong.
 Dialogue: 0,0:14:25.48,0:14:29.74,Nanoha Dialogue1,,0,0,0,,It's wrong to trouble other people for your own selfishness.
 Dialogue: 0,0:14:30.76,0:14:35.60,Nanoha Dialogue1,,0,0,0,,I'm plenty happy as I am right now.
-Dialogue: 0,0:14:35.60,0:14:39.65,Nanoha Dialogue1,,0,0,0,,Dad and Mom are up in the skies already,
+Dialogue: 0,0:14:35.60,0:14:39.65,Nanoha Dialogue1,,0,0,0,,Dad and Mom are up in heaven already,
 Dialogue: 0,0:14:39.65,0:14:44.18,Nanoha Dialogue1,,0,0,0,,but my uncle is keeping tabs on the inheritance for me.
 Dialogue: 0,0:14:44.18,0:14:47.44,Nanoha Dialogue1,,0,0,0,,One of your father's friends, was it?
 Dialogue: 0,0:14:47.44,0:14:48.53,Nanoha Dialogue1,,0,0,0,,Right.
@@ -328,8 +328,8 @@ Dialogue: 0,0:16:50.78,0:16:53.14,Nanoha Dialogue1,,0,0,0,,It was the curse of\N
 Dialogue: 0,0:16:53.14,0:16:57.29,Nanoha Dialogue1,,0,0,0,,The {\i1}Buch der Dunkelheit,{\i0} with\N{\i1}Meister{\i0} Hayate ever since she was born,
 Dialogue: 0,0:16:57.29,0:17:00.39,Nanoha Dialogue1,,0,0,0,,was closely linked to the {\i1}Meister'{\i0}s body.
 Dialogue: 0,0:17:01.93,0:17:04.40,Nanoha Dialogue1,,0,0,0,,The strong magical powers that have been suppressed
-Dialogue: 0,0:17:04.40,0:17:08.10,Nanoha Dialogue1,,0,0,0,,ate away at the {\i1}Meister'{\i0}s body, as she had a young Linker Core.
-Dialogue: 0,0:17:08.10,0:17:10.43,Nanoha Dialogue1,,0,0,0,,Getting in the way not only of healthy physical activity,
+Dialogue: 0,0:17:04.40,0:17:08.10,Nanoha Dialogue1,,0,0,0,,ate away at the {\i1}Meister'{\i0}s body, as she had a young Linker Core,
+Dialogue: 0,0:17:08.10,0:17:10.43,Nanoha Dialogue1,,0,0,0,,not only getting in the way of healthy physical activity,
 Dialogue: 0,0:17:10.43,0:17:13.29,Nanoha Dialogue1,,0,0,0,,but threatening basic operations for survival.
 Dialogue: 0,0:17:15.42,0:17:21.87,Nanoha Dialogue1,,0,0,0,,And when the {\i1}Meister{\i0} met her first awakening, the process accelerated.
 Dialogue: 0,0:17:26.92,0:17:30.52,Nanoha Dialogue1,,0,0,0,,That meant the {\i1}Meister{\i0} was using her magical powers,
@@ -409,7 +409,7 @@ Dialogue: 0,0:21:51.29,0:21:53.40,Nanoha Dialogue1,,0,0,0,,there's no accounting
 Dialogue: 0,0:21:54.50,0:21:55.83,Nanoha Dialogue1,,0,0,0,,Thanks for the meal!
 Dialogue: 0,0:21:55.83,0:21:58.00,Nanoha Dialogue1,,0,0,0,,Lieselotte, long time no see.
 Dialogue: 0,0:22:01.37,0:22:02.90,Nanoha Dialogue1,,0,0,0,,Amy! Long time no see!
-Dialogue: 0,0:22:04.03,0:22:06.42,Nanoha Dialogue1,,0,0,0,,There's a tasty-looking little mouse-boy here...
+Dialogue: 0,0:22:03.48,0:22:06.42,Nanoha Dialogue1,,0,0,0,,There's a tasty-looking little mouse-boy here...
 Dialogue: 0,0:22:07.50,0:22:09.43,Nanoha Dialogue1,,0,0,0,,Who is it?
 Dialogue: 0,0:22:12.24,0:22:16.42,Nanoha Dialogue1,,0,0,0,,Why is someone like that my trainer?
 Dialogue: 0,0:22:17.31,0:22:18.96,Nanoha Dialogue1,,0,0,0,,Oh, I see.
@@ -437,21 +437,21 @@ Dialogue: 0,0:23:15.74,0:23:18.27,Nanoha Dialogue1,,0,0,0,,When you're done with
 Dialogue: 0,0:23:18.27,0:23:20.62,Nanoha Dialogue1,,0,0,0,,Hey, wait a minute!
 Dialogue: 0,0:23:23.55,0:23:25.38,Nanoha Dialogue1,,0,0,0,,So, what's your request?
 Dialogue: 0,0:23:26.52,0:23:30.76,Nanoha Dialogue1,,0,0,0,,I would like you to help him in his research in the Infinity Library.
-Dialogue: 0,0:23:36.42,0:23:41.59,Nanoha ED,,0,0,0,,I won't forget even when I grow up
-Dialogue: 0,0:23:41.59,0:23:49.52,Nanoha ED,,0,0,0,,My love, the day that we came across each other
-Dialogue: 0,0:23:50.17,0:23:54.30,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
-Dialogue: 0,0:23:54.30,0:23:58.01,Nanoha ED,,0,0,0,,I kept you in tears
-Dialogue: 0,0:23:58.01,0:24:01.41,Nanoha ED,,0,0,0,,I remember the promise
-Dialogue: 0,0:24:01.41,0:24:07.87,Nanoha ED,,0,0,0,,My love, the smile that I love so much
-Dialogue: 0,0:24:12.92,0:24:18.52,Nanoha ED,,0,0,0,,That day, when the secret door opened
-Dialogue: 0,0:24:19.93,0:24:25.96,Nanoha ED,,0,0,0,,I was chasing after a small white butterfly
-Dialogue: 0,0:24:28.31,0:24:34.21,Nanoha ED,,0,0,0,,I got lost, and I wanted to cry
-Dialogue: 0,0:24:34.21,0:24:37.95,Nanoha ED,,0,0,0,,My true wishes, my true feelings
-Dialogue: 0,0:24:37.95,0:24:42.45,Nanoha ED,,0,0,0,,Maybe you taught those to me
-Dialogue: 0,0:24:42.45,0:24:46.59,Nanoha ED,,0,0,0,,Guarded by such kind feelings
-Dialogue: 0,0:24:46.59,0:24:50.16,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time
-Dialogue: 0,0:24:50.16,0:24:53.96,Nanoha ED,,0,0,0,,How you thought dear of me
-Dialogue: 0,0:24:53.96,0:24:59.93,Nanoha ED,,0,0,0,,My love, I won't forget all of you
+Dialogue: 0,0:23:36.47,0:23:41.64,Nanoha ED,,0,0,0,,I won't forget even when I grow up
+Dialogue: 0,0:23:41.64,0:23:49.57,Nanoha ED,,0,0,0,,My love, the day that we came across each other
+Dialogue: 0,0:23:50.26,0:23:54.35,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
+Dialogue: 0,0:23:54.35,0:23:57.86,Nanoha ED,,0,0,0,,I kept you in tears
+Dialogue: 0,0:23:57.86,0:24:01.46,Nanoha ED,,0,0,0,,I remember the promise
+Dialogue: 0,0:24:01.46,0:24:07.92,Nanoha ED,,0,0,0,,My love, the smile that I love so much
+Dialogue: 0,0:24:12.84,0:24:18.57,Nanoha ED,,0,0,0,,That day, when the secret door opened
+Dialogue: 0,0:24:19.98,0:24:26.01,Nanoha ED,,0,0,0,,I was chasing after a small white butterfly
+Dialogue: 0,0:24:28.36,0:24:34.06,Nanoha ED,,0,0,0,,I got lost, and I wanted to cry
+Dialogue: 0,0:24:34.06,0:24:37.72,Nanoha ED,,0,0,0,,My true wishes, my true feelings
+Dialogue: 0,0:24:37.72,0:24:42.50,Nanoha ED,,0,0,0,,Maybe you taught those to me
+Dialogue: 0,0:24:42.50,0:24:46.64,Nanoha ED,,0,0,0,,Guarded by such kind feelings
+Dialogue: 0,0:24:46.64,0:24:50.21,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time
+Dialogue: 0,0:24:50.21,0:24:53.88,Nanoha ED,,0,0,0,,How you thought dear of me
+Dialogue: 0,0:24:53.88,0:24:59.79,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:06.89,0:25:10.88,Nanoha Title2,,0,0,0,,{\fad(0,820)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:06.89,0:25:10.88,Nanoha Title2,,0,0,0,,{\fad(0,820)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3170,3990,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:10.46,0:25:11.76,Nanoha Narration1,,0,0,0,,Thanks to Yuuno's research,

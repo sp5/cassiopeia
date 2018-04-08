@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 8
-Active Line: 10
-Video Position: 1309
+Scroll Position: 285
+Active Line: 286
+Video Position: 35933
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -141,7 +141,7 @@ Dialogue: 0,0:07:25.70,0:07:27.54,Nanoha Dialogue1,,0,0,0,,Civilization level, z
 Dialogue: 0,0:07:27.54,0:07:30.88,Nanoha Dialogue1,,0,0,0,,It's a desert world with no human inhabitants.
 Dialogue: 0,0:07:37.45,0:07:41.71,Nanoha Dialogue1,,0,0,0,,At least 45 minutes to assemble operatives to form a barrier...
 Dialogue: 0,0:07:42.96,0:07:45.40,Nanoha Dialogue1,,0,0,0,,This isn't looking good.
-Dialogue: 0,0:07:50.37,0:07:52.50,Nanoha Dialogue1,,0,0,0,,Amy, I'll go!
+Dialogue: 0,0:07:50.13,0:07:52.50,Nanoha Dialogue1,,0,0,0,,Amy, I'll go!
 Dialogue: 0,0:07:52.50,0:07:53.44,Nanoha Dialogue1,,0,0,0,,Me too!
 Dialogue: 0,0:07:55.44,0:07:56.94,Nanoha Dialogue1,,0,0,0,,Right. Please do.
 Dialogue: 0,0:07:58.81,0:07:59.70,Nanoha Dialogue1,,0,0,0,,Sure!
@@ -160,7 +160,7 @@ Dialogue: 0,0:09:25.00,0:09:27.72,Nanoha Dialogue1,,0,0,0,,Our mistresses are on
 Dialogue: 0,0:09:27.72,0:09:29.52,Nanoha Dialogue1,,0,0,0,,The same goes for us.
 Dialogue: 0,0:09:31.37,0:09:34.20,Nanoha Dialogue1,,0,0,0,,Signum is our leader,
 Dialogue: 0,0:09:34.20,0:09:35.78,Nanoha Dialogue1,,0,0,0,,but she is not my mistress.
-Dialogue: 0,0:09:37.04,0:09:42.78,Nanoha Dialogue1,,0,0,0,,That means your mistress is the mistress of the Book of Darkness, huh?
+Dialogue: 0,0:09:36.86,0:09:42.78,Nanoha Dialogue1,,0,0,0,,That means your mistress is the mistress of the Book of Darkness, huh?
 Dialogue: 0,0:09:51.42,0:09:54.36,Nanoha Narration1,,0,0,0,,Fate! What are you doing, helping her?!
 Dialogue: 0,0:09:54.36,0:09:56.01,Nanoha Narration1,,0,0,0,,You're supposed to capture her!
 Dialogue: 0,0:09:56.90,0:10:00.46,Nanoha Dialogue1,,0,0,0,,I'm sorry, I couldn't help it.
@@ -227,7 +227,7 @@ Dialogue: 0,0:15:47.88,0:15:48.94,Nanoha Device1,,0,0,0,,Assault Form
 Dialogue: 0,0:15:54.35,0:15:55.72,Nanoha Device1,,0,0,0,,Sword Form
 Dialogue: 0,0:15:54.35,0:15:55.72,Nanoha Device2,,0,0,0,,{\pos(476,647)}Schwertform
 Dialogue: 0,0:16:09.36,0:16:10.69,Nanoha Dialogue1,,0,0,0,,{\b1}Plasma...{\b0}
-Dialogue: 0,0:16:14.50,0:16:15.86,Nanoha Dialogue1,,0,0,0,,{\b1}Draconic...{\b0}
+Dialogue: 0,0:16:14.30,0:16:15.86,Nanoha Dialogue1,,0,0,0,,{\b1}Draconic...{\b0}
 Dialogue: 0,0:16:15.86,0:16:18.14,Nanoha Dialogue1,,0,0,0,,{\b1}...Smasher{\b0}
 Dialogue: 0,0:16:22.44,0:16:23.46,Nanoha Dialogue1,,0,0,0,,{\b1}...Swordflash{\b0}
 Dialogue: 0,0:16:49.86,0:16:54.64,Nanoha Dialogue1,,0,0,0,,If you're a familiar...\Na guardian beast... like me,
@@ -284,7 +284,7 @@ Dialogue: 0,0:20:19.81,0:20:22.35,Nanoha Device1,,0,0,0,,Divine Buster...
 Dialogue: 0,0:20:22.35,0:20:24.05,Nanoha Device1,,0,0,0,,...Extension
 Dialogue: 0,0:20:24.05,0:20:27.32,Nanoha Dialogue1,,0,0,0,,{\b1}Divine...{\b0}
 Dialogue: 0,0:20:30.63,0:20:33.83,Nanoha Dialogue1,,0,0,0,,{\b1}...Buster{\b0}
-Dialogue: 0,0:20:35.73,0:20:36.27,Nanoha Dialogue1,,0,0,0,,You're kidding!
+Dialogue: 0,0:20:35.73,0:20:36.27,Nanoha Dialogue1,,0,0,0,,No!
 Dialogue: 0,0:20:47.13,0:20:48.66,Nanoha Device1,,0,0,15,,It's a direct hit.
 Dialogue: 0,0:20:49.84,0:20:51.88,Nanoha Dialogue1,,0,0,0,,Was that overkill?
 Dialogue: 0,0:20:51.88,0:20:53.41,Nanoha Device1,,0,0,15,,Don't worry.
@@ -311,21 +311,21 @@ Dialogue: 0,0:22:45.30,0:22:49.43,Nanoha Narration1,,0,0,0,,No choice but to use
 Dialogue: 0,0:23:10.92,0:23:12.44,Nanoha Dialogue1,,0,0,0,,Testarossa!
 Dialogue: 0,0:23:19.13,0:23:20.20,Nanoha Dialogue1,,0,0,0,,Curse you!
 Dialogue: 0,0:23:31.46,0:23:34.95,Nanoha Dialogue1,,0,0,0,,Now, take it.
-Dialogue: 0,0:23:35.29,0:23:40.46,Nanoha ED,,0,0,0,,I won't forget even when I grow up
-Dialogue: 0,0:23:40.46,0:23:48.39,Nanoha ED,,0,0,0,,My love, the day that we came across each other
-Dialogue: 0,0:23:49.04,0:23:53.17,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
-Dialogue: 0,0:23:53.17,0:23:56.88,Nanoha ED,,0,0,0,,I kept you in tears
-Dialogue: 0,0:23:56.88,0:24:00.28,Nanoha ED,,0,0,0,,I remember the promise
-Dialogue: 0,0:24:00.28,0:24:06.74,Nanoha ED,,0,0,0,,My love, the smile that I love so much
-Dialogue: 0,0:24:11.79,0:24:17.39,Nanoha ED,,0,0,0,,That day, when the secret door opened
-Dialogue: 0,0:24:18.80,0:24:24.83,Nanoha ED,,0,0,0,,I was chasing after a small white butterfly
-Dialogue: 0,0:24:27.18,0:24:33.08,Nanoha ED,,0,0,0,,I got lost, and I wanted to cry
-Dialogue: 0,0:24:33.08,0:24:36.82,Nanoha ED,,0,0,0,,My true wishes, my true feelings
-Dialogue: 0,0:24:36.82,0:24:41.32,Nanoha ED,,0,0,0,,Maybe you taught those to me
-Dialogue: 0,0:24:41.32,0:24:45.46,Nanoha ED,,0,0,0,,Guarded by such kind feelings
-Dialogue: 0,0:24:45.46,0:24:49.03,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time
-Dialogue: 0,0:24:49.03,0:24:52.83,Nanoha ED,,0,0,0,,How you thought dear of me
-Dialogue: 0,0:24:52.83,0:24:58.80,Nanoha ED,,0,0,0,,My love, I won't forget all of you
+Dialogue: 0,0:23:35.39,0:23:40.56,Nanoha ED,,0,0,0,,I won't forget even when I grow up
+Dialogue: 0,0:23:40.56,0:23:48.49,Nanoha ED,,0,0,0,,My love, the day that we came across each other
+Dialogue: 0,0:23:49.18,0:23:53.27,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
+Dialogue: 0,0:23:53.27,0:23:56.78,Nanoha ED,,0,0,0,,I kept you in tears
+Dialogue: 0,0:23:56.78,0:24:00.38,Nanoha ED,,0,0,0,,I remember the promise
+Dialogue: 0,0:24:00.38,0:24:06.84,Nanoha ED,,0,0,0,,My love, the smile that I love so much
+Dialogue: 0,0:24:11.76,0:24:17.49,Nanoha ED,,0,0,0,,That day, when the secret door opened
+Dialogue: 0,0:24:18.90,0:24:24.93,Nanoha ED,,0,0,0,,I was chasing after a small white butterfly
+Dialogue: 0,0:24:27.28,0:24:32.98,Nanoha ED,,0,0,0,,I got lost, and I wanted to cry
+Dialogue: 0,0:24:32.98,0:24:36.64,Nanoha ED,,0,0,0,,My true wishes, my true feelings
+Dialogue: 0,0:24:36.64,0:24:41.42,Nanoha ED,,0,0,0,,Maybe you taught those to me
+Dialogue: 0,0:24:41.42,0:24:45.56,Nanoha ED,,0,0,0,,Guarded by such kind feelings
+Dialogue: 0,0:24:45.56,0:24:49.13,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time
+Dialogue: 0,0:24:49.13,0:24:52.80,Nanoha ED,,0,0,0,,How you thought dear of me
+Dialogue: 0,0:24:52.80,0:24:58.74,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.84,0:25:09.80,Nanoha Title2,,0,0,0,,{\fad(0,1000)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:05.84,0:25:09.80,Nanoha Title2,,0,0,0,,{\fad(0,1000)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(2960,3960,\1a&HFF&)}Next Episode Preview
 Dialogue: 0,0:25:09.32,0:25:12.57,Nanoha Narration1,,0,0,0,,Fate's Linker Core has been taken.
