@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 323
-Active Line: 329
-Video Position: 35934
+Scroll Position: 125
+Active Line: 127
+Video Position: 15154
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,7 @@ Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC70000
 Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Device2,Noto Serif,45,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
-Style: Hayate Handwriting,Typeecanoe,40,&H009796A6,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Hayate Handwriting,Typeecanoe Light,40,&H009796A6,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
