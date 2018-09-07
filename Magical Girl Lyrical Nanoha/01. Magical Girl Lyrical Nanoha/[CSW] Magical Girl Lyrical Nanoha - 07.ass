@@ -18,15 +18,15 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 125
-Active Line: 127
-Video Position: 16814
+Scroll Position: 232
+Active Line: 237
+Video Position: 27847
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Dialogue2,Noto Sans,54,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
-Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,1.5,2,80,80,23,1
+Style: Nanoha Dialogue2,HelveticaNeueLT Pro 65 Md,40,&H00FDFDFD,&H000000FF,&H00000000,&HC7000000,-1,0,0,0,100,100,0.8,0,1,0,0,4,14,14,13,1
+Style: Nanoha Title1,Noto Sans,54,&H00FEFEFE,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
@@ -60,11 +60,11 @@ Dialogue: 0,0:01:53.69,0:01:58.23,Nanoha OP,,0,0,0,,Right now, a warmth that mig
 Dialogue: 0,0:01:58.23,0:02:02.80,Nanoha OP,,0,0,0,,Parts itself from the past, and overflows
 Dialogue: 0,0:02:02.80,0:02:07.37,Nanoha OP,,0,0,0,,I'll be by your side forever
 Dialogue: 0,0:02:07.37,0:02:17.37,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
-Dialogue: 0,0:02:24.07,0:02:28.89,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(959,1293)\an5\pos(480.676,490.5)}{\fs45\b1}April 26, 8:27 PM\NCity of Uminari, downtown, within the barrier{\b0}{\b0}
+Dialogue: 0,0:02:24.07,0:02:28.89,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(1075,1451)\an5\pos(480.676,497.5)}April 26, 8:27 PM\NCity of Uminari, downtown, within the barrier
 Dialogue: 0,0:02:40.97,0:02:41.97,Nanoha Narration1,,0,0,0,,Fate!
 Dialogue: 0,0:02:41.97,0:02:42.99,Nanoha Dialogue1,,0,0,0,,Nanoha!
-Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,240)}{\blur0.5\b1}Episode 7{\b0}
-Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Dialogue2,,0,0,0,,{\an5\pos(480,480)}{\b1\blur0.5}A Third Mage!?{\b0}
+Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Title1,,0,0,0,,{\an5\pos(480,240)}{\blur0.5\b1}Episode 7{\b0}
+Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Title1,,0,0,0,,{\an5\pos(480,480)}{\b1\blur0.5}A Third Mage!?{\b0}
 Dialogue: 0,0:03:19.08,0:03:22.60,Nanoha Dialogue1,,0,0,0,,It's all right. You can return, Bardiche.
 Dialogue: 0,0:03:22.60,0:03:24.04,Nanoha Device1,,0,0,0,,Yes, sir.
 Dialogue: 0,0:03:39.49,0:03:40.13,Nanoha Narration1,,0,0,0,,Fate?!
@@ -75,7 +75,7 @@ Dialogue: 0,0:04:00.35,0:04:02.30,Nanoha Narration1,,0,0,0,,Stop... stop...
 Dialogue: 0,0:04:04.25,0:04:07.25,Nanoha Narration1,,0,0,0,,Stop... stop...
 Dialogue: 0,0:04:08.56,0:04:09.56,Nanoha Narration1,,0,0,0,,Stop!
 Dialogue: 0,0:04:22.90,0:04:23.80,Nanoha Narration1,,0,0,0,,Fate!
-Dialogue: 0,0:04:49.29,0:04:53.75,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,918)\an5\pos(480,490.5)}{\fs45\b1}Same day, 9:15 PM\NCity of Uminari suburbs, Takamachi residence{\b0}
+Dialogue: 0,0:04:49.29,0:04:53.75,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,791)\an5\pos(480,497.5)}Same day, 9:15 PM\NCity of Uminari suburbs, Takamachi residence{\b0}
 Dialogue: 1,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\c&H383B95&\blur0.5}Nanoha
 Dialogue: 0,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\blur0.5\bord0.3\c&H000000&}Nanoha
 Dialogue: 0,0:04:59.74,0:05:01.31,Nanoha Narration1,,0,0,0,,Raising Heart is a Device
@@ -93,7 +93,7 @@ Dialogue: 0,0:05:43.72,0:05:45.26,Nanoha Dialogue1,,0,0,0,,And are you all right
 Dialogue: 0,0:05:45.26,0:05:46.30,Nanoha Dialogue1,,0,0,0,,Yeah,
 Dialogue: 0,0:05:46.30,0:05:49.24,Nanoha Dialogue1,,0,0,0,,because Raising Heart protected me.
 Dialogue: 0,0:05:49.24,0:05:53.25,Nanoha Dialogue1,,0,0,0,,I'm so sorry, Raising Heart.
-Dialogue: 0,0:05:59.11,0:06:04.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,751)\an5\pos(480,490.5)}{\fs45\\b1}Same day, same time\NCity of Tōmi residential area{\b0}
+Dialogue: 0,0:05:59.11,0:06:04.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,916)\an5\pos(480,497.5)}Same day, same time\NCity of Tōmi residential area{\b0}
 Dialogue: 0,0:06:20.22,0:06:21.82,Nanoha Dialogue1,,0,0,0,,I'm sorry, Fate.
 Dialogue: 0,0:06:21.82,0:06:23.71,Nanoha Dialogue1,,0,0,0,,Hang in there a little longer.
 Dialogue: 0,0:06:24.46,0:06:25.60,Nanoha Dialogue1,,0,0,0,,I'm fine.
@@ -114,7 +114,7 @@ Dialogue: 0,0:07:23.50,0:07:24.92,Nanoha Dialogue1,,0,0,0,,She might not have an
 Dialogue: 0,0:07:24.92,0:07:27.22,Nanoha Dialogue1,,0,0,0,,but I'm sure that she won't scold you for it!
 Dialogue: 0,0:07:28.49,0:07:29.32,Nanoha Dialogue1,,0,0,0,,Yeah...
 Dialogue: 0,0:07:31.52,0:07:32.50,Nanoha Dialogue1,,0,0,0,,You're right.
-Dialogue: 0,0:07:38.51,0:07:41.58,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,1043)\an5\pos(480,490.5)}{\fs45\b1}April 27, 6:15 AM\NTakamachi residence{\b0}
+Dialogue: 0,0:07:38.51,0:07:41.58,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,953)\an5\pos(480,497.5)}April 27\N6:15 AM, Takamachi residence{\b0}
 Dialogue: 0,0:07:58.99,0:08:01.25,Nanoha Dialogue1,,0,0,0,,Hm? Nanoha?
 Dialogue: 0,0:08:01.25,0:08:03.19,Nanoha Dialogue1,,0,0,0,,Oh, Miyuki.
 Dialogue: 0,0:08:03.19,0:08:05.99,Nanoha Dialogue1,,0,0,0,,What's wrong?\NYou're up really early today.
@@ -150,7 +150,7 @@ Dialogue: 0,0:09:53.67,0:09:56.33,Nanoha Narration1,,0,0,0,,A reason why she's c
 Dialogue: 0,0:09:57.84,0:09:59.50,Nanoha Narration1,,0,0,0,,That's why I...
 Dialogue: 0,0:09:59.50,0:10:01.22,Nanoha Narration1,,0,0,0,,I want to have a good talk with her.
 Dialogue: 0,0:10:02.54,0:10:05.58,Nanoha Narration1,,0,0,0,,So... to do that...
-Dialogue: 0,0:10:15.08,0:10:20.03,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,960)\an5\pos(480,490.5)}{\fs45\b1}Same day, 8:17 AM\NCity of Tōmi residential area, condominium rooftop{\b0}
+Dialogue: 0,0:10:15.08,0:10:20.03,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,995)\an5\pos(480,497.5)}Same day, 8:17 AM\NCity of Tōmi residential area, condominium rooftop{\b0}
 Dialogue: 0,0:10:21.10,0:10:23.35,Nanoha Dialogue1,,0,0,0,,This should be enough for souvenirs.
 Dialogue: 0,0:10:25.96,0:10:27.89,Nanoha Dialogue1,,0,0,0,,An assortment of sweets?
 Dialogue: 0,0:10:27.89,0:10:31.58,Nanoha Dialogue1,,0,0,0,,Would she be happy with something like this?
@@ -160,8 +160,8 @@ Dialogue: 0,0:10:39.70,0:10:43.40,Nanoha Dialogue1,,0,0,0,,Dimensional coordinat
 Dialogue: 0,0:10:44.08,0:10:53.42,Nanoha Dialogue1,,0,0,0,,3312D699... 3583A146... 779F3125.
 Dialogue: 0,0:10:56.41,0:10:58.92,Nanoha Dialogue1,,0,0,0,,Open, doors of luring.
 Dialogue: 0,0:10:58.92,0:11:03.10,Nanoha Dialogue1,,0,0,0,,To the Garden of Time, to the head of the House of Testarossa!
-Dialogue: 0,0:11:16.51,0:11:20.38,Nanoha Dialogue2,,0,0,0,,{\4a&3F&\shad2\blur0.5\fad(417,876)\an5\pos(480,490.5)}{\fs45\b1}Same day, same time\NThe Dimensional Sea{\b0}
-Dialogue: 0,0:11:20.52,0:11:23.47,Nanoha Dialogue2,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(417,0)\an5\pos(480,422)}{\fs45\b1}Time-Space Administrative Bureau\NInterdimensional Flagship\N{\i1}Arthra{\b0\i0}
+Dialogue: 0,0:11:16.51,0:11:20.38,Nanoha Title1,,0,0,0,,{\4a&3F&\shad2\blur0.5\fad(583,993)\an5\pos(480,490.5)}{\fs45\b1}Same day, same time\NThe Dimensional Sea{\b0}
+Dialogue: 0,0:11:20.52,0:11:23.47,Nanoha Title1,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(535,0)\an5\pos(480,422)}{\fs45\b1}Time-Space Administrative Bureau\NInterdimensional Flagship\N{\i1}Arthra{\b0\i0}
 Dialogue: 0,0:11:36.48,0:11:39.97,Nanoha Dialogue1,,0,0,0,,How is everyone doing?\NIs this journey going well?
 Dialogue: 0,0:11:39.97,0:11:44.14,Nanoha Dialogue1,,0,0,0,,Ma'am, we're currently cruising at triple ship speed.
 Dialogue: 0,0:11:44.14,0:11:46.28,Nanoha Dialogue1,,0,0,0,,We will be arriving at the destination dimension
@@ -172,16 +172,16 @@ Dialogue: 0,0:11:53.75,0:11:57.90,Nanoha Dialogue1,,0,0,0,,but the danger of two
 Dialogue: 0,0:12:00.79,0:12:01.45,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:12:01.45,0:12:03.94,Nanoha Dialogue1,,0,0,0,,Excuse me, Captain Lindy.
 Dialogue: 0,0:12:06.20,0:12:07.73,Nanoha Dialogue1,,0,0,0,,Thank you, Amy.
-Dialogue: 0,0:12:07.73,0:12:11.98,Nanoha Dialogue2,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(417,876)\an5\pos(480,422)}{\fs45\b1}Commodore, Time-Space Administrative Bureau\NCaptain of the {\i1}Arthra{\i0}\NLindy Harlaown{\b0}
+Dialogue: 0,0:12:07.73,0:12:11.98,Nanoha Title1,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(497,833)\an5\pos(480,422)}{\fs45\b1}Commodore, Time-Space Administrative Bureau\NCaptain of the {\i1}Arthra{\i0}\NLindy Harlaown{\b0}
 Dialogue: 0,0:12:11.17,0:12:12.49,Nanoha Dialogue1,,0,0,0,,You're right.
 Dialogue: 0,0:12:13.24,0:12:16.63,Nanoha Dialogue1,,0,0,0,,Even if it's small, the creation of a dimensional tremor...
 Dialogue: 0,0:12:18.11,0:12:19.96,Nanoha Dialogue1,,0,0,0,,...is rather troublesome.
 Dialogue: 0,0:12:19.96,0:12:24.28,Nanoha Dialogue1,,0,0,0,,If it gets dangerous,\Nyou must hurry over to the site.
 Dialogue: 0,0:12:24.28,0:12:25.46,Nanoha Dialogue1,,0,0,0,,Right, Chrono?
-Dialogue: 0,0:12:26.08,0:12:28.99,Nanoha Dialogue2,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(667,0)\pos(524,235.5)}{\fs32\b1}Time-Space Administrative Bureau\NEnforcer\NChrono Harlaown{\b0}
+Dialogue: 0,0:12:26.08,0:12:28.99,Nanoha Title1,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(499,0)\pos(524,235.5)}{\fs32\b1}Time-Space Administrative Bureau\NEnforcer\NChrono Harlaown{\b0}
 Dialogue: 0,0:12:26.25,0:12:28.99,Nanoha Dialogue1,,0,0,0,,It's all right. I understand, Captain.
 Dialogue: 0,0:12:30.56,0:12:33.98,Nanoha Dialogue1,,0,0,0,,That is the reason I'm here.
-Dialogue: 0,0:12:49.10,0:12:53.90,Nanoha Dialogue2,,0,0,0,,{\4a&3F&\shad2\blur0.5\fad(417,918)\an5\pos(480,490.5)}{\fs45\b1}Somewhere in the Dimensional Sea\NGarden of Time{\b0}
+Dialogue: 0,0:12:49.10,0:12:53.90,Nanoha Title1,,0,0,0,,{\4a&3F&\shad2\blur0.5\fad(502,878)\an5\pos(480,490.5)}{\fs45\b1}Somewhere in the Dimensional Sea\NGarden of Time{\b0}
 Dialogue: 0,0:13:03.34,0:13:05.34,Nanoha Dialogue1,,0,0,0,,Only four?
 Dialogue: 0,0:13:08.80,0:13:12.33,Nanoha Dialogue1,,0,0,0,,This is all but horrible.
 Dialogue: 0,0:13:15.69,0:13:16.65,Nanoha Dialogue1,,0,0,0,,Yes...
@@ -259,21 +259,21 @@ Dialogue: 0,0:17:57.34,0:18:01.51,Nanoha Dialogue1,,0,0,0,,And I'm sure she will
 Dialogue: 0,0:18:03.38,0:18:04.50,Nanoha Dialogue1,,0,0,0,,So let's go.
 Dialogue: 0,0:18:06.01,0:18:07.16,Nanoha Dialogue1,,0,0,0,,This time...
 Dialogue: 0,0:18:10.62,0:18:12.52,Nanoha Dialogue1,,0,0,0,,We can't fail.
-Dialogue: 0,0:18:18.48,0:18:21.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,876)\an5\pos(480,422)}{\fs45\b1}April 27, 1:32 PM\NSeishō University Magnet Elementary School\NThird grade, classroom 1{\b0}
-Dialogue: 0,0:18:28.90,0:18:33.52,Nanoha Dialogue2,,0,0,0,,{\fad(0,917)\an5\pos(480,490.5)}{\fs45\b1}April 27, 4:10 PM\NCity of Uminari, downtown{\b0}
-Dialogue: 0,0:18:37.35,0:18:39.80,Nanoha Dialogue1,,0,0,0,,How are you, Bardiche?
+Dialogue: 0,0:18:18.48,0:18:21.93,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,913)\an5\pos(480,429)}April 27, 1:32 PM\NSeishō University Magnet Elementary School\NThird grade classroom 1{\b0}
+Dialogue: 0,0:18:28.90,0:18:33.52,Nanoha Dialogue2,,0,0,0,,{\fad(0,992)\an5\pos(480,497.5)}April 27, 4:10 PM\NCity of Uminari, downtown{\b0}
+Dialogue: 0,0:18:37.29,0:18:39.80,Nanoha Dialogue1,,0,0,0,,How are you, Bardiche?
 Dialogue: 0,0:18:39.80,0:18:41.80,Nanoha Device1,,0,0,0,,Recovery complete.
 Dialogue: 0,0:18:41.80,0:18:45.56,Nanoha Dialogue1,,0,0,0,,I see. You did your best. Good job.
 Dialogue: 0,0:18:45.56,0:18:49.21,Nanoha Narration1,,0,0,0,,You can feel it... even I can sense it.
 Dialogue: 0,0:18:50.88,0:18:54.94,Nanoha Dialogue1,,0,0,0,,There is one that will execute soon, very close by.
-Dialogue: 0,0:18:54.93,0:18:58.88,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,918)\an5\pos(480,490.5)}{\fs45\b1}April 27, 5:05 PM\NCity of Uminari suburbs{\b0}
+Dialogue: 0,0:18:54.93,0:18:58.88,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,993)\an5\pos(480,497.5)}April 27, 5:05 PM\NCity of Uminari suburbs{\b0}
 Dialogue: 0,0:19:06.17,0:19:08.60,Nanoha Dialogue1,,0,0,0,,Raising Heart, you're all fixed.
 Dialogue: 0,0:19:09.34,0:19:10.38,Nanoha Dialogue1,,0,0,0,,Thank goodness.
 Dialogue: 0,0:19:10.38,0:19:11.67,Nanoha Device1,,0,0,0,,Condition green.
 Dialogue: 0,0:19:11.67,0:19:14.67,Nanoha Dialogue1,,0,0,0,,Will you do your best with me again?
 Dialogue: 0,0:19:14.67,0:19:16.92,Nanoha Device1,,0,0,0,,All right, my master.
 Dialogue: 0,0:19:19.59,0:19:21.43,Nanoha Dialogue1,,0,0,0,,Thanks.
-Dialogue: 0,0:19:21.42,0:19:27.04,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,918)\an5\pos(480,490.5)}{\fs45\b1}April 27, 6:24 PM\NCity of Uminari, Uminari Seaside Park{\b0}
+Dialogue: 0,0:19:21.42,0:19:27.04,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,1000)\an5\pos(480,497.5)}April 27, 6:24 PM\NCity of Uminari, Uminari Seaside Park{\b0}
 Dialogue: 0,0:19:51.15,0:19:52.04,Nanoha Dialogue1,,0,0,0,,Time-sealing barrier...
 Dialogue: 0,0:19:52.04,0:19:53.72,Nanoha Dialogue1,,0,0,0,,Unfold!
 Dialogue: 0,0:20:14.18,0:20:17.00,Nanoha Narration1,,0,0,0,,It's conceited enough to put up a barrier?

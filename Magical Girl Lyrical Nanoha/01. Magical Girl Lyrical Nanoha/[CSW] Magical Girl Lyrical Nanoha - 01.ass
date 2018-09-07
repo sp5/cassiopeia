@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 217
-Active Line: 218
-Video Position: 21041
+Scroll Position: 3
+Active Line: 6
+Video Position: 705
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,13 +38,13 @@ Style: Suzuka Handwriting,Merri Christina Bold,36,&H00FFFFFF,&H000000FF,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.40,0:00:06.60,Nanoha Narration1,,0,0,0,,Under these vast skies,
-Dialogue: 0,0:00:06.60,0:00:09.86,Nanoha Narration1,,0,0,0,,there are thousands—tens of thousands—of people.
-Dialogue: 0,0:00:10.59,0:00:14.66,Nanoha Narration1,,0,0,0,,All sorts of people live their lives, harboring desires and emotions of all sorts.
-Dialogue: 0,0:00:15.84,0:00:20.41,Nanoha Narration1,,0,0,0,,Those emotions sometimes touch one another and clash with one another.
-Dialogue: 0,0:00:21.48,0:00:25.90,Nanoha Narration1,,0,0,0,,But still, a few of them are sure to bond to each other,
+Dialogue: 0,0:00:04.22,0:00:06.42,Nanoha Narration1,,0,0,0,,Under these vast skies,
+Dialogue: 0,0:00:06.42,0:00:09.86,Nanoha Narration1,,0,0,0,,there are thousands—tens of thousands—of people.
+Dialogue: 0,0:00:10.46,0:00:14.66,Nanoha Narration1,,0,0,0,,All sorts of people live their lives, harboring desires and emotions of all sorts.
+Dialogue: 0,0:00:15.64,0:00:20.41,Nanoha Narration1,,0,0,0,,Those emotions sometimes touch one another and clash with one another.
+Dialogue: 0,0:00:21.14,0:00:25.90,Nanoha Narration1,,0,0,0,,But still, a few of them are sure to bond to each other,
 Dialogue: 0,0:00:25.90,0:00:27.42,Nanoha Narration1,,0,0,0,,and can communicate with one another.
-Dialogue: 0,0:00:29.56,0:00:34.41,Nanoha Narration1,,0,0,0,,Such a story is about to begin,\None of new introductions and contacts.
+Dialogue: 0,0:00:29.38,0:00:34.41,Nanoha Narration1,,0,0,0,,Such a story is about to begin,\None of new introductions and contacts.
 Dialogue: 0,0:00:36.41,0:00:39.92,Nanoha Dialogue1,,0,0,0,,{\i1}Magical Girl Lyrical Nanoha{\i0}\Nwill now begin.
 Dialogue: 0,0:00:57.57,0:01:01.49,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
 Dialogue: 0,0:01:01.49,0:01:04.91,Nanoha OP,,0,0,0,,I always shivered from uncertainty

@@ -18,14 +18,14 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 292
-Active Line: 295
-Video Position: 27871
+Scroll Position: 315
+Active Line: 318
+Video Position: 30111
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Dialogue2,Noto Sans,54,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
+Style: Nanoha Dialogue2,HelveticaNeueLT Pro 65 Md,40,&H00FDFDFD,&H000000FF,&H00000000,&HC7000000,-1,0,0,0,100,100,0.8,0,1,0,0,4,14,14,13,1
 Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,0,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
@@ -354,9 +354,9 @@ Dialogue: 0,0:20:37.80,0:20:40.74,Nanoha Dialogue1,,0,0,0,,Well, you're a strong
 Dialogue: 0,0:20:40.74,0:20:43.43,Nanoha Dialogue1,,0,0,0,,I'm not all that worried.
 Dialogue: 0,0:20:43.43,0:20:46.14,Nanoha Dialogue1,,0,0,0,,Make sure to do your best!
 Dialogue: 0,0:20:47.23,0:20:48.14,Nanoha Dialogue1,,0,0,0,,I will!
-Dialogue: 0,0:20:55.84,0:21:00.34,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,460)\an5\pos(480,490.5)}{\fs45\b1}City of Uminari suburbs\NTakamachi residence, 5:27 AM{\b0}
+Dialogue: 0,0:20:55.84,0:21:00.34,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,498)\an5\pos(480,497.5)}City of Uminari suburbs\NTakamachi residence, 5:27 AM{\b0}
 Dialogue: 0,0:21:05.18,0:21:05.78,Nanoha Narration1,,0,0,0,,Nanoha!
-Dialogue: 0,0:21:18.49,0:21:22.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\an5\pos(480,564)\fs45\b1\c&HFEFFEF&}Uminari Seaside Park, 5:55 AM{\b0}
+Dialogue: 0,0:21:18.49,0:21:22.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(538,661)\an5\pos(480,564)}Uminari Seaside Park, 5:55 AM{\b0}
 Dialogue: 0,0:21:31.22,0:21:33.64,Nanoha Dialogue1,,0,0,0,,It's all right if it's here, right?
 Dialogue: 0,0:21:33.64,0:21:35.84,Nanoha Dialogue1,,0,0,0,,Please come out, Fate!
 Dialogue: 0,0:21:53.04,0:21:55.48,Nanoha Device1,,0,0,0,,Scythe Form
