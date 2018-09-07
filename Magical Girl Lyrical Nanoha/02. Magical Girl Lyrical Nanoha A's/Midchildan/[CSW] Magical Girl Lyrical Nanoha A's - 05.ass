@@ -20,9 +20,9 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 244
-Active Line: 248
-Video Position: 35935
+Scroll Position: 161
+Active Line: 166
+Video Position: 20453
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -206,7 +206,7 @@ Dialogue: 0,0:14:04.64,0:14:06.37,Nanoha Narration1,,0,0,0,,but we should pull b
 Dialogue: 0,0:14:06.37,0:14:08.48,Nanoha Narration1,,0,0,0,,Shamal, can you do anything?
 Dialogue: 0,0:14:08.48,0:14:10.04,Nanoha Narration1,,0,0,0,,I'd like to do something,
 Dialogue: 0,0:14:10.04,0:14:13.02,Nanoha Narration1,,0,0,0,,but the Bureau's operatives are maintaining a barrier from outside.
-Dialogue: 0,0:14:13.02,0:14:15.38,Nanoha Narration1,,0,0,0,,I don't have enough magical power to break through it!
+Dialogue: 0,0:14:13.02,0:14:15.38,Nanoha Narration1,,0,0,0,,I don't have enough mana\Nto break through!
 Dialogue: 0,0:14:15.38,0:14:19.77,Nanoha Narration1,,0,0,0,,You'd need power like Signum's {\i0}Falken{\i1}\Nor Vita's {\i0}Gigant{\i1} form for that.
 Dialogue: 0,0:14:19.77,0:14:21.79,Nanoha Narration1,,0,0,0,,Neither of them have a free hand right now.
 Dialogue: 0,0:14:21.79,0:14:23.79,Nanoha Narration1,,0,0,0,,There's no choice. Use it.

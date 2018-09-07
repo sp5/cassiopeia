@@ -18,14 +18,14 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 299
-Active Line: 302
-Video Position: 35934
+Scroll Position: 23
+Active Line: 24
+Video Position: 3704
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Dialogue2,Noto Sans,45,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.1,0,4,14,14,13,1
+Style: Nanoha Dialogue2,HelveticaNeueLT Pro 65 Md,40,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,-1,0,0,0,100,100,0.8,0,1,2.1,0,4,14,14,13,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
@@ -61,8 +61,8 @@ Dialogue: 0,0:01:59.96,0:02:05.80,Nanoha OP,,0,0,0,,An eternal blaze that stoppe
 Dialogue: 0,0:02:05.80,0:02:09.24,Nanoha OP,,0,0,0,,Releasing the deep darkness
 Dialogue: 0,0:02:09.24,0:02:15.59,Nanoha OP,,0,0,0,,It opens the door of freedom
 Dialogue: 0,0:02:15.59,0:02:22.54,Nanoha OP,,0,0,0,,Towards the strong, boundless future
-Dialogue: 1,0:02:33.49,0:02:37.99,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\an5\pos(476,510.5)\b1\bord0}December 22, 4:45 PM\NUminari University Hospital{\b0}
-Dialogue: 0,0:02:33.49,0:02:37.99,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,459)\an5\pos(476,510.5)\b1\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)\t(4041,4500,\1a&HFF&)}December 22, 4:45 PM\NUminari University Hospital{\b0}
+Dialogue: 1,0:02:33.49,0:02:37.99,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(497,499)\an5\pos(476,517.5)\bord0}December 22, 4:45 PM\NUminari University Hospital
+Dialogue: 0,0:02:33.49,0:02:37.99,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(497,499)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,497,\1a&H00&)\t(4001,4500,\1a&HFF&)}December 22, 4:45 PM\NUminari University Hospital
 Dialogue: 0,0:02:38.40,0:02:38.96,Nanoha Sign2,,0,0,0,,{\fad(560,0)\fax-0.4\frz21.06\c&H79C4D9&\move(419,269,419,260,8,560)}Uminari University Hospital
 Dialogue: 0,0:02:38.96,0:02:41.12,Nanoha Sign2,,0,0,0,,{\t(\fscx85\fscy85)\fax-0.4\frz21.06\c&H79C4D9&\move(420,259,445,225,32,2159)}Uminari University Hospital
 Dialogue: 0,0:02:41.12,0:02:42.16,Nanoha Sign2,,0,0,0,,{\fscx85\fscy85\t(\fscx80\fscy80)\fax-0.4\frz21.06\c&H79C4D9&\move(445,225,453,212,41,1000)}Uminari University Hospital
@@ -81,8 +81,8 @@ Dialogue: 0,0:03:11.04,0:03:13.64,Nanoha Dialogue1,,0,0,0,,Okay. Please be caref
 Dialogue: 0,0:03:13.64,0:03:14.27,Nanoha Dialogue1,,0,0,0,,Yes...
 Dialogue: 0,0:03:19.22,0:03:22.86,Nanoha Dialogue1,,0,0,0,,Sixty more pages remaining.
 Dialogue: 0,0:03:29.59,0:03:35.67,Nanoha Dialogue1,,0,0,0,,{\an5\pos(476,480)\b1\fs72\blur0.5\bord0\shad0}Christmas Eve{\b0}
-Dialogue: 1,0:03:36.14,0:03:40.67,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(458,0)\an5\b1\pos(476,510.5)\bord0}December 23, 7:12 PM\NCity of Uminari, Fujimi district, Takamachi residence{\b0}
-Dialogue: 0,0:03:36.14,0:03:40.67,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(458,0)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(0,458,\1a&H00&)}December 23, 7:12 PM\NCity of Uminari, Fujimi district, Takamachi residence{\b0}
+Dialogue: 1,0:03:36.14,0:03:40.67,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(493,0)\an5\pos(476,517.5)\bord0}December 23, 7:12 PM\NCity of Uminari, Fujimi district, Takamachi residence
+Dialogue: 0,0:03:36.14,0:03:40.67,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(493,0)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,493,\1a&H00&)}December 23, 7:12 PM\NCity of Uminari, Fujimi district, Takamachi residence
 Dialogue: 0,0:03:40.67,0:03:42.65,Nanoha Dialogue1,,0,0,0,,Here you go.
 Dialogue: 0,0:03:42.65,0:03:44.66,Nanoha Dialogue1,,0,0,0,,Oh, that looks tasty.
 Dialogue: 0,0:03:46.33,0:03:47.90,Nanoha Dialogue1,,0,0,0,,Wow!
@@ -127,8 +127,8 @@ Dialogue: 0,0:05:42.28,0:05:44.90,Nanoha Narration1,,0,0,0,,Then we'll go with t
 Dialogue: 0,0:05:44.90,0:05:46.32,Nanoha Narration1,,0,0,0,,See you again tomorrow.
 Dialogue: 0,0:05:46.32,0:05:48.66,Nanoha Narration1,,0,0,0,,Good night.
 Dialogue: 0,0:05:49.32,0:05:51.97,Nanoha Dialogue1,,0,0,0,,And... send!
-Dialogue: 1,0:05:58.36,0:06:02.86,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\bord0}Orbit, Time-Space Administrative Bureau Flagship\N{\i1}Arthra{\b0\i0}
-Dialogue: 0,0:05:58.36,0:06:02.86,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\b1\pos(476,510.5)\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}Orbit, Time-Space Administrative Bureau Flagship\N{\i1}Arthra{\b0\i0}
+Dialogue: 1,0:05:58.36,0:06:02.86,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(498,0)\an5\pos(476,517.5)\bord0}Orbit, Time-Space Administrative Bureau Flagship\N{\i1}Arthra{\i0}
+Dialogue: 0,0:05:58.36,0:06:02.86,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(498,0)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,498,\1a&H00&)}Orbit, Time-Space Administrative Bureau Flagship\N{\i1}Arthra{\i0}
 Dialogue: 0,0:06:13.96,0:06:17.52,Nanoha Dialogue1,,0,0,0,,Hey... what's up, Chrono?
 Dialogue: 0,0:06:17.52,0:06:20.13,Nanoha Dialogue1,,0,0,0,,Nothing. Just looking something up.
 Dialogue: 0,0:06:20.13,0:06:23.11,Nanoha Dialogue1,,0,0,0,,What? I'd do it for you if you asked.
@@ -139,8 +139,8 @@ Dialogue: 0,0:06:36.16,0:06:38.35,Nanoha Dialogue1,,0,0,0,,They seem to have mix
 Dialogue: 0,0:06:38.35,0:06:41.16,Nanoha Dialogue1,,0,0,0,,about the past of the\NBook of Darkness as well.
 Dialogue: 0,0:06:42.29,0:06:43.95,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:06:45.16,0:06:50.20,Nanoha Sign2,,0,0,0,,{\fs15\fax-0.4\c&H79C4D9&\frz21.49\pos(409,207)}Uminari University Hospital
-Dialogue: 1,0:06:45.20,0:06:50.20,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\pos(476,510.5)\bord0\b1}December 24, 4:25 PM\NUminari University Hospital{\b0}
-Dialogue: 0,0:06:45.20,0:06:50.20,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(459,0)\an5\pos(476,510.5)\b1\c&H000000&\1a&HFF&\t(0,459,\1a&H00&)}December 24, 4:25 PM\NUminari University Hospital{\b0}
+Dialogue: 1,0:06:45.20,0:06:50.20,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(455,0)\an5\pos(476,517.5)\bord0}December 24, 4:25 PM\NUminari University Hospital
+Dialogue: 0,0:06:45.20,0:06:50.20,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(455,0)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,455,\1a&H00&)}December 24, 4:25 PM\NUminari University Hospital
 Dialogue: 0,0:06:48.19,0:06:49.30,Nanoha Dialogue1,,0,0,0,,Hayate...
 Dialogue: 0,0:06:49.30,0:06:52.63,Nanoha Dialogue1,,0,0,0,,I'm sorry I couldn't come to see you much.
 Dialogue: 0,0:06:52.63,0:06:55.89,Nanoha Dialogue1,,0,0,0,,It's okay... have you been doing well?

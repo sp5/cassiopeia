@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 428
-Active Line: 429
-Video Position: 35933
+Scroll Position: 199
+Active Line: 204
+Video Position: 19249
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -242,10 +242,10 @@ Dialogue: 0,0:13:06.04,0:13:07.55,Nanoha Dialogue1,,0,0,0,,and the perpetual res
 Dialogue: 0,0:13:07.55,0:13:10.08,Nanoha Dialogue1,,0,0,0,,If it's ancient magic,\Nthat much might be possible.
 Dialogue: 0,0:13:10.08,0:13:12.12,Nanoha Narration1,,0,0,0,,The worst part of it all
 Dialogue: 0,0:13:12.12,0:13:14.30,Nanoha Narration1,,0,0,0,,are the changes to its owner's condition.
-Dialogue: 0,0:13:14.30,0:13:16.98,Nanoha Narration1,,0,0,0,,If there is no gathering of power for a certain period of time,
-Dialogue: 0,0:13:16.98,0:13:20.32,Nanoha Narration1,,0,0,0,,it starts to eat away at the owner's magical powers and potential.
+Dialogue: 0,0:13:14.30,0:13:16.98,Nanoha Narration1,,0,0,0,,If there is no gathering of mana for a certain period of time,
+Dialogue: 0,0:13:16.98,0:13:20.32,Nanoha Narration1,,0,0,0,,it starts to eat away at the owner's mana and potential.
 Dialogue: 0,0:13:21.82,0:13:22.82,Nanoha Narration1,,0,0,0,,And when it's complete,
-Dialogue: 0,0:13:22.82,0:13:25.84,Nanoha Narration1,,0,0,0,,the owner's magical powers will be used without limits,
+Dialogue: 0,0:13:22.82,0:13:25.84,Nanoha Narration1,,0,0,0,,the owner's mana will be used without limits,
 Dialogue: 0,0:13:25.84,0:13:27.32,Nanoha Narration1,,0,0,0,,for indiscriminate destruction.
 Dialogue: 0,0:13:28.31,0:13:30.41,Nanoha Narration1,,0,0,0,,That is why all the owners until now have,
 Dialogue: 0,0:13:30.41,0:13:32.58,Nanoha Narration1,,0,0,0,,right after the completion of the Book...

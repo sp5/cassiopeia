@@ -18,8 +18,8 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 275
-Active Line: 277
+Scroll Position: 175
+Active Line: 180
 Video Position: 35933
 
 [V4+ Styles]
@@ -118,7 +118,7 @@ Dialogue: 0,0:06:23.82,0:06:26.17,Nanoha Device1,,0,0,0,,Horses
 Dialogue: 0,0:06:23.82,0:06:26.17,Nanoha Device2,,0,0,0,,{\pos(476,647)}Pferde
 Dialogue: 0,0:06:44.62,0:06:46.40,Nanoha Narration1,,0,0,0,,Crap...
 Dialogue: 0,0:06:46.40,0:06:51.38,Nanoha Narration1,,0,0,0,,It's easy to just beat them down, but that doesn't mean anything.
-Dialogue: 0,0:06:52.25,0:06:54.39,Nanoha Narration1,,0,0,0,,I need to take magical power back with me.
+Dialogue: 0,0:06:52.25,0:06:54.39,Nanoha Narration1,,0,0,0,,I need to take mana back with me.
 Dialogue: 0,0:06:55.12,0:06:57.55,Nanoha Narration1,,0,0,0,,Two cartridges left.
 Dialogue: 0,0:06:58.35,0:06:59.41,Nanoha Narration1,,0,0,0,,Can I do it?
 Dialogue: 0,0:07:04.96,0:07:07.78,Nanoha Dialogue1,,0,0,0,,Miss Arf came here too.
@@ -217,7 +217,7 @@ Dialogue: 0,0:15:24.39,0:15:28.82,Nanoha Narration1,,0,0,0,,I'm trying on this e
 Dialogue: 0,0:15:34.82,0:15:36.87,Nanoha Device1,,0,0,0,,Reload
 Dialogue: 0,0:15:34.82,0:15:36.87,Nanoha Device2,,0,0,0,,{\pos(476,647)}Nachladen
 Dialogue: 0,0:15:37.87,0:15:40.77,Nanoha Narration1,,0,0,0,,It's those things... those shells...
-Dialogue: 0,0:15:40.77,0:15:44.78,Nanoha Narration1,,0,0,0,,They're temporarily increasing their magical power with them.
+Dialogue: 0,0:15:40.77,0:15:44.78,Nanoha Narration1,,0,0,0,,They're temporarily supplementing their mana with them.
 Dialogue: 0,0:15:44.78,0:15:46.34,Nanoha Dialogue1,,0,0,0,,Is that it?
 Dialogue: 0,0:15:46.34,0:15:51.39,Nanoha Dialogue1,,0,0,0,,Then stay still. If you don't resist, we won't take your life.
 Dialogue: 0,0:15:51.39,0:15:52.75,Nanoha Dialogue1,,0,0,0,,Who would?!
