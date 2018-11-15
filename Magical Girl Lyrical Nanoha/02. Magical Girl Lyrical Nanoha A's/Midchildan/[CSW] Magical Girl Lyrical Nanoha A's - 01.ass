@@ -20,21 +20,21 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 13
-Active Line: 14
-Video Position: 11578
+Scroll Position: 280
+Active Line: 282
+Video Position: 36621
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Dialogue1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
 Style: Nanoha Dialogue2,HelveticaNeueLT Pro 65 Md,40,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,-1,0,0,0,100,100,0.8,0,1,2.1,0,4,14,14,13,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
 Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
-Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
-Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Device2,Noto Serif,45,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
+Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
+Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Handwriting,Cheyenne Hand Bold,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha Clock,Digital-7,18,&H00B26E3E,&H000000FF,&H00000000,&H94000000,-1,0,0,0,100,100,0,0,1,0,1.5,4,14,14,13,1
@@ -69,16 +69,16 @@ Dialogue: 0,0:02:31.29,0:02:32.59,Nanoha Dialogue1,,0,0,0,,Best regards.
 Dialogue: 0,0:02:34.25,0:02:36.13,Nanoha Dialogue1,,0,0,0,,{\i1}End of message.{\i0}
 Dialogue: 0,0:03:17.59,0:03:18.97,Nanoha Dialogue1,,0,0,0,,It's already midnight.
 Dialogue: 0,0:04:13.13,0:04:16.17,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}I'm breaking the seal.
-Dialogue: 0,0:04:13.13,0:04:16.17,Nanoha Device1,,0,0,15,,Ich entferne eine Versiegelung.
+Dialogue: 0,0:04:13.13,0:04:16.17,Nanoha Device1,,0,0,20,,Ich entferne eine Versiegelung.
 Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Booting.
-Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device1,,0,0,15,,Anfang.
+Dialogue: 0,0:04:28.32,0:04:29.47,Nanoha Device1,,0,0,20,,Anfang.
 Dialogue: 1,0:04:36.78,0:04:42.82,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,511)\bord0}The Beginning Comes Suddenly
 Dialogue: 0,0:04:36.78,0:04:42.82,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,511)\c&H901E38&}The Beginning Comes Suddenly
 Dialogue: 1,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(453,450)\an5\pos(476,517.5)\bord0}December 1, 6:35 AM\NCity of Uminari, Sakuradai
 Dialogue: 0,0:04:42.83,0:04:49.28,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(453,450)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,453,\1a&H00&)\t(6000,6450,\1a&HFF&)}December 1, 6:35 AM\NCity of Uminari, Sakuradai
 Dialogue: 0,0:04:54.73,0:04:57.24,Nanoha Dialogue1,,0,0,0,,Okay, to finish off\Nthis morning's practice...
 Dialogue: 0,0:04:57.24,0:04:59.51,Nanoha Dialogue1,,0,0,0,,Let's try shooting control.
-Dialogue: 0,0:04:59.51,0:05:00.59,Nanoha Device1,,0,0,15,,All right.
+Dialogue: 0,0:04:59.51,0:05:00.59,Nanoha Device1,,0,0,20,,All right.
 Dialogue: 0,0:05:01.48,0:05:02.76,Nanoha Dialogue1,,0,0,0,,Lyrical, magical!
 Dialogue: 0,0:05:05.28,0:05:08.28,Nanoha Dialogue1,,0,0,0,,Glimmers to be blessings, come to my hands.
 Dialogue: 0,0:05:08.28,0:05:10.35,Nanoha Dialogue1,,0,0,0,,Ring and echo under the guidance.
@@ -90,14 +90,14 @@ Dialogue: 0,0:05:31.93,0:05:32.89,Nanoha Dialogue1,,0,0,0,,Accelerate.
 Dialogue: 0,0:05:39.23,0:05:47.02,Nanoha Device1,,0,0,0,,LV... LX... LXIV... LXVIII... LXX... LXXIII...
 Dialogue: 0,0:05:49.74,0:05:52.37,Nanoha Device1,,0,0,0,,XCVIII... C.
 Dialogue: 0,0:05:55.87,0:05:57.00,Nanoha Dialogue1,,0,0,0,,Last one!
-Dialogue: 0,0:06:07.00,0:06:09.03,Nanoha Device1,,0,0,15,,Don't mind, my master.
+Dialogue: 0,0:06:07.00,0:06:09.03,Nanoha Device1,,0,0,20,,Don't mind, my master.
 Dialogue: 0,0:06:10.02,0:06:12.22,Nanoha Dialogue1,,0,0,0,,Thanks, Raising Heart.
 Dialogue: 0,0:06:15.60,0:06:18.56,Nanoha Narration1,,0,0,0,,I'm Nanoha Takamachi.
 Dialogue: 0,0:06:18.56,0:06:23.65,Nanoha Narration1,,0,0,0,,Until fairly recently, I was\Na very, very ordinary third-grader.
 Dialogue: 0,0:06:23.65,0:06:26.51,Nanoha Narration1,,0,0,0,,But because of a certain incident that happened this past spring,
 Dialogue: 0,0:06:26.51,0:06:28.81,Nanoha Narration1,,0,0,0,,I became a mage.
 Dialogue: 0,0:06:29.49,0:06:32.66,Nanoha Dialogue1,,0,0,0,,If you were scoring\Ntoday's practice, how was it?
-Dialogue: 0,0:06:32.69,0:06:34.22,Nanoha Device1,,0,0,15,,About 80 points.
+Dialogue: 0,0:06:32.69,0:06:34.22,Nanoha Device1,,0,0,20,,About 80 points.
 Dialogue: 0,0:06:35.06,0:06:36.22,Nanoha Dialogue1,,0,0,0,,I see...
 Dialogue: 0,0:06:44.71,0:06:47.47,Nanoha Narration1,,0,0,0,,All the people back then who gave me magic,
 Dialogue: 0,0:06:47.47,0:06:50.22,Nanoha Narration1,,0,0,0,,many new introductions, and courage
@@ -121,7 +121,7 @@ Dialogue: 0,0:07:45.14,0:07:46.98,Nanoha Dialogue1,,0,0,0,,It depends on the own
 Dialogue: 0,0:07:46.98,0:07:48.54,Nanoha Dialogue1,,0,0,0,,That'd be great!
 Dialogue: 0,0:07:48.54,0:07:49.90,Nanoha Dialogue1,,0,0,0,,Wouldn't it?
 Dialogue: 0,0:07:50.10,0:07:52.57,Nanoha Dialogue1,,0,0,0,,Hey, Mom, do you think\NYuuno remembers who I am?
-Dialogue: 0,0:07:52.57,0:07:58.87,Nanoha Narration1,,0,0,0,,Fate... Yuuno... Chrono and\NMrs. Lindy... Miss Amy...
+Dialogue: 0,0:07:52.57,0:07:58.87,Nanoha Narration1,,0,0,0,,Fate... Yuuno... Chrono and\NMrs. Lindy... Amy...
 Dialogue: 0,0:07:58.87,0:08:01.00,Nanoha Narration1,,0,0,0,,I wonder if everyone is doing well?
 Dialogue: 1,0:08:02.86,0:08:06.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(540,0)\an5\pos(476,517.5)\bord0\}Same time, the Dimensional Sea\NTime-Space Administrative Bureau Flagship {\i1}Arthra{\i0}
 Dialogue: 0,0:08:02.86,0:08:06.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(540,0)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,540,\1a&H00&)}Same time, the Dimensional Sea\NTime-Space Administrative Bureau Flagship {\i1}Arthra{\i0}
@@ -172,7 +172,7 @@ Dialogue: 0,0:10:20.47,0:10:22.72,Nanoha Dialogue1,,0,0,0,,Thanks for your hard 
 Dialogue: 0,0:10:22.72,0:10:24.22,Nanoha Dialogue1,,0,0,0,,Is everything going according to plan?
 Dialogue: 0,0:10:24.22,0:10:27.23,Nanoha Dialogue1,,0,0,0,,Right, Laty, if there's no problems on your end?
 Dialogue: 0,0:10:27.23,0:10:32.06,Nanoha Dialogue1,,0,0,0,,Yeah, nothing concerning the\N{\i1}Arthra'{\i0}s docking and maintenance.
-Dialogue: 0,0:10:34.69,0:10:38.90,Nanoha Dialogue1,,0,0,0,,On this end, there is a rather unfortunate situation.
+Dialogue: 0,0:10:34.69,0:10:38.90,Nanoha Dialogue1,,0,0,0,,On this end, there is\Na rather unfortunate situation.
 Dialogue: 0,0:10:38.90,0:10:40.82,Nanoha Dialogue1,,0,0,0,,An unfortunate situation?
 Dialogue: 0,0:10:40.82,0:10:42.44,Nanoha Dialogue1,,0,0,0,,A Lost Logia.
 Dialogue: 0,0:10:42.44,0:10:45.91,Nanoha Dialogue1,,0,0,0,,A very dangerous item at the top of the search list.
@@ -221,11 +221,10 @@ Dialogue: 0,0:14:17.46,0:14:19.21,Nanoha Dialogue1,,0,0,0,,I'm not cold at all.
 Dialogue: 0,0:14:24.45,0:14:25.58,Nanoha Dialogue1,,0,0,0,,Signum!
 Dialogue: 0,0:14:26.26,0:14:27.63,Nanoha Dialogue1,,0,0,0,,Yes...
 Dialogue: 0,0:14:31.26,0:14:32.12,Nanoha Dialogue1,,0,0,0,,About dinner...
-Dialogue: 0,0:14:32.12,0:14:34.93,Nanoha Dialogue1,,0,0,0,,What would you two like to eat, Signum, Shamal?
+Dialogue: 0,0:14:32.12,0:14:34.93,Nanoha Dialogue1,,0,0,0,,What would you two like to eat,\NSignum, Shamal?
 Dialogue: 0,0:14:34.93,0:14:36.81,Nanoha Dialogue1,,0,0,0,,Oh, that's right.
 Dialogue: 0,0:14:36.81,0:14:37.98,Nanoha Dialogue1,,0,0,0,,I can't decide.
-Dialogue: 0,0:14:37.98,0:14:39.81,Nanoha Dialogue1,,0,0,0,,Why don't we think about it as we shop
-Dialogue: 0,0:14:39.81,0:14:41.26,Nanoha Dialogue1,,0,0,0,,for ingredients at the supermarket?
+Dialogue: 0,0:14:37.98,0:14:41.26,Nanoha Dialogue1,,0,0,0,,Why don't we think about it as we shop\Nfor ingredients at the supermarket?
 Dialogue: 0,0:14:41.98,0:14:43.36,Nanoha Dialogue1,,0,0,0,,That's good.
 Dialogue: 0,0:14:44.02,0:14:47.44,Nanoha Dialogue1,,0,0,0,,Come to think of it, did Vita\Nstep out somewhere again today?
 Dialogue: 0,0:14:47.44,0:14:50.45,Nanoha Dialogue1,,0,0,0,,Um, well... I believe so.
@@ -249,26 +248,26 @@ Dialogue: 0,0:15:47.38,0:15:51.05,Nanoha Dialogue1,,0,0,0,,Okay, Zafira. You sea
 Dialogue: 0,0:15:51.05,0:15:52.13,Nanoha Dialogue1,,0,0,0,,Understood.
 Dialogue: 0,0:15:58.42,0:16:01.02,Nanoha Dialogue1,,0,0,0,,Sealing area... unfold.
 Dialogue: 0,0:16:01.02,0:16:03.31,Nanoha Device1,,0,0,0,,Gefängnis der Magie
-Dialogue: 0,0:16:01.02,0:16:03.31,Nanoha Device2,,0,0,0,,{\pos(476,647)}Magical Prison
-Dialogue: 0,0:16:17.27,0:16:19.89,Nanoha Device1,,0,0,15,,Caution. Emergency.
+Dialogue: 0,0:16:01.02,0:16:03.31,Nanoha Device2,,0,0,0,,{\pos(476,627)}Magical Prison
+Dialogue: 0,0:16:17.27,0:16:19.89,Nanoha Device1,,0,0,20,,Caution. Emergency.
 Dialogue: 0,0:16:23.87,0:16:25.04,Nanoha Dialogue1,,0,0,0,,A barrier?
 Dialogue: 0,0:16:32.78,0:16:34.16,Nanoha Dialogue1,,0,0,0,,The mana signature!
 Dialogue: 0,0:16:34.16,0:16:35.47,Nanoha Dialogue1,,0,0,0,,Found the big one!
 Dialogue: 0,0:16:38.06,0:16:40.05,Nanoha Dialogue1,,0,0,0,,Let's go, Graf Eisen!
 Dialogue: 0,0:16:40.05,0:16:41.08,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Roger.
-Dialogue: 0,0:16:40.05,0:16:41.08,Nanoha Device1,,0,0,15,,Jawohl.
-Dialogue: 0,0:16:46.05,0:16:48.34,Nanoha Device1,,0,0,15,,It approaches at high speed.
+Dialogue: 0,0:16:40.05,0:16:41.08,Nanoha Device1,,0,0,20,,Jawohl.
+Dialogue: 0,0:16:46.05,0:16:48.34,Nanoha Device1,,0,0,20,,It approaches at high speed.
 Dialogue: 0,0:16:48.34,0:16:51.07,Nanoha Dialogue1,,0,0,0,,It's coming closer to us?
-Dialogue: 0,0:17:09.83,0:17:11.86,Nanoha Device1,,0,0,15,,Gegenstand kommt an.
+Dialogue: 0,0:17:09.83,0:17:11.86,Nanoha Device1,,0,0,20,,Gegenstand kommt an.
 Dialogue: 0,0:17:09.83,0:17:11.86,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Approaching target.
-Dialogue: 0,0:17:25.09,0:17:26.37,Nanoha Device1,,0,0,15,,It comes.
-Dialogue: 0,0:17:38.44,0:17:39.64,Nanoha Device1,,0,0,15,,Homing bullet.
+Dialogue: 0,0:17:25.09,0:17:26.37,Nanoha Device1,,0,0,20,,It comes.
+Dialogue: 0,0:17:38.44,0:17:39.64,Nanoha Device1,,0,0,20,,Homing bullet.
 Dialogue: 0,0:17:52.05,0:17:54.38,Nanoha Dialogue1,,0,0,0,,{\b1}Tödlichschlag{\b0}
-Dialogue: 0,0:17:52.03,0:17:54.39,Nanoha Device2,,0,0,0,,{\b1\i0\pos(476,647)}Deadly Smash{\b0\i1}
+Dialogue: 0,0:17:52.03,0:17:54.39,Nanoha Device2,,0,0,0,,{\b1\i0\pos(476,627)}Deadly Smash{\b0\i1}
 Dialogue: 0,0:18:11.11,0:18:13.30,Nanoha Dialogue1,,0,0,0,,Raising Heart, please!
 Dialogue: 0,0:18:13.30,0:18:16.64,Nanoha Device1,,0,0,0,,Standby, ready. Set up.
 Dialogue: 0,0:19:09.46,0:19:11.60,Nanoha Device1,,0,0,0,,Schwalbefliegen
-Dialogue: 0,0:19:09.46,0:19:11.60,Nanoha Device2,,0,0,0,,{\pos(476,647)}Flying Swallow
+Dialogue: 0,0:19:09.46,0:19:11.60,Nanoha Device2,,0,0,0,,{\pos(476,627)}Flying Swallow
 Dialogue: 0,0:19:25.56,0:19:28.75,Nanoha Dialogue1,,0,0,0,,I can't think of why\Nsomeone would want to attack me.
 Dialogue: 0,0:19:29.30,0:19:30.60,Nanoha Dialogue1,,0,0,0,,Where are you from?
 Dialogue: 0,0:19:30.60,0:19:32.33,Nanoha Dialogue1,,0,0,0,,Why the heck\Nare you doing such a thing?
@@ -283,20 +282,20 @@ Dialogue: 0,0:20:09.35,0:20:10.66,Nanoha Device1,,0,0,0,,...Buster
 Dialogue: 0,0:20:33.82,0:20:36.58,Nanoha Dialogue1,,0,0,0,,Graf Eisen, Cartridge Load!
 Dialogue: 0,0:20:36.58,0:20:38.59,Nanoha Device1,,0,0,0,,Explosion
 Dialogue: 0,0:20:42.84,0:20:45.36,Nanoha Device1,,0,0,0,,Raketenform
-Dialogue: 0,0:20:42.84,0:20:45.36,Nanoha Device2,,0,0,0,,{\pos(476,647)}Rocket Form
+Dialogue: 0,0:20:42.84,0:20:45.36,Nanoha Device2,,0,0,0,,{\pos(476,627)}Rocket Form
 Dialogue: 0,0:20:56.09,0:20:57.36,Nanoha Dialogue1,,0,0,0,,{\b1}Raketen...{\b0}
-Dialogue: 0,0:20:56.09,0:20:57.36,Nanoha Device2,,0,0,0,,{\fs45\i0\b1\pos(476,647)}Rocket...{\i1\b0}
+Dialogue: 0,0:20:56.09,0:20:57.36,Nanoha Device2,,0,0,0,,{\fs45\i0\b1\pos(476,627)}Rocket...{\i1\b0}
 Dialogue: 0,0:21:14.07,0:21:16.23,Nanoha Dialogue1,,0,0,0,,{\b1}...hammer{\b0}
 Dialogue: 0,0:21:41.35,0:21:42.64,Nanoha Device1,,0,0,0,,Protection
 Dialogue: 0,0:21:52.40,0:21:53.90,Nanoha Dialogue1,,0,0,0,,Bust through it!
 Dialogue: 0,0:21:53.90,0:21:54.93,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Roger.
-Dialogue: 0,0:21:53.90,0:21:54.93,Nanoha Device1,,0,0,15,,Jawohl.
+Dialogue: 0,0:21:53.90,0:21:54.93,Nanoha Device1,,0,0,20,,Jawohl.
 Dialogue: 0,0:22:52.35,0:22:55.18,Nanoha Narration1,,0,0,0,,Is this going to be the end?
 Dialogue: 0,0:22:55.18,0:22:56.56,Nanoha Narration1,,0,0,0,,No way...
 Dialogue: 0,0:22:56.56,0:22:57.77,Nanoha Narration1,,0,0,0,,Yuuno...
 Dialogue: 0,0:22:57.77,0:22:59.19,Nanoha Narration1,,0,0,0,,Chrono...
 Dialogue: 0,0:22:59.19,0:23:00.71,Nanoha Narration1,,0,0,0,,Fate!
-Dialogue: 0,0:23:12.82,0:23:14.95,Nanoha Dialogue1,,0,0,0,,I'm sorry, Nanoha. We were a bit late.
+Dialogue: 0,0:23:12.82,0:23:14.95,Nanoha Dialogue1,,0,0,0,,I'm sorry, Nanoha.\NWe were a bit late.
 Dialogue: 0,0:23:14.95,0:23:17.20,Nanoha Dialogue1,,0,0,0,,Yuuno?
 Dialogue: 0,0:23:17.20,0:23:19.29,Nanoha Dialogue1,,0,0,0,,Her allies?
 Dialogue: 0,0:23:24.44,0:23:25.99,Nanoha Device1,,0,0,0,,Scythe Form
@@ -321,10 +320,10 @@ Dialogue: 0,0:25:06.89,0:25:11.00,Nanoha Title2,,0,0,0,,{\fad(0,940)\blur0.5\c&H
 Dialogue: 0,0:25:09.36,0:25:11.61,Nanoha Narration1,,0,0,0,,Beginnings always come so suddenly.
 Dialogue: 0,0:25:11.61,0:25:14.86,Nanoha Narration1,,0,0,0,,But this incident is just too sudden.
 Dialogue: 0,0:25:14.86,0:25:17.82,Nanoha Narration1,,0,0,0,,Confusion... worries...\NWhat should I do?
-Dialogue: 0,0:25:17.82,0:25:20.74,Nanoha Narration1,,0,0,0,,The emergence of a powerful enemy puts us in a crisis.
+Dialogue: 0,0:25:17.82,0:25:20.74,Nanoha Narration1,,0,0,0,,The emergence of a powerful enemy\Nputs us in a crisis.
 Dialogue: 0,0:25:20.74,0:25:24.00,Nanoha Narration1,,0,0,0,,What are the objectives of these girls who came after us?
 Dialogue: 0,0:25:24.00,0:25:27.38,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha A's:{\i1}
-Dialogue: 0,0:25:27.38,0:25:30.80,Nanoha Narration1,,0,0,0,,Episode 2: Once Again,\Nthe Storms of Battle
+Dialogue: 0,0:25:27.38,0:25:30.80,Nanoha Narration1,,0,0,0,,Episode 2: Once Again, the Storms of Battle
 Dialogue: 0,0:25:30.80,0:25:34.30,Nanoha Narration1,,0,0,0,,Lyrical, magical, we'll do our best.
 Dialogue: 1,0:25:32.41,0:25:36.95,Nanoha A's Title2,,0,0,0,,{\an5\pos(476,480)\blur0.5\bord0}Once Again, the Storms of Battle
 Dialogue: 0,0:25:32.41,0:25:36.95,Nanoha A's Title2,,0,0,0,,{\an5\pos(476,480)\blur0.5\c&HFFFFFF&}Once Again, the Storms of Battle

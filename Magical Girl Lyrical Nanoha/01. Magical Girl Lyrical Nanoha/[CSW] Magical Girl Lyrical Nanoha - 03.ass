@@ -18,27 +18,27 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 39
-Active Line: 41
-Video Position: 6332
+Scroll Position: 207
+Active Line: 212
+Video Position: 30231
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Dialogue1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
 Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,0,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Dialogue2,Univers LT Std,52,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
-Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
-Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
+Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:06.18,0:00:10.02,Nanoha Narration1,,0,0,0,,A sudden incident has befallen me,\NNanoha Takamachi,
 Dialogue: 0,0:00:10.02,0:00:13.19,Nanoha Narration1,,0,0,0,,a girl who was supposed to be an ordinary third-grader.
-Dialogue: 0,0:00:14.83,0:00:20.20,Nanoha Narration1,,0,0,0,,I was handed a red gem, and with it\NI was given magical powers.
-Dialogue: 0,0:00:22.74,0:00:27.88,Nanoha Narration1,,0,0,0,,Coincidences led by new meetings start to move in silence.
+Dialogue: 0,0:00:14.83,0:00:20.20,Nanoha Narration1,,0,0,0,,I was handed a red gem,\Nand with it I was given magical powers.
+Dialogue: 0,0:00:22.74,0:00:27.88,Nanoha Narration1,,0,0,0,,Coincidences led by new meetings\Nquietly start to come together
 Dialogue: 0,0:00:29.25,0:00:33.08,Nanoha Narration1,,0,0,0,,So that I don't look down on the days where one stands up and fights...
 Dialogue: 0,0:00:35.00,0:00:39.15,Nanoha Dialogue1,,0,0,0,,{\i1}Magical Girl Lyrical Nanoha{\i0}\Nwill now begin.
 Dialogue: 0,0:00:56.64,0:01:00.58,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
@@ -151,7 +151,7 @@ Dialogue: 0,0:08:56.51,0:09:00.12,Nanoha Dialogue1,,0,0,0,,Everyone, today you d
 Dialogue: 0,0:09:00.12,0:09:02.89,Nanoha Dialogue1,,0,0,0,,Let's practice hard again next week,
 Dialogue: 0,0:09:02.89,0:09:05.36,Nanoha Dialogue1,,0,0,0,,and win the next tournament just like we did today!
 Dialogue: 0,0:09:05.36,0:09:06.27,Nanoha Dialogue1,,0,0,0,,Yes, sir!
-Dialogue: 0,0:09:06.27,0:09:10.23,Nanoha Dialogue1,,0,0,0,,Then that's it for today! All of you, be careful on your way home!
+Dialogue: 0,0:09:06.27,0:09:10.23,Nanoha Dialogue1,,0,0,0,,Then that's it for today!\NAll of you, be careful on your way home!
 Dialogue: 0,0:09:10.23,0:09:12.17,Nanoha Dialogue1,,0,0,0,,Thank you very much!
 Dialogue: 0,0:09:12.17,0:09:13.78,Nanoha Dialogue1,,0,0,0,,Good job, guys!
 Dialogue: 0,0:09:33.69,0:09:34.86,Nanoha Dialogue1,,0,0,0,,Good job today!
@@ -164,7 +164,7 @@ Dialogue: 0,0:09:48.34,0:09:51.65,Nanoha Dialogue1,,0,0,0,,Now, I guess that's i
 Dialogue: 0,0:09:51.65,0:09:53.58,Nanoha Dialogue1,,0,0,0,,Yes, I think so.
 Dialogue: 0,0:09:53.58,0:09:57.70,Nanoha Dialogue1,,0,0,0,,That's right. We all have things to do this afternoon.
 Dialogue: 0,0:09:57.70,0:09:59.95,Nanoha Dialogue1,,0,0,0,,I'm going out with my sister.
-Dialogue: 0,0:09:59.95,0:10:01.68,Nanoha Dialogue1,,0,0,0,,I'm going shopping with Papa!
+Dialogue: 0,0:09:59.95,0:10:01.68,Nanoha Dialogue1,,0,0,0,,I'm going shopping with Daddy!
 Dialogue: 0,0:10:01.68,0:10:05.42,Nanoha Dialogue1,,0,0,0,,That's great! Tell me all about it on Monday.
 Dialogue: 0,0:10:05.42,0:10:07.06,Nanoha Dialogue1,,0,0,0,,Oh, you guys are calling it a day as well?
 Dialogue: 0,0:10:07.67,0:10:09.99,Nanoha Dialogue1,,0,0,0,,Oh, Dad!
@@ -177,7 +177,7 @@ Dialogue: 0,0:10:24.75,0:10:26.43,Nanoha Dialogue1,,0,0,0,,Same here!
 Dialogue: 0,0:10:26.43,0:10:30.08,Nanoha Dialogue1,,0,0,0,,I see. What about you, Nanoha?
 Dialogue: 0,0:10:30.91,0:10:33.08,Nanoha Dialogue1,,0,0,0,,I'll go home and relax!
 Dialogue: 0,0:10:33.08,0:10:33.94,Nanoha Dialogue1,,0,0,0,,I see.
-Dialogue: 0,0:10:34.82,0:10:38.52,Nanoha Dialogue1,,0,0,0,,Dear old Dad's getting a quick bath at home, then it's back to work.
+Dialogue: 0,0:10:34.82,0:10:38.52,Nanoha Dialogue1,,0,0,0,,Dear old Dad's getting a quick bath at home,\Nthen it's back to work.
 Dialogue: 0,0:10:38.52,0:10:39.60,Nanoha Dialogue1,,0,0,0,,Would you like to come home with me?
 Dialogue: 0,0:10:39.60,0:10:40.70,Nanoha Dialogue1,,0,0,0,,Sure!
 Dialogue: 0,0:10:44.09,0:10:45.40,Nanoha Dialogue1,,0,0,0,,See ya later!
@@ -186,7 +186,7 @@ Dialogue: 0,0:10:51.70,0:10:54.20,Nanoha Dialogue1,,0,0,0,,Nanoha, did you grow 
 Dialogue: 0,0:10:54.94,0:10:58.11,Nanoha Dialogue1,,0,0,0,,Dad, you asked me that just the other day!
 Dialogue: 0,0:10:58.11,0:11:00.32,Nanoha Dialogue1,,0,0,0,,I don't grow that quickly!
 Dialogue: 0,0:11:00.81,0:11:02.08,Nanoha Dialogue1,,0,0,0,,Oh, right...
-Dialogue: 0,0:11:38.06,0:11:41.84,Nanoha Dialogue1,,0,0,0,,Nanoha, if you're going to bed, at least change out of your clothes.
+Dialogue: 0,0:11:38.06,0:11:41.84,Nanoha Dialogue1,,0,0,0,,Nanoha, if you're going to bed,\Nat least change out of your clothes.
 Dialogue: 0,0:11:54.00,0:11:57.79,Nanoha Dialogue1,,0,0,0,,You should get some rest too, Yuuno.
 Dialogue: 0,0:12:01.57,0:12:04.98,Nanoha Dialogue1,,0,0,0,,I'm going to take a nap until dinner.
 Dialogue: 0,0:12:28.03,0:12:32.34,Nanoha Dialogue1,,0,0,0,,Using magic when you're not used to it must be very tiring after all.
@@ -209,8 +209,7 @@ Dialogue: 0,0:14:24.84,0:14:27.84,Nanoha Dialogue1,,0,0,0,,Raising Heart, please
 Dialogue: 0,0:14:29.05,0:14:31.69,Nanoha Device1,,0,0,0,,Standby, ready. Set up.
 Dialogue: 0,0:15:51.59,0:15:53.30,Nanoha Dialogue1,,0,0,0,,How terrible...
 Dialogue: 0,0:15:53.30,0:15:56.51,Nanoha Dialogue1,,0,0,0,,A human probably activated it.
-Dialogue: 0,0:15:56.51,0:15:58.24,Nanoha Dialogue1,,0,0,0,,When someone with a strong will
-Dialogue: 0,0:15:58.24,0:16:00.71,Nanoha Dialogue1,,0,0,0,,activates it by wishing hard into it,
+Dialogue: 0,0:15:56.51,0:16:00.71,Nanoha Dialogue1,,0,0,0,,When someone with a strong will\Nactivates it by wishing hard into it,
 Dialogue: 0,0:16:00.71,0:16:04.67,Nanoha Dialogue1,,0,0,0,,the Jewel Seed displays the strongest amount of power.
 Dialogue: 0,0:16:07.60,0:16:11.02,Nanoha Narration1,,0,0,0,,So it really was that boy who had it!
 Dialogue: 0,0:16:12.59,0:16:14.88,Nanoha Narration1,,0,0,0,,I had noticed it, too!
@@ -248,7 +247,7 @@ Dialogue: 0,0:20:35.45,0:20:36.94,Nanoha Device1,,0,0,0,,Mode release.
 Dialogue: 0,0:20:43.44,0:20:46.66,Nanoha Dialogue1,,0,0,0,,Thank you, Raising Heart.
 Dialogue: 0,0:20:46.66,0:20:48.12,Nanoha Device1,,0,0,0,,Goodbye.
 Dialogue: 0,0:20:57.47,0:20:59.62,Nanoha Narration1,,0,0,0,,Long-range magic even I couldn't use...
-Dialogue: 0,0:21:00.88,0:21:04.52,Nanoha Narration1,,0,0,0,,Just how much magical talent does this girl have?
+Dialogue: 0,0:21:00.88,0:21:04.52,Nanoha Narration1,,0,0,0,,Just how much magical talent\Ndoes this girl have?
 Dialogue: 0,0:21:06.15,0:21:09.35,Nanoha Dialogue1,,0,0,0,,We troubled all sorts of people this time.
 Dialogue: 0,0:21:09.35,0:21:09.78,Nanoha Dialogue1,,0,0,0,,What?
 Dialogue: 0,0:21:11.15,0:21:13.12,Nanoha Dialogue1,,0,0,0,,What are you talking about?

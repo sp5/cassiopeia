@@ -18,20 +18,20 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 232
-Active Line: 237
-Video Position: 27847
+Scroll Position: 265
+Active Line: 269
+Video Position: 33409
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Dialogue1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
 Style: Nanoha Dialogue2,HelveticaNeueLT Pro 65 Md,40,&H00FDFDFD,&H000000FF,&H00000000,&HC7000000,-1,0,0,0,100,100,0.8,0,1,0,0,4,14,14,13,1
 Style: Nanoha Title1,Noto Sans,54,&H00FEFEFE,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,4,14,14,13,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
-Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
+Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
 Style: Nanoha Handwriting,Cheyenne Hand Bold,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
@@ -64,7 +64,7 @@ Dialogue: 0,0:02:24.07,0:02:28.89,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(1075,14
 Dialogue: 0,0:02:40.97,0:02:41.97,Nanoha Narration1,,0,0,0,,Fate!
 Dialogue: 0,0:02:41.97,0:02:42.99,Nanoha Dialogue1,,0,0,0,,Nanoha!
 Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Title1,,0,0,0,,{\an5\pos(480,240)}{\blur0.5\b1}Episode 7{\b0}
-Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Title1,,0,0,0,,{\an5\pos(480,480)}{\b1\blur0.5}A Third Mage!?{\b0}
+Dialogue: 0,0:02:47.96,0:02:54.00,Nanoha Title1,,0,0,0,,{\an5\pos(480,480)\b1\blur0.5}A Third Mage!?{\b0}
 Dialogue: 0,0:03:19.08,0:03:22.60,Nanoha Dialogue1,,0,0,0,,It's all right. You can return, Bardiche.
 Dialogue: 0,0:03:22.60,0:03:24.04,Nanoha Device1,,0,0,0,,Yes, sir.
 Dialogue: 0,0:03:39.49,0:03:40.13,Nanoha Narration1,,0,0,0,,Fate?!
@@ -78,8 +78,7 @@ Dialogue: 0,0:04:22.90,0:04:23.80,Nanoha Narration1,,0,0,0,,Fate!
 Dialogue: 0,0:04:49.29,0:04:53.75,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,791)\an5\pos(480,497.5)}Same day, 9:15 PM\NCity of Uminari suburbs, Takamachi residence{\b0}
 Dialogue: 1,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\c&H383B95&\blur0.5}Nanoha
 Dialogue: 0,0:04:54.30,0:04:56.00,Nanoha Handwriting,,0,0,0,,{\an5\frz2.645\pos(369.885,408)\blur0.5\bord0.3\c&H000000&}Nanoha
-Dialogue: 0,0:04:59.74,0:05:01.31,Nanoha Narration1,,0,0,0,,Raising Heart is a Device
-Dialogue: 0,0:05:01.31,0:05:04.42,Nanoha Narration1,,0,0,0,,that can withstand quite a bit of released power.
+Dialogue: 0,0:04:59.74,0:05:04.42,Nanoha Narration1,,0,0,0,,Raising Heart is a Device that\Ncan withstand quite a bit of released power.
 Dialogue: 0,0:05:04.42,0:05:08.26,Nanoha Narration1,,0,0,0,,To think that one attack would damage her this much...
 Dialogue: 0,0:05:09.14,0:05:12.18,Nanoha Narration1,,0,0,0,,Was it the clash between that girl's and Nanoha's magical power?
 Dialogue: 0,0:05:12.83,0:05:16.69,Nanoha Narration1,,0,0,0,,No... besides, that doesn't explain it all.
@@ -110,8 +109,7 @@ Dialogue: 0,0:07:09.82,0:07:13.80,Nanoha Dialogue1,,0,0,0,,But you're such a goo
 Dialogue: 0,0:07:13.80,0:07:17.96,Nanoha Dialogue1,,0,0,0,,Well... I'm sure you'll be fine tomorrow!
 Dialogue: 0,0:07:17.96,0:07:20.25,Nanoha Dialogue1,,0,0,0,,In such a short time, you found Lost Logia...
 Dialogue: 0,0:07:20.78,0:07:23.50,Nanoha Dialogue1,,0,0,0,,Four of those Jewel Seeds!
-Dialogue: 0,0:07:23.50,0:07:24.92,Nanoha Dialogue1,,0,0,0,,She might not have anything good to say,
-Dialogue: 0,0:07:24.92,0:07:27.22,Nanoha Dialogue1,,0,0,0,,but I'm sure that she won't scold you for it!
+Dialogue: 0,0:07:23.50,0:07:27.22,Nanoha Dialogue1,,0,0,0,,She might not have anything good to say,\Nbut I'm sure she won't scold you for it!
 Dialogue: 0,0:07:28.49,0:07:29.32,Nanoha Dialogue1,,0,0,0,,Yeah...
 Dialogue: 0,0:07:31.52,0:07:32.50,Nanoha Dialogue1,,0,0,0,,You're right.
 Dialogue: 0,0:07:38.51,0:07:41.58,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,953)\an5\pos(480,497.5)}April 27\N6:15 AM, Takamachi residence{\b0}
@@ -164,8 +162,7 @@ Dialogue: 0,0:11:16.51,0:11:20.38,Nanoha Title1,,0,0,0,,{\4a&3F&\shad2\blur0.5\f
 Dialogue: 0,0:11:20.52,0:11:23.47,Nanoha Title1,,0,0,0,,{\blur0.5\shad2\4a&3F&\fad(535,0)\an5\pos(480,422)}{\fs45\b1}Time-Space Administrative Bureau\NInterdimensional Flagship\N{\i1}Arthra{\b0\i0}
 Dialogue: 0,0:11:36.48,0:11:39.97,Nanoha Dialogue1,,0,0,0,,How is everyone doing?\NIs this journey going well?
 Dialogue: 0,0:11:39.97,0:11:44.14,Nanoha Dialogue1,,0,0,0,,Ma'am, we're currently cruising at triple ship speed.
-Dialogue: 0,0:11:44.14,0:11:46.28,Nanoha Dialogue1,,0,0,0,,We will be arriving at the destination dimension
-Dialogue: 0,0:11:46.28,0:11:49.08,Nanoha Dialogue1,,0,0,0,,in approximately 160 bexas.
+Dialogue: 0,0:11:44.14,0:11:49.08,Nanoha Dialogue1,,0,0,0,,We will be arriving at the destination dimension\Nin approximately 160 bexas.
 Dialogue: 0,0:11:49.08,0:11:51.38,Nanoha Dialogue1,,0,0,0,,Since the last small dimensional tremor,
 Dialogue: 0,0:11:51.38,0:11:53.75,Nanoha Dialogue1,,0,0,0,,there hasn't been much noticeable action,
 Dialogue: 0,0:11:53.75,0:11:57.90,Nanoha Dialogue1,,0,0,0,,but the danger of two seekers clashing once again is very high.
@@ -211,8 +208,7 @@ Dialogue: 0,0:14:44.38,0:14:49.12,Nanoha Narration1,,0,0,0,,and her cruelty to F
 Dialogue: 0,0:14:49.12,0:14:51.21,Nanoha Narration1,,0,0,0,,But this time, it's gone too far!
 Dialogue: 0,0:14:51.21,0:14:52.92,Nanoha Narration1,,0,0,0,,What the hell is wrong with her?!
 Dialogue: 0,0:14:53.86,0:14:59.39,Nanoha Narration1,,0,0,0,,Those Lost Logia... the Jewel Seeds...\Nare they that important?!
-Dialogue: 0,0:15:04.42,0:15:06.60,Nanoha Dialogue1,,0,0,0,,The Lost Logia
-Dialogue: 0,0:15:06.60,0:15:11.61,Nanoha Dialogue1,,0,0,0,,are absolutely necessary in order to fulfill my dreams.
+Dialogue: 0,0:15:04.42,0:15:11.61,Nanoha Dialogue1,,0,0,0,,The Lost Logia are absolutely necessary in order to fulfill my dreams.
 Dialogue: 0,0:15:12.24,0:15:14.85,Nanoha Dialogue1,,0,0,0,,Yes, Mom.
 Dialogue: 0,0:15:14.85,0:15:18.81,Nanoha Dialogue1,,0,0,0,,Especially those Jewel Seeds,
 Dialogue: 0,0:15:18.81,0:15:22.19,Nanoha Dialogue1,,0,0,0,,which have a much higher purity than anything else.
@@ -227,8 +223,7 @@ Dialogue: 0,0:15:50.95,0:15:52.87,Nanoha Dialogue1,,0,0,0,,My dear Fate.
 Dialogue: 0,0:15:55.98,0:15:56.93,Nanoha Dialogue1,,0,0,0,,Yes...
 Dialogue: 0,0:15:56.93,0:16:00.28,Nanoha Dialogue1,,0,0,0,,I'm on my way, Mom.
 Dialogue: 0,0:16:00.92,0:16:02.85,Nanoha Dialogue1,,0,0,0,,I'll take a nap for a while.
-Dialogue: 0,0:16:02.85,0:16:05.53,Nanoha Dialogue1,,0,0,0,,Next time, please make sure
-Dialogue: 0,0:16:05.53,0:16:07.96,Nanoha Dialogue1,,0,0,0,,to appease your mother.
+Dialogue: 0,0:16:02.85,0:16:07.96,Nanoha Dialogue1,,0,0,0,,Next time, please make sure to appease your mother.
 Dialogue: 0,0:16:08.90,0:16:10.13,Nanoha Dialogue1,,0,0,0,,Yes...
 Dialogue: 0,0:16:34.16,0:16:35.39,Nanoha Dialogue1,,0,0,0,,Fate!
 Dialogue: 0,0:16:36.22,0:16:38.15,Nanoha Dialogue1,,0,0,0,,Fate, I'm sorry...
@@ -239,7 +234,7 @@ Dialogue: 0,0:16:46.19,0:16:47.90,Nanoha Dialogue1,,0,0,0,,Because!
 Dialogue: 0,0:16:47.90,0:16:51.69,Nanoha Dialogue1,,0,0,0,,I didn't think it would end up like this.
 Dialogue: 0,0:16:51.69,0:16:54.34,Nanoha Dialogue1,,0,0,0,,You brought back what she told you to bring back,
 Dialogue: 0,0:16:54.34,0:16:57.77,Nanoha Dialogue1,,0,0,0,,so I didn't think she'd do something that cruel to you.
-Dialogue: 0,0:16:57.77,0:17:00.96,Nanoha Dialogue1,,0,0,0,,If I had known, I definitely would have stopped you.
+Dialogue: 0,0:16:57.77,0:17:00.96,Nanoha Dialogue1,,0,0,0,,If I had known,\NI definitely would have stopped you.
 Dialogue: 0,0:17:02.02,0:17:03.62,Nanoha Dialogue1,,0,0,0,,It's not cruel.
 Dialogue: 0,0:17:04.45,0:17:09.20,Nanoha Dialogue1,,0,0,0,,My mother was thinking of my well-being.
 Dialogue: 0,0:17:09.20,0:17:10.46,Nanoha Dialogue1,,0,0,0,,The hell she was!
@@ -252,7 +247,7 @@ Dialogue: 0,0:17:31.95,0:17:36.05,Nanoha Dialogue1,,0,0,0,,I want to find some w
 Dialogue: 0,0:17:36.05,0:17:39.38,Nanoha Dialogue1,,0,0,0,,But... but still...
 Dialogue: 0,0:17:41.19,0:17:44.13,Nanoha Dialogue1,,0,0,0,,Arf, please.
 Dialogue: 0,0:17:44.13,0:17:46.22,Nanoha Dialogue1,,0,0,0,,I'm sure it will be all right.
-Dialogue: 0,0:17:47.30,0:17:50.26,Nanoha Dialogue1,,0,0,0,,If I come home with the\NJewel Seeds in hand,
+Dialogue: 0,0:17:47.24,0:17:50.26,Nanoha Dialogue1,,0,0,0,,If I come home with the\NJewel Seeds in hand,
 Dialogue: 0,0:17:50.26,0:17:53.26,Nanoha Dialogue1,,0,0,0,,I'm sure my mother will smile at me.
 Dialogue: 0,0:17:53.26,0:17:57.34,Nanoha Dialogue1,,0,0,0,,She'll return to the kind mother that she used to be.
 Dialogue: 0,0:17:57.34,0:18:01.51,Nanoha Dialogue1,,0,0,0,,And I'm sure she will be nice to you too, Arf.
@@ -265,7 +260,7 @@ Dialogue: 0,0:18:37.29,0:18:39.80,Nanoha Dialogue1,,0,0,0,,How are you, Bardiche
 Dialogue: 0,0:18:39.80,0:18:41.80,Nanoha Device1,,0,0,0,,Recovery complete.
 Dialogue: 0,0:18:41.80,0:18:45.56,Nanoha Dialogue1,,0,0,0,,I see. You did your best. Good job.
 Dialogue: 0,0:18:45.56,0:18:49.21,Nanoha Narration1,,0,0,0,,You can feel it... even I can sense it.
-Dialogue: 0,0:18:50.88,0:18:54.94,Nanoha Dialogue1,,0,0,0,,There is one that will execute soon, very close by.
+Dialogue: 0,0:18:50.88,0:18:54.94,Nanoha Dialogue1,,0,0,0,,There is one that will execute soon,\Nvery close by.
 Dialogue: 0,0:18:54.93,0:18:58.88,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(0,993)\an5\pos(480,497.5)}April 27, 5:05 PM\NCity of Uminari suburbs{\b0}
 Dialogue: 0,0:19:06.17,0:19:08.60,Nanoha Dialogue1,,0,0,0,,Raising Heart, you're all fixed.
 Dialogue: 0,0:19:09.34,0:19:10.38,Nanoha Dialogue1,,0,0,0,,Thank goodness.
@@ -310,8 +305,7 @@ Dialogue: 0,0:22:40.63,0:22:44.13,Nanoha Dialogue1,,0,0,0,,If you can understand
 Dialogue: 0,0:22:44.13,0:22:46.88,Nanoha Dialogue1,,0,0,0,,will you listen to my story?
 Dialogue: 0,0:23:04.69,0:23:05.72,Nanoha Dialogue1,,0,0,0,,Stop!
 Dialogue: 0,0:23:08.89,0:23:10.90,Nanoha Dialogue1,,0,0,0,,Combat here is too dangerous.
-Dialogue: 0,0:23:13.41,0:23:15.56,Nanoha Dialogue1,,0,0,0,,I'm an Enforcer with the\NTime-Space Administrative Bureau,
-Dialogue: 0,0:23:15.56,0:23:17.66,Nanoha Dialogue1,,0,0,0,,Chrono Harlaown.
+Dialogue: 0,0:23:13.41,0:23:17.66,Nanoha Dialogue1,,0,0,0,,I'm Enforcer Chrono Harlaown with the\NTime-Space Administrative Bureau.
 Dialogue: 0,0:23:19.40,0:23:21.80,Nanoha Dialogue1,,0,0,0,,Would you tell me the details of this case?
 Dialogue: 0,0:23:24.07,0:23:25.51,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:23:25.51,0:23:30.50,Nanoha ED,,0,0,0,,Even though at times\NI'll trip or get lost

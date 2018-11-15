@@ -20,21 +20,21 @@ Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (B
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 201
-Active Line: 206
-Video Position: 18734
+Scroll Position: 447
+Active Line: 449
+Video Position: 36555
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Dialogue1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
 Style: Nanoha Dialogue2,Noto Sans,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.1,2.5,4,14,14,13,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
 Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
-Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
-Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Device2,Noto Serif,45,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
+Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
+Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha Sign,Junicode,16,&H0099D2CB,&H000000FF,&H00000000,&H49000000,0,0,0,0,100,100,0,0,1,0,1,4,14,14,13,1
 
@@ -79,7 +79,7 @@ Dialogue: 0,0:02:55.62,0:02:56.73,Nanoha Dialogue1,,0,0,0,,Oh!
 Dialogue: 0,0:02:56.73,0:02:58.78,Nanoha Dialogue1,,0,0,0,,Do you want me to explain on the monitors?
 Dialogue: 0,0:03:04.78,0:03:06.77,Nanoha Dialogue1,,0,0,0,,The guardians are programs
 Dialogue: 0,0:03:06.77,0:03:10.21,Nanoha Dialogue1,,0,0,0,,embedded within the {\i1}Buch der Dunkelheit{\i0} taking on human forms.
-Dialogue: 0,0:03:10.21,0:03:13.46,Nanoha Dialogue1,,0,0,0,,The {\i1}Buch der Dunkelheit{\i0} is reincarnated, reborn over and over,
+Dialogue: 0,0:03:10.21,0:03:13.46,Nanoha Dialogue1,,0,0,0,,The {\i1}Buch der Dunkelheit{\i0} is reincarnated,\Nrespawning over and over,
 Dialogue: 0,0:03:13.46,0:03:15.96,Nanoha Dialogue1,,0,0,0,,but these four, together with the {\i1}Buch der Dunkelheit,{\i0}
 Dialogue: 0,0:03:15.96,0:03:19.34,Nanoha Dialogue1,,0,0,0,,have been through many {\i1}Meisters.{\i0}
 Dialogue: 0,0:03:19.34,0:03:22.12,Nanoha Dialogue1,,0,0,0,,Enough conversational skills to maintain consistency
@@ -154,7 +154,7 @@ Dialogue: 0,0:06:49.56,0:06:50.98,Nanoha Dialogue1,,0,0,0,,That's wonderful.
 Dialogue: 0,0:06:53.22,0:06:54.70,Nanoha Narration1,,0,0,0,,That's right.
 Dialogue: 0,0:06:54.70,0:06:58.37,Nanoha Narration1,,0,0,0,,It's already been over six months\Nsince everyone came by...
 Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Booting.
-Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device1,,0,0,15,,Anfang.
+Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device1,,0,0,20,,Anfang.
 Dialogue: 0,0:07:59.64,0:08:02.77,Nanoha Dialogue1,,0,0,0,,Confirmed startup of the {\i1}Buch der Dunkelheit.{\i0}
 Dialogue: 0,0:08:02.77,0:08:05.60,Nanoha Dialogue1,,0,0,0,,We are the {\i1}Schutzritter{\i0}
 Dialogue: 0,0:08:05.60,0:08:08.46,Nanoha Dialogue1,,0,0,0,,who will collect for the {\i1}Buch der Dunkelheit{\i0} and protect its {\i1}Meister.{\i0}
@@ -292,7 +292,7 @@ Dialogue: 0,0:13:25.90,0:13:28.14,Nanoha Dialogue1,,0,0,0,,You can take it out o
 Dialogue: 0,0:13:33.75,0:13:35.62,Nanoha Dialogue1,,0,0,0,,Hayate, than—
 Dialogue: 0,0:13:41.23,0:13:43.69,Nanoha Narration1,,0,0,0,,Time passed by so slowly.
 Dialogue: 0,0:13:43.69,0:13:46.86,Nanoha Narration1,,0,0,0,,We, together with the {\i0}Meister,{\i1}
-Dialogue: 0,0:13:46.86,0:13:49.39,Nanoha Narration1,,0,0,0,,had been spending our lives with nothing going on.
+Dialogue: 0,0:13:46.86,0:13:49.39,Nanoha Narration1,,0,0,0,,had been spending our lives\Nwith nothing going on.
 Dialogue: 0,0:13:50.50,0:13:53.64,Nanoha Dialogue1,,0,0,0,,Wow, so pretty!
 Dialogue: 0,0:13:55.28,0:13:56.74,Nanoha Dialogue1,,0,0,0,,{\i1}Meister{\i0} Hayate...
 Dialogue: 0,0:13:57.20,0:13:59.77,Nanoha Dialogue1,,0,0,0,,Is it really all right?
@@ -413,8 +413,8 @@ Dialogue: 0,0:20:57.81,0:21:01.34,Nanoha Dialogue1,,0,0,0,,Well, we left Allex t
 Dialogue: 0,0:21:01.34,0:21:03.94,Nanoha Dialogue1,,0,0,0,,We just have to investigate the {\i1}Buch der Dunkelheit,{\i0} right?
 Dialogue: 0,0:21:03.94,0:21:04.88,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:21:04.88,0:21:07.56,Nanoha Dialogue1,,0,0,0,,The two we're about to meet are in the know for that kind of thing.
-Dialogue: 0,0:21:09.58,0:21:10.88,Nanoha Dialogue1,,0,0,0,,The Liese....
-Dialogue: 0,0:21:10.88,0:21:13.15,Nanoha Dialogue1,,0,0,0,,It's been a while. It's me, Chrono.
+Dialogue: 0,0:21:09.58,0:21:10.82,Nanoha Dialogue1,,0,0,0,,The Liese....
+Dialogue: 0,0:21:10.82,0:21:13.15,Nanoha Dialogue1,,0,0,0,,It's been a while. It's me, Chrono.
 Dialogue: 0,0:21:13.15,0:21:14.60,Nanoha Dialogue1,,0,0,0,,Wow!
 Dialogue: 0,0:21:15.55,0:21:16.69,Nanoha Dialogue1,,0,0,0,,Chroboy!
 Dialogue: 0,0:21:16.69,0:21:19.09,Nanoha Dialogue1,,0,0,0,,Wow, long time no see!
@@ -440,13 +440,13 @@ Dialogue: 0,0:21:55.83,0:21:58.00,Nanoha Dialogue1,,0,0,0,,Lieselotte, long time
 Dialogue: 0,0:22:01.37,0:22:02.90,Nanoha Dialogue1,,0,0,0,,Amy! Long time no see!
 Dialogue: 0,0:22:03.48,0:22:06.42,Nanoha Dialogue1,,0,0,0,,There's a tasty-looking little mouse-boy here...
 Dialogue: 0,0:22:07.50,0:22:09.43,Nanoha Dialogue1,,0,0,0,,Who is it?
-Dialogue: 0,0:22:12.24,0:22:16.42,Nanoha Dialogue1,,0,0,0,,Why is someone like that my trainer?
+Dialogue: 0,0:22:12.24,0:22:16.42,Nanoha Dialogue1,,0,0,0,,How did someone like that become my trainer?
 Dialogue: 0,0:22:17.31,0:22:18.96,Nanoha Dialogue1,,0,0,0,,Oh, I see.
 Dialogue: 0,0:22:18.96,0:22:21.16,Nanoha Dialogue1,,0,0,0,,You're searching for the {\i1}Buch der Dunkelheit,{\i0} right?
 Dialogue: 0,0:22:21.16,0:22:23.40,Nanoha Dialogue1,,0,0,0,,I heard about the situation from Father.
 Dialogue: 0,0:22:23.40,0:22:25.76,Nanoha Dialogue1,,0,0,0,,We'll be as much help as we can.
 Dialogue: 0,0:22:25.76,0:22:27.65,Nanoha Dialogue1,,0,0,0,,We'll be counting on you.
-Dialogue: 0,0:22:27.65,0:22:29.24,Nanoha Dialogue1,,0,0,0,,Miss Amy...
+Dialogue: 0,0:22:27.65,0:22:29.24,Nanoha Dialogue1,,0,0,0,,Amy...
 Dialogue: 0,0:22:29.52,0:22:31.57,Nanoha Dialogue1,,0,0,0,,Who are these people?
 Dialogue: 0,0:22:31.57,0:22:36.16,Nanoha Dialogue1,,0,0,0,,They're the trainers who taught\NChrono magic and melee combat.
 Dialogue: 0,0:22:36.16,0:22:39.42,Nanoha Dialogue1,,0,0,0,,Liesearia, in charge of magical training,
@@ -465,7 +465,7 @@ Dialogue: 0,0:23:15.07,0:23:15.74,Nanoha Dialogue1,,0,0,0,,Sure.
 Dialogue: 0,0:23:15.74,0:23:18.27,Nanoha Dialogue1,,0,0,0,,When you're done with everything, do what you want with him.
 Dialogue: 0,0:23:18.27,0:23:20.62,Nanoha Dialogue1,,0,0,0,,Hey, wait a minute!
 Dialogue: 0,0:23:23.55,0:23:25.38,Nanoha Dialogue1,,0,0,0,,So, what's your request?
-Dialogue: 0,0:23:26.52,0:23:30.76,Nanoha Dialogue1,,0,0,0,,I would like you to help him in his research in the Infinity Library.
+Dialogue: 0,0:23:26.52,0:23:30.76,Nanoha Dialogue1,,0,0,0,,I would like you to help him in\Nhis research in the Infinity Library.
 Dialogue: 0,0:23:36.47,0:23:41.64,Nanoha ED,,0,0,0,,I won't forget even when I grow up
 Dialogue: 0,0:23:41.64,0:23:49.57,Nanoha ED,,0,0,0,,My love, the day that we came across each other
 Dialogue: 0,0:23:50.26,0:23:54.35,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
@@ -489,7 +489,7 @@ Dialogue: 0,0:25:13.17,0:25:14.87,Nanoha Narration1,,0,0,0,,is becoming clearer 
 Dialogue: 0,0:25:14.87,0:25:17.84,Nanoha Narration1,,0,0,0,,How my serious duel with\NSignum will turn out...
 Dialogue: 0,0:25:17.84,0:25:21.24,Nanoha Narration1,,0,0,0,,And that masked man shows up again?!
 Dialogue: 0,0:25:21.24,0:25:24.62,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha A's:{\i1}
-Dialogue: 0,0:25:24.62,0:25:28.92,Nanoha Narration1,,0,0,0,,Episode 7:\NWith the Broken Past and Present
+Dialogue: 0,0:25:24.62,0:25:28.92,Nanoha Narration1,,0,0,0,,Episode 7: With the Broken Past and Present
 Dialogue: 0,0:25:29.48,0:25:32.01,Nanoha Narration1,,0,0,0,,Drive Ignition!
 Dialogue: 1,0:25:31.99,0:25:37.03,Nanoha A's Title2,,0,0,0,,{\an5\pos(476,480)\blur0.5\bord0}With the Broken Past and Present
 Dialogue: 0,0:25:31.99,0:25:37.03,Nanoha A's Title2,,0,0,0,,{\an5\pos(476,480)\blur0.5\c&HFFFFFF&}With the Broken Past and Present

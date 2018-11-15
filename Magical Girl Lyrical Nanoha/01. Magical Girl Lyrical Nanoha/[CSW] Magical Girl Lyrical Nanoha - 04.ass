@@ -18,19 +18,19 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 182
-Active Line: 187
-Video Position: 28105
+Scroll Position: 193
+Active Line: 197
+Video Position: 31413
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Dialogue1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
 Style: Nanoha Title1,AbcPrint,56,&H00FFD4FF,&H000000FF,&H008352A8,&HC7000000,0,0,0,0,100,100,0,0,1,4,0,2,80,80,23,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,18,1
-Style: Nanoha Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
+Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -90,7 +90,7 @@ Dialogue: 0,0:05:09.30,0:05:12.62,Nanoha Dialogue1,,0,0,0,,Welcome, Mr. Kyōya, 
 Dialogue: 0,0:05:12.62,0:05:15.31,Nanoha Dialogue1,,0,0,0,,Yeah. Thanks for the invitation.
 Dialogue: 0,0:05:15.31,0:05:16.62,Nanoha Dialogue1,,0,0,0,,Hello!
 Dialogue: 0,0:05:17.78,0:05:21.12,Nanoha Narration1,,0,0,0,,This is Noel, the head maid of the Tsukimura family.
-Dialogue: 0,0:05:21.12,0:05:25.21,Nanoha Narration1,,0,0,0,,She doesn't talk much, but she's so beautiful and so cool!
+Dialogue: 0,0:05:21.12,0:05:25.21,Nanoha Narration1,,0,0,0,,She doesn't talk much,\Nbut she's so beautiful and so cool!
 Dialogue: 0,0:05:25.21,0:05:27.75,Nanoha Dialogue1,,0,0,0,,Please, this way.
 Dialogue: 0,0:05:54.72,0:05:56.96,Nanoha Dialogue1,,0,0,0,,Nanoha, Kyōya!
 Dialogue: 0,0:05:56.96,0:05:58.16,Nanoha Dialogue1,,0,0,0,,Suzuka!
@@ -139,7 +139,7 @@ Dialogue: 0,0:09:09.18,0:09:11.40,Nanoha Dialogue1,,0,0,0,,That girl is so troub
 Dialogue: 0,0:09:31.43,0:09:35.76,Nanoha Dialogue1,,0,0,0,,Your house is cat heaven, just like always, Suzuka.
 Dialogue: 0,0:09:37.57,0:09:40.51,Nanoha Dialogue1,,0,0,0,,But the kittens are really cute!
 Dialogue: 0,0:09:40.51,0:09:41.10,Nanoha Dialogue1,,0,0,0,,Yes...
-Dialogue: 0,0:09:41.10,0:09:44.10,Nanoha Dialogue1,,0,0,0,,There are a couple of them that found new parents,
+Dialogue: 0,0:09:41.10,0:09:44.10,Nanoha Dialogue1,,0,0,0,,There are a couple of them who found new parents,
 Dialogue: 0,0:09:44.10,0:09:47.08,Nanoha Dialogue1,,0,0,0,,so I have to say goodbye to them.
 Dialogue: 0,0:09:47.08,0:09:50.36,Nanoha Dialogue1,,0,0,0,,I see. That's a bit lonely.
 Dialogue: 0,0:09:51.92,0:09:56.32,Nanoha Dialogue1,,0,0,0,,But I'm happy that the kittens will grow up.
@@ -163,7 +163,7 @@ Dialogue: 0,0:11:20.95,0:11:22.24,Nanoha Dialogue1,,0,0,0,,A barrier?
 Dialogue: 0,0:11:22.24,0:11:24.71,Nanoha Dialogue1,,0,0,0,,A space like when we first met!
 Dialogue: 0,0:11:24.71,0:11:26.75,Nanoha Dialogue1,,0,0,0,,It slightly shifts the flow of time
 Dialogue: 0,0:11:26.75,0:11:29.75,Nanoha Dialogue1,,0,0,0,,between the space where the magic takes effect and normal space.
-Dialogue: 0,0:11:29.75,0:11:32.71,Nanoha Dialogue1,,0,0,0,,I'm pretty good at that magic.
+Dialogue: 0,0:11:29.75,0:11:32.71,Nanoha Dialogue1,,0,0,0,,I'm pretty good at that kind of magic.
 Dialogue: 0,0:11:37.16,0:11:40.36,Nanoha Dialogue1,,0,0,0,,I can't cut out too large of a space,
 Dialogue: 0,0:11:40.96,0:11:43.56,Nanoha Dialogue1,,0,0,0,,but if it's this house and its surroundings,
 Dialogue: 0,0:11:43.56,0:11:44.70,Nanoha Dialogue1,,0,0,0,,I can manage.
@@ -204,7 +204,7 @@ Dialogue: 0,0:16:56.34,0:16:57.47,Nanoha Device1,,0,0,0,,Protection
 Dialogue: 0,0:16:59.91,0:17:00.72,Nanoha Dialogue1,,0,0,0,,Nanoha!
 Dialogue: 0,0:17:12.23,0:17:13.22,Nanoha Dialogue1,,0,0,0,,Why?
 Dialogue: 0,0:17:14.23,0:17:16.62,Nanoha Dialogue1,,0,0,0,,Why, so suddenly...?
-Dialogue: 0,0:17:18.07,0:17:22.43,Nanoha Dialogue1,,0,0,0,,Even if I answered, it would likely be meaningless.
+Dialogue: 0,0:17:18.07,0:17:22.43,Nanoha Dialogue1,,0,0,0,,Even if I answered,\Nit would likely be meaningless.
 Dialogue: 0,0:17:26.94,0:17:28.13,Nanoha Device1,,0,0,0,,Device Form
 Dialogue: 0,0:17:29.69,0:17:30.92,Nanoha Device1,,0,0,0,,Shooting Mode
 Dialogue: 0,0:17:35.70,0:17:38.20,Nanoha Device1,,0,0,0,,Divine Buster, stand by.
@@ -224,14 +224,14 @@ Dialogue: 0,0:19:33.77,0:19:34.76,Nanoha Device1,,0,0,0,,Yes, sir.
 Dialogue: 0,0:19:56.72,0:19:58.08,Nanoha Device1,,0,0,0,,Sealing
 Dialogue: 0,0:20:16.48,0:20:17.97,Nanoha Device1,,0,0,0,,Captured.
 Dialogue: 0,0:21:05.70,0:21:11.97,Nanoha Narration1,,0,0,0,,When I woke up again, the sky had changed color to that of dusk.
-Dialogue: 0,0:21:13.20,0:21:16.94,Nanoha Narration1,,0,0,0,,Yuuno had called for my brother and everyone else.
+Dialogue: 0,0:21:13.20,0:21:16.94,Nanoha Narration1,,0,0,0,,Yuuno had called for\Nmy brother and everyone else.
 Dialogue: 0,0:21:16.94,0:21:19.91,Nanoha Narration1,,0,0,0,,And I told a small lie,
 Dialogue: 0,0:21:19.91,0:21:25.17,Nanoha Narration1,,0,0,0,,that I tripped and passed out while searching for Yuuno.
 Dialogue: 0,0:21:27.28,0:21:31.22,Nanoha Narration1,,0,0,0,,I made everyone worry so much.
 Dialogue: 0,0:21:31.22,0:21:35.18,Nanoha Narration1,,0,0,0,,My heart was full of apologies.
 Dialogue: 0,0:21:42.83,0:21:47.59,Nanoha Dialogue1,,0,0,0,,That staff, that armor, how she used magic...
 Dialogue: 0,0:21:48.87,0:21:50.17,Nanoha Dialogue1,,0,0,0,,Most likely...
-Dialogue: 0,0:21:50.17,0:21:54.24,Nanoha Dialogue1,,0,0,0,,No, I'm positive that she and I are from the same world
+Dialogue: 0,0:21:50.17,0:21:54.24,Nanoha Dialogue1,,0,0,0,,No, I'm positive that she and I\Nare from the same world
 Dialogue: 0,0:21:55.31,0:21:56.58,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:21:57.65,0:22:00.47,Nanoha Dialogue1,,0,0,0,,If I'm going to collect more Jewel Seeds...
 Dialogue: 0,0:22:00.47,0:22:06.26,Nanoha Dialogue1,,0,0,0,,I wonder if I'm going to run into her again?
