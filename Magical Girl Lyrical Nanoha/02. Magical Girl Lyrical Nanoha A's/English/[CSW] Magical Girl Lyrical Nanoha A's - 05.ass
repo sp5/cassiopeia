@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 290
-Active Line: 294
-Video Position: 30718
+Scroll Position: 266
+Active Line: 271
+Video Position: 28849
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,14 +34,14 @@ Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC70000
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
 Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
 Style: Hayate Handwriting,Typeecanoe,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Nanoha Phone,Bodoni Twelve ITC Std,38,&H00555752,&H000000FF,&H00000000,&H84000000,0,0,0,0,100,100,2,0,1,0,3.5,4,14,14,13,1
+Style: Nanoha Phone,Bodoni Twelve ITC Std,38,&H00555752,&H000000FF,&H00000000,&H6C000000,0,0,0,0,100,100,2,0,1,0,3,4,14,14,13,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.80,0:00:05.81,Nanoha Narration1,,0,0,0,,It was only a small wish.
 Dialogue: 0,0:00:06.85,0:00:08.80,Nanoha Narration1,,0,0,0,,Everyday life where nothing happens...
-Dialogue: 0,0:00:09.96,0:00:12.28,Nanoha Narration1,,0,0,0,,Each day gently continuing on to the next day.
+Dialogue: 0,0:00:09.96,0:00:12.28,Nanoha Narration1,,0,0,0,,Each day gently continuing on to the next.
 Dialogue: 0,0:00:13.54,0:00:19.48,Nanoha Narration1,,0,0,0,,I'm not going to wish for anything.\NI'm not going to seek any power.
 Dialogue: 0,0:00:21.00,0:00:24.24,Nanoha Narration1,,0,0,0,,I'm just glad that it's at my side.
 Dialogue: 0,0:00:24.24,0:00:27.26,Nanoha Narration1,,0,0,0,,That way, I will be able to protect everyone.
@@ -98,7 +98,7 @@ Dialogue: 0,0:04:44.18,0:04:45.32,Nanoha Dialogue1,,0,0,0,,Lævateinn...
 Dialogue: 0,0:04:45.32,0:04:49.18,Nanoha Dialogue1,,0,0,0,,Has your mistress been a knight who would pull back in a situation like this?
 Dialogue: 0,0:04:49.29,0:04:50.24,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Nein.
 Dialogue: 0,0:04:49.29,0:04:50.24,Nanoha Device1,,0,0,20,,No.
-Dialogue: 0,0:04:51.51,0:04:56.14,Nanoha Dialogue1,,0,0,0,,That's right, Lævateinn. You and I have always done it this way.
+Dialogue: 0,0:04:51.51,0:04:56.14,Nanoha Dialogue1,,0,0,0,,That's right, Lævateinn. You and I\Nhave always done it this way.
 Dialogue: 0,0:05:07.13,0:05:10.34,Nanoha Dialogue1,,0,0,0,,We are not here to fight against you!
 Dialogue: 0,0:05:10.34,0:05:12.64,Nanoha Dialogue1,,0,0,0,,At least let us hear you out.
 Dialogue: 0,0:05:12.64,0:05:15.67,Nanoha Dialogue1,,0,0,0,,The reason you're aiming to complete the Book of Darkness...
@@ -223,9 +223,9 @@ Dialogue: 0,0:15:05.48,0:15:10.42,Nanoha Dialogue1,,0,0,0,,I don't know! There w
 Dialogue: 0,0:15:10.42,0:15:12.32,Nanoha Dialogue1,,0,0,0,,Why? What's going on?!
 Dialogue: 0,0:15:14.50,0:15:16.04,Nanoha Dialogue1,,0,0,0,,And you are?
 Dialogue: 0,0:15:16.04,0:15:17.16,Nanoha Dialogue1,,0,0,0,,Use it.
-Dialogue: 0,0:15:18.00,0:15:21.63,Nanoha Dialogue1,,0,0,0,,Use the power of the Book of\NDarkness to destroy the barrier.
+Dialogue: 0,0:15:18.00,0:15:21.63,Nanoha Dialogue1,,0,0,0,,Use the power of the Book of Darkness\Nto destroy the barrier.
 Dialogue: 0,0:15:21.63,0:15:23.17,Nanoha Dialogue1,,0,0,0,,But that's...
-Dialogue: 0,0:15:23.17,0:15:26.75,Nanoha Dialogue1,,0,0,0,,The pages that are used up can be added again.
+Dialogue: 0,0:15:23.17,0:15:26.75,Nanoha Dialogue1,,0,0,0,,The pages that will be used up\Ncan be added again.
 Dialogue: 0,0:15:26.75,0:15:28.94,Nanoha Dialogue1,,0,0,0,,If your comrades are defeated first,\Nit will be too late.
 Dialogue: 0,0:15:38.91,0:15:42.92,Nanoha Narration1,,0,0,0,,Everyone! I'm going to fire\Na blast to destroy the barrier!
 Dialogue: 0,0:15:42.92,0:15:44.92,Nanoha Narration1,,0,0,0,,Avoid it as best as you can, and retreat!
@@ -310,7 +310,7 @@ Dialogue: 2,0:19:51.98,0:19:55.06,Nanoha Dialogue1,,0,0,0,,and the broth is alre
 Dialogue: 0,0:19:55.82,0:19:57.29,Nanoha Dialogue1,,0,0,0,,You guys should eat up!
 Dialogue: 0,0:19:57.29,0:20:00.22,Nanoha Dialogue1,,0,0,0,,Yes... I'm really sorry about this!
 Dialogue: 0,0:20:00.22,0:20:03.20,Nanoha Dialogue1,,0,0,0,,Yes. Yes. Then, I'll give it to Vita.
-Dialogue: 0,0:20:03.21,0:20:08.49,Nanoha Phone,,0,0,0,,{\blur0.6\an4\frz347\fax-0.2\pos(612.889,262)}Hayate\Ncell
+Dialogue: 0,0:20:03.21,0:20:08.49,Nanoha Phone,,0,0,0,,{\blur0.6\an4\frz347\fax-0.2\pos(612.889,259)}Hayate\Ncell
 Dialogue: 0,0:20:05.26,0:20:06.66,Nanoha Dialogue1,,0,0,0,,Hayate...
 Dialogue: 0,0:20:06.66,0:20:08.46,Nanoha Dialogue1,,0,0,0,,Hello?
 Dialogue: 0,0:20:21.25,0:20:25.28,Nanoha Dialogue1,,0,0,0,,We've really made her feel lonely.
