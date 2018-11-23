@@ -16,9 +16,9 @@ Video File: ../../../../mnt/archive/[Doki] Mahou Shoujo Lyrical Nanoha The Movie
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 311
-Active Line: 315
-Video Position: 28763
+Scroll Position: 1103
+Active Line: 1108
+Video Position: 102780
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -289,8 +289,8 @@ Dialogue: 0,0:16:08.66,0:16:09.55,NanohaW Subaru,,0,0,0,,Yep.
 Dialogue: 0,0:16:09.55,0:16:15.45,NanohaW Teana,,0,0,0,,It'll be about eighteen minutes in when this chapter ends,\Nup to the equivalent of episode 3 in the TV series.
 Dialogue: 0,0:16:15.45,0:16:23.55,NanohaW Subaru,,0,0,0,,Eh, going by the files, the events of episodes 1 and 3\Nwere combined to speed up the beginning's pacing.
 Dialogue: 0,0:16:23.55,0:16:27.61,NanohaW Teana,,0,0,0,,You're right. Time-wise, it was over really fast.
-Dialogue: 0,0:16:27.61,0:16:36.66,NanohaW Subaru,,0,0,0,,And the meeting with Fate-san after this has things\Nfrom episodes 2, 4, and 5 of the TV series mixed in too.
-Dialogue: 0,0:16:36.66,0:16:43.33,NanohaW Teana,,0,0,0,,Yeah. In the TV series, we spend\Nmore time on Nanoha-san's daily life.
+Dialogue: 0,0:16:27.61,0:16:36.66,NanohaW Subaru,,0,0,0,,And the meeting with Fate after this has things\Nfrom episodes 2, 4, and 5 of the TV series mixed in too.
+Dialogue: 0,0:16:36.66,0:16:43.33,NanohaW Teana,,0,0,0,,Yeah. In the TV series, we spend\Nmore time on Nanoha's daily life.
 Dialogue: 0,0:16:43.33,0:16:44.44,NanohaW Subaru,,0,0,0,,Yep.
 Dialogue: 0,0:16:44.44,0:16:48.26,NanohaW Teana,,0,0,0,,The movie version isn't as broken up as the TV version.
 Dialogue: 0,0:16:48.26,0:16:49.26,NanohaW Subaru,,0,0,0,,Right?
@@ -775,7 +775,7 @@ Dialogue: 0,0:48:18.05,0:48:19.23,NanohaW Subaru,,0,0,0,,They sure are.{Definite
 Dialogue: 0,0:48:19.23,0:48:25.19,NanohaW Teana,,0,0,0,,Now then, this is when we find out about Yuuno's\Ntrue form along with some other events, right?
 Dialogue: 0,0:48:25.19,0:48:27.36,NanohaW Caro,,0,0,0,,There's Nanoha taking her Jacket off.
 Dialogue: 0,0:48:27.36,0:48:29.25,NanohaW Subaru,,0,0,0,,I really like this part!
-Dialogue: 0,0:48:29.25,0:48:33.97,NanohaW Subaru,,0,0,0,,Nanoha-san points her finger\Nat Yuuno and goes "Ahhh! Ahhh!".
+Dialogue: 0,0:48:29.25,0:48:33.97,NanohaW Subaru,,0,0,0,,Nanoha points her finger\Nat Yuuno and goes "Ahhh! Ahhh!".
 Dialogue: 0,0:48:33.97,0:48:35.58,NanohaW Caro,,0,0,0,,It is really cute.
 Dialogue: 0,0:48:35.58,0:48:37.73,NanohaW Erio,,0,0,0,,Ah, here's the scene.
 Dialogue: 0,0:48:37.73,0:48:40.44,NanohaW Caro,,0,0,0,,Chief Librarian Yuuno, transformation disengaged!
@@ -1144,10 +1144,10 @@ Dialogue: 0,1:10:54.51,1:11:01.82,NanohaW Fate,,0,0,0,,Well, I couldn't collect 
 Dialogue: 0,1:11:01.82,1:11:02.43,NanohaW Vivio,,0,0,0,,Right...
 Dialogue: 0,1:11:02.43,1:11:10.85,NanohaW Fate,,0,0,0,,But I wasn't in a position to go searching for her to get them,\Nso I waited and did my best to prepare.
 Dialogue: 0,1:11:10.85,1:11:14.00,NanohaW Nanoha,,0,0,0,,And I asked for a place to fight to be made for us...
-Dialogue: 0,1:11:14.00,1:11:18.88,NanohaW Nanoha,,0,0,0,,...since I thought that if I went there alone,\Nthen Fate-chan would definitely come.
+Dialogue: 0,1:11:14.00,1:11:18.88,NanohaW Nanoha,,0,0,0,,...since I thought that if I went there alone,\Nthen Fate would definitely come.
 Dialogue: 0,1:11:18.88,1:11:23.45,NanohaW Fate,,0,0,0,,Yeah, I went out thinking that I needed to be careful\Nabout the location where we fought...
 Dialogue: 0,1:11:23.45,1:11:26.77,NanohaW Fate,,0,0,0,,...but I found her waiting for me at a really good place.
-Dialogue: 0,1:11:26.77,1:11:33.04,NanohaW Nanoha,,0,0,0,,I barely had to wait since Fate-chan arrived right after\Npreparations were finished, so I was actually surprised.
+Dialogue: 0,1:11:26.77,1:11:33.04,NanohaW Nanoha,,0,0,0,,I barely had to wait since Fate arrived right after\Npreparations were finished, so I was actually surprised.
 Dialogue: 0,1:11:33.04,1:11:34.75,NanohaW Caro,,0,0,0,,I see.
 Dialogue: 0,1:11:34.75,1:11:36.63,NanohaW Erio,,0,0,0,,So that's how it happened.
 Dialogue: 0,1:11:36.63,1:11:41.00,NanohaW Vivio,,0,0,0,,My mamas' coincidences are sort of amazing.
@@ -1227,7 +1227,7 @@ Dialogue: 0,1:15:44.53,1:15:46.02,NanohaW Erio,,0,0,0,,And here...!
 Dialogue: 0,1:15:46.02,1:15:47.20,NanohaW Caro,,0,0,0,,Air Brake!
 Dialogue: 0,1:15:46.02,1:15:47.20,NanohaW Erio,,0,0,0,,Air Brake!
 Dialogue: 0,1:15:47.60,1:15:51.82,NanohaW Caro,,0,0,0,,She overshoots and then immediately rains down\Na storm of shots from the best angle!
-Dialogue: 0,1:15:51.82,1:15:53.45,NanohaW Erio,,0,0,0,,Then a cross-range attack!
+Dialogue: 0,1:15:51.82,1:15:53.45,NanohaW Erio,,0,0,0,,Then a close-range attack!
 Dialogue: 0,1:15:53.45,1:15:55.42,NanohaW Caro,,0,0,0,,Their maneuvers get tangled up and...
 Dialogue: 0,1:15:55.42,1:15:56.24,NanohaW Erio,,0,0,0,,Clash!
 Dialogue: 0,1:15:56.24,1:15:57.20,NanohaW Caro,,0,0,0,,Clash!
@@ -1658,7 +1658,7 @@ Dialogue: 0,1:42:24.89,1:42:28.89,NanohaW Erio,,0,0,0,,It should've been so simp
 Dialogue: 0,1:42:28.89,1:42:33.97,NanohaW Teana,,0,0,0,,It's so sad how all she has is\Nan incomplete set of Alicia's memories.
 Dialogue: 0,1:42:33.97,1:42:36.81,NanohaW Subaru,,0,0,0,,Not being able to convey your feelings is heartbreaking.
 Dialogue: 0,1:42:36.81,1:42:43.21,NanohaW Subaru,,0,0,0,,Not being able to reach someone no matter\Nhow hard you try or how much you care is so sad.
-Dialogue: 0,1:42:43.21,1:42:51.07,NanohaW Caro,,0,0,0,,Fate-san is thinking something sad again.\NLike, "Maybe I should've never been born".
+Dialogue: 0,1:42:43.21,1:42:51.07,NanohaW Caro,,0,0,0,,Fate is thinking something sad again.\NLike, "Maybe I should've never been born".
 Dialogue: 0,1:42:51.07,1:42:57.69,NanohaW Erio,,0,0,0,,But this is when she thinks of Arf,\Nwho's always been by her side...
 Dialogue: 0,1:42:57.69,1:42:59.32,NanohaW Erio,,0,0,0,,...and about Nanoha.
 Dialogue: 0,1:42:59.32,1:43:01.57,NanohaW Teana,,0,0,0,,Yeah, there they are meeting.
@@ -1721,7 +1721,7 @@ Dialogue: 0,1:46:28.44,1:46:32.35,NanohaW Vivio,,0,0,0,,A huge roar! They turn a
 Dialogue: 0,1:46:32.35,1:46:34.71,NanohaW Teana,,0,0,0,,The golem goes for them!
 Dialogue: 0,1:46:34.71,1:46:38.74,NanohaW Subaru,,0,0,0,,Just from its incredible size and armaments,\Nyou can tell it's gonna be tough!
 Dialogue: 0,1:46:38.74,1:46:41.71,NanohaW Subaru,,0,0,0,,And to top it off, it's a bombardment type!
-Dialogue: 0,1:46:41.71,1:46:45.66,NanohaW Erio,,0,0,0,,Fate-san says it quietly, but clearly...
+Dialogue: 0,1:46:41.71,1:46:45.66,NanohaW Erio,,0,0,0,,Fate says it quietly, but clearly...
 Dialogue: 0,1:46:45.66,1:46:50.62,NanohaW Caro,,0,0,0,,"But if we work together..."\NThose words bring a smile to Nanoha's face.
 Dialogue: 0,1:46:50.62,1:46:54.75,NanohaW Vivio,,0,0,0,,The cannon fire from the golem\Ncould take them out in one shot!
 Dialogue: 0,1:46:54.75,1:46:58.60,NanohaW Subaru,,0,0,0,,But they dodge, dodge, and magnificently dodge!
@@ -1822,7 +1822,7 @@ Dialogue: 0,1:52:39.29,1:52:40.55,NanohaW Teana,,0,0,0,,Yeah.
 Dialogue: 0,1:52:40.55,1:52:47.67,NanohaW Subaru,,0,0,0,,She'd managed to keep her promise to Alicia,\Nbut didn't realize it until the end.
 Dialogue: 0,1:52:48.38,1:52:50.34,NanohaW Teana,,0,0,0,,Um, can you explain it a bit more?
 Dialogue: 0,1:52:50.34,1:52:56.03,NanohaW Subaru,,0,0,0,,Um, I'm sorry about this, Fate,\Nbut I'm interpreting Ms. Presea's words here...
-Dialogue: 0,1:52:56.03,1:53:02.33,NanohaW Subaru,,0,0,0,,Fate-san isn't a "failed" Alicia\Nor impersonation or anything like that.
+Dialogue: 0,1:52:56.03,1:53:02.33,NanohaW Subaru,,0,0,0,,Fate isn't a "failed" Alicia\Nor impersonation or anything like that.
 Dialogue: 0,1:53:02.33,1:53:12.14,NanohaW Subaru,,0,0,0,,She's a different individual with a different personality,\Nbut still connected to both Presea and Alicia...
 Dialogue: 0,1:53:12.14,1:53:14.42,NanohaW Subaru,,0,0,0,,...like Alicia's little sister.
 Dialogue: 0,1:53:15.40,1:53:20.06,NanohaW Subaru,,0,0,0,,She actually managed to fulfill that promise to Alicia.
