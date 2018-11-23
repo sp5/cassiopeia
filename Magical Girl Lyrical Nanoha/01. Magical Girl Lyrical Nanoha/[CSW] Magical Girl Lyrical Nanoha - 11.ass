@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 75
-Active Line: 76
-Video Position: 11363
+Scroll Position: 220
+Active Line: 225
+Video Position: 31584
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -87,7 +87,7 @@ Dialogue: 0,0:04:23.44,0:04:25.28,Nanoha Dialogue1,,0,0,0,,So don't let her get 
 Dialogue: 0,0:04:26.28,0:04:27.99,Nanoha Dialogue1,,0,0,0,,Yeah, leave it to me!
 Dialogue: 0,0:04:29.66,0:04:30.50,Nanoha Dialogue1,,0,0,0,,Oh?
 Dialogue: 0,0:04:33.31,0:04:36.77,Nanoha Dialogue1,,0,0,0,,But don't you have to tell Nanoha
-Dialogue: 0,0:04:36.77,0:04:41.06,Nanoha Dialogue1,,0,0,0,,about Presea Testarossa's family\Nand about that incident?
+Dialogue: 0,0:04:36.77,0:04:41.06,Nanoha Dialogue1,,0,0,0,,about Presea Testarossa's family\Nand the accident?
 Dialogue: 0,0:04:44.68,0:04:47.30,Nanoha Dialogue1,,0,0,0,,It's best if she wins.
 Dialogue: 0,0:04:47.30,0:04:51.31,Nanoha Dialogue1,,0,0,0,,I don't want Nanoha to be worried about anything right now.
 Dialogue: 0,0:05:03.40,0:05:05.71,Nanoha Device1,,0,0,0,,Photon Lancer
@@ -202,24 +202,24 @@ Dialogue: 0,0:17:04.64,0:17:09.00,Nanoha Dialogue1,,0,0,0,,and treating a substi
 Dialogue: 0,0:17:12.11,0:17:13.71,Nanoha Dialogue1,,0,0,0,,Are you listening?
 Dialogue: 0,0:17:13.71,0:17:16.01,Nanoha Dialogue1,,0,0,0,,I'm talking about you, Fate.
 Dialogue: 0,0:17:16.01,0:17:19.52,Nanoha Dialogue1,,0,0,0,,I went to all the trouble of giving you Alicia's memories,
-Dialogue: 0,0:17:19.52,0:17:22.09,Nanoha Dialogue1,,0,0,0,,but the only resemblance was your appearance.
-Dialogue: 0,0:17:22.09,0:17:25.39,Nanoha Dialogue1,,0,0,0,,You were of no use whatsoever.
-Dialogue: 0,0:17:25.39,0:17:27.52,Nanoha Dialogue1,,0,0,0,,A mere doll of mine.
-Dialogue: 0,0:17:29.13,0:17:31.29,Nanoha Dialogue1,,0,0,0,,Back in that first incident...
-Dialogue: 0,0:17:31.29,0:17:36.58,Nanoha Dialogue1,,0,0,0,,Presea lost her real daughter,\NAlicia Testarossa.
-Dialogue: 0,0:17:37.70,0:17:42.34,Nanoha Dialogue1,,0,0,0,,In the end, she was researching the creation\Nof an artificial life form different from a familiar,
-Dialogue: 0,0:17:42.34,0:17:45.54,Nanoha Dialogue1,,0,0,0,,a being that surpasses all familiars,
-Dialogue: 0,0:17:46.92,0:17:49.98,Nanoha Dialogue1,,0,0,0,,and the secret of reviving the dead.
+Dialogue: 0,0:17:19.52,0:17:22.09,Nanoha Dialogue1,,0,0,0,,but you're only identical to her on the outside.
+Dialogue: 0,0:17:22.09,0:17:25.39,Nanoha Dialogue1,,0,0,0,,You're useless and utterly worthless,
+Dialogue: 0,0:17:25.39,0:17:27.52,Nanoha Dialogue1,,0,0,0,,nothing but a doll.
+Dialogue: 0,0:17:29.13,0:17:31.29,Nanoha Dialogue1,,0,0,0,,At the time of the accident,
+Dialogue: 0,0:17:31.29,0:17:36.58,Nanoha Dialogue1,,0,0,0,,Presea lost her biological daughter,\NAlicia Testarossa.
+Dialogue: 0,0:17:37.70,0:17:42.34,Nanoha Dialogue1,,0,0,0,,Ever since, Presea's research focused on\Nthe creation of an artificial lifeform
+Dialogue: 0,0:17:42.34,0:17:45.54,Nanoha Dialogue1,,0,0,0,,more advanced than a familiar
+Dialogue: 0,0:17:46.92,0:17:49.98,Nanoha Dialogue1,,0,0,0,,and on technology to revive the dead.
 Dialogue: 0,0:17:49.98,0:17:52.14,Nanoha Dialogue1,,0,0,0,,"Fate" was the codename
 Dialogue: 0,0:17:52.14,0:17:56.43,Nanoha Dialogue1,,0,0,0,,that she had assigned to her research at the time.
 Dialogue: 0,0:17:56.43,0:17:59.26,Nanoha Dialogue1,,0,0,0,,I'm impressed you were able to find out that much.
 Dialogue: 0,0:17:59.26,0:18:01.43,Nanoha Dialogue1,,0,0,0,,You're right. That's correct.
 Dialogue: 0,0:18:02.43,0:18:06.60,Nanoha Dialogue1,,0,0,0,,But it wasn't good enough.\NIt didn't go well at all.
-Dialogue: 0,0:18:06.60,0:18:10.23,Nanoha Dialogue1,,0,0,0,,An artificial life is\Nnothing but a fake life.
+Dialogue: 0,0:18:06.60,0:18:10.23,Nanoha Dialogue1,,0,0,0,,Imitated life is just that. An imitation.
 Dialogue: 0,0:18:10.23,0:18:13.94,Nanoha Dialogue1,,0,0,0,,It doesn't take the place of something that you've lost.
-Dialogue: 0,0:18:15.44,0:18:19.45,Nanoha Dialogue1,,0,0,0,,Alicia smiled at me more kindly.
-Dialogue: 0,0:18:19.45,0:18:22.95,Nanoha Dialogue1,,0,0,0,,Sometimes Alicia was selfish,
-Dialogue: 0,0:18:22.95,0:18:26.38,Nanoha Dialogue1,,0,0,0,,but she listened well\Nto what I had to say.
+Dialogue: 0,0:18:15.44,0:18:19.45,Nanoha Dialogue1,,0,0,0,,Alicia looked sweeter when she smiled.
+Dialogue: 0,0:18:19.45,0:18:22.95,Nanoha Dialogue1,,0,0,0,,Alicia would be self-centered sometimes,
+Dialogue: 0,0:18:22.95,0:18:26.38,Nanoha Dialogue1,,0,0,0,,but she always did as she was told.
 Dialogue: 0,0:18:26.38,0:18:27.46,Nanoha Dialogue1,,0,0,0,,Stop it!
 Dialogue: 0,0:18:27.46,0:18:32.23,Nanoha Dialogue1,,0,0,0,,Alicia was always kind to me.
 Dialogue: 0,0:18:36.26,0:18:37.30,Nanoha Dialogue1,,0,0,0,,Fate...
@@ -229,10 +229,10 @@ Dialogue: 0,0:18:44.77,0:18:46.81,Nanoha Dialogue1,,0,0,0,,but you weren't good 
 Dialogue: 0,0:18:46.81,0:18:50.07,Nanoha Dialogue1,,0,0,0,,Stop! Stop it!
 Dialogue: 0,0:18:50.81,0:18:58.11,Nanoha Dialogue1,,0,0,0,,A doll I used to comfort myself until\NI could bring Alicia back to life.
 Dialogue: 0,0:18:58.11,0:19:01.24,Nanoha Dialogue1,,0,0,0,,So I don't need you anymore.
-Dialogue: 0,0:19:01.24,0:19:03.83,Nanoha Dialogue1,,0,0,0,,Wherever you want to go, begone!
+Dialogue: 0,0:19:01.24,0:19:03.83,Nanoha Dialogue1,,0,0,0,,Go away. Get out of my sight!
 Dialogue: 0,0:19:05.39,0:19:07.40,Nanoha Dialogue1,,0,0,0,,Please, stop it already!
-Dialogue: 0,0:19:22.72,0:19:25.26,Nanoha Dialogue1,,0,0,0,,I'll tell you one good thing, Fate...
-Dialogue: 0,0:19:25.26,0:19:30.26,Nanoha Dialogue1,,0,0,0,,Ever since I made you, all this time...
+Dialogue: 0,0:19:22.72,0:19:25.26,Nanoha Dialogue1,,0,0,0,,Let me tell you something real good, Fate.
+Dialogue: 0,0:19:25.26,0:19:30.26,Nanoha Dialogue1,,0,0,0,,Ever since I made you, every single moment...
 Dialogue: 0,0:19:30.26,0:19:32.79,Nanoha Dialogue1,,0,0,0,,I hated your guts!
 Dialogue: 0,0:19:44.62,0:19:46.23,Nanoha Dialogue1,,0,0,0,,Fate!
 Dialogue: 0,0:19:46.23,0:19:47.41,Nanoha Dialogue1,,0,0,0,,Fate...
@@ -244,29 +244,29 @@ Dialogue: 0,0:19:57.18,0:19:58.00,Nanoha Dialogue1,,0,0,0,,What?
 Dialogue: 0,0:19:58.00,0:20:00.24,Nanoha Dialogue1,,0,0,0,,What is going on here?
 Dialogue: 0,0:20:28.98,0:20:32.95,Nanoha Dialogue1,,0,0,0,,Magical responses from the Garden.\NAll of them are Class A!
 Dialogue: 0,0:20:32.95,0:20:36.02,Nanoha Dialogue1,,0,0,0,,Total numbers, 60.... 80...\NThe number is still increasing!
-Dialogue: 0,0:20:36.02,0:20:39.53,Nanoha Dialogue1,,0,0,0,,Presea Testarossa, what in the worlds\Nare you planning on doing?!
+Dialogue: 0,0:20:36.02,0:20:39.53,Nanoha Dialogue1,,0,0,0,,Presea Testarossa, what in the worlds\Nare you up to?!
 Dialogue: 0,0:21:00.47,0:21:04.97,Nanoha Dialogue1,,0,0,0,,I don't want you to interrupt our journey.
 Dialogue: 0,0:21:09.11,0:21:11.34,Nanoha Dialogue1,,0,0,0,,We are going to depart!
-Dialogue: 0,0:21:18.22,0:21:21.50,Nanoha Dialogue1,,0,0,0,,To the forgotten capital, Alhazred!
+Dialogue: 0,0:21:18.22,0:21:21.50,Nanoha Dialogue1,,0,0,0,,To the forgotten city, Alhazred!
 Dialogue: 0,0:21:27.50,0:21:28.50,Nanoha Dialogue1,,0,0,0,,That's impossible!
-Dialogue: 0,0:21:28.50,0:21:31.52,Nanoha Dialogue1,,0,0,0,,With this power,\Nwe're going to depart
+Dialogue: 0,0:21:28.50,0:21:31.52,Nanoha Dialogue1,,0,0,0,,With this power, we're going to go there
 Dialogue: 0,0:21:31.52,0:21:35.46,Nanoha Dialogue1,,0,0,0,,and take everything back into our hands!
 Dialogue: 0,0:21:40.58,0:21:42.98,Nanoha Dialogue1,,0,0,0,,It's a dimensional tremor!\NMid-size, or even bigger!
 Dialogue: 0,0:21:42.98,0:21:44.14,Nanoha Dialogue1,,0,0,0,,Tremor defenses!
 Dialogue: 0,0:21:44.14,0:21:45.84,Nanoha Dialogue1,,0,0,0,,Put up the distortion shields!
 Dialogue: 0,0:21:45.84,0:21:47.82,Nanoha Dialogue1,,0,0,0,,Nine Jewel Seeds have been executed.
-Dialogue: 0,0:21:47.82,0:21:50.10,Nanoha Dialogue1,,0,0,0,,The dimensional tremor is going to get even stronger!
+Dialogue: 0,0:21:47.82,0:21:50.10,Nanoha Dialogue1,,0,0,0,,The dimensional tremor's magnitude is increasing!
 Dialogue: 0,0:21:50.10,0:21:54.32,Nanoha Dialogue1,,0,0,0,,Move to an area that has a smaller affect\Nwhile remaining within teleport radius!
 Dialogue: 0,0:21:55.09,0:21:56.06,Nanoha Dialogue1,,0,0,0,,Roger that!
 Dialogue: 0,0:21:56.06,0:21:57.28,Nanoha Dialogue1,,0,0,0,,The Radi coefficient is growing!
-Dialogue: 0,0:21:57.28,0:21:58.82,Nanoha Dialogue1,,0,0,0,,At this rate, there will be a dimensional fault!
+Dialogue: 0,0:21:57.28,0:21:58.82,Nanoha Dialogue1,,0,0,0,,At this rate, a dimensional fault will open!
 Dialogue: 0,0:22:01.84,0:22:03.67,Nanoha Dialogue1,,0,0,0,,Alhazred...
 Dialogue: 0,0:22:03.67,0:22:04.82,Nanoha Dialogue1,,0,0,0,,What idiocy!
 Dialogue: 0,0:22:05.36,0:22:06.61,Nanoha Dialogue1,,0,0,0,,Chrono?!
 Dialogue: 0,0:22:06.61,0:22:08.42,Nanoha Dialogue1,,0,0,0,,I'm going to go stop her!
 Dialogue: 0,0:22:08.42,0:22:09.91,Nanoha Dialogue1,,0,0,0,,Open the gate!
-Dialogue: 0,0:22:13.84,0:22:16.71,Nanoha Narration1,,0,0,0,,The forgotten capital, Alhazred...
-Dialogue: 0,0:22:16.71,0:22:20.42,Nanoha Narration1,,0,0,0,,The land where the forbidden secret spells\Nthat we have lost all lie.
+Dialogue: 0,0:22:13.84,0:22:16.71,Nanoha Narration1,,0,0,0,,Alhazred, the forgotten city...
+Dialogue: 0,0:22:16.71,0:22:20.42,Nanoha Narration1,,0,0,0,,A land where secret,\Nforbidden spells lie hidden.
 Dialogue: 0,0:22:20.42,0:22:22.57,Nanoha Narration1,,0,0,0,,What is she trying to do there?!
 Dialogue: 0,0:22:22.57,0:22:26.47,Nanoha Narration1,,0,0,0,,Does she think that she can bring back the past she has lost?!
 Dialogue: 0,0:22:37.14,0:22:39.00,Nanoha Dialogue1,,0,0,0,,No matter what magic you use,

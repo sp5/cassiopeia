@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 297
-Active Line: 302
-Video Position: 36770
+Scroll Position: 268
+Active Line: 258
+Video Position: 31828
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -113,7 +113,7 @@ Dialogue: 0,0:06:11.64,0:06:12.62,Nanoha Dialogue1,,0,0,0,,Yeah!
 Dialogue: 0,0:06:16.26,0:06:18.42,Nanoha Device1,,0,0,0,,Blaze Cannon
 Dialogue: 0,0:06:21.24,0:06:23.72,Nanoha Dialogue1,,0,0,0,,Chrono, be careful!
 Dialogue: 0,0:06:29.38,0:06:30.86,Nanoha Dialogue1,,0,0,0,,I will be going as well!
-Dialogue: 0,0:06:30.86,0:06:33.62,Nanoha Dialogue1,,0,0,0,,I'll be putting up a distortion shield within the Garden 
+Dialogue: 0,0:06:30.86,0:06:33.62,Nanoha Dialogue1,,0,0,0,,I'll be putting up a distortion shield within the Garden
 Dialogue: 0,0:06:33.62,0:06:35.72,Nanoha Dialogue1,,0,0,0,,and holding back the progress of the dimensional tremor!
 Dialogue: 0,0:06:41.70,0:06:44.16,Nanoha Dialogue1,,0,0,0,,I'm worried about those kids,
 Dialogue: 0,0:06:44.16,0:06:47.16,Nanoha Dialogue1,,0,0,0,,so I'm going to go help them out a little too.
@@ -157,7 +157,7 @@ Dialogue: 0,0:10:41.94,0:10:48.84,Nanoha Insert Song,,0,0,0,,You taught me to es
 Dialogue: 0,0:10:48.84,0:10:52.81,Nanoha Insert Song,,0,0,0,,The quiet wish that wells up in my heart
 Dialogue: 0,0:10:50.58,0:10:52.84,Nanoha Device1,,0,0,0,,Recovery
 Dialogue: 0,0:10:52.81,0:10:56.55,Nanoha Insert Song,,0,0,0,,Let's get ourselves back into our hands
-Dialogue: 0,0:10:54.32,0:10:57.94,Nanoha Dialogue1,,0,0,0,,Nothing between us has even begun.
+Dialogue: 0,0:10:54.32,0:10:57.94,Nanoha Dialogue1,,0,0,0,,Our story has yet to begin.
 Dialogue: 0,0:10:56.55,0:11:03.59,Nanoha Insert Song,,0,0,0,,On the other end of the sky as I look up, your gaze
 Dialogue: 0,0:11:03.59,0:11:08.33,Nanoha Insert Song,,0,0,0,,Gets hit by the rain of caring and disappears
 Dialogue: 0,0:11:05.09,0:11:10.21,Nanoha Dialogue1,,0,0,0,,That is why, in order for me to begin to be my true self,
@@ -189,9 +189,9 @@ Dialogue: 0,0:12:17.70,0:12:21.74,Nanoha Insert Song,,0,0,0,,Why did you keep he
 Dialogue: 0,0:12:19.52,0:12:20.51,Nanoha Narration1,,0,0,0,,{\an9}Fate?!
 Dialogue: 0,0:12:21.74,0:12:26.88,Nanoha Insert Song,,0,0,0,,So that I can win a clear victory
 Dialogue: 0,0:12:26.88,0:12:32.71,Nanoha Insert Song,,0,0,0,,Let's grab countless wishes in our hands
-Dialogue: 0,0:12:31.64,0:12:35.08,Nanoha Dialogue1,,0,0,0,,It's a big one... its barrier is strong.
+Dialogue: 0,0:12:31.64,0:12:35.08,Nanoha Dialogue1,,0,0,0,,It's a heavy model. It has a strong barrier.
 Dialogue: 0,0:12:35.08,0:12:37.65,Nanoha Dialogue1,,0,0,0,,Yeah. And that thing on its back!
-Dialogue: 0,0:12:41.12,0:12:42.74,Nanoha Dialogue1,,0,0,0,,But if the two of us are together...
+Dialogue: 0,0:12:41.12,0:12:42.74,Nanoha Dialogue1,,0,0,0,,But if we work together...
 Dialogue: 0,0:12:45.13,0:12:46.97,Nanoha Dialogue1,,0,0,0,,Yeah! Yeah, yeah!
 Dialogue: 0,0:12:47.73,0:12:50.17,Nanoha Dialogue1,,0,0,0,,Let's go, Bardiche!
 Dialogue: 0,0:12:50.17,0:12:51.67,Nanoha Device1,,0,0,0,,Get set.
@@ -206,7 +206,7 @@ Dialogue: 0,0:13:12.79,0:13:16.76,Nanoha Insert Song,,0,0,0,,Shaken, woken up, a
 Dialogue: 0,0:13:15.26,0:13:19.88,Nanoha Dialogue1,,0,0,0,,{\b1}Divine Buster{\b0}
 Dialogue: 0,0:13:16.76,0:13:21.93,Nanoha Insert Song,,0,0,0,,So that I can win a clear victory
 Dialogue: 0,0:13:21.93,0:13:28.87,Nanoha Insert Song,,0,0,0,,Let's grab countless wishes in our hands
-Dialogue: 0,0:13:23.77,0:13:25.20,Nanoha Dialogue1,,0,0,0,,Here we go!
+Dialogue: 0,0:13:23.77,0:13:25.20,Nanoha Dialogue1,,0,0,0,,And... now!
 Dialogue: 0,0:13:37.50,0:13:39.64,Nanoha Dialogue1,,0,0,0,,You're here!
 Dialogue: 0,0:13:39.64,0:13:42.78,Nanoha Dialogue1,,0,0,0,,But you didn't make it in time!
 Dialogue: 0,0:13:42.78,0:13:44.90,Nanoha Dialogue1,,0,0,0,,Right, Alicia?
@@ -250,7 +250,7 @@ Dialogue: 0,0:17:45.03,0:17:46.74,Nanoha Dialogue1,,0,0,0,,This is the end of th
 Dialogue: 0,0:17:46.74,0:17:49.63,Nanoha Dialogue1,,0,0,0,,I am suppressing the dimensional tremor,
 Dialogue: 0,0:17:51.17,0:17:53.30,Nanoha Dialogue1,,0,0,0,,the reactor will be sealed away in due time,
 Dialogue: 0,0:17:53.30,0:17:56.63,Nanoha Dialogue1,,0,0,0,,and there is an Enforcer headed towards you.
-Dialogue: 0,0:17:57.86,0:18:00.04,Nanoha Dialogue1,,0,0,0,,The existence of\Nthe forgotten capital, Alhazred,
+Dialogue: 0,0:17:57.86,0:18:00.04,Nanoha Dialogue1,,0,0,0,,The forgotten city of Alhazred
 Dialogue: 0,0:18:00.04,0:18:03.11,Nanoha Dialogue1,,0,0,0,,and all the secret spells that lie there
 Dialogue: 0,0:18:03.11,0:18:06.60,Nanoha Dialogue1,,0,0,0,,is only a vague myth!
 Dialogue: 0,0:18:07.27,0:18:08.72,Nanoha Dialogue1,,0,0,0,,That's not true!
@@ -262,11 +262,10 @@ Dialogue: 0,0:18:21.68,0:18:24.83,Nanoha Dialogue1,,0,0,0,,A gamble that has suc
 Dialogue: 0,0:18:32.82,0:18:35.84,Nanoha Dialogue1,,0,0,0,,What in the worlds do you want to do by going there?
 Dialogue: 0,0:18:36.61,0:18:41.41,Nanoha Dialogue1,,0,0,0,,Bring back lost time and take back the mistakes you made?
 Dialogue: 0,0:18:44.35,0:18:46.18,Nanoha Dialogue1,,0,0,0,,That's right!
-Dialogue: 0,0:18:47.02,0:18:48.58,Nanoha Dialogue1,,0,0,0,,I'm going to bring back into my hands
-Dialogue: 0,0:18:49.72,0:18:54.57,Nanoha Dialogue1,,0,0,0,,the past and the future for Alicia and I!
-Dialogue: 0,0:18:58.13,0:18:59.83,Nanoha Dialogue1,,0,0,0,,I'm going to bring it back.
-Dialogue: 0,0:18:59.83,0:19:02.14,Nanoha Dialogue1,,0,0,0,,This wasn't how it was supposed to be.
-Dialogue: 0,0:19:02.14,0:19:04.34,Nanoha Dialogue1,,0,0,0,,Everything in the worlds...
+Dialogue: 0,0:18:47.02,0:18:48.58,Nanoha Dialogue1,,0,0,0,,I'll get her back.
+Dialogue: 0,0:18:49.72,0:18:54.57,Nanoha Dialogue1,,0,0,0,,I'll take back Alicia's and my past and future.
+Dialogue: 0,0:18:58.13,0:19:02.14,Nanoha Dialogue1,,0,0,0,,I'll take back everything in all the worlds
+Dialogue: 0,0:19:02.14,0:19:04.34,Nanoha Dialogue1,,0,0,0,,that isn't how it's supposed to be!
 Dialogue: 0,0:19:11.74,0:19:14.14,Nanoha Dialogue1,,0,0,0,,The worlds are always full of things
 Dialogue: 0,0:19:14.14,0:19:17.76,Nanoha Dialogue1,,0,0,0,,that aren't how they're supposed to be!
 Dialogue: 0,0:19:17.76,0:19:23.00,Nanoha Dialogue1,,0,0,0,,From the past, for all time, for anyone, that's how it is!
@@ -288,12 +287,12 @@ Dialogue: 0,0:21:05.82,0:21:09.44,Nanoha Dialogue1,,0,0,0,,Are you telling me to
 Dialogue: 0,0:21:10.40,0:21:14.97,Nanoha Dialogue1,,0,0,0,,If you so wish.
 Dialogue: 0,0:21:19.20,0:21:21.28,Nanoha Dialogue1,,0,0,0,,If you so wish,
 Dialogue: 0,0:21:21.28,0:21:24.14,Nanoha Dialogue1,,0,0,0,,I will protect you from anyone in all the worlds
-Dialogue: 0,0:21:24.14,0:21:27.57,Nanoha Dialogue1,,0,0,0,,and from anything that goes on.
-Dialogue: 0,0:21:30.22,0:21:33.56,Nanoha Dialogue1,,0,0,0,,Not because I am your daughter.
-Dialogue: 0,0:21:34.92,0:21:38.32,Nanoha Dialogue1,,0,0,0,,But because you are my mother!
+Dialogue: 0,0:21:24.14,0:21:27.57,Nanoha Dialogue1,,0,0,0,,and from anything that happens.
+Dialogue: 0,0:21:30.22,0:21:33.56,Nanoha Dialogue1,,0,0,0,,Not because you see me as your daughter.
+Dialogue: 0,0:21:34.92,0:21:38.32,Nanoha Dialogue1,,0,0,0,,But because I see you as my mother!
 Dialogue: 0,0:21:46.67,0:21:48.26,Nanoha Dialogue1,,0,0,0,,How stupid.
 Dialogue: 0,0:21:58.68,0:21:59.88,Nanoha Dialogue1,,0,0,0,,Not good!
-Dialogue: 0,0:22:05.58,0:22:07.46,Nanoha Dialogue1,,0,0,0,,Captain, it's no good!
+Dialogue: 0,0:22:05.58,0:22:07.46,Nanoha Dialogue1,,0,0,0,,Captain, it's no use!
 Dialogue: 0,0:22:07.46,0:22:10.24,Nanoha Dialogue1,,0,0,0,,The Garden is going to fall apart!\NPlease come back!
 Dialogue: 0,0:22:10.24,0:22:14.68,Nanoha Dialogue1,,0,0,0,,Destruction of this caliber won't cause a dimensional fault!
 Dialogue: 0,0:22:14.68,0:22:16.76,Nanoha Dialogue1,,0,0,0,,Chrono, all of you should escape now!

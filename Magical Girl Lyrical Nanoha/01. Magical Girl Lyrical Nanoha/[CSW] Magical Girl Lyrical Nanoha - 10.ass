@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 252
-Active Line: 257
-Video Position: 24694
+Scroll Position: 338
+Active Line: 340
+Video Position: 33540
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -87,7 +87,7 @@ Dialogue: 0,0:03:33.02,0:03:36.12,Nanoha Dialogue1,,0,0,0,,Now, the question is\
 Dialogue: 0,0:03:36.12,0:03:40.07,Nanoha Dialogue1,,0,0,0,,Chrono, do you have any ideas on the cause of all this?
 Dialogue: 0,0:03:40.07,0:03:41.31,Nanoha Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:03:41.31,0:03:43.45,Nanoha Dialogue1,,0,0,0,,Amy, bring it up on the monitors!
-Dialogue: 0,0:03:43.45,0:03:44.89,Nanoha Dialogue1,,0,0,0,,Gotcha!
+Dialogue: 0,0:03:43.45,0:03:44.89,Nanoha Dialogue1,,0,0,0,,Sure thing!
 Dialogue: 0,0:03:48.45,0:03:49.53,Nanoha Dialogue1,,0,0,0,,Oh...
 Dialogue: 0,0:03:49.53,0:03:50.53,Nanoha Dialogue1,,0,0,0,,That's right.
 Dialogue: 0,0:03:50.53,0:03:56.04,Nanoha Dialogue1,,0,0,0,,A mage from Midchilda,\Njust like us. Presea Testarossa.
@@ -97,9 +97,9 @@ Dialogue: 0,0:04:02.58,0:04:05.55,Nanoha Dialogue1,,0,0,0,,due to causing an acc
 Dialogue: 0,0:04:05.55,0:04:10.35,Nanoha Dialogue1,,0,0,0,,The wavelength of the magical attack just now matches the data on file.
 Dialogue: 0,0:04:10.35,0:04:14.06,Nanoha Dialogue1,,0,0,0,,And that girl Fate is, most likely...
 Dialogue: 0,0:04:14.06,0:04:16.12,Nanoha Dialogue1,,0,0,0,,Fate...
-Dialogue: 0,0:04:16.12,0:04:19.09,Nanoha Dialogue1,,0,0,0,,Back then, she said "Mom"...
+Dialogue: 0,0:04:16.12,0:04:19.09,Nanoha Dialogue1,,0,0,0,,During the fight, she said "Mom"...
 Dialogue: 0,0:04:22.23,0:04:23.76,Nanoha Dialogue1,,0,0,0,,Mom?
-Dialogue: 0,0:04:25.95,0:04:28.20,Nanoha Dialogue1,,0,0,0,,Parent and child, huh...
+Dialogue: 0,0:04:25.95,0:04:28.20,Nanoha Dialogue1,,0,0,0,,Mother and daughter, eh?
 Dialogue: 0,0:04:29.07,0:04:30.70,Nanoha Dialogue1,,0,0,0,,Um...
 Dialogue: 0,0:04:30.70,0:04:35.58,Nanoha Dialogue1,,0,0,0,,She didn't look like she was surprised so much as scared.
 Dialogue: 0,0:04:37.21,0:04:38.09,Nanoha Dialogue1,,0,0,0,,Amy!
@@ -111,8 +111,8 @@ Dialogue: 0,0:04:49.69,0:04:53.71,Nanoha Dialogue1,,0,0,0,,This is Fate's mother
 Dialogue: 0,0:05:08.20,0:05:10.68,Nanoha Dialogue1,,0,0,0,,You had such a great chance in front of you,
 Dialogue: 0,0:05:10.68,0:05:13.25,Nanoha Dialogue1,,0,0,0,,yet all you did was stand there in a daze.
 Dialogue: 0,0:05:13.25,0:05:15.21,Nanoha Dialogue1,,0,0,0,,I'm sorry...
-Dialogue: 0,0:05:19.42,0:05:21.16,Nanoha Dialogue1,,0,0,0,,How horrible, Fate.
-Dialogue: 0,0:05:21.16,0:05:24.95,Nanoha Dialogue1,,0,0,0,,Do you really want to make your mother that sad?
+Dialogue: 0,0:05:19.42,0:05:21.16,Nanoha Dialogue1,,0,0,0,,Fate, you're so cruel...
+Dialogue: 0,0:05:21.16,0:05:24.95,Nanoha Dialogue1,,0,0,0,,Are you that eager to break your poor mother's heart?
 Dialogue: 0,0:05:30.43,0:05:33.22,Nanoha Dialogue1,,0,0,0,,I want to be friends with you.
 Dialogue: 0,0:05:39.27,0:05:40.75,Nanoha Dialogue1,,0,0,0,,Presea Testarossa...
 Dialogue: 0,0:05:40.75,0:05:43.75,Nanoha Dialogue1,,0,0,0,,According to Mid history, she was head of Sector 3
@@ -376,7 +376,7 @@ Dialogue: 0,0:22:57.92,0:22:59.71,Nanoha Dialogue1,,0,0,0,,Where it all starts.
 Dialogue: 0,0:23:07.19,0:23:11.20,Nanoha Dialogue1,,0,0,0,,Nothing between us has even begun.
 Dialogue: 0,0:23:11.20,0:23:15.20,Nanoha Dialogue1,,0,0,0,,So, in order to begin\Nto be our true selves...
 Dialogue: 0,0:23:17.41,0:23:18.88,Nanoha Dialogue1,,0,0,0,,Let's begin...
-Dialogue: 0,0:23:18.88,0:23:21.71,Nanoha Dialogue1,,0,0,0,,our first and last serious battle!
+Dialogue: 0,0:23:18.88,0:23:21.71,Nanoha Dialogue1,,0,0,0,,our first and last real fight!
 Dialogue: 0,0:23:24.00,0:23:25.44,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:23:25.44,0:23:30.93,Nanoha ED,,0,0,0,,Even though at times\NI'll trip or get lost
 Dialogue: 0,0:23:31.41,0:23:41.41,Nanoha ED,,0,0,0,,Because you're with me, I can continue to smile and be energetic

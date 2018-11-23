@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 290
-Active Line: 295
-Video Position: 36644
+Scroll Position: 217
+Active Line: 222
+Video Position: 25465
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -232,7 +232,7 @@ Dialogue: 0,0:14:55.99,0:15:00.58,Nanoha Narration1,,0,0,0,,But I want to be of 
 Dialogue: 0,0:15:00.58,0:15:04.29,Nanoha Narration1,,0,0,0,,Just like how you were for me.
 Dialogue: 0,0:15:12.17,0:15:13.24,Nanoha Dialogue1,,0,0,0,,You're...
 Dialogue: 0,0:15:29.03,0:15:30.21,Nanoha Dialogue1,,0,0,0,,I'm sorry.
-Dialogue: 0,0:15:30.21,0:15:34.30,Nanoha Dialogue1,,0,0,0,,Nanoha Takamachi is going to disobey orders\Nand take action on her own!
+Dialogue: 0,0:15:30.21,0:15:34.30,Nanoha Dialogue1,,0,0,0,,Nanoha Takamachi is hereby\Ndisobeying orders and acting on her own!
 Dialogue: 0,0:15:35.28,0:15:38.28,Nanoha Dialogue1,,0,0,0,,Teleport to a location within that girl's barrier!
 Dialogue: 0,0:15:51.26,0:15:53.26,Nanoha Dialogue1,,0,0,0,,Let's go, Raising Heart!
 Dialogue: 0,0:15:53.26,0:15:56.07,Nanoha Dialogue1,,0,0,0,,Winds in the sky, stars in the heavens.
@@ -256,10 +256,10 @@ Dialogue: 0,0:17:16.59,0:17:17.97,Nanoha Dialogue1,,0,0,0,,Fate!
 Dialogue: 0,0:17:19.05,0:17:21.91,Nanoha Dialogue1,,0,0,0,,Help me. Let's stop the Jewel Seeds.
 Dialogue: 0,0:17:33.53,0:17:35.36,Nanoha Device1,,0,0,0,,Power charge.
 Dialogue: 0,0:17:36.07,0:17:38.34,Nanoha Device1,,0,0,0,,Supply complete.
-Dialogue: 0,0:17:42.08,0:17:44.54,Nanoha Dialogue1,,0,0,0,,We'll split it evenly into halves!
+Dialogue: 0,0:17:42.08,0:17:44.54,Nanoha Dialogue1,,0,0,0,,We'll split them evenly, right down the middle.
 Dialogue: 0,0:18:00.60,0:18:03.10,Nanoha Dialogue1,,0,0,0,,Yuuno and Arf are\Nholding it back for us.
 Dialogue: 0,0:18:03.10,0:18:04.80,Nanoha Dialogue1,,0,0,0,,So now's our chance!
-Dialogue: 0,0:18:06.34,0:18:09.22,Nanoha Dialogue1,,0,0,0,,When I say "ready, set", let's both seal it in one shot!
+Dialogue: 0,0:18:06.34,0:18:09.22,Nanoha Dialogue1,,0,0,0,,We'll seal them all on my mark!
 Dialogue: 0,0:18:09.60,0:18:10.90,Nanoha Device1,,0,0,0,,Shooting Mode
 Dialogue: 0,0:18:24.82,0:18:26.69,Nanoha Narration1,,0,0,0,,When I was all alone and feeling lonely,
 Dialogue: 0,0:18:26.69,0:18:28.86,Nanoha Narration1,,0,0,0,,the one thing that I wanted people to do most
@@ -270,7 +270,7 @@ Dialogue: 0,0:18:48.28,0:18:49.73,Nanoha Dialogue1,,0,0,0,,Bardiche?
 Dialogue: 0,0:18:56.35,0:18:58.67,Nanoha Dialogue1,,0,0,0,,Divine Buster, full power.
 Dialogue: 0,0:18:58.67,0:18:59.95,Nanoha Dialogue1,,0,0,0,,You can do it, right?
 Dialogue: 0,0:18:59.95,0:19:02.70,Nanoha Device1,,0,0,0,,All right, my master.
-Dialogue: 0,0:19:19.17,0:19:20.53,Nanoha Dialogue1,,0,0,0,,Ready, set...
+Dialogue: 0,0:19:19.17,0:19:20.53,Nanoha Dialogue1,,0,0,0,,On my mark!
 Dialogue: 0,0:19:22.24,0:19:23.80,Nanoha Dialogue1,,0,0,0,,{\b1}Thunder...{\b0}
 Dialogue: 0,0:19:27.38,0:19:29.60,Nanoha Dialogue1,,0,0,0,,{\b1}Divine...{\b0}
 Dialogue: 0,0:19:34.25,0:19:35.92,Nanoha Dialogue1,,0,0,0,,{\b1}...Rage{\b0}

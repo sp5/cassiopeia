@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 359
-Active Line: 364
-Video Position: 36690
+Scroll Position: 74
+Active Line: 78
+Video Position: 9953
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,7 +112,7 @@ Dialogue: 0,0:06:44.35,0:06:46.86,Nanoha Narration1,,0,0,0,,Yuuno, what in the w
 Dialogue: 0,0:06:46.86,0:06:48.85,Nanoha Narration1,,0,0,0,,This is inside a dimensional transport
 Dialogue: 0,0:06:48.85,0:06:51.05,Nanoha Narration1,,0,0,0,,owned by the Time-Space Administrative Bureau.
 Dialogue: 0,0:06:51.05,0:06:55.09,Nanoha Narration1,,0,0,0,,Well, to put it simply,\Nit's a ship that can freely move
-Dialogue: 0,0:06:55.09,0:06:58.19,Nanoha Narration1,,0,0,0,,through the many dimensions that exist in the multiverse.
+Dialogue: 0,0:06:55.09,0:06:58.19,Nanoha Narration1,,0,0,0,,through the many dimensions\Nthat exist in the time-space continuum.
 Dialogue: 0,0:06:58.19,0:07:02.44,Nanoha Narration1,,0,0,0,,I-I don't think that's really simple.
 Dialogue: 0,0:07:02.44,0:07:04.00,Nanoha Narration1,,0,0,0,,Let's see...
 Dialogue: 0,0:07:04.00,0:07:06.33,Nanoha Narration1,,0,0,0,,Other than the world that you live in, Nanoha,
@@ -271,8 +271,8 @@ Dialogue: 0,0:16:31.77,0:16:33.53,Nanoha Dialogue1,,0,0,0,,If he starts a seriou
 Dialogue: 0,0:16:33.53,0:16:36.72,Nanoha Dialogue1,,0,0,0,,we don't know how long we have before he finds us here.
 Dialogue: 0,0:16:36.72,0:16:39.84,Nanoha Dialogue1,,0,0,0,,That old hag, your mom,
 Dialogue: 0,0:16:39.84,0:16:42.54,Nanoha Dialogue1,,0,0,0,,keeps muttering things that make no sense,
-Dialogue: 0,0:16:42.54,0:16:45.24,Nanoha Dialogue1,,0,0,0,,and she keeps doing horrible things to you, Fate.
-Dialogue: 0,0:16:45.72,0:16:49.08,Nanoha Dialogue1,,0,0,0,,Don't say bad things about my mother.
+Dialogue: 0,0:16:42.54,0:16:45.24,Nanoha Dialogue1,,0,0,0,,and she always treats you like garbage, Fate.
+Dialogue: 0,0:16:45.72,0:16:49.08,Nanoha Dialogue1,,0,0,0,,Don't insult my mother.
 Dialogue: 0,0:16:49.08,0:16:50.23,Nanoha Dialogue1,,0,0,0,,I will too!
 Dialogue: 0,0:16:50.23,0:16:53.91,Nanoha Dialogue1,,0,0,0,,Because I'm worried about you, Fate!
 Dialogue: 0,0:16:53.91,0:16:56.19,Nanoha Dialogue1,,0,0,0,,When you're sad,
