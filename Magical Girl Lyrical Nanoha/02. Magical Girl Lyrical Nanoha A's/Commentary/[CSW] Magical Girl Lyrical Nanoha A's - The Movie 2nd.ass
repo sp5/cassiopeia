@@ -18,9 +18,9 @@ Video File: ../../../../mnt/archive/[Doki] Mahou Shoujo Lyrical Nanoha The Movie
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 26
-Active Line: 31
-Video Position: 2072
+Scroll Position: 685
+Active Line: 690
+Video Position: 54278
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -437,7 +437,7 @@ Dialogue: 0,0:18:59.21,0:19:01.00,NanohaW Miura,,0,0,7,,As a collection-type pra
 Dialogue: 0,0:19:01.00,0:19:03.37,NanohaW Miura,,0,0,0,,I'd really like to see that footage!
 Dialogue: 0,0:19:05.31,0:19:09.78,NanohaW Lutecia,,0,0,7,,Wow, back then Sissy made some really scary expressions.
 Dialogue: 0,0:19:09.78,0:19:11.92,NanohaW Lutecia,,0,0,0,,She looked so gloomy.
-Dialogue: 0,0:19:12.87,0:19:16.88,NanohaW Vita,,0,0,0,,That's pretty sad coming from you.
+Dialogue: 0,0:19:12.87,0:19:16.88,NanohaW Vita,,0,0,0,,That's pretty sad coming from {\i1}you.{\i0}
 Dialogue: 0,0:19:17.41,0:19:24.27,NanohaW Vita,,0,0,0,,Back then, we were really desperate.\NWe knew that what we were doing was bad.
 Dialogue: 0,0:19:24.27,0:19:28.67,NanohaW Miura,,0,0,0,,Signum and Dr. Shamal\Nwere both really serious too.
 Dialogue: 0,0:19:28.67,0:19:30.16,NanohaW Signum,,0,0,0,,We were.
@@ -729,16 +729,16 @@ Dialogue: 0,0:36:48.17,0:36:50.09,NanohaW Chrono,,0,0,0,,It's a bit strange for 
 Dialogue: 0,0:36:50.09,0:36:52.78,NanohaW Yuuno,,0,0,0,,Are you still using Durandal?
 Dialogue: 0,0:36:52.78,0:36:55.80,NanohaW Chrono,,0,0,0,,Yeah, I still have it.
 Dialogue: 0,0:36:55.80,0:37:00.97,NanohaW Chrono,,0,0,0,,Freezing magic is pretty useful in the field,\Nso there's times where I need to use it.
-Dialogue: 0,0:37:00.97,0:37:05.18,NanohaW Yuuno,,0,0,0,,People think of you as an ice-type mage now, right?
+Dialogue: 0,0:37:00.97,0:37:05.18,NanohaW Yuuno,,0,0,0,,People think of you as an ice mage now,\Nright, Admiral Chrono?
 Dialogue: 0,0:37:05.18,0:37:06.86,NanohaW Chrono,,0,0,0,,Something like that.
-Dialogue: 0,0:37:06.86,0:37:09.30,NanohaW Yuuno,,0,0,0,,Ice-type mages are pretty rare, after all.
+Dialogue: 0,0:37:06.86,0:37:09.30,NanohaW Yuuno,,0,0,0,,Ice mages are pretty rare, after all.
 Dialogue: 0,0:37:09.30,0:37:11.96,NanohaW Erio,,0,0,0,,Freezing magic is hard to use.
 Dialogue: 0,0:37:11.96,0:37:15.04,NanohaW Chrono,,0,0,0,,It's mostly because I have Durandal.
 Dialogue: 0,0:37:16.00,0:37:20.82,NanohaW Caro,,0,0,0,,Oh, while we were talking,\NInstructor Vita's started attacking!
 Dialogue: 0,0:37:20.82,0:37:23.45,NanohaW Erio,,0,0,0,,Her Claymore cracks the ground!
 Dialogue: 0,0:37:23.45,0:37:27.34,NanohaW Caro,,0,0,0,,But Commodore Lindy barely dodges it!
 Dialogue: 0,0:37:27.34,0:37:29.98,NanohaW Erio,,0,0,0,,She changes her position and activates Durandal.
-Dialogue: 0,0:37:29.98,0:37:33.16,NanohaW Erio,,0,0,0,,It's about time for the battle to start in earnest but...
+Dialogue: 0,0:37:29.98,0:37:33.16,NanohaW Erio,,0,0,0,,It's about time for the battle to start in earnest, but...
 Dialogue: 0,0:37:33.16,0:37:36.07,NanohaW Yuuno,,0,0,0,,The knights sure closed in quickly.
 Dialogue: 0,0:37:36.07,0:37:40.10,NanohaW Yuuno,,0,0,0,,Four-on-one is tough even for Commodore Lindy.
 Dialogue: 0,0:37:40.10,0:37:42.33,NanohaW Chrono,,0,0,0,,This could be bad.
@@ -1398,7 +1398,7 @@ Dialogue: 0,1:12:43.00,1:12:47.26,NanohaW Nanoha,,0,0,0,,They're doing this hudd
 Dialogue: 0,1:12:47.26,1:12:49.85,NanohaW Fate,,0,0,0,,They're dealing with the commentary like a match.
 Dialogue: 0,1:12:49.85,1:12:54.09,NanohaW Erio,,0,0,0,,I don't think we're looking for {\i1}quite{\i0} that much enthusiasm.
 Dialogue: 0,1:12:54.09,1:12:56.65,NanohaW Chrono,,0,0,0,,Well, they {\i1}do{\i0} sound reliable.
-Dialogue: 0,1:12:56.65,1:13:02.93,NanohaW Lutecia,,0,0,0,,Right, kiddies, I'll cheer you on\Nso do a good job with the commentary.
+Dialogue: 0,1:12:56.65,1:13:02.93,NanohaW Lutecia,,0,0,0,,Right, kiddies, li'l ol' me will cheer you on\Nso do a good job with the commentary.
 Dialogue: 0,1:13:02.93,1:13:03.69,NanohaW Corona,,0,0,0,,Yeah!
 Dialogue: 0,1:13:02.93,1:13:03.69,NanohaW Rio,,0,0,0,,Yeah!
 Dialogue: 0,1:13:03.69,1:13:04.93,NanohaW Caro,,0,0,7,,Even Lu?
@@ -1980,10 +1980,10 @@ Dialogue: 0,1:45:13.22,1:45:14.37,NanohaW Nanoha,,0,0,0,,Master!
 Dialogue: 0,1:45:15.00,1:45:16.99,NanohaW Subaru,,0,0,0,,Yes, did you call for me?
 Dialogue: 0,1:45:16.99,1:45:19.09,NanohaW Teana,,0,0,0,,Her partner's here, too.
 Dialogue: 0,1:45:19.09,1:45:19.79,NanohaW Nanoha,,0,0,0,,Okay!
-Dialogue: 0,1:45:19.79,1:45:21.37,NanohaW Vivio,,0,0,0,,Rehydration complete!
-Dialogue: 0,1:45:21.37,1:45:23.14,NanohaW Rio,,0,0,0,,We're done with our restroom breaks too!
-Dialogue: 0,1:45:23.14,1:45:24.26,NanohaW Corona,,0,0,0,,Let's keep doing our best!
-Dialogue: 0,1:45:24.26,1:45:25.05,NanohaW Einhard,,0,0,0,,Right!
+Dialogue: 0,1:45:19.79,1:45:21.68,NanohaW Vivio,,0,0,0,,Rehydration complete!
+Dialogue: 0,1:45:21.52,1:45:23.26,NanohaW Rio,,0,0,0,,We're done with our restroom breaks too!
+Dialogue: 0,1:45:22.98,1:45:24.40,NanohaW Corona,,0,0,0,,Let's keep doing our best!
+Dialogue: 0,1:45:24.40,1:45:25.05,NanohaW Einhard,,0,0,0,,Right!
 Dialogue: 0,1:45:25.05,1:45:26.56,NanohaW Fate,,0,0,0,,Everyone's back!
 Dialogue: 0,1:45:26.56,1:45:30.28,NanohaW Nanoha,,0,0,0,,You're just in time! We were about to\Nresume magic color divination.
 Dialogue: 0,1:45:30.28,1:45:31.46,NanohaW Vivio,,0,0,0,,Ah, really?
