@@ -13,14 +13,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 12 (BDRip 952x720 x264 FLAC).mkv
-Video File: ../../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 12 (BDRip 952x720 x264 FLAC).mkv
+Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 12 (BDRip 952x720 x264 FLAC).mkv
+Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRip 952x720 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha A's - 12 (BDRip 952x720 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 289
-Active Line: 294
-Video Position: 31889
+Scroll Position: 182
+Active Line: 187
+Video Position: 19813
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,7 +58,7 @@ Dialogue: 0,0:01:59.96,0:02:05.80,Nanoha OP,,0,0,0,,An eternal blaze that stoppe
 Dialogue: 0,0:02:05.80,0:02:09.24,Nanoha OP,,0,0,0,,Releasing the deep darkness
 Dialogue: 0,0:02:09.24,0:02:15.59,Nanoha OP,,0,0,0,,It opens the door of freedom
 Dialogue: 0,0:02:15.59,0:02:22.54,Nanoha OP,,0,0,0,,Towards the strong, boundless future
-Dialogue: 0,0:02:41.84,0:02:43.84,Nanoha Dialogue1,,0,0,0,,The {\i1}Meister{\i0} of the {\i1}Buch der Dunkelheit{\i0}
+Dialogue: 0,0:02:41.84,0:02:43.84,Nanoha Dialogue1,,0,0,0,,The mistress of the Book of Darkness
 Dialogue: 0,0:02:43.84,0:02:46.78,Nanoha Dialogue1,,0,0,0,,has completely separated from the protection program.
 Dialogue: 0,0:02:46.78,0:02:47.73,Nanoha Dialogue1,,0,0,0,,Right.
 Dialogue: 0,0:02:47.73,0:02:49.00,Nanoha Dialogue1,,0,0,0,,Everyone!
@@ -66,20 +66,20 @@ Dialogue: 0,0:02:49.00,0:02:52.86,Nanoha Dialogue1,,0,0,0,,The black mass below 
 Dialogue: 0,0:02:52.86,0:02:56.63,Nanoha Dialogue1,,0,0,0,,Don't close in recklessly until Chrono gets there!
 Dialogue: 0,0:02:57.80,0:02:58.86,Nanoha Dialogue1,,0,0,0,,Okay!
 Dialogue: 0,0:02:58.85,0:03:04.89,Nanoha Dialogue1,,0,0,0,,{\blur0.5\bord0\shad0\an5\pos(476,480)\b1\fs72}Night's End, Journey's End
-Dialogue: 0,0:03:12.88,0:03:15.95,Nanoha Dialogue1,,0,0,0,,Exercising administrator rights.
+Dialogue: 0,0:03:12.88,0:03:15.95,Nanoha Dialogue1,,0,0,0,,Enable admistrator rights.
 Dialogue: 0,0:03:15.95,0:03:19.88,Nanoha Dialogue1,,0,0,0,,I've interrupted the protection program's progression.
 Dialogue: 0,0:03:19.88,0:03:23.94,Nanoha Dialogue1,,0,0,0,,I can delay it from going out of control\Nfor a couple of minutes.
 Dialogue: 0,0:03:23.94,0:03:24.96,Nanoha Dialogue1,,0,0,0,,Got it.
 Dialogue: 0,0:03:26.24,0:03:28.89,Nanoha Dialogue1,,0,0,0,,That should be enough.
 Dialogue: 0,0:03:28.89,0:03:30.90,Nanoha Dialogue1,,0,0,0,,Send back the Linker Cores.
-Dialogue: 0,0:03:30.90,0:03:34.13,Nanoha Dialogue1,,0,0,0,,Fix the damage to\N{\i1}das Schutzrittersystem.{\i0}
-Dialogue: 0,0:03:58.36,0:04:02.78,Nanoha Dialogue1,,0,0,0,,Come forth, my {\i1}Ritter.{\i0}
+Dialogue: 0,0:03:30.90,0:03:34.13,Nanoha Dialogue1,,0,0,0,,Fix the damage to\Nthe guardian knight system.
+Dialogue: 0,0:03:58.36,0:04:02.78,Nanoha Dialogue1,,0,0,0,,Come forth, my knights.
 Dialogue: 0,0:04:19.15,0:04:20.68,Nanoha Dialogue1,,0,0,0,,Vita!
 Dialogue: 0,0:04:20.68,0:04:22.14,Nanoha Dialogue1,,0,0,0,,Signum!
-Dialogue: 0,0:04:23.00,0:04:26.91,Nanoha Dialogue1,,0,0,0,,We are the {\i1}Ritter{\i0} who gather before the {\i1}Meister des Nachthimmels.{\i0}
-Dialogue: 0,0:04:26.91,0:04:31.19,Nanoha Dialogue1,,0,0,0,,As long as the {\i1}Meister{\i0} exists, our souls will never extinguish.
+Dialogue: 0,0:04:23.00,0:04:26.91,Nanoha Dialogue1,,0,0,0,,We are the knights who gather before the Mistress of the Night Sky.
+Dialogue: 0,0:04:26.91,0:04:31.19,Nanoha Dialogue1,,0,0,0,,As long as our mistress exists, our souls will never extinguish.
 Dialogue: 0,0:04:31.19,0:04:35.98,Nanoha Dialogue1,,0,0,0,,As long as we have life in our bodies,\Nwe will stand by each other.
-Dialogue: 0,0:04:35.98,0:04:38.03,Nanoha Dialogue1,,0,0,0,,We will always exist before the {\i1}Meister,{\i0}
+Dialogue: 0,0:04:35.98,0:04:38.03,Nanoha Dialogue1,,0,0,0,,We will always exist before our mistress,
 Dialogue: 0,0:04:38.03,0:04:42.55,Nanoha Dialogue1,,0,0,0,,Hayate Yagami,\NQueen of the Night Sky.
 Dialogue: 0,0:04:42.55,0:04:46.61,Nanoha Dialogue1,,0,0,0,,Reinforce, bestow upon me\Nmy staff and armor.
 Dialogue: 0,0:04:46.61,0:04:47.57,Nanoha Dialogue1,,0,0,0,,Yes.
@@ -90,7 +90,7 @@ Dialogue: 0,0:05:13.03,0:05:15.81,Nanoha Dialogue1,,0,0,0,,{\b1}Set up!{\b0}
 Dialogue: 0,0:05:39.79,0:05:41.44,Nanoha Dialogue1,,0,0,0,,Hayate...
 Dialogue: 0,0:05:43.28,0:05:45.02,Nanoha Dialogue1,,0,0,0,,I'm sorry.
 Dialogue: 0,0:05:45.02,0:05:49.14,Nanoha Dialogue1,,0,0,0,,Um, Hayate, we...
-Dialogue: 0,0:05:49.14,0:05:52.12,Nanoha Dialogue1,,0,0,0,,It's okay. I understand it all.
+Dialogue: 0,0:05:49.14,0:05:52.12,Nanoha Dialogue1,,0,0,0,,It's okay. I know all about it.
 Dialogue: 0,0:05:52.12,0:05:54.58,Nanoha Dialogue1,,0,0,0,,Reinforce told me.
 Dialogue: 0,0:05:54.58,0:05:58.14,Nanoha Dialogue1,,0,0,0,,But let's worry about the details later.
 Dialogue: 0,0:05:58.14,0:05:59.29,Nanoha Dialogue1,,0,0,0,,Right now...
@@ -104,7 +104,7 @@ Dialogue: 0,0:06:34.91,0:06:38.72,Nanoha Dialogue1,,0,0,0,,I'm sorry to break th
 Dialogue: 0,0:06:38.72,0:06:42.41,Nanoha Dialogue1,,0,0,0,,Enforcer Chrono Harlaown with the\NTime-Space Administrative Bureau.
 Dialogue: 0,0:06:42.41,0:06:44.90,Nanoha Dialogue1,,0,0,0,,Since there is no time, I will be brief.
 Dialogue: 0,0:06:44.90,0:06:47.05,Nanoha Dialogue1,,0,0,0,,That black mass,
-Dialogue: 0,0:06:47.05,0:06:49.12,Nanoha Dialogue1,,0,0,0,,which is the {\i1}Buch der Dunkelheit'{\i0}s\Nprotection program,
+Dialogue: 0,0:06:47.05,0:06:49.12,Nanoha Dialogue1,,0,0,0,,which is the Book of Darkness's\Nprotection program,
 Dialogue: 0,0:06:49.12,0:06:51.20,Nanoha Dialogue1,,0,0,0,,is going to go out of control\Nin a few minutes.
 Dialogue: 0,0:06:51.20,0:06:55.70,Nanoha Dialogue1,,0,0,0,,We need to stop that, no matter what.
 Dialogue: 0,0:06:55.70,0:06:58.04,Nanoha Dialogue1,,0,0,0,,There are currently two plans to stop it.
@@ -112,9 +112,9 @@ Dialogue: 0,0:06:58.04,0:07:02.52,Nanoha Dialogue1,,0,0,0,,Plan A is to stop it 
 Dialogue: 0,0:07:02.52,0:07:07.47,Nanoha Dialogue1,,0,0,0,,Plan B is to finish it with\Nthe {\i1}Arthra'{\i0}s magical cannon,
 Dialogue: 0,0:07:07.47,0:07:09.53,Nanoha Dialogue1,,0,0,0,,the Arc-en-Ciel.
 Dialogue: 0,0:07:09.53,0:07:12.84,Nanoha Dialogue1,,0,0,0,,Are there any better methods?
-Dialogue: 0,0:07:12.84,0:07:16.54,Nanoha Dialogue1,,0,0,0,,I wanted to ask the {\i1}Meister{\i0} of the\N{\i1}Buch der Dunkelheit{\i0} and her {\i1}Schutzritter.{\i0}
+Dialogue: 0,0:07:12.84,0:07:16.54,Nanoha Dialogue1,,0,0,0,,I wanted to ask the mistress of the\NBook of Darkness and her guardian knights.
 Dialogue: 0,0:07:16.54,0:07:21.69,Nanoha Dialogue1,,0,0,0,,Um... I think the first plan will be difficult.
-Dialogue: 0,0:07:21.69,0:07:23.82,Nanoha Dialogue1,,0,0,0,,The protection program\Nwithout a {\i1}Meister{\i0}
+Dialogue: 0,0:07:21.69,0:07:23.82,Nanoha Dialogue1,,0,0,0,,The protection program without a master
 Dialogue: 0,0:07:23.82,0:07:26.54,Nanoha Dialogue1,,0,0,0,,is just like a ball of magic.
 Dialogue: 0,0:07:26.54,0:07:29.48,Nanoha Dialogue1,,0,0,0,,Even if we freeze it,\Nas long as the core is there,
 Dialogue: 0,0:07:29.48,0:07:31.30,Nanoha Dialogue1,,0,0,0,,the regeneration system won't stop.
@@ -192,7 +192,7 @@ Dialogue: 0,0:11:16.19,0:11:20.19,Nanoha Dialogue1,,0,0,0,,Finally, we'll annihi
 Dialogue: 0,0:11:20.19,0:11:23.16,Nanoha Dialogue1,,0,0,0,,If all goes well, then this is the best way.
 Dialogue: 0,0:11:23.16,0:11:25.64,Nanoha Dialogue1,,0,0,0,,Admiral, can you see?
 Dialogue: 0,0:11:25.64,0:11:28.00,Nanoha Dialogue1,,0,0,0,,Yes, I can see it very well.
-Dialogue: 0,0:11:28.00,0:11:31.21,Nanoha Dialogue1,,0,0,0,,The {\i1}Buch der Dunkelheit{\i0}\Nwas a cursed tome.
+Dialogue: 0,0:11:28.00,0:11:31.21,Nanoha Dialogue1,,0,0,0,,The Book of Darkness\Nwas a cursed tome.
 Dialogue: 0,0:11:31.21,0:11:34.44,Nanoha Dialogue1,,0,0,0,,The curse ate away many lives
 Dialogue: 0,0:11:34.45,0:11:38.80,Nanoha Dialogue1,,0,0,0,,and ruined the lives of those who got involved.
 Dialogue: 0,0:11:38.80,0:11:45.16,Nanoha Dialogue1,,0,0,0,,Because of that, my mother and many victims' families
@@ -207,12 +207,12 @@ Dialogue: 0,0:12:35.02,0:12:38.10,Nanoha Dialogue1,,0,0,0,,It will go out of con
 Dialogue: 0,0:12:40.26,0:12:42.91,Nanoha Dialogue1,,0,0,0,,Oh... Nanoha! Fate!
 Dialogue: 0,0:12:44.48,0:12:45.28,Nanoha Dialogue1,,0,0,0,,Shamal!
 Dialogue: 0,0:12:45.28,0:12:48.28,Nanoha Dialogue1,,0,0,0,,Yes. I'll treat their wounds.
-Dialogue: 0,0:12:48.28,0:12:51.72,Nanoha Dialogue1,,0,0,0,,Klarwind, it's up to you.
-Dialogue: 0,0:12:51.72,0:12:52.82,Nanoha Device1,,0,0,0,,Ja.
-Dialogue: 0,0:12:51.72,0:12:52.82,Nanoha Device2,,0,0,0,,{\pos(476,627)}Yes.
+Dialogue: 0,0:12:48.28,0:12:51.72,Nanoha Dialogue1,,0,0,0,,Klarwind, show them your power.
+Dialogue: 0,0:12:51.72,0:12:52.82,Nanoha Device1,,0,0,0,,Yes.
+Dialogue: 0,0:12:51.72,0:12:52.82,Nanoha Device2,,0,0,0,,{\pos(476,627)}Ja.
 Dialogue: 0,0:12:52.82,0:12:54.79,Nanoha Dialogue1,,0,0,0,,Dear zephyr,
 Dialogue: 0,0:12:54.79,0:12:57.02,Nanoha Dialogue1,,0,0,0,,please deliver a boon of healing.
-Dialogue: 0,0:13:14.18,0:13:18.92,Nanoha Dialogue1,,0,0,0,,Shamal, {\i1}Ritter{\i0} of the Lake, and Klarwind, the Rings of Wind.
+Dialogue: 0,0:13:14.18,0:13:18.92,Nanoha Dialogue1,,0,0,0,,Shamal, Knight of the Lake, and Klarwind, the Rings of Wind.
 Dialogue: 0,0:13:18.92,0:13:21.32,Nanoha Dialogue1,,0,0,0,,Healing and support is our specialty.
 Dialogue: 0,0:13:21.32,0:13:23.38,Nanoha Dialogue1,,0,0,0,,It's amazing!
 Dialogue: 0,0:13:23.38,0:13:25.82,Nanoha Dialogue1,,0,0,0,,Thank you very much, Shamal.
@@ -221,9 +221,9 @@ Dialogue: 0,0:13:28.72,0:13:31.52,Nanoha Dialogue1,,0,0,0,,We're going to stop\N
 Dialogue: 0,0:13:31.52,0:13:32.85,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:13:31.89,0:13:32.85,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Yeah.
 Dialogue: 0,0:13:36.04,0:13:37.29,Nanoha Dialogue1,,0,0,0,,It's beginning.
-Dialogue: 0,0:13:41.30,0:13:43.80,Nanoha Dialogue1,,0,0,0,,The program that caused the {\i1}Buch der Nachthimmel{\i0}
-Dialogue: 0,0:13:43.80,0:13:46.32,Nanoha Dialogue1,,0,0,0,,to be called the cursed\N{\i1}Buch der Dunkelheit.{\i0}
-Dialogue: 0,0:13:46.33,0:13:48.93,Nanoha Dialogue1,,0,0,0,,The {\i1}Dunkelheit{\i0}\Nof the {\i1}Buch der Dunkelheit.{\i0}
+Dialogue: 0,0:13:41.30,0:13:43.80,Nanoha Dialogue1,,0,0,0,,The program that caused the Tome of the Night Sky
+Dialogue: 0,0:13:43.80,0:13:46.32,Nanoha Dialogue1,,0,0,0,,to be called the cursed\NBook of Darkness.
+Dialogue: 0,0:13:46.33,0:13:48.93,Nanoha Dialogue1,,0,0,0,,The Darkness of the Book of Darkness.
 Dialogue: 0,0:14:05.76,0:14:07.23,Nanoha Dialogue1,,0,0,0,,{\b1}Chain Bind{\b0}
 Dialogue: 0,0:14:07.23,0:14:08.75,Nanoha Dialogue1,,0,0,0,,{\b1}Struggle Bind{\b0}
 Dialogue: 0,0:14:13.16,0:14:13.96,Nanoha Dialogue1,,0,0,0,,Chain it!
@@ -231,15 +231,15 @@ Dialogue: 0,0:14:13.96,0:14:16.27,Nanoha Dialogue1,,0,0,0,,{\b1}Steel Yoke{\b0}
 Dialogue: 0,0:14:23.66,0:14:26.57,Nanoha Dialogue1,,0,0,0,,You better keep up with me,\NNanoha Takamachi.
 Dialogue: 0,0:14:26.57,0:14:28.36,Nanoha Dialogue1,,0,0,0,,You too, Vita!
 Dialogue: 0,0:14:27.31,0:14:33.87,Nanoha Insert Song,,0,0,0,,The warmth of the hands gives me strength
-Dialogue: 0,0:14:29.51,0:14:33.87,Nanoha Dialogue1,,0,0,0,,Vita, {\i1}Ritter{\i0} of the Steel Hammer, and Graf Eisen, the Iron Count!
+Dialogue: 0,0:14:29.51,0:14:33.87,Nanoha Dialogue1,,0,0,0,,Vita, Knight of the Steel Hammer, and Graf Eisen, the Iron Count!
 Dialogue: 0,0:14:33.87,0:14:41.46,Nanoha Insert Song,,0,0,0,,The piled feelings pass through the sky
-Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device1,,0,0,0,,Gigantform
-Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device2,,0,0,0,,{\pos(476,627)}Giant Form
+Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device1,,0,0,0,,Giant Form
+Dialogue: 0,0:14:36.51,0:14:38.39,Nanoha Device2,,0,0,0,,{\pos(476,627)}Gigantform
 Dialogue: 0,0:14:41.46,0:14:48.83,Nanoha Insert Song,,0,0,0,,This wish of the wind dries the tears
-Dialogue: 0,0:14:47.27,0:14:50.00,Nanoha Dialogue1,,0,0,0,,Thundering blast!
+Dialogue: 0,0:14:47.27,0:14:50.00,Nanoha Dialogue1,,0,0,0,,Thundering explosion!
 Dialogue: 0,0:14:48.83,0:14:57.91,Nanoha Insert Song,,0,0,0,,The released power becomes a sword and pierces through
-Dialogue: 0,0:14:50.94,0:14:53.81,Nanoha Dialogue1,,0,0,0,,{\b1}Gigantschlag{\b0}
-Dialogue: 0,0:14:50.94,0:14:53.81,Nanoha Device2,,0,0,0,,{\b1\i0\pos(476,627)}Giant Smash{\b0\i1}
+Dialogue: 0,0:14:50.94,0:14:53.81,Nanoha Dialogue1,,0,0,0,,{\b1}Giant Smash{\b0}
+Dialogue: 0,0:14:50.94,0:14:53.81,Nanoha Device2,,0,0,0,,{\b1\i0\pos(476,627)}Gigantschlag{\b0\i1}
 Dialogue: 0,0:14:57.91,0:15:02.81,Nanoha Insert Song,,0,0,0,,The end is the song of the beginning
 Dialogue: 0,0:15:00.04,0:15:04.23,Nanoha Dialogue1,,0,0,0,,Nanoha Takamachi and\NRaising Heart Excelion, ready to go!
 Dialogue: 0,0:15:02.81,0:15:06.18,Nanoha Insert Song,,0,0,0,,The song of the departing bird
@@ -255,20 +255,20 @@ Dialogue: 0,0:15:39.37,0:15:41.55,Nanoha Dialogue1,,0,0,0,,...shoot!
 Dialogue: 0,0:15:52.63,0:15:55.60,Nanoha Insert Song,,0,0,0,,When I realize you're always there
 Dialogue: 0,0:15:53.26,0:15:55.97,Nanoha Dialogue1,,0,0,0,,Next, Signum and Testarossa!
 Dialogue: 0,0:15:55.60,0:15:59.87,Nanoha Insert Song,,0,0,0,,How warm it is
-Dialogue: 0,0:15:57.55,0:16:01.00,Nanoha Dialogue1,,0,0,0,,The soul of Signum, {\i1}Ritter{\i0} of the Sword,
+Dialogue: 0,0:15:57.55,0:16:01.00,Nanoha Dialogue1,,0,0,0,,The soul of Signum, Knight of the Sword,
 Dialogue: 0,0:15:59.87,0:16:06.98,Nanoha Insert Song,,0,0,0,,Like a flower, you're always beside me
 Dialogue: 0,0:16:01.00,0:16:02.96,Nanoha Dialogue1,,0,0,0,,is Lævateinn, the Magic Sword of Flame.
 Dialogue: 0,0:16:04.43,0:16:08.96,Nanoha Dialogue1,,0,0,0,,Its alternate form,\Nmade from connected blades.
 Dialogue: 0,0:16:06.98,0:16:13.92,Nanoha Insert Song,,0,0,0,,I realized what the true treasure was
 Dialogue: 0,0:16:13.92,0:16:17.29,Nanoha Insert Song,,0,0,0,,I'll never hesitate
-Dialogue: 0,0:16:16.89,0:16:18.16,Nanoha Device1,,0,0,0,,Bogenform
-Dialogue: 0,0:16:16.89,0:16:18.16,Nanoha Device2,,0,0,0,,{\pos(476,627)}Bow Form
+Dialogue: 0,0:16:16.89,0:16:18.16,Nanoha Device1,,0,0,0,,Bow Form
+Dialogue: 0,0:16:16.89,0:16:18.16,Nanoha Device2,,0,0,0,,{\pos(476,627)}Bogenform
 Dialogue: 0,0:16:17.29,0:16:23.23,Nanoha Insert Song,,0,0,0,,For you and for me
 Dialogue: 0,0:16:23.23,0:16:31.57,Nanoha Insert Song,,0,0,0,,The tears turn into a rainbow and shine in seven colors
 Dialogue: 0,0:16:30.09,0:16:31.86,Nanoha Dialogue1,,0,0,0,,Race the skies, falcon!
 Dialogue: 0,0:16:31.57,0:16:37.38,Nanoha Insert Song,,0,0,0,,Even for a moment, become the bridge deep down in the heart
-Dialogue: 0,0:16:31.86,0:16:34.07,Nanoha Device1,,0,0,0,,Sturmfalken
-Dialogue: 0,0:16:31.86,0:16:34.07,Nanoha Device2,,0,0,0,,{\pos(476,627)}Storm Falcon
+Dialogue: 0,0:16:31.86,0:16:34.07,Nanoha Device1,,0,0,0,,Storm Falcon
+Dialogue: 0,0:16:31.86,0:16:34.07,Nanoha Device2,,0,0,0,,{\pos(476,627)}Sturmfalken
 Dialogue: 0,0:16:37.38,0:16:47.69,Nanoha Insert Song,,0,0,0,,Spread great wings and innocently smile like the sun on the hill
 Dialogue: 0,0:16:42.94,0:16:46.58,Nanoha Dialogue1,,0,0,0,,Fate Testarossa, Bardiche Zanber.
 Dialogue: 0,0:16:46.58,0:16:47.95,Nanoha Dialogue1,,0,0,0,,Here we go!
@@ -322,7 +322,7 @@ Dialogue: 0,0:20:18.89,0:20:20.42,Nanoha Dialogue1,,0,0,0,,Long distance translo
 Dialogue: 0,0:20:20.42,0:20:21.90,Nanoha Dialogue1,,0,0,0,,Target in orbit!
 Dialogue: 0,0:20:24.90,0:20:26.68,Nanoha Dialogue1,,0,0,0,,Teleport!
 Dialogue: 0,0:20:35.15,0:20:36.96,Nanoha Dialogue1,,0,0,0,,Core teleport underway!
-Dialogue: 0,0:20:36.96,0:20:41.97,Nanoha Dialogue1,,0,0,0,,As it's translocating, it's repairing itself, at great speed!
+Dialogue: 0,0:20:36.96,0:20:41.97,Nanoha Dialogue1,,0,0,0,,As it's being translocated, it's reparing itself... and fast!
 Dialogue: 0,0:20:41.97,0:20:44.97,Nanoha Dialogue1,,0,0,0,,Arc-en-Ciel, deploy barrel!
 Dialogue: 0,0:20:53.48,0:20:56.70,Nanoha Dialogue1,,0,0,0,,Firing lock system, open.
 Dialogue: 0,0:20:59.07,0:21:00.42,Nanoha Dialogue1,,0,0,0,,After confirming the target,
@@ -372,7 +372,7 @@ Dialogue: 0,0:24:49.21,0:24:52.88,Nanoha ED,,0,0,0,,How you thought dear of me
 Dialogue: 0,0:24:52.88,0:24:58.78,Nanoha ED,,0,0,0,,My love, I won't forget all of you
 Dialogue: 1,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,870)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:05.93,0:25:09.92,Nanoha Title2,,0,0,0,,{\fad(0,870)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3120,3990,\1a&HFF&)}Next Episode Preview
-Dialogue: 0,0:25:08.78,0:25:10.70,Nanoha Narration1,,0,0,0,,And so, the {\i0}Buch der Dunkelheit{\i1} Incident
+Dialogue: 0,0:25:08.78,0:25:10.70,Nanoha Narration1,,0,0,0,,And so, the Book of Darkness Incident
 Dialogue: 0,0:25:10.70,0:25:12.46,Nanoha Narration1,,0,0,0,,comes to an end.
 Dialogue: 0,0:25:12.46,0:25:18.23,Nanoha Narration1,,0,0,0,,We give thanks and smiles to all we met.
 Dialogue: 0,0:25:18.23,0:25:21.56,Nanoha Narration1,,0,0,0,,And then departures and farewells.

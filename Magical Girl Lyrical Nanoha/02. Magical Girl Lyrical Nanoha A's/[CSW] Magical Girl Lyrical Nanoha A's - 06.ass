@@ -20,9 +20,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 446
-Active Line: 450
-Video Position: 36555
+Scroll Position: 362
+Active Line: 366
+Video Position: 29653
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -212,13 +212,13 @@ Dialogue: 0,0:10:39.86,0:10:43.75,Nanoha Dialogue1,,0,0,0,,I took good care of i
 Dialogue: 0,0:10:43.75,0:10:46.93,Nanoha Dialogue1,,0,0,0,,At the time of awakening, and while you were asleep,
 Dialogue: 0,0:10:46.93,0:10:49.62,Nanoha Dialogue1,,0,0,0,,did you hear the voice of the Book of Darkness?
 Dialogue: 0,0:10:50.60,0:10:54.80,Nanoha Dialogue1,,0,0,0,,I'm not a mage or anything, so everything's kind of vague.
-Dialogue: 0,0:10:54.80,0:10:56.08,Nanoha Dialogue1,,0,0,0,,Ah! There was.
-Dialogue: 0,0:10:57.28,0:10:59.43,Nanoha Dialogue1,,0,0,0,,There's one thing that I found out.
+Dialogue: 0,0:10:54.80,0:10:56.08,Nanoha Dialogue1,,0,0,0,,Ah, that's it!
+Dialogue: 0,0:10:57.28,0:10:59.43,Nanoha Dialogue1,,0,0,0,,I know one thing.
 Dialogue: 0,0:10:59.43,0:11:01.21,Nanoha Dialogue1,,0,0,0,,As the mistress of the Book of Darkness,
 Dialogue: 0,0:11:01.21,0:11:03.06,Nanoha Dialogue1,,0,0,0,,I have to provide\Nclothing, food, and shelter
 Dialogue: 0,0:11:03.06,0:11:05.54,Nanoha Dialogue1,,0,0,0,,for all the guardian knights.
-Dialogue: 0,0:11:05.54,0:11:09.32,Nanoha Dialogue1,,0,0,0,,Fortunately, I have a place to live,\Nand I'm good at cooking.
-Dialogue: 0,0:11:09.32,0:11:11.56,Nanoha Dialogue1,,0,0,0,,I'll go buy clothes for all of you,
+Dialogue: 0,0:11:05.54,0:11:09.32,Nanoha Dialogue1,,0,0,0,,Fortunately, I have a place to live.\NPlus, I'm quite the cook!
+Dialogue: 0,0:11:09.32,0:11:11.56,Nanoha Dialogue1,,0,0,0,,That leaves clothes!
 Dialogue: 0,0:11:11.56,0:11:13.44,Nanoha Dialogue1,,0,0,0,,so let me measure you and figure out your sizes.
 Dialogue: 0,0:11:14.59,0:11:17.19,Nanoha Narration1,,0,0,0,,Yes... really...
 Dialogue: 0,0:11:17.19,0:11:21.07,Nanoha Narration1,,0,0,0,,Everything was different from all our previous masters.
@@ -234,10 +234,9 @@ Dialogue: 0,0:12:09.65,0:12:12.46,Nanoha Narration1,,0,0,0,,we were starting to 
 Dialogue: 0,0:12:13.68,0:12:14.69,Nanoha Dialogue1,,0,0,0,,Seconds, please.
 Dialogue: 0,0:12:14.69,0:12:15.98,Nanoha Dialogue1,,0,0,0,,Sure!
 Dialogue: 0,0:12:30.46,0:12:32.18,Nanoha Dialogue1,,0,0,0,,Knight Armor?
-Dialogue: 0,0:12:32.18,0:12:33.21,Nanoha Dialogue1,,0,0,0,,Yes...
-Dialogue: 0,0:12:33.21,0:12:37.92,Nanoha Dialogue1,,0,0,0,,We possess weapons, but we must be given armor by our master.
+Dialogue: 0,0:12:32.18,0:12:37.92,Nanoha Dialogue1,,0,0,0,,Yes, we each have a weapon,\Nbut we need our mistress to grant us armor.
 Dialogue: 0,0:12:37.92,0:12:40.15,Nanoha Dialogue1,,0,0,0,,We can make them\Nout of our own mana,
-Dialogue: 0,0:12:40.15,0:12:42.32,Nanoha Dialogue1,,0,0,0,,so if you could think up images of their forms...
+Dialogue: 0,0:12:40.15,0:12:42.32,Nanoha Dialogue1,,0,0,0,,so all you have to do is come up with the design.
 Dialogue: 0,0:12:42.32,0:12:43.82,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:12:43.82,0:12:48.10,Nanoha Dialogue1,,0,0,0,,But I'm not going to make you fight or anything like that.
 Dialogue: 0,0:12:48.10,0:12:49.33,Nanoha Dialogue1,,0,0,0,,Oh!
@@ -296,16 +295,16 @@ Dialogue: 0,0:13:43.69,0:13:46.86,Nanoha Narration1,,0,0,0,,We, together with ou
 Dialogue: 0,0:13:46.86,0:13:49.39,Nanoha Narration1,,0,0,0,,had been spending our lives\Nwith nothing going on.
 Dialogue: 0,0:13:50.50,0:13:53.64,Nanoha Dialogue1,,0,0,0,,Wow, so pretty!
 Dialogue: 0,0:13:55.28,0:13:56.74,Nanoha Dialogue1,,0,0,0,,Mistress Hayate...
-Dialogue: 0,0:13:57.20,0:13:59.77,Nanoha Dialogue1,,0,0,0,,Is it really all right?
-Dialogue: 0,0:13:59.77,0:14:01.13,Nanoha Dialogue1,,0,0,0,,Is what all right?
+Dialogue: 0,0:13:57.20,0:13:59.77,Nanoha Dialogue1,,0,0,0,,Are you sure about this?
+Dialogue: 0,0:13:59.77,0:14:01.13,Nanoha Dialogue1,,0,0,0,,About what?
 Dialogue: 0,0:14:01.13,0:14:03.28,Nanoha Dialogue1,,0,0,0,,About the Book of Darkness.
 Dialogue: 0,0:14:03.28,0:14:05.35,Nanoha Dialogue1,,0,0,0,,As soon as you wish it so,
 Dialogue: 0,0:14:05.35,0:14:08.84,Nanoha Dialogue1,,0,0,0,,we can fill the pages of the Book of Darkness,
-Dialogue: 0,0:14:08.84,0:14:12.36,Nanoha Dialogue1,,0,0,0,,and you can gain great power.
+Dialogue: 0,0:14:08.84,0:14:12.36,Nanoha Dialogue1,,0,0,0,,and you would gain immense power.
 Dialogue: 0,0:14:12.36,0:14:15.36,Nanoha Dialogue1,,0,0,0,,I'm sure your legs would heal as well.
 Dialogue: 0,0:14:15.36,0:14:16.96,Nanoha Dialogue1,,0,0,0,,No way.
 Dialogue: 0,0:14:16.96,0:14:19.22,Nanoha Dialogue1,,0,0,0,,To fill the pages of the Book of Darkness,
-Dialogue: 0,0:14:19.22,0:14:22.24,Nanoha Dialogue1,,0,0,0,,you have to trouble all sorts of people, right?
+Dialogue: 0,0:14:19.22,0:14:22.24,Nanoha Dialogue1,,0,0,0,,you'd have to inconvenience many people, right?
 Dialogue: 0,0:14:23.37,0:14:24.80,Nanoha Dialogue1,,0,0,0,,That's wrong.
 Dialogue: 0,0:14:25.48,0:14:29.74,Nanoha Dialogue1,,0,0,0,,It's wrong to trouble other people for your own selfishness.
 Dialogue: 0,0:14:30.76,0:14:35.60,Nanoha Dialogue1,,0,0,0,,I'm plenty happy as I am right now.
@@ -314,17 +313,17 @@ Dialogue: 0,0:14:39.65,0:14:44.18,Nanoha Dialogue1,,0,0,0,,but my uncle is keepi
 Dialogue: 0,0:14:44.18,0:14:47.44,Nanoha Dialogue1,,0,0,0,,One of your father's friends, was it?
 Dialogue: 0,0:14:47.44,0:14:48.53,Nanoha Dialogue1,,0,0,0,,Right.
 Dialogue: 0,0:14:48.53,0:14:51.06,Nanoha Dialogue1,,0,0,0,,Thanks to him, I don't face any troubles in everyday life.
-Dialogue: 0,0:14:51.06,0:14:55.58,Nanoha Dialogue1,,0,0,0,,Besides, more than anything else,\Nright now I have all of you!
+Dialogue: 0,0:14:51.06,0:14:55.58,Nanoha Dialogue1,,0,0,0,,Besides, I have all of you with me now.
 Dialogue: 0,0:15:04.31,0:15:05.08,Nanoha Dialogue1,,0,0,0,,Hayate!
 Dialogue: 0,0:15:05.46,0:15:07.97,Nanoha Dialogue1,,0,0,0,,Oh, what's up, Vita?
 Dialogue: 0,0:15:07.97,0:15:11.49,Nanoha Dialogue1,,0,0,0,,Hayate, can I eat the ice cream in the freezer?
 Dialogue: 0,0:15:11.49,0:15:14.97,Nanoha Dialogue1,,0,0,0,,You ate that much dinner, yet you're going to eat more?
 Dialogue: 0,0:15:14.97,0:15:18.06,Nanoha Dialogue1,,0,0,0,,Shut up! I'm on a growth spurt!
-Dialogue: 0,0:15:18.06,0:15:20.54,Nanoha Dialogue1,,0,0,0,,Hayate's meals are giga-delicious, too!
+Dialogue: 0,0:15:18.06,0:15:20.54,Nanoha Dialogue1,,0,0,0,,Hayate's food is giga-delicious, too!
 Dialogue: 0,0:15:20.54,0:15:22.50,Nanoha Dialogue1,,0,0,0,,Oh, all right...
 Dialogue: 0,0:15:22.50,0:15:23.73,Nanoha Dialogue1,,0,0,0,,Just a little bit. Got it?
 Dialogue: 0,0:15:23.73,0:15:24.75,Nanoha Dialogue1,,0,0,0,,Yeah!
-Dialogue: 0,0:15:27.90,0:15:28.90,Nanoha Dialogue1,,0,0,0,,Signum...
+Dialogue: 0,0:15:27.90,0:15:28.90,Nanoha Dialogue1,,0,0,0,,Signum?
 Dialogue: 0,0:15:28.90,0:15:29.54,Nanoha Dialogue1,,0,0,0,,Yes?
 Dialogue: 0,0:15:29.54,0:15:32.77,Nanoha Dialogue1,,0,0,0,,Signum, you're their leader,
 Dialogue: 0,0:15:32.77,0:15:34.16,Nanoha Dialogue1,,0,0,0,,so promise me one thing.
@@ -341,11 +340,10 @@ Dialogue: 0,0:16:05.75,0:16:07.94,Nanoha Dialogue1,,0,0,0,,It's life-threatening
 Dialogue: 0,0:16:07.94,0:16:09.44,Nanoha Dialogue1,,0,0,0,,What's wrong with Hayate?
 Dialogue: 0,0:16:10.37,0:16:11.94,Nanoha Dialogue1,,0,0,0,,Yes...
 Dialogue: 0,0:16:11.95,0:16:14.38,Nanoha Dialogue1,,0,0,0,,Hayate's legs, for some unknown reason,
-Dialogue: 0,0:16:14.38,0:16:17.31,Nanoha Dialogue1,,0,0,0,,suffer from a nerve-based paralysis.
+Dialogue: 0,0:16:14.38,0:16:17.31,Nanoha Dialogue1,,0,0,0,,suffer from neuroparalysis.
 Dialogue: 0,0:16:17.31,0:16:21.96,Nanoha Dialogue1,,0,0,0,,In the past six months,\Nthe paralysis has slowly moved up.
 Dialogue: 0,0:16:21.96,0:16:25.21,Nanoha Dialogue1,,0,0,0,,Especially in the past two months...
-Dialogue: 0,0:16:26.99,0:16:29.04,Nanoha Dialogue1,,0,0,0,,At this rate, there is a risk
-Dialogue: 0,0:16:29.04,0:16:32.07,Nanoha Dialogue1,,0,0,0,,that her internal organs will become paralyzed as well.
+Dialogue: 0,0:16:26.99,0:16:32.07,Nanoha Dialogue1,,0,0,0,,At this rate, it may spread to her organs.
 Dialogue: 0,0:16:33.84,0:16:35.29,Nanoha Dialogue1,,0,0,0,,Why...?!
 Dialogue: 0,0:16:35.29,0:16:36.88,Nanoha Dialogue1,,0,0,0,,Why didn't we notice?!
 Dialogue: 0,0:16:36.88,0:16:38.50,Nanoha Dialogue1,,0,0,0,,Sorry...
@@ -357,7 +355,7 @@ Dialogue: 0,0:16:48.91,0:16:50.42,Nanoha Dialogue1,,0,0,0,,was not an illness.
 Dialogue: 0,0:16:50.78,0:16:53.14,Nanoha Dialogue1,,0,0,0,,It was the curse of\Nthe Book of Darkness.
 Dialogue: 0,0:16:53.14,0:16:57.29,Nanoha Dialogue1,,0,0,0,,The Book of Darkness, with\NMistress Hayate ever since she was born,
 Dialogue: 0,0:16:57.29,0:17:00.39,Nanoha Dialogue1,,0,0,0,,was closely linked to our mistress' body.
-Dialogue: 0,0:17:01.93,0:17:04.40,Nanoha Dialogue1,,0,0,0,,The strong mana reserves\Nthat have been suppressed
+Dialogue: 0,0:17:01.93,0:17:04.40,Nanoha Dialogue1,,0,0,0,,The magical power\Nthat had long been suppressed
 Dialogue: 0,0:17:04.40,0:17:08.10,Nanoha Dialogue1,,0,0,0,,ate away at our mistress' body, as she had a young Linker Core,
 Dialogue: 0,0:17:08.10,0:17:10.43,Nanoha Dialogue1,,0,0,0,,not only getting in the way of healthy physical activity,
 Dialogue: 0,0:17:10.43,0:17:13.29,Nanoha Dialogue1,,0,0,0,,but threatening basic operations for survival.
@@ -378,15 +376,15 @@ Dialogue: 0,0:17:58.09,0:18:00.21,Nanoha Dialogue1,,0,0,0,,Why is this happening
 Dialogue: 0,0:18:02.05,0:18:03.48,Nanoha Dialogue1,,0,0,0,,Signum...
 Dialogue: 0,0:18:04.60,0:18:08.77,Nanoha Dialogue1,,0,0,0,,We can do so little.
 Dialogue: 0,0:18:08.77,0:18:10.55,Nanoha Dialogue1,,0,0,0,,However...
-Dialogue: 0,0:18:16.64,0:18:19.41,Nanoha Narration1,,0,0,0,,It is the curse of the Book of Darkness
-Dialogue: 0,0:18:19.41,0:18:21.72,Nanoha Narration1,,0,0,0,,that is eating away at our mistress' body.
+Dialogue: 0,0:18:16.64,0:18:19.41,Nanoha Narration1,,0,0,0,,Our mistress' body is being poisoned
+Dialogue: 0,0:18:19.41,0:18:21.72,Nanoha Narration1,,0,0,0,,by the curse of the Book of Darkness.
 Dialogue: 0,0:18:21.72,0:18:24.14,Nanoha Narration1,,0,0,0,,If Hayate were to truly awaken
 Dialogue: 0,0:18:24.14,0:18:27.46,Nanoha Narration1,,0,0,0,,as the mistress of the Book of Darkness...
-Dialogue: 0,0:18:27.46,0:18:30.25,Nanoha Narration1,,0,0,0,,Our mistress' illness would fade away!
+Dialogue: 0,0:18:27.46,0:18:30.25,Nanoha Narration1,,0,0,0,,...our mistress' affliction will vanish.
 Dialogue: 0,0:18:30.25,0:18:33.21,Nanoha Narration1,,0,0,0,,At the least, it would stop progressing!
 Dialogue: 0,0:18:33.21,0:18:36.05,Nanoha Narration1,,0,0,0,,I don't want to tarnish Hayate's future with blood,
 Dialogue: 0,0:18:36.05,0:18:38.02,Nanoha Narration1,,0,0,0,,so I won't kill anyone.
-Dialogue: 0,0:18:38.02,0:18:41.95,Nanoha Narration1,,0,0,0,,But I won't stop at anything else!
+Dialogue: 0,0:18:38.02,0:18:41.95,Nanoha Narration1,,0,0,0,,But I'll stop at nothing else!
 Dialogue: 0,0:18:43.68,0:18:46.62,Nanoha Narration1,,0,0,0,,I am terribly sorry, my mistress.
 Dialogue: 0,0:18:46.62,0:18:50.70,Nanoha Narration1,,0,0,0,,Just this once, we will break the vow we have made to you.
 Dialogue: 0,0:19:11.88,0:19:14.88,Nanoha Dialogue1,,0,0,0,,Please forgive us for this wrongdoing!
@@ -400,15 +398,15 @@ Dialogue: 0,0:19:54.65,0:19:55.50,Nanoha Dialogue1,,0,0,0,,It...
 Dialogue: 0,0:19:55.50,0:19:56.80,Nanoha Dialogue1,,0,0,0,,...doesn't...
 Dialogue: 0,0:19:56.80,0:19:58.46,Nanoha Dialogue1,,0,0,0,,...hurt!
 Dialogue: 0,0:19:58.46,0:20:00.92,Nanoha Dialogue1,,0,0,0,,It doesn't hurt!
-Dialogue: 0,0:20:00.92,0:20:03.69,Nanoha Dialogue1,,0,0,0,,Something like this doesn't hurt at all.
+Dialogue: 0,0:20:00.92,0:20:03.69,Nanoha Dialogue1,,0,0,0,,This doesn't hurt at all!
 Dialogue: 0,0:20:03.69,0:20:07.93,Nanoha Dialogue1,,0,0,0,,It's not like the past.
 Dialogue: 0,0:20:11.27,0:20:13.12,Nanoha Dialogue1,,0,0,0,,When I get home,
 Dialogue: 0,0:20:13.12,0:20:18.77,Nanoha Dialogue1,,0,0,0,,I'm sure that I have a warm bath—and Hayate's food—waiting for me.
-Dialogue: 0,0:20:18.77,0:20:23.86,Nanoha Dialogue1,,0,0,0,,Kind Hayate is waiting for me with a smile!
+Dialogue: 0,0:20:18.77,0:20:23.86,Nanoha Dialogue1,,0,0,0,,Sweet Hayate is waiting for me with a smile!
 Dialogue: 0,0:20:23.86,0:20:25.10,Nanoha Dialogue1,,0,0,0,,Oh yeah!
 Dialogue: 0,0:20:25.10,0:20:29.14,Nanoha Dialogue1,,0,0,0,,I'm super happy!
 Dialogue: 0,0:20:30.11,0:20:31.39,Nanoha Dialogue1,,0,0,0,,So!
-Dialogue: 0,0:20:35.26,0:20:38.58,Nanoha Dialogue1,,0,0,0,,Something like this doesn't hurt one bit!
+Dialogue: 0,0:20:35.26,0:20:38.58,Nanoha Dialogue1,,0,0,0,,This doesn't hurt one bit!
 Dialogue: 0,0:20:54.26,0:20:57.81,Nanoha Dialogue1,,0,0,0,,The three of us came together, but is it all right?
 Dialogue: 0,0:20:57.81,0:21:01.34,Nanoha Dialogue1,,0,0,0,,Well, we left Allex to do the monitoring.
 Dialogue: 0,0:21:01.34,0:21:03.94,Nanoha Dialogue1,,0,0,0,,We just have to investigate the Book of Darkness, right?

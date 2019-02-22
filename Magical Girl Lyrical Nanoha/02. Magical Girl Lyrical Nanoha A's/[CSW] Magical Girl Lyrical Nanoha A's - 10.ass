@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 307
-Active Line: 312
-Video Position: 33612
+Scroll Position: 302
+Active Line: 307
+Video Position: 32901
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -299,11 +299,11 @@ Dialogue: 0,0:19:20.30,0:19:23.11,Nanoha Narration1,,0,0,0,,Signum and we are...
 Dialogue: 0,0:19:23.11,0:19:26.42,Nanoha Dialogue1,,0,0,0,,My mistress wishes for this world,
 Dialogue: 0,0:19:26.42,0:19:30.75,Nanoha Dialogue1,,0,0,0,,the world that took away her loved ones,
 Dialogue: 0,0:19:30.75,0:19:34.48,Nanoha Dialogue1,,0,0,0,,to become but a bad dream.
-Dialogue: 0,0:19:34.48,0:19:38.99,Nanoha Dialogue1,,0,0,0,,All I need to do is grant that wish,
-Dialogue: 0,0:19:38.99,0:19:45.24,Nanoha Dialogue1,,0,0,0,,an endless sleep in\Na peaceful dream, to my mistress...
+Dialogue: 0,0:19:34.48,0:19:38.99,Nanoha Dialogue1,,0,0,0,,I'm here to grant her that wish.
+Dialogue: 0,0:19:38.99,0:19:45.24,Nanoha Dialogue1,,0,0,0,,I just want my mistress to find\Nan eternal and peaceful rest.
 Dialogue: 0,0:19:45.98,0:19:47.69,Nanoha Dialogue1,,0,0,0,,And...
 Dialogue: 0,0:19:47.69,0:19:51.73,Nanoha Dialogue1,,0,0,0,,To those who took away her dear knights,
-Dialogue: 0,0:19:53.61,0:19:55.38,Nanoha Dialogue1,,0,0,0,,endless darkness.
+Dialogue: 0,0:19:53.61,0:19:55.38,Nanoha Dialogue1,,0,0,0,,endless darkness awaits.
 Dialogue: 0,0:19:55.38,0:19:56.62,Nanoha Dialogue1,,0,0,0,,Ms. Book of Darkness!
 Dialogue: 0,0:19:56.62,0:20:02.12,Nanoha Dialogue1,,0,0,0,,You call me by that name as well...
 Dialogue: 0,0:20:16.86,0:20:18.79,Nanoha Dialogue1,,0,0,0,,That doesn't matter.
@@ -338,13 +338,13 @@ Dialogue: 0,0:22:09.72,0:22:11.08,Nanoha Dialogue1,,0,0,0,,So fast...
 Dialogue: 0,0:22:11.08,0:22:14.31,Nanoha Dialogue1,,0,0,0,,Already the destruction has begun.
 Dialogue: 0,0:22:14.31,0:22:18.28,Nanoha Dialogue1,,0,0,0,,I'll soon lose consciousness.
 Dialogue: 0,0:22:18.28,0:22:22.23,Nanoha Dialogue1,,0,0,0,,If that happens, then I will go out of control.
-Dialogue: 0,0:22:22.23,0:22:29.24,Nanoha Dialogue1,,0,0,0,,I want to grant my mistress' wish\Nwhile I'm still conscious.
+Dialogue: 0,0:22:22.23,0:22:29.24,Nanoha Dialogue1,,0,0,0,,But before I go,\NI want to grant my mistress' wish.
 Dialogue: 0,0:22:29.24,0:22:31.69,Nanoha Device1,,0,0,0,,Bloody Dagger
 Dialogue: 0,0:22:29.24,0:22:31.69,Nanoha Device2,,0,0,0,,{\pos(476,627)}Blutiger Dolch
 Dialogue: 0,0:22:36.12,0:22:38.86,Nanoha Dialogue1,,0,0,0,,Sink into darkness.
-Dialogue: 0,0:22:46.37,0:22:48.40,Nanoha Dialogue1,,0,0,0,,You whiny...!
+Dialogue: 0,0:22:46.37,0:22:48.40,Nanoha Dialogue1,,0,0,0,,Don't be selfish!
 Dialogue: 0,0:22:48.40,0:22:50.38,Nanoha Device1,,0,0,0,,Sonic Drive
-Dialogue: 0,0:22:52.28,0:22:53.52,Nanoha Dialogue1,,0,0,0,,Listen...
+Dialogue: 0,0:22:52.21,0:22:53.52,Nanoha Dialogue1,,0,0,0,,Listen...
 Dialogue: 0,0:22:53.52,0:22:54.61,Nanoha Device1,,0,0,0,,Ignition
 Dialogue: 0,0:22:55.59,0:22:56.60,Nanoha Dialogue1,,0,0,0,,...to us!
 Dialogue: 0,0:22:59.48,0:23:04.50,Nanoha Dialogue1,,0,0,0,,You too shall sleep within me.

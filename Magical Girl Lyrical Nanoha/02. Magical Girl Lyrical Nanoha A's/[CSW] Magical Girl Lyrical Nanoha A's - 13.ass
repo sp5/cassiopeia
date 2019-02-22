@@ -20,9 +20,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 369
-Active Line: 374
-Video Position: 33654
+Scroll Position: 321
+Active Line: 326
+Video Position: 31537
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -75,19 +75,19 @@ Dialogue: 0,0:03:09.05,0:03:12.60,Nanoha Dialogue1,,0,0,0,,Is Mistress Hayate ok
 Dialogue: 0,0:03:12.60,0:03:14.48,Nanoha Dialogue1,,0,0,0,,There's no problem.
 Dialogue: 0,0:03:14.48,0:03:17.77,Nanoha Dialogue1,,0,0,0,,I won't encroach on her further,
 Dialogue: 0,0:03:17.77,0:03:20.74,Nanoha Dialogue1,,0,0,0,,and her Linker Core is also functioning normally.
-Dialogue: 0,0:03:20.74,0:03:25.18,Nanoha Dialogue1,,0,0,0,,Her disabled legs should heal soon, as well.
+Dialogue: 0,0:03:20.74,0:03:25.18,Nanoha Dialogue1,,0,0,0,,Her legs will heal with time.
 Dialogue: 0,0:03:25.18,0:03:30.16,Nanoha Dialogue1,,0,0,0,,I see. Well then, we should say\Nwe've had a good life.
-Dialogue: 0,0:03:30.16,0:03:33.44,Nanoha Dialogue1,,0,0,0,,Yes, there's nothing to regret.
+Dialogue: 0,0:03:30.16,0:03:33.44,Nanoha Dialogue1,,0,0,0,,Yes, we have no regrets.
 Dialogue: 0,0:03:33.44,0:03:35.52,Nanoha Dialogue1,,0,0,0,,Since she doesn't have her protection program,
 Dialogue: 0,0:03:35.52,0:03:38.48,Nanoha Dialogue1,,0,0,0,,it's easy to completely destroy the Book of the Night Sky.
 Dialogue: 0,0:03:38.48,0:03:41.99,Nanoha Dialogue1,,0,0,0,,As long as we destroy her,\Nit won't ever go out of control again.
-Dialogue: 0,0:03:42.77,0:03:45.44,Nanoha Dialogue1,,0,0,0,,But in return, we will get erased.
+Dialogue: 0,0:03:42.77,0:03:45.44,Nanoha Dialogue1,,0,0,0,,But we'll disappear with it.
 Dialogue: 0,0:03:45.44,0:03:47.80,Nanoha Dialogue1,,0,0,0,,I'm sorry, Vita.
 Dialogue: 0,0:03:47.80,0:03:49.87,Nanoha Dialogue1,,0,0,0,,Why are you apologizing?
 Dialogue: 0,0:03:49.87,0:03:51.87,Nanoha Dialogue1,,0,0,0,,I don't mind.
 Dialogue: 0,0:03:51.87,0:03:57.71,Nanoha Dialogue1,,0,0,0,,We all knew this might happen.
 Dialogue: 0,0:03:57.71,0:03:59.63,Nanoha Dialogue1,,0,0,0,,No, that's not true.
-Dialogue: 0,0:04:00.65,0:04:02.88,Nanoha Dialogue1,,0,0,0,,You four will stay.
+Dialogue: 0,0:04:00.65,0:04:02.88,Nanoha Dialogue1,,0,0,0,,You four will remain.
 Dialogue: 0,0:04:02.88,0:04:05.88,Nanoha Dialogue1,,0,0,0,,I'm the only one who will go.
 Dialogue: 0,0:04:07.13,0:04:13.17,Nanoha Dialogue1,,0,0,0,,{\blur0.5\bord0\shad0\an5\pos(476,480)\b1\fs72}Standby, Ready{\b0}
 Dialogue: 0,0:04:13.76,0:04:15.70,Nanoha Dialogue1,,0,0,0,,Destroy the Book of the Night Sky?
@@ -98,7 +98,7 @@ Dialogue: 0,0:04:22.30,0:04:24.91,Nanoha Dialogue1,,0,0,0,,which is the operatin
 Dialogue: 0,0:04:24.91,0:04:28.81,Nanoha Dialogue1,,0,0,0,,The operating system that everyone was fighting?
 Dialogue: 0,0:04:28.81,0:04:29.75,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:04:29.75,0:04:32.87,Nanoha Dialogue1,,0,0,0,,We were able to kill\Nthe protection program,
-Dialogue: 0,0:04:32.87,0:04:37.15,Nanoha Dialogue1,,0,0,0,,but the Book of the Night Sky quickly relaunches its programs.
+Dialogue: 0,0:04:32.87,0:04:37.15,Nanoha Dialogue1,,0,0,0,,but the Book of the Night Sky quickly relaunches its processes.
 Dialogue: 0,0:04:38.15,0:04:41.95,Nanoha Dialogue1,,0,0,0,,There is a high probability that\NHayate will be further affected.
 Dialogue: 0,0:04:41.95,0:04:44.06,Nanoha Dialogue1,,0,0,0,,As long as the Book of the Night Sky exists,
 Dialogue: 0,0:04:44.06,0:04:46.00,Nanoha Dialogue1,,0,0,0,,that danger will not disappear.
@@ -119,7 +119,7 @@ Dialogue: 0,0:05:26.66,0:05:30.35,Nanoha Dialogue1,,0,0,0,,So Reinforce said she
 Dialogue: 0,0:05:34.60,0:05:40.61,Nanoha Dialogue1,,0,0,0,,So even if it's in your dreams, please think good thoughts about her, okay?
 Dialogue: 0,0:06:00.70,0:06:02.92,Nanoha Dialogue1,,0,0,0,,Oh, you came.
 Dialogue: 0,0:06:05.24,0:06:07.63,Nanoha Dialogue1,,0,0,0,,Reinforce...
-Dialogue: 0,0:06:08.41,0:06:10.93,Nanoha Dialogue1,,0,0,0,,You'll call me by that name?
+Dialogue: 0,0:06:08.41,0:06:10.93,Nanoha Dialogue1,,0,0,0,,You would call me by that name?
 Dialogue: 0,0:06:12.06,0:06:16.35,Nanoha Dialogue1,,0,0,0,,Are you sure you want us to return you to the sky?
 Dialogue: 0,0:06:16.35,0:06:19.19,Nanoha Dialogue1,,0,0,0,,I wanted to ask it of you two.
 Dialogue: 0,0:06:19.81,0:06:25.94,Nanoha Dialogue1,,0,0,0,,Thanks to you, I was able to listen to Mistress Hayate's words.
@@ -128,12 +128,12 @@ Dialogue: 0,0:06:28.83,0:06:31.32,Nanoha Dialogue1,,0,0,0,,and I was able to hel
 Dialogue: 0,0:06:31.32,0:06:33.50,Nanoha Dialogue1,,0,0,0,,I'm grateful.
 Dialogue: 0,0:06:33.50,0:06:38.54,Nanoha Dialogue1,,0,0,0,,That's why I want you two to put an end to me.
 Dialogue: 0,0:06:38.54,0:06:42.61,Nanoha Dialogue1,,0,0,0,,Don't you have to say goodbye to Hayate?
-Dialogue: 0,0:06:42.61,0:06:46.61,Nanoha Dialogue1,,0,0,0,,I don't want to make Mistress Hayate sad.
+Dialogue: 0,0:06:42.61,0:06:46.61,Nanoha Dialogue1,,0,0,0,,I don't want to upset Mistress Hayate.
 Dialogue: 0,0:06:47.56,0:06:49.26,Nanoha Dialogue1,,0,0,0,,Reinforce...
 Dialogue: 0,0:06:49.26,0:06:53.80,Nanoha Dialogue1,,0,0,0,,But that's just too sad!
-Dialogue: 0,0:06:53.80,0:06:56.96,Nanoha Dialogue1,,0,0,0,,You will understand someday,
-Dialogue: 0,0:06:56.96,0:06:59.58,Nanoha Dialogue1,,0,0,0,,when you meet someone who you love as deeply as the sea
-Dialogue: 0,0:07:00.05,0:07:04.96,Nanoha Dialogue1,,0,0,0,,and whose happiness you want to protect.
+Dialogue: 0,0:06:53.80,0:06:56.96,Nanoha Dialogue1,,0,0,0,,You'll understand one day,
+Dialogue: 0,0:06:56.96,0:06:59.58,Nanoha Dialogue1,,0,0,0,,when you meet someone for whom your love is as deep as the sea
+Dialogue: 0,0:07:00.05,0:07:04.96,Nanoha Dialogue1,,0,0,0,,and whose happiness you wish to protect.
 Dialogue: 0,0:07:14.78,0:07:16.64,Nanoha Dialogue1,,0,0,0,,Shall we begin soon?
 Dialogue: 0,0:07:16.64,0:07:20.84,Nanoha Dialogue1,,0,0,0,,The end of the Tome of the Night Sky.
 Dialogue: 0,0:07:36.60,0:07:39.92,Nanoha Dialogue1,,0,0,0,,Reinforce?
@@ -142,25 +142,24 @@ Dialogue: 0,0:08:02.62,0:08:04.82,Nanoha Device1,,0,0,0,,Stand by.
 Dialogue: 0,0:08:06.20,0:08:12.05,Nanoha Dialogue1,,0,0,0,,We didn't know each other long, but I give thanks to you two as well.
 Dialogue: 0,0:08:12.12,0:08:13.32,Nanoha Device1,,0,0,20,,Don't worry.
 Dialogue: 0,0:08:13.62,0:08:15.28,Nanoha Device1,,0,0,20,,Take a good journey.
-Dialogue: 0,0:08:15.54,0:08:16.90,Nanoha Dialogue1,,0,0,0,,Yes.
+Dialogue: 0,0:08:15.54,0:08:16.90,Nanoha Dialogue1,,0,0,0,,I shall.
 Dialogue: 0,0:08:21.52,0:08:23.56,Nanoha Dialogue1,,0,0,0,,Reinforce!
 Dialogue: 0,0:08:23.56,0:08:24.84,Nanoha Dialogue1,,0,0,0,,Everyone!
 Dialogue: 0,0:08:28.02,0:08:29.22,Nanoha Dialogue1,,0,0,0,,Hayate?
 Dialogue: 0,0:08:29.22,0:08:30.45,Nanoha Dialogue1,,0,0,0,,Hayate!
 Dialogue: 0,0:08:29.62,0:08:31.07,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Stay back!
 Dialogue: 0,0:08:31.07,0:08:32.90,Nanoha Dialogue1,,0,0,0,,Please stay back.
-Dialogue: 0,0:08:32.90,0:08:34.82,Nanoha Dialogue1,,0,0,0,,My consciousness will cease.
+Dialogue: 0,0:08:32.90,0:08:34.82,Nanoha Dialogue1,,0,0,0,,You'll disrupt the ritual.
 Dialogue: 0,0:08:34.82,0:08:36.82,Nanoha Dialogue1,,0,0,0,,No! Stop!
 Dialogue: 0,0:08:36.82,0:08:39.33,Nanoha Dialogue1,,0,0,0,,Stop, Reinforce!
-Dialogue: 0,0:08:39.33,0:08:41.23,Nanoha Dialogue1,,0,0,0,,You don't need to be destroyed!
-Dialogue: 0,0:08:41.23,0:08:43.54,Nanoha Dialogue1,,0,0,0,,I'll hold on to it!
+Dialogue: 0,0:08:39.33,0:08:43.54,Nanoha Dialogue1,,0,0,0,,You don't need to! I'll control the Book!
 Dialogue: 0,0:08:43.54,0:08:47.54,Nanoha Dialogue1,,0,0,0,,It's okay. You don't have to do this!
 Dialogue: 0,0:08:52.07,0:08:54.08,Nanoha Dialogue1,,0,0,0,,Mistress Hayate...
 Dialogue: 0,0:08:54.08,0:08:55.30,Nanoha Dialogue1,,0,0,0,,It's for the best.
 Dialogue: 0,0:08:55.30,0:08:56.65,Nanoha Dialogue1,,0,0,0,,No, it's not!
 Dialogue: 0,0:08:56.65,0:08:59.56,Nanoha Dialogue1,,0,0,0,,It isn't for the best at all!
 Dialogue: 0,0:08:59.56,0:09:03.37,Nanoha Dialogue1,,0,0,0,,I have lived a long time,
-Dialogue: 0,0:09:03.37,0:09:09.98,Nanoha Dialogue1,,0,0,0,,but in the end, you gave me a beautiful name and a soul.
+Dialogue: 0,0:09:03.37,0:09:09.98,Nanoha Dialogue1,,0,0,0,,but at the very end of my life,\Nyou gave me a beautiful name and a soul.
 Dialogue: 0,0:09:10.86,0:09:13.30,Nanoha Dialogue1,,0,0,0,,The knights will be by your side.
 Dialogue: 0,0:09:13.30,0:09:15.02,Nanoha Dialogue1,,0,0,0,,You don't have to worry.
 Dialogue: 0,0:09:15.02,0:09:17.03,Nanoha Dialogue1,,0,0,0,,I'm not worried!
@@ -168,7 +167,7 @@ Dialogue: 0,0:09:17.03,0:09:20.53,Nanoha Dialogue1,,0,0,0,,That's why I can go o
 Dialogue: 0,0:09:22.62,0:09:25.11,Nanoha Dialogue1,,0,0,0,,I don't like people who won't listen!
 Dialogue: 0,0:09:25.11,0:09:28.04,Nanoha Dialogue1,,0,0,0,,I'm your master, so listen to me!
 Dialogue: 0,0:09:28.04,0:09:30.41,Nanoha Dialogue1,,0,0,0,,I'm sure I can do something.
-Dialogue: 0,0:09:30.41,0:09:33.64,Nanoha Dialogue1,,0,0,0,,We promised that we won't go out of control!
+Dialogue: 0,0:09:30.41,0:09:33.64,Nanoha Dialogue1,,0,0,0,,I promised you I wouldn't let you go out of control!
 Dialogue: 0,0:09:34.88,0:09:40.23,Nanoha Dialogue1,,0,0,0,,You've kept that promise magnificently.
 Dialogue: 0,0:09:40.23,0:09:41.93,Nanoha Dialogue1,,0,0,0,,Reinforce!
 Dialogue: 0,0:09:41.93,0:09:48.22,Nanoha Dialogue1,,0,0,0,,My duty as a magical vessel is\Nto protect my mistress from danger.
@@ -176,15 +175,15 @@ Dialogue: 0,0:09:48.22,0:09:54.46,Nanoha Dialogue1,,0,0,0,,Please let me choose\
 Dialogue: 0,0:09:55.34,0:09:57.20,Nanoha Dialogue1,,0,0,0,,But...
 Dialogue: 0,0:09:57.20,0:10:00.61,Nanoha Dialogue1,,0,0,0,,But you were always so sad,
 Dialogue: 0,0:10:00.61,0:10:06.95,Nanoha Dialogue1,,0,0,0,,and we... we finally saved you!
-Dialogue: 0,0:10:08.05,0:10:14.76,Nanoha Dialogue1,,0,0,0,,My will remains in your magic\Nand the knights' souls.
-Dialogue: 0,0:10:14.76,0:10:19.26,Nanoha Dialogue1,,0,0,0,,I will always be by your side.
+Dialogue: 0,0:10:08.05,0:10:14.76,Nanoha Dialogue1,,0,0,0,,My will shall remain in your magic\Nand the souls of the knights.
+Dialogue: 0,0:10:14.76,0:10:19.26,Nanoha Dialogue1,,0,0,0,,I shall always be by your side.
 Dialogue: 0,0:10:19.26,0:10:20.93,Nanoha Dialogue1,,0,0,0,,That's not true.
 Dialogue: 0,0:10:20.93,0:10:23.76,Nanoha Dialogue1,,0,0,0,,That's not true, Reinforce!
-Dialogue: 0,0:10:23.76,0:10:27.01,Nanoha Dialogue1,,0,0,0,,Your friends don't like whiners.
+Dialogue: 0,0:10:23.76,0:10:27.01,Nanoha Dialogue1,,0,0,0,,Your friends don't like selfish people.
 Dialogue: 0,0:10:27.01,0:10:28.74,Nanoha Dialogue1,,0,0,0,,Please understand, my mistress.
 Dialogue: 0,0:10:28.74,0:10:29.79,Nanoha Dialogue1,,0,0,0,,Reinforce!
 Dialogue: 0,0:10:34.14,0:10:39.05,Nanoha Dialogue1,,0,0,0,,Why? Everything was going to begin now.
-Dialogue: 0,0:10:40.05,0:10:44.66,Nanoha Dialogue1,,0,0,0,,Now I can make you happy...
+Dialogue: 0,0:10:40.05,0:10:44.66,Nanoha Dialogue1,,0,0,0,,I was going to make you happy.
 Dialogue: 0,0:10:48.66,0:10:50.66,Nanoha Dialogue1,,0,0,0,,It's okay.
 Dialogue: 0,0:10:50.66,0:10:56.17,Nanoha Dialogue1,,0,0,0,,I am the happiest magic book\Nin all the worlds.
 Dialogue: 0,0:10:57.08,0:10:59.17,Nanoha Dialogue1,,0,0,0,,Reinforce...
@@ -225,8 +224,7 @@ Dialogue: 0,0:13:39.04,0:13:43.70,Nanoha Dialogue1,,0,0,0,,Now you can tell your
 Dialogue: 0,0:13:43.70,0:13:45.17,Nanoha Dialogue1,,0,0,0,,Next week.
 Dialogue: 0,0:13:45.17,0:13:47.55,Nanoha Dialogue1,,0,0,0,,With Chrono and Fate, all three of us.
 Dialogue: 0,0:13:47.55,0:13:49.20,Nanoha Dialogue1,,0,0,0,,What are you planning to say?
-Dialogue: 0,0:13:49.20,0:13:51.08,Nanoha Dialogue1,,0,0,0,,Let's see...
-Dialogue: 0,0:13:51.08,0:13:53.52,Nanoha Dialogue1,,0,0,0,,Probably the same as always.
+Dialogue: 0,0:13:49.20,0:13:53.52,Nanoha Dialogue1,,0,0,0,,Well, probably the same as usual.
 Dialogue: 0,0:13:53.52,0:13:58.27,Nanoha Dialogue1,,0,0,0,,I'll say that it's as busy as ever,\Nbut I'm doing fine.
 Dialogue: 0,0:13:59.31,0:14:00.37,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:14:15.36,0:14:17.50,Nanoha Dialogue1,,0,0,0,,I guess the case is over.

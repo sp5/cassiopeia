@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 398
-Active Line: 402
-Video Position: 32971
+Scroll Position: 384
+Active Line: 388
+Video Position: 31899
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -230,27 +230,27 @@ Dialogue: 0,0:12:26.08,0:12:29.07,Nanoha Narration1,,0,0,0,,its real name is\N{\
 Dialogue: 0,0:12:29.75,0:12:32.72,Nanoha Narration1,,0,0,0,,It was a tome that travelled with its master,
 Dialogue: 0,0:12:32.72,0:12:36.29,Nanoha Narration1,,0,0,0,,originally created to gather great magical technology from each land
 Dialogue: 0,0:12:36.29,0:12:38.48,Nanoha Narration1,,0,0,0,,for use as research material.
-Dialogue: 0,0:12:39.14,0:12:41.86,Nanoha Narration1,,0,0,0,,The use of destructive powers\Nprobably began when
-Dialogue: 0,0:12:41.86,0:12:46.90,Nanoha Narration1,,0,0,0,,the main program was rewritten\Nby one of the users over the years.
+Dialogue: 0,0:12:39.14,0:12:41.86,Nanoha Narration1,,0,0,0,,It's probably exhibiting destructive powers
+Dialogue: 0,0:12:41.86,0:12:46.90,Nanoha Narration1,,0,0,0,,because someone in its line of masters\Nhacked its program.
 Dialogue: 0,0:12:46.90,0:12:48.93,Nanoha Narration1,,0,0,0,,So people who abuse Lost Logia
 Dialogue: 0,0:12:48.93,0:12:53.00,Nanoha Narration1,,0,0,0,,to recklessly attempt to gain immense power
 Dialogue: 0,0:12:53.00,0:12:55.62,Nanoha Narration1,,0,0,0,,existed in the past as well as the present.
 Dialogue: 0,0:12:55.62,0:12:59.60,Nanoha Narration1,,0,0,0,,Because of that corruption,\Nthe travel function
-Dialogue: 0,0:12:59.60,0:13:03.02,Nanoha Narration1,,0,0,0,,and the automatic repair of\Ncorrupted data are running out of control.
+Dialogue: 0,0:12:59.60,0:13:03.02,Nanoha Narration1,,0,0,0,,and the automatic repair of\Ncorrupted data went haywire.
 Dialogue: 0,0:13:04.04,0:13:06.04,Nanoha Dialogue1,,0,0,0,,Is that the reason behind the reincarnation
 Dialogue: 0,0:13:06.04,0:13:07.55,Nanoha Dialogue1,,0,0,0,,and the perpetual respawning?
 Dialogue: 0,0:13:07.55,0:13:10.08,Nanoha Dialogue1,,0,0,0,,If it's ancient magic,\Nthat much might be possible.
 Dialogue: 0,0:13:10.08,0:13:12.12,Nanoha Narration1,,0,0,0,,The worst part of it all
-Dialogue: 0,0:13:12.12,0:13:14.30,Nanoha Narration1,,0,0,0,,are the changes to its owner's condition.
-Dialogue: 0,0:13:14.30,0:13:16.98,Nanoha Narration1,,0,0,0,,If there is no gathering of mana for a certain period of time,
-Dialogue: 0,0:13:16.98,0:13:20.32,Nanoha Narration1,,0,0,0,,it starts to eat away at the owner's mana and potential.
+Dialogue: 0,0:13:12.12,0:13:14.30,Nanoha Narration1,,0,0,0,,is the changes to its owner's condition.
+Dialogue: 0,0:13:14.30,0:13:16.98,Nanoha Narration1,,0,0,0,,If mana isn't collected often enough,
+Dialogue: 0,0:13:16.98,0:13:20.32,Nanoha Narration1,,0,0,0,,it'll feed on that of its master.
 Dialogue: 0,0:13:21.82,0:13:22.82,Nanoha Narration1,,0,0,0,,And when it's complete,
 Dialogue: 0,0:13:22.82,0:13:25.84,Nanoha Narration1,,0,0,0,,the owner's mana will be used without limits,
 Dialogue: 0,0:13:25.84,0:13:27.32,Nanoha Narration1,,0,0,0,,for indiscriminate destruction.
-Dialogue: 0,0:13:28.31,0:13:30.41,Nanoha Narration1,,0,0,0,,That is why all the owners until now have,
-Dialogue: 0,0:13:30.41,0:13:32.58,Nanoha Narration1,,0,0,0,,right after the completion of the Book...
+Dialogue: 0,0:13:28.31,0:13:30.41,Nanoha Narration1,,0,0,0,,That is why,\Nright after the completion of the Book,
+Dialogue: 0,0:13:30.41,0:13:32.58,Nanoha Narration1,,0,0,0,,all the owners until now have...
 Dialogue: 0,0:13:32.58,0:13:34.25,Nanoha Dialogue1,,0,0,0,,Right.
-Dialogue: 0,0:13:34.25,0:13:37.37,Nanoha Dialogue1,,0,0,0,,What about material on methods for stopping or sealing it?
+Dialogue: 0,0:13:34.25,0:13:37.37,Nanoha Dialogue1,,0,0,0,,Anything on how to stop or seal it?
 Dialogue: 0,0:13:37.37,0:13:39.40,Nanoha Narration1,,0,0,0,,That's what I'm looking up right now,
 Dialogue: 0,0:13:39.40,0:13:42.62,Nanoha Narration1,,0,0,0,,but stopping it before it's complete will probably be very difficult.
 Dialogue: 0,0:13:42.62,0:13:43.38,Nanoha Dialogue1,,0,0,0,,Why is that?
@@ -422,21 +422,21 @@ Dialogue: 0,0:21:01.73,0:21:04.36,Nanoha Dialogue1,,0,0,0,,This will be my first
 Dialogue: 0,0:21:04.36,0:21:05.86,Nanoha Dialogue1,,0,0,0,,I hope I can get out of here by then
 Dialogue: 0,0:21:05.86,0:21:08.24,Nanoha Dialogue1,,0,0,0,,and have a great, fun time together.
 Dialogue: 0,0:21:08.24,0:21:11.24,Nanoha Dialogue1,,0,0,0,,That's right... it would be nice if you could.
-Dialogue: 0,0:21:33.73,0:21:36.79,Nanoha Narration1,,0,0,0,,The speed with which\Nthe Book of Darkness
+Dialogue: 0,0:21:33.73,0:21:36.79,Nanoha Narration1,,0,0,0,,The pace at which\Nthe Book of Darkness
 Dialogue: 0,0:21:36.79,0:21:38.72,Nanoha Narration1,,0,0,0,,is infiltrating into Hayate seems to be steadily increasing.
 Dialogue: 0,0:21:38.72,0:21:41.72,Nanoha Narration1,,0,0,0,,At this rate, she'll only last a month at most.
-Dialogue: 0,0:21:41.72,0:21:45.74,Nanoha Narration1,,0,0,0,,No, perhaps not even that long!
+Dialogue: 0,0:21:41.72,0:21:45.74,Nanoha Narration1,,0,0,0,,Or maybe even less than that.
 Dialogue: 0,0:21:53.54,0:21:56.11,Nanoha Narration1,,0,0,0,,Something is strange.
 Dialogue: 0,0:21:56.11,0:22:00.28,Nanoha Narration1,,0,0,0,,My memory is telling me that this isn't the way it's supposed to be.
 Dialogue: 0,0:22:01.55,0:22:05.81,Nanoha Dialogue1,,0,0,0,,But this is the only thing we can do right now.
-Dialogue: 0,0:22:06.50,0:22:12.06,Nanoha Dialogue1,,0,0,0,,We'd hate it if Hayate stopped laughing... or even died... right?
+Dialogue: 0,0:22:06.50,0:22:12.06,Nanoha Dialogue1,,0,0,0,,We'd hate it if Hayate stopped laughing—or even died, right?
 Dialogue: 0,0:22:12.06,0:22:12.53,Nanoha Device1,,0,0,0,,Yes.
 Dialogue: 0,0:22:12.06,0:22:12.53,Nanoha Device2,,0,0,0,,{\pos(476,627)}Ja.
 Dialogue: 0,0:22:19.47,0:22:21.34,Nanoha Dialogue1,,0,0,0,,Let's do it, Eisen!
 Dialogue: 0,0:22:21.34,0:22:22.83,Nanoha Device1,,0,0,0,,Explosion
 Dialogue: 0,0:22:26.48,0:22:28.21,Nanoha Dialogue1,,0,0,0,,{\b1}Giant{\b0}
-Dialogue: 0,0:22:26.48,0:22:28.21,Nanoha Device2,,0,0,0,,{\pos(476,627)}{\i0\b1}Gigant{\i1\b0}
-Dialogue: 0,0:22:29.81,0:22:31.55,Nanoha Dialogue1,,0,0,0,,Crack it apart!
+Dialogue: 0,0:22:26.48,0:22:28.21,Nanoha Device2,,0,0,0,,{\pos(476,627)\i0\b1}Gigant{\i1\b0}
+Dialogue: 0,0:22:29.81,0:22:31.55,Nanoha Dialogue1,,0,0,0,,Rest in pieces!
 Dialogue: 0,0:22:44.26,0:22:45.06,Nanoha Dialogue1,,0,0,0,,Father...
 Dialogue: 0,0:22:46.30,0:22:49.43,Nanoha Dialogue1,,0,0,0,,It's not healthy for you to work so hard.
 Dialogue: 0,0:22:49.43,0:22:50.67,Nanoha Dialogue1,,0,0,0,,That's right.

@@ -18,9 +18,9 @@ Video File: ../../../../mnt/archive/[Doki] Mahou Shoujo Lyrical Nanoha The Movie
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 685
-Active Line: 690
-Video Position: 54278
+Scroll Position: 2264
+Active Line: 2269
+Video Position: 176639
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -446,7 +446,8 @@ Dialogue: 0,0:19:34.64,0:19:40.55,NanohaW Shamal,,0,0,0,,Looking back now, I do 
 Dialogue: 0,0:19:40.55,0:19:44.18,NanohaW Shamal,,0,0,0,,We just didn't know enough about the world at the time.
 Dialogue: 0,0:19:44.18,0:19:49.13,NanohaW Signum,,0,0,0,,We weren't confident that the organizations or people\Nin charge would understand our circumstances
 Dialogue: 0,0:19:49.13,0:19:53.69,NanohaW Signum,,0,0,0,,or hold any regard for Mistress Hayate's life.
-Dialogue: 0,0:19:53.69,0:20:00.70,NanohaW Zafira,,0,0,0,,If our freedom had been taken away, there would've been\Nnothing that we could do as our mistress's life slipped away.
+Dialogue: 0,0:19:53.69,0:19:55.62,NanohaW Zafira,,0,0,7,,If our freedom had been taken away,
+Dialogue: 0,0:19:55.62,0:20:00.70,NanohaW Zafira,,0,0,0,,there would've been nothing that we could do as our mistress's life slipped away.
 Dialogue: 0,0:20:00.70,0:20:04.81,NanohaW Zafira,,0,0,0,,Of course, that's just a criminal's excuse.
 Dialogue: 0,0:20:05.28,0:20:06.56,NanohaW Miura,,0,0,0,,Right...
 Dialogue: 0,0:20:08.14,0:20:14.38,NanohaW Lutecia,,0,0,0,,Meanwhile, Fate sees\NNanoha in trouble and cries out!
@@ -520,7 +521,7 @@ Dialogue: 0,0:24:02.92,0:24:06.38,NanohaW Hayate,,0,0,7,,December was really qui
 Dialogue: 0,0:24:06.38,0:24:07.85,NanohaW Rein,,0,0,0,,It really was.
 Dialogue: 0,0:24:07.85,0:24:11.41,NanohaW Agito,,0,0,0,,Oh, the movie's showing the Yagami residence on Earth.
 Dialogue: 0,0:24:11.41,0:24:13.80,NanohaW Hayate,,0,0,0,,It is. It really takes me back!
-Dialogue: 0,0:24:13.80,0:24:15.37,NanohaW Rein,,0,0,0,,It sure is!
+Dialogue: 0,0:24:13.80,0:24:15.37,NanohaW Rein,,0,0,0,,Me too!
 Dialogue: 0,0:24:15.37,0:24:19.40,NanohaW Agito,,0,0,0,,That's so nice. I've only ever seen it in pictures.
 Dialogue: 0,0:24:19.81,0:24:23.94,NanohaW Hayate,,0,0,0,,The house itself is still there.\NIt's being rented out at the moment.
 Dialogue: 0,0:24:23.94,0:24:27.41,NanohaW Rein,,0,0,0,,Right now, a family of six is living there.
@@ -2174,16 +2175,16 @@ Dialogue: 0,1:55:22.76,1:55:28.26,NanohaW Teana,,0,0,0,,but Admiral Chrono's inv
 Dialogue: 0,1:55:28.26,1:55:33.16,NanohaW Teana,,0,0,0,,were both very important to the case.
 Dialogue: 0,1:55:33.16,1:55:40.63,NanohaW Chrono,,0,0,0,,The materials have me down as the one in charge of the case, but I was just doing a normal investigation.
 Dialogue: 0,1:55:41.59,1:55:46.84,NanohaW Chrono,,0,0,0,,It was really all thanks to the many talented\Nfield operatives, contractors, and backup crew.
-Dialogue: 0,1:55:46.84,1:55:50.99,NanohaW Subaru,,0,0,0,,Admiral Chrono's just arrived on the scene in the movie.
+Dialogue: 0,1:55:46.84,1:55:50.99,NanohaW Subaru,,0,0,0,,Enforcer Chrono's just arrived on the scene in the movie.
 Dialogue: 0,1:55:50.99,1:55:51.68,NanohaW Chrono,,0,0,0,,Yeah.
 Dialogue: 0,1:55:51.68,1:55:57.59,NanohaW Yuuno,,0,0,0,,In reality, there was actually another hidden faction\Nwho played a part in the events leading up to this, too.
 Dialogue: 0,1:55:57.59,1:56:00.15,NanohaW Chrono,,0,0,0,,Some things happened at the Bureau.
-Dialogue: 0,1:56:00.15,1:56:03.18,NanohaW Chrono,,0,0,0,,The documents and information for that have since been made publicly available,
+Dialogue: 0,1:56:00.15,1:56:03.18,NanohaW Chrono,,0,0,0,,The documents and information\Nfor that have since been declassified,
 Dialogue: 0,1:56:03.18,1:56:06.57,NanohaW Chrono,,0,0,0,,so if anyone is interested, you can look it up.
 Dialogue: 0,1:56:06.57,1:56:10.35,NanohaW Teana,,0,0,0,,I've had a look at those files.\NThere was a lot going on.
 Dialogue: 0,1:56:10.35,1:56:14.90,NanohaW Chrono,,0,0,0,,Be that as it may, it was thanks to them\Nthat there were no deaths or serious injuries.
 Dialogue: 0,1:56:14.90,1:56:20.32,NanohaW Chrono,,0,0,0,,And we gained an opportunity to put an end\Nto the persistent threat of the Book of Darkness.
-Dialogue: 0,1:56:20.32,1:56:26.36,NanohaW Yuuno,,0,0,0,,Gaining the cooperation of the knights and the mistress\Nwho were freed from the book was also a large factor.
+Dialogue: 0,1:56:20.32,1:56:26.36,NanohaW Yuuno,,0,0,0,,Gaining the cooperation of the knights and the mistress\Nwho were freed from the Book was also a large factor.
 Dialogue: 0,1:56:26.36,1:56:29.49,NanohaW Subaru,,0,0,0,,Plus you had Durandal, the Staff of Freezing...
 Dialogue: 0,1:56:29.49,1:56:31.57,NanohaW Chrono,,0,0,0,,And also the Arc-en-Ciel, right?
 Dialogue: 0,1:56:31.57,1:56:34.60,NanohaW Yuuno,,0,0,0,,It's a good thing we had everyone together like this.
@@ -2203,8 +2204,9 @@ Dialogue: 0,1:57:12.04,1:57:13.64,NanohaW Teana,,0,0,0,,We'd die.
 Dialogue: 0,1:57:13.64,1:57:18.48,NanohaW Yuuno,,0,0,0,,But thanks to this movie, we've had\Nanother chance to remember the past.
 Dialogue: 0,1:57:18.93,1:57:20.65,NanohaW Yuuno,,0,0,0,,It's kind of nice.
 Dialogue: 0,1:57:20.65,1:57:21.29,NanohaW Chrono,,0,0,0,,That's true.
-Dialogue: 0,1:57:21.29,1:57:26.27,NanohaW Subaru,,0,0,0,,It'd be nice if we could see our memories\Nbrought together like this some day.{It seems weird that they'd even joke about this when the sole thing that we'd been told about 3rd back then was that it wouldn't be a retelling of StrikerS.}
-Dialogue: 0,1:57:27.38,1:57:32.13,NanohaW Teana,,0,0,0,,That would be nice, but even if it did happen,\Nit's way too early to be talking about it.
+Dialogue: 0,1:57:21.29,1:57:26.27,NanohaW Subaru,,0,0,0,,It'd be nice if we could see our memories\Nbrought together like this some day.
+Dialogue: 0,1:57:27.38,1:57:30.18,NanohaW Teana,,0,0,0,,That would be nice, but even if it did happen,
+Dialogue: 0,1:57:30.18,1:57:32.13,NanohaW Teana,,0,0,7,,it's way too early to be talking about it.
 Dialogue: 0,1:57:32.13,1:57:35.97,NanohaW Chrono,,0,0,0,,I'd love to see the achievements of Riot Force 6's strikers again.
 Dialogue: 0,1:57:35.97,1:57:38.31,NanohaW Teana,,0,0,0,,Yes. Someday, definitely.
 Dialogue: 0,1:57:38.31,1:57:39.19,NanohaW Subaru,,0,0,0,,We'll do our best!
@@ -2320,7 +2322,7 @@ Dialogue: 0,2:02:36.53,2:02:38.64,NanohaW Lutecia,,0,0,0,,Now, what's going to h
 Dialogue: 0,2:02:39.17,2:02:42.75,NanohaW Hayate,,0,0,0,,And the final touch goes to Chrono. Here you go.
 Dialogue: 0,2:02:42.75,2:02:44.28,NanohaW Chrono,,0,0,0,,Yeah, leave it to me.
 Dialogue: 0,2:02:44.28,2:02:47.28,NanohaW Rein,,0,0,0,,Durandal, the Staff of Freezing, is in Full Drive.
-Dialogue: 0,2:02:47.28,2:02:51.10,NanohaW Agito,,0,0,0,,The Reflectors deploy around the immobilized Darkness of the Book of Darkness!
+Dialogue: 0,2:02:47.28,2:02:51.10,NanohaW Agito,,0,0,0,,The reflectors deploy around the immobilized Darkness of the Book of Darkness!
 Dialogue: 0,2:02:51.10,2:02:53.02,NanohaW Chrono,,0,0,0,,Take this! Eternal Coffin!
 Dialogue: 0,2:02:55.32,2:02:58.86,NanohaW Rein,,0,0,0,,The beam turns the sea to ice\Nas it flies over the water!
 Dialogue: 0,2:02:58.86,2:03:02.65,NanohaW Agito,,0,0,0,,The reflectors each activate and start a flash freeze!

@@ -21,9 +21,7 @@ Video File: ../../../mnt/archive/[Doki] Mahou Shoujo Lyrical Nanoha The Movie 2n
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 1448
-Active Line: 1451
-Video Position: 162302
+Video Position: 421
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,7 +41,7 @@ Style: NanohaW Hospital,Junicode,72,&H77A67F52,&H000000FF,&H00CFB087,&H40000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.53,0:00:19.91,NanohaW Narration1,,0,0,0,,In the vast universe,
+Dialogue: 0,0:00:17.53,0:00:19.91,NanohaW Narration1,,0,0,0,,In the vast multiverse,
 Dialogue: 0,0:00:20.82,0:00:27.88,NanohaW Narration1,,0,0,0,,this is a story that took place in a small country\Non a small planet.
 Dialogue: 0,0:00:30.00,0:00:42.77,NanohaW Narration1,,0,0,0,,I didn't see it with my own eyes, \Nbut my family and my dear friends told me all about it.
 Dialogue: 1,0:00:44.52,0:00:49.57,NanohaW Narration1,,0,0,0,,It all started in June two years ago.
@@ -430,7 +428,7 @@ Dialogue: 0,0:27:32.38,0:27:35.50,NanohaW Dialogue1,,0,0,0,,A pure offensive mag
 Dialogue: 0,0:27:35.50,0:27:38.46,NanohaW Dialogue1,,0,0,0,,A mage of this style is called a knight.
 Dialogue: 0,0:27:38.46,0:27:42.47,NanohaW Dialogue1,,0,0,0,,Then what was exploding inside their Devices?
 Dialogue: 0,0:27:42.47,0:27:44.97,NanohaW Dialogue1,,0,0,0,,The magic cartridge system.
-Dialogue: 0,0:27:44.97,0:27:49.10,NanohaW Dialogue1,,0,0,0,,They explode high-pressure magical shells inside their Devices,
+Dialogue: 0,0:27:44.97,0:27:49.10,NanohaW Dialogue1,,0,0,0,,They load shells filled with\Ncompressed mana into their Devices,
 Dialogue: 0,0:27:49.10,0:27:52.19,NanohaW Dialogue1,,0,0,0,,which gives them explosive destructive power.
 Dialogue: 0,0:27:52.19,0:27:54.65,NanohaW Dialogue1,,0,0,0,,You need a powerful Device {\i1}and{\i0} a talented mage.
 Dialogue: 0,0:27:54.65,0:27:59.19,NanohaW Dialogue1,,0,0,0,,Without both, you end up with\Na weapon that blows up in your face.
