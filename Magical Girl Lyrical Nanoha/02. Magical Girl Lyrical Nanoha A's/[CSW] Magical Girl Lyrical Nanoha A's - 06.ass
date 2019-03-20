@@ -30,8 +30,8 @@ Style: Nanoha Dialogue1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC700000
 Style: Nanoha Dialogue2,Noto Sans,56,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.1,2.5,4,14,14,13,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: Nanoha A's Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
-Style: Nanoha A's Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
+Style: Nanoha A’s Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC7000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,79,79,23,1
+Style: Nanoha A’s Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
 Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
@@ -50,7 +50,7 @@ Dialogue: 0,0:00:22.09,0:00:24.24,Nanoha Narration1,,0,0,0,,to break the chains 
 Dialogue: 0,0:00:24.24,0:00:26.66,Nanoha Narration1,,0,0,0,,I would not mind throwing everything else away.
 Dialogue: 0,0:00:28.93,0:00:30.94,Nanoha Narration1,,0,0,0,,Our oath under the stars of the night sky...
 Dialogue: 0,0:00:30.94,0:00:34.18,Nanoha Narration1,,0,0,0,,With sword in hand,\Nto set forth the future!
-Dialogue: 0,0:00:35.97,0:00:40.07,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha A's{\i1}\Nwill now begin.
+Dialogue: 0,0:00:35.97,0:00:40.07,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha A’s{\i1}\Nwill now begin.
 Dialogue: 0,0:00:41.49,0:00:55.72,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
 Dialogue: 0,0:01:08.20,0:01:14.58,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
 Dialogue: 0,0:01:14.58,0:01:20.64,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
@@ -66,15 +66,15 @@ Dialogue: 0,0:02:06.80,0:02:10.24,Nanoha OP,,0,0,0,,Releasing the deep darkness
 Dialogue: 0,0:02:10.24,0:02:16.59,Nanoha OP,,0,0,0,,It opens the door of freedom
 Dialogue: 0,0:02:16.59,0:02:23.54,Nanoha OP,,0,0,0,,Towards the strong, boundless future
 Dialogue: 0,0:02:30.14,0:02:31.25,Nanoha Dialogue1,,0,0,0,,Um...
-Dialogue: 0,0:02:31.25,0:02:35.37,Nanoha Dialogue1,,0,0,0,,An artificial lifeform that isn't a familiar or a human...
+Dialogue: 0,0:02:31.25,0:02:35.37,Nanoha Dialogue1,,0,0,0,,An artificial lifeform that isn’t a familiar or a human...
 Dialogue: 0,0:02:35.37,0:02:36.78,Nanoha Dialogue1,,0,0,0,,Is that something like me?
-Dialogue: 0,0:02:36.78,0:02:38.28,Nanoha Dialogue1,,0,0,0,,No, it's not!
+Dialogue: 0,0:02:36.78,0:02:38.28,Nanoha Dialogue1,,0,0,0,,No, it’s not!
 Dialogue: 0,0:02:39.51,0:02:43.31,Nanoha Dialogue1,,0,0,0,,Fate, you just had a slightly different way of being born.
 Dialogue: 0,0:02:43.31,0:02:46.52,Nanoha Dialogue1,,0,0,0,,You are a human who was properly granted life into this world.
 Dialogue: 0,0:02:46.52,0:02:50.04,Nanoha Dialogue1,,0,0,0,,The test results said so too, right?
 Dialogue: 0,0:02:50.04,0:02:52.02,Nanoha Dialogue1,,0,0,0,,Stop talking like that.
 Dialogue: 0,0:02:53.12,0:02:54.00,Nanoha Dialogue1,,0,0,0,,Yes...
-Dialogue: 0,0:02:54.00,0:02:55.62,Nanoha Dialogue1,,0,0,0,,I'm sorry.
+Dialogue: 0,0:02:54.00,0:02:55.62,Nanoha Dialogue1,,0,0,0,,I’m sorry.
 Dialogue: 0,0:02:55.62,0:02:56.73,Nanoha Dialogue1,,0,0,0,,Oh!
 Dialogue: 0,0:02:56.73,0:02:58.78,Nanoha Dialogue1,,0,0,0,,Do you want me to explain on the monitors?
 Dialogue: 0,0:03:04.78,0:03:06.77,Nanoha Dialogue1,,0,0,0,,The guardians are programs
@@ -84,9 +84,9 @@ Dialogue: 0,0:03:13.46,0:03:15.96,Nanoha Dialogue1,,0,0,0,,but these four, toget
 Dialogue: 0,0:03:15.96,0:03:19.34,Nanoha Dialogue1,,0,0,0,,have been through many masters.
 Dialogue: 0,0:03:19.34,0:03:22.12,Nanoha Dialogue1,,0,0,0,,Enough conversational skills to maintain consistency
 Dialogue: 0,0:03:22.12,0:03:25.10,Nanoha Dialogue1,,0,0,0,,have been confirmed in past cases as well,
-Dialogue: 0,0:03:25.10,0:03:28.46,Nanoha Dialogue1,,0,0,0,,but there's never been a case where they have shown any emotions.
+Dialogue: 0,0:03:25.10,0:03:28.46,Nanoha Dialogue1,,0,0,0,,but there’s never been a case where they have shown any emotions.
 Dialogue: 0,0:03:28.46,0:03:31.54,Nanoha Dialogue1,,0,0,0,,Their only objective is to collect for the Book of Darkness
-Dialogue: 0,0:03:31.54,0:03:34.36,Nanoha Dialogue1,,0,0,0,,and to act as the master's guardians.
+Dialogue: 0,0:03:31.54,0:03:34.36,Nanoha Dialogue1,,0,0,0,,and to act as the master’s guardians.
 Dialogue: 0,0:03:34.36,0:03:36.13,Nanoha Dialogue1,,0,0,0,,But that girl in the hat,
 Dialogue: 0,0:03:36.13,0:03:39.54,Nanoha Dialogue1,,0,0,0,,Vita, was acting angry and sad.
 Dialogue: 0,0:03:39.54,0:03:43.26,Nanoha Dialogue1,,0,0,0,,I felt a clear personality from Signum as well.
@@ -94,35 +94,35 @@ Dialogue: 0,0:03:43.26,0:03:46.70,Nanoha Dialogue1,,0,0,0,,That she had somethin
 Dialogue: 0,0:03:46.71,0:03:50.12,Nanoha Dialogue1,,0,0,0,,That it was for her comrades and her mistress.
 Dialogue: 0,0:03:50.12,0:03:53.12,Nanoha Dialogue1,,0,0,0,,For her mistress, huh...
 Dialogue: 0,0:03:57.16,0:03:58.36,Nanoha Dialogue1,,0,0,0,,Well...
-Dialogue: 0,0:03:58.36,0:04:00.53,Nanoha Dialogue1,,0,0,0,,Concerning that,\Nlet's wait for information
+Dialogue: 0,0:03:58.36,0:04:00.53,Nanoha Dialogue1,,0,0,0,,Concerning that,\Nlet’s wait for information
 Dialogue: 0,0:04:00.53,0:04:02.72,Nanoha Dialogue1,,0,0,0,,from the operatives who are investigating right now.
 Dialogue: 0,0:04:02.72,0:04:04.23,Nanoha Dialogue1,,0,0,0,,Looking at their teleport patterns,
-Dialogue: 0,0:04:04.23,0:04:07.10,Nanoha Dialogue1,,0,0,0,,there's no doubt that their mistress is somewhere in this vicinity.
-Dialogue: 0,0:04:07.10,0:04:10.50,Nanoha Dialogue1,,0,0,0,,It just may be the case that we'll be able to catch the mistress first.
-Dialogue: 0,0:04:10.50,0:04:12.98,Nanoha Dialogue1,,0,0,0,,Oh, that would be great, because it's easy to understand!
-Dialogue: 0,0:04:12.98,0:04:14.24,Nanoha Dialogue1,,0,0,0,,Wouldn't it?
-Dialogue: 0,0:04:14.24,0:04:15.87,Nanoha Dialogue1,,0,0,0,,If it's before the Book of\NDarkness is complete,
+Dialogue: 0,0:04:04.23,0:04:07.10,Nanoha Dialogue1,,0,0,0,,there’s no doubt that their mistress is somewhere in this vicinity.
+Dialogue: 0,0:04:07.10,0:04:10.50,Nanoha Dialogue1,,0,0,0,,It just may be the case that we’ll be able to catch the mistress first.
+Dialogue: 0,0:04:10.50,0:04:12.98,Nanoha Dialogue1,,0,0,0,,Oh, that would be great, because it’s easy to understand!
+Dialogue: 0,0:04:12.98,0:04:14.24,Nanoha Dialogue1,,0,0,0,,Wouldn’t it?
+Dialogue: 0,0:04:14.24,0:04:15.87,Nanoha Dialogue1,,0,0,0,,If it’s before the Book of\NDarkness is complete,
 Dialogue: 0,0:04:15.87,0:04:18.38,Nanoha Dialogue1,,0,0,0,,she should be an ordinary mage as well.
-Dialogue: 0,0:04:18.73,0:04:24.20,Nanoha Dialogue1,,0,0,0,,In any case, I'd like more detailed data about the Book of Darkness.
+Dialogue: 0,0:04:18.73,0:04:24.20,Nanoha Dialogue1,,0,0,0,,In any case, I’d like more detailed data about the Book of Darkness.
 Dialogue: 0,0:04:27.49,0:04:28.36,Nanoha Dialogue1,,0,0,0,,Yuuno...
-Dialogue: 0,0:04:28.36,0:04:30.70,Nanoha Dialogue1,,0,0,0,,I'd like to ask something of you, starting tomorrow.
+Dialogue: 0,0:04:28.36,0:04:30.70,Nanoha Dialogue1,,0,0,0,,I’d like to ask something of you, starting tomorrow.
 Dialogue: 0,0:04:30.70,0:04:33.44,Nanoha Dialogue1,,0,0,0,,Huh? Sure, but...
 Dialogue: 0,0:04:37.16,0:04:39.03,Nanoha Narration1,,0,0,0,,Hey, Yuuno...
-Dialogue: 0,0:04:39.03,0:04:41.96,Nanoha Narration1,,0,0,0,,What kind of a person do you think the Book of Darkness's mistress is?
+Dialogue: 0,0:04:39.03,0:04:41.96,Nanoha Narration1,,0,0,0,,What kind of a person do you think the Book of Darkness’s mistress is?
 Dialogue: 0,0:04:41.96,0:04:45.50,Nanoha Narration1,,0,0,0,,The Book of Darkness randomly chooses someone
 Dialogue: 0,0:04:45.50,0:04:48.47,Nanoha Narration1,,0,0,0,,with potential to control it as its new host.
 Dialogue: 0,0:04:48.47,0:04:50.07,Nanoha Narration1,,0,0,0,,I see...
-Dialogue: 0,0:04:51.06,0:04:54.64,Nanoha Narration1,,0,0,0,,You never know.\NMaybe she's someone our age.
-Dialogue: 0,0:04:54.64,0:04:57.41,Nanoha Narration1,,0,0,0,,Of all things, I think that's...
+Dialogue: 0,0:04:51.06,0:04:54.64,Nanoha Narration1,,0,0,0,,You never know.\NMaybe she’s someone our age.
+Dialogue: 0,0:04:54.64,0:04:57.41,Nanoha Narration1,,0,0,0,,Of all things, I think that’s...
 Dialogue: 0,0:05:05.14,0:05:08.79,Nanoha Narration1,,0,0,0,,Suzuka has a friend sleeping over today.
 Dialogue: 0,0:05:08.79,0:05:09.83,Nanoha Narration1,,0,0,0,,Really?
 Dialogue: 0,0:05:09.83,0:05:10.80,Nanoha Narration1,,0,0,0,,Yeah.
 Dialogue: 0,0:05:10.80,0:05:11.98,Nanoha Narration1,,0,0,0,,See?
 Dialogue: 0,0:05:11.98,0:05:14.12,Nanoha Narration1,,0,0,0,,Hayate Yagami.
-Dialogue: 0,0:05:14.12,0:05:16.30,Nanoha Narration1,,0,0,0,,She said she'll introduce us next time.
+Dialogue: 0,0:05:14.12,0:05:16.30,Nanoha Narration1,,0,0,0,,She said she’ll introduce us next time.
 Dialogue: 0,0:05:16.30,0:05:17.50,Nanoha Narration1,,0,0,0,,I see.
-Dialogue: 1,0:05:19.49,0:05:25.53,Nanoha A's Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,615)\bord0}It Was Only a Small Wish\N(part 2)
-Dialogue: 0,0:05:19.49,0:05:25.53,Nanoha A's Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,615)\c&H901E38&}It Was Only a Small Wish\N(part 2)
+Dialogue: 1,0:05:19.49,0:05:25.53,Nanoha A’s Title1,,0,0,0,,{\an5\blur0.5\frx-30\pos(476,615)\bord0}It Was Only a Small Wish\N(part 2)
+Dialogue: 0,0:05:19.49,0:05:25.53,Nanoha A’s Title1,,0,0,0,,{\an5\blur4\frx-30\pos(476,615)\c&H901E38&}It Was Only a Small Wish\N(part 2)
 Dialogue: 0,0:05:27.51,0:05:30.64,Nanoha Dialogue1,,0,0,0,,Well then, thanks a lot, Suzuka!
 Dialogue: 0,0:05:30.64,0:05:32.28,Nanoha Dialogue1,,0,0,0,,Yes. See you later.
 Dialogue: 0,0:05:32.28,0:05:35.64,Nanoha Dialogue1,,0,0,0,,Please, please do come again, Hayate.
@@ -131,8 +131,8 @@ Dialogue: 0,0:05:44.76,0:05:45.98,Nanoha Dialogue1,,0,0,0,,Signum...
 Dialogue: 0,0:05:45.98,0:05:49.47,Nanoha Dialogue1,,0,0,0,,Hayate says she will be back shortly.
 Dialogue: 0,0:05:49.47,0:05:50.48,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:05:53.27,0:05:55.84,Nanoha Dialogue1,,0,0,0,,Is Vita still...?
-Dialogue: 0,0:05:55.84,0:05:57.52,Nanoha Dialogue1,,0,0,0,,Apparently she's gone pretty far.
-Dialogue: 0,0:05:58.31,0:06:00.24,Nanoha Dialogue1,,0,0,0,,She said she'll be back by evening.
+Dialogue: 0,0:05:55.84,0:05:57.52,Nanoha Dialogue1,,0,0,0,,Apparently she’s gone pretty far.
+Dialogue: 0,0:05:58.31,0:06:00.24,Nanoha Dialogue1,,0,0,0,,She said she’ll be back by evening.
 Dialogue: 0,0:06:01.21,0:06:02.90,Nanoha Dialogue1,,0,0,0,,What about you, Signum?
 Dialogue: 0,0:06:02.90,0:06:03.98,Nanoha Dialogue1,,0,0,0,,What about me?
 Dialogue: 0,0:06:03.98,0:06:05.64,Nanoha Dialogue1,,0,0,0,,Are you all right?
@@ -147,12 +147,12 @@ Dialogue: 0,0:06:24.60,0:06:26.30,Nanoha Dialogue1,,0,0,0,,Not just you.
 Dialogue: 0,0:06:26.30,0:06:29.63,Nanoha Dialogue1,,0,0,0,,All of us have changed quite a bit.
 Dialogue: 0,0:06:29.63,0:06:34.99,Nanoha Dialogue1,,0,0,0,,Ever since the day that\NHayate became our master.
 Dialogue: 0,0:06:38.02,0:06:39.46,Nanoha Dialogue1,,0,0,0,,I see.
-Dialogue: 0,0:06:39.46,0:06:43.60,Nanoha Dialogue1,,0,0,0,,If you're living with relatives,\Nyou must be having a pretty good time
+Dialogue: 0,0:06:39.46,0:06:43.60,Nanoha Dialogue1,,0,0,0,,If you’re living with relatives,\Nyou must be having a pretty good time
 Dialogue: 0,0:06:43.60,0:06:44.99,Nanoha Dialogue1,,0,0,0,,Yes...
-Dialogue: 0,0:06:44.99,0:06:48.48,Nanoha Dialogue1,,0,0,0,,It's like every day is needlessly fun.
-Dialogue: 0,0:06:49.56,0:06:50.98,Nanoha Dialogue1,,0,0,0,,That's wonderful.
-Dialogue: 0,0:06:53.22,0:06:54.70,Nanoha Narration1,,0,0,0,,That's right.
-Dialogue: 0,0:06:54.70,0:06:58.37,Nanoha Narration1,,0,0,0,,It's already been over six months\Nsince everyone came by...
+Dialogue: 0,0:06:44.99,0:06:48.48,Nanoha Dialogue1,,0,0,0,,It’s like every day is needlessly fun.
+Dialogue: 0,0:06:49.56,0:06:50.98,Nanoha Dialogue1,,0,0,0,,That’s wonderful.
+Dialogue: 0,0:06:53.22,0:06:54.70,Nanoha Narration1,,0,0,0,,That’s right.
+Dialogue: 0,0:06:54.70,0:06:58.37,Nanoha Narration1,,0,0,0,,It’s already been over six months\Nsince everyone came by...
 Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Anfang.
 Dialogue: 0,0:07:25.20,0:07:26.52,Nanoha Device1,,0,0,20,,Booting.
 Dialogue: 0,0:07:59.64,0:08:02.77,Nanoha Dialogue1,,0,0,0,,Confirmed startup of the Book of Darkness.
@@ -167,28 +167,28 @@ Dialogue: 0,0:08:25.56,0:08:27.13,Nanoha Narration1,,0,0,0,,Vita, shh!
 Dialogue: 0,0:08:27.13,0:08:28.13,Nanoha Narration1,,0,0,0,,But...
 Dialogue: 0,0:08:28.13,0:08:32.24,Nanoha Narration1,,0,0,0,,Stay quiet. Discourtesy in front of your mistress is forbidden.
 Dialogue: 0,0:08:32.24,0:08:33.73,Nanoha Narration1,,0,0,0,,Discourtesy, or whatever,
-Dialogue: 0,0:08:33.73,0:08:37.63,Nanoha Narration1,,0,0,0,,she looks like she's passed out.
-Dialogue: 0,0:08:37.63,0:08:39.13,Nanoha Narration1,,0,0,0,,You're kidding!
+Dialogue: 0,0:08:33.73,0:08:37.63,Nanoha Narration1,,0,0,0,,she looks like she’s passed out.
+Dialogue: 0,0:08:37.63,0:08:39.13,Nanoha Narration1,,0,0,0,,You’re kidding!
 Dialogue: 0,0:08:40.82,0:08:43.60,Nanoha Sign,,0,0,0,,{\fax-0.3\frz20.91\move(45,205,331,205,34,2745)}Uminari University Hospital
 Dialogue: 0,0:08:42.44,0:08:43.58,Nanoha Dialogue1,,0,0,0,,Hayate...
-Dialogue: 0,0:08:43.58,0:08:45.71,Nanoha Dialogue1,,0,0,0,,I'm so glad nothing is wrong.
-Dialogue: 0,0:08:45.71,0:08:48.34,Nanoha Dialogue1,,0,0,0,,Well... I'm sorry.
+Dialogue: 0,0:08:43.58,0:08:45.71,Nanoha Dialogue1,,0,0,0,,I’m so glad nothing is wrong.
+Dialogue: 0,0:08:45.71,0:08:48.34,Nanoha Dialogue1,,0,0,0,,Well... I’m sorry.
 Dialogue: 0,0:08:50.18,0:08:51.18,Nanoha Dialogue1,,0,0,0,,So...
 Dialogue: 0,0:08:51.18,0:08:53.00,Nanoha Dialogue1,,0,0,0,,Who are those people?
 Dialogue: 0,0:09:02.18,0:09:05.10,Nanoha Dialogue1,,0,0,0,,We really were surprised by what happened back then.
 Dialogue: 0,0:09:05.10,0:09:06.73,Nanoha Dialogue1,,0,0,0,,Well, yes.
 Dialogue: 0,0:09:06.73,0:09:08.73,Nanoha Dialogue1,,0,0,0,,What kind of people are they?
-Dialogue: 0,0:09:08.73,0:09:11.10,Nanoha Dialogue1,,0,0,0,,Though it's spring, it's still cold,
+Dialogue: 0,0:09:08.73,0:09:11.10,Nanoha Dialogue1,,0,0,0,,Though it’s spring, it’s still cold,
 Dialogue: 0,0:09:11.10,0:09:13.98,Nanoha Dialogue1,,0,0,0,,and they brought you in without even putting on a jacket, Hayate...
-Dialogue: 0,0:09:13.98,0:09:16.01,Nanoha Dialogue1,,0,0,0,,They're dressed so strangely,
-Dialogue: 0,0:09:16.01,0:09:18.01,Nanoha Dialogue1,,0,0,0,,and I don't understand what they're talking about.
-Dialogue: 0,0:09:18.01,0:09:19.84,Nanoha Dialogue1,,0,0,0,,They're all so suspicious.
+Dialogue: 0,0:09:13.98,0:09:16.01,Nanoha Dialogue1,,0,0,0,,They’re dressed so strangely,
+Dialogue: 0,0:09:16.01,0:09:18.01,Nanoha Dialogue1,,0,0,0,,and I don’t understand what they’re talking about.
+Dialogue: 0,0:09:18.01,0:09:19.84,Nanoha Dialogue1,,0,0,0,,They’re all so suspicious.
 Dialogue: 0,0:09:19.84,0:09:23.74,Nanoha Dialogue1,,0,0,0,,Oh, well, um, how do I put it...
 Dialogue: 0,0:09:25.72,0:09:28.77,Nanoha Narration1,,0,0,0,,If you give us an order, we can be of help.
 Dialogue: 0,0:09:28.77,0:09:30.32,Nanoha Narration1,,0,0,0,,What would you have us do?
-Dialogue: 0,0:09:32.24,0:09:36.76,Nanoha Narration1,,0,0,0,,It's telepathy. If you can form a command in your mind...
-Dialogue: 0,0:09:41.20,0:09:43.64,Nanoha Narration1,,0,0,0,,Okay, it's more like a favor to ask than a command.
-Dialogue: 0,0:09:44.67,0:09:47.48,Nanoha Narration1,,0,0,0,,Play along with what\NI'm going to say, okay?
+Dialogue: 0,0:09:32.24,0:09:36.76,Nanoha Narration1,,0,0,0,,It’s telepathy. If you can form a command in your mind...
+Dialogue: 0,0:09:41.20,0:09:43.64,Nanoha Narration1,,0,0,0,,Okay, it’s more like a favor to ask than a command.
+Dialogue: 0,0:09:44.67,0:09:47.48,Nanoha Narration1,,0,0,0,,Play along with what\NI’m going to say, okay?
 Dialogue: 0,0:09:47.48,0:09:48.94,Nanoha Narration1,,0,0,0,,Yes.
 Dialogue: 0,0:09:48.94,0:09:50.81,Nanoha Dialogue1,,0,0,0,,Well, Dr. Ishida,
 Dialogue: 0,0:09:50.81,0:09:53.81,Nanoha Dialogue1,,0,0,0,,actually, those people are my relatives.
@@ -197,8 +197,8 @@ Dialogue: 0,0:09:54.88,0:09:56.78,Nanoha Dialogue1,,0,0,0,,They came by to wish 
 Dialogue: 0,0:09:56.78,0:09:59.24,Nanoha Dialogue1,,0,0,0,,from their distant home country.
 Dialogue: 0,0:09:59.24,0:10:03.44,Nanoha Dialogue1,,0,0,0,,And they tried to surprise me and dressed up in costumes...
 Dialogue: 0,0:10:03.44,0:10:07.32,Nanoha Dialogue1,,0,0,0,,But I got too surprised by all of this, and....
-Dialogue: 0,0:10:07.32,0:10:10.16,Nanoha Dialogue1,,0,0,0,,Well, that's how it goes... right?
-Dialogue: 0,0:10:11.00,0:10:12.60,Nanoha Dialogue1,,0,0,0,,That's exactly what happened!
+Dialogue: 0,0:10:07.32,0:10:10.16,Nanoha Dialogue1,,0,0,0,,Well, that’s how it goes... right?
+Dialogue: 0,0:10:11.00,0:10:12.60,Nanoha Dialogue1,,0,0,0,,That’s exactly what happened!
 Dialogue: 0,0:10:12.60,0:10:13.92,Nanoha Dialogue1,,0,0,0,,Just as she said.
 Dialogue: 0,0:10:17.87,0:10:20.53,Nanoha Narration1,,0,0,0,,Our new mistress...
 Dialogue: 0,0:10:20.53,0:10:22.01,Nanoha Narration1,,0,0,0,,Mistress Hayate.
@@ -207,27 +207,27 @@ Dialogue: 0,0:10:24.48,0:10:27.84,Nanoha Narration1,,0,0,0,,but she differed in 
 Dialogue: 0,0:10:29.88,0:10:31.10,Nanoha Dialogue1,,0,0,0,,I see...
 Dialogue: 0,0:10:31.10,0:10:34.61,Nanoha Dialogue1,,0,0,0,,So this is what you call the Book of Darkness?
 Dialogue: 0,0:10:34.61,0:10:35.95,Nanoha Dialogue1,,0,0,0,,Yes.
-Dialogue: 0,0:10:35.95,0:10:39.86,Nanoha Dialogue1,,0,0,0,,It's been on the bookshelf as long as I can remember.
+Dialogue: 0,0:10:35.95,0:10:39.86,Nanoha Dialogue1,,0,0,0,,It’s been on the bookshelf as long as I can remember.
 Dialogue: 0,0:10:39.86,0:10:43.75,Nanoha Dialogue1,,0,0,0,,I took good care of it because it was a very pretty book.
 Dialogue: 0,0:10:43.75,0:10:46.93,Nanoha Dialogue1,,0,0,0,,At the time of awakening, and while you were asleep,
 Dialogue: 0,0:10:46.93,0:10:49.62,Nanoha Dialogue1,,0,0,0,,did you hear the voice of the Book of Darkness?
-Dialogue: 0,0:10:50.60,0:10:54.80,Nanoha Dialogue1,,0,0,0,,I'm not a mage or anything, so everything's kind of vague.
-Dialogue: 0,0:10:54.80,0:10:56.08,Nanoha Dialogue1,,0,0,0,,Ah, that's it!
+Dialogue: 0,0:10:50.60,0:10:54.80,Nanoha Dialogue1,,0,0,0,,I’m not a mage or anything, so everything’s kind of vague.
+Dialogue: 0,0:10:54.80,0:10:56.08,Nanoha Dialogue1,,0,0,0,,Ah, that’s it!
 Dialogue: 0,0:10:57.28,0:10:59.43,Nanoha Dialogue1,,0,0,0,,I know one thing.
 Dialogue: 0,0:10:59.43,0:11:01.21,Nanoha Dialogue1,,0,0,0,,As the mistress of the Book of Darkness,
 Dialogue: 0,0:11:01.21,0:11:03.06,Nanoha Dialogue1,,0,0,0,,I have to provide\Nclothing, food, and shelter
 Dialogue: 0,0:11:03.06,0:11:05.54,Nanoha Dialogue1,,0,0,0,,for all the guardian knights.
-Dialogue: 0,0:11:05.54,0:11:09.32,Nanoha Dialogue1,,0,0,0,,Fortunately, I have a place to live.\NPlus, I'm quite the cook!
+Dialogue: 0,0:11:05.54,0:11:09.32,Nanoha Dialogue1,,0,0,0,,Fortunately, I have a place to live.\NPlus, I’m quite the cook!
 Dialogue: 0,0:11:09.32,0:11:11.56,Nanoha Dialogue1,,0,0,0,,That leaves clothes!
 Dialogue: 0,0:11:11.56,0:11:13.44,Nanoha Dialogue1,,0,0,0,,so let me measure you and figure out your sizes.
 Dialogue: 0,0:11:14.59,0:11:17.19,Nanoha Narration1,,0,0,0,,Yes... really...
 Dialogue: 0,0:11:17.19,0:11:21.07,Nanoha Narration1,,0,0,0,,Everything was different from all our previous masters.
-Dialogue: 0,0:11:22.10,0:11:26.57,Nanoha Narration1,,0,0,0,,Mistress Hayate's treatment of us,\Nunlike our other masters,
-Dialogue: 0,0:11:26.57,0:11:30.32,Nanoha Narration1,,0,0,0,,wasn't beating down on us\Nor treating us like tools.
+Dialogue: 0,0:11:22.10,0:11:26.57,Nanoha Narration1,,0,0,0,,Mistress Hayate’s treatment of us,\Nunlike our other masters,
+Dialogue: 0,0:11:26.57,0:11:30.32,Nanoha Narration1,,0,0,0,,wasn’t beating down on us\Nor treating us like tools.
 Dialogue: 0,0:11:31.14,0:11:34.94,Nanoha Narration1,,0,0,0,,It was as if she were treating us like family.
-Dialogue: 0,0:11:50.83,0:11:53.15,Nanoha Dialogue1,,0,0,0,,Okay, it's ready! Let's all eat!
-Dialogue: 0,0:11:53.15,0:11:55.10,Nanoha Dialogue1,,0,0,0,,I'll have some to eat now!
-Dialogue: 0,0:11:55.10,0:11:56.65,Nanoha Dialogue1,,0,0,0,,I'll have some to eat now.
+Dialogue: 0,0:11:50.83,0:11:53.15,Nanoha Dialogue1,,0,0,0,,Okay, it’s ready! Let’s all eat!
+Dialogue: 0,0:11:53.15,0:11:55.10,Nanoha Dialogue1,,0,0,0,,I’ll have some to eat now!
+Dialogue: 0,0:11:55.10,0:11:56.65,Nanoha Dialogue1,,0,0,0,,I’ll have some to eat now.
 Dialogue: 0,0:12:03.24,0:12:05.89,Nanoha Narration1,,0,0,0,,We had our hesitations...
 Dialogue: 0,0:12:05.89,0:12:09.65,Nanoha Narration1,,0,0,0,,However, as our new mistress wished,
 Dialogue: 0,0:12:09.65,0:12:12.46,Nanoha Narration1,,0,0,0,,we were starting to live a quiet everyday life.
@@ -238,7 +238,7 @@ Dialogue: 0,0:12:32.18,0:12:37.92,Nanoha Dialogue1,,0,0,0,,Yes, we each have a w
 Dialogue: 0,0:12:37.92,0:12:40.15,Nanoha Dialogue1,,0,0,0,,We can make them\Nout of our own mana,
 Dialogue: 0,0:12:40.15,0:12:42.32,Nanoha Dialogue1,,0,0,0,,so all you have to do is come up with the design.
 Dialogue: 0,0:12:42.32,0:12:43.82,Nanoha Dialogue1,,0,0,0,,I see.
-Dialogue: 0,0:12:43.82,0:12:48.10,Nanoha Dialogue1,,0,0,0,,But I'm not going to make you fight or anything like that.
+Dialogue: 0,0:12:43.82,0:12:48.10,Nanoha Dialogue1,,0,0,0,,But I’m not going to make you fight or anything like that.
 Dialogue: 0,0:12:48.10,0:12:49.33,Nanoha Dialogue1,,0,0,0,,Oh!
 Dialogue: 0,0:12:49.33,0:12:50.54,Nanoha Dialogue1,,0,0,0,,How about clothes?
 Dialogue: 0,0:12:50.54,0:12:51.58,Nanoha Dialogue1,,0,0,0,,Clothes that look like knights!
@@ -246,46 +246,46 @@ Dialogue: 0,0:12:51.58,0:12:52.54,Nanoha Dialogue1,,0,0,0,,Okay?
 Dialogue: 0,0:12:52.54,0:12:54.58,Nanoha Dialogue1,,0,0,0,,Yes, that would be fine.
 Dialogue: 0,0:12:54.58,0:12:56.70,Nanoha Dialogue1,,0,0,0,,Then I have to look things up.
 Dialogue: 0,0:12:56.70,0:12:59.58,Nanoha Dialogue1,,0,0,0,,I have to think up really cool-looking ones!
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H00FF00&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,368,326,370)}Toys 'R' Oos{\b0\c&H00FF00&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H00FF00&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,370,326,372)}Toys 'R' Oos{\b0\c&H00FF00&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H01FF01&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,372,326,374)}Toys 'R' Oos{\b0\c&H01FF01&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H02FF02&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,374,326,376)}Toys 'R' Oos{\b0\c&H02FF02&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H05FF05&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,376,326,378)}Toys 'R' Oos{\b0\c&H05FF05&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H09FF09&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,378,326,380)}Toys 'R' Oos{\b0\c&H09FF09&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H10FF0F&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,380,326,382)}Toys 'R' Oos{\b0\c&H10FF0F&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H19FF18&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,382,326,384)}Toys 'R' Oos{\b0\c&H19FF18&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H25FF24&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,384,326,386)}Toys 'R' Oos{\b0\c&H25FF24&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H34FE34&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,386,326,388)}Toys 'R' Oos{\b0\c&H34FE34&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H48FE47&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,388,326,390)}Toys 'R' Oos{\b0\c&H48FE47&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H60FE5E&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,390,326,392)}Toys 'R' Oos{\b0\c&H60FE5E&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H7CFE7A&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,392,326,394)}Toys 'R' Oos{\b0\c&H7CFE7A&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H9EFD9B&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,394,326,396)}Toys 'R' Oos{\b0\c&H9EFD9B&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&HC5FDC2&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,396,326,398)}Toys 'R' Oos{\b0\c&HC5FDC2&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&HC5FDC2&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,398,326,400)}Toys 'R' Oos{\b0\c&HC5FDC2&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H9EFD9B&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,400,326,402)}Toys 'R' Oos{\b0\c&H9EFD9B&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H7CFE7A&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,402,326,404)}Toys 'R' Oos{\b0\c&H7CFE7A&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H60FE5E&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,404,326,406)}Toys 'R' Oos{\b0\c&H60FE5E&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H48FE47&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,406,326,408)}Toys 'R' Oos{\b0\c&H48FE47&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H34FE34&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,408,326,410)}Toys 'R' Oos{\b0\c&H34FE34&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H25FF24&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,410,326,412)}Toys 'R' Oos{\b0\c&H25FF24&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H19FF18&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,412,326,414)}Toys 'R' Oos{\b0\c&H19FF18&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H10FF0F&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,414,326,416)}Toys 'R' Oos{\b0\c&H10FF0F&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H09FF09&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,416,326,418)}Toys 'R' Oos{\b0\c&H09FF09&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H05FF05&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,418,326,420)}Toys 'R' Oos{\b0\c&H05FF05&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H02FF02&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,420,326,422)}Toys 'R' Oos{\b0\c&H02FF02&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H01FF01&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,422,326,424)}Toys 'R' Oos{\b0\c&H01FF01&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H00FF00&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,424,326,426)}Toys 'R' Oos{\b0\c&H00FF00&}
-Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H00FF00&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,426,326,428)}Toys 'R' Oos{\b0\c&H00FF00&}
-Dialogue: 0,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\an5\b1\c&HFFFFFF&\3c&HFFFFFF&\pos(196.133,392)\xshad-5.0\yshad5.0\4a&86&}Toys 'R' Oos{\b0}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H00FF00&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,368,326,370)}Toys ’R’ Oos{\b0\c&H00FF00&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H00FF00&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,370,326,372)}Toys ’R’ Oos{\b0\c&H00FF00&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H01FF01&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,372,326,374)}Toys ’R’ Oos{\b0\c&H01FF01&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H02FF02&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,374,326,376)}Toys ’R’ Oos{\b0\c&H02FF02&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H05FF05&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,376,326,378)}Toys ’R’ Oos{\b0\c&H05FF05&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H09FF09&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,378,326,380)}Toys ’R’ Oos{\b0\c&H09FF09&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H10FF0F&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,380,326,382)}Toys ’R’ Oos{\b0\c&H10FF0F&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H19FF18&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,382,326,384)}Toys ’R’ Oos{\b0\c&H19FF18&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H25FF24&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,384,326,386)}Toys ’R’ Oos{\b0\c&H25FF24&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H34FE34&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,386,326,388)}Toys ’R’ Oos{\b0\c&H34FE34&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H48FE47&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,388,326,390)}Toys ’R’ Oos{\b0\c&H48FE47&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H60FE5E&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,390,326,392)}Toys ’R’ Oos{\b0\c&H60FE5E&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H7CFE7A&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,392,326,394)}Toys ’R’ Oos{\b0\c&H7CFE7A&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H9EFD9B&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,394,326,396)}Toys ’R’ Oos{\b0\c&H9EFD9B&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&HC5FDC2&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,396,326,398)}Toys ’R’ Oos{\b0\c&HC5FDC2&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&HC5FDC2&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,398,326,400)}Toys ’R’ Oos{\b0\c&HC5FDC2&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H9EFD9B&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,400,326,402)}Toys ’R’ Oos{\b0\c&H9EFD9B&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H7CFE7A&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,402,326,404)}Toys ’R’ Oos{\b0\c&H7CFE7A&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H60FE5E&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,404,326,406)}Toys ’R’ Oos{\b0\c&H60FE5E&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H48FE47&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,406,326,408)}Toys ’R’ Oos{\b0\c&H48FE47&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H34FE34&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,408,326,410)}Toys ’R’ Oos{\b0\c&H34FE34&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H25FF24&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,410,326,412)}Toys ’R’ Oos{\b0\c&H25FF24&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H19FF18&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,412,326,414)}Toys ’R’ Oos{\b0\c&H19FF18&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H10FF0F&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,414,326,416)}Toys ’R’ Oos{\b0\c&H10FF0F&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H09FF09&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,416,326,418)}Toys ’R’ Oos{\b0\c&H09FF09&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H05FF05&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,418,326,420)}Toys ’R’ Oos{\b0\c&H05FF05&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H02FF02&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,420,326,422)}Toys ’R’ Oos{\b0\c&H02FF02&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H01FF01&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,422,326,424)}Toys ’R’ Oos{\b0\c&H01FF01&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H00FF00&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,424,326,426)}Toys ’R’ Oos{\b0\c&H00FF00&}
+Dialogue: 1,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\bord0\blur0.5\an5\b1\c&H00FF00&\3c&HFFFFFF&\pos(196.133,392)\shad0\4a&64&\clip(62,426,326,428)}Toys ’R’ Oos{\b0\c&H00FF00&}
+Dialogue: 0,0:12:59.58,0:13:01.61,Nanoha Dialogue2,,0,0,0,,{\blur0.5\an5\b1\c&HFFFFFF&\3c&HFFFFFF&\pos(196.133,392)\xshad-5.0\yshad5.0\4a&86&}Toys ’R’ Oos{\b0}
 Dialogue: 0,0:13:00.77,0:13:01.61,Nanoha Dialogue1,,0,0,0,,This is...
-Dialogue: 0,0:13:01.61,0:13:02.97,Nanoha Dialogue1,,0,0,0,,It's okay, it's okay...
+Dialogue: 0,0:13:01.61,0:13:02.97,Nanoha Dialogue1,,0,0,0,,It’s okay, it’s okay...
 Dialogue: 0,0:13:02.97,0:13:05.97,Nanoha Dialogue1,,0,0,0,,Places like this have materials of the sort...
 Dialogue: 0,0:13:05.97,0:13:06.61,Nanoha Dialogue1,,0,0,0,,Right?
-Dialogue: 0,0:13:11.60,0:13:13.60,Nanoha Dialogue1,,0,0,0,,What's the matter, Vita?
+Dialogue: 0,0:13:11.60,0:13:13.60,Nanoha Dialogue1,,0,0,0,,What’s the matter, Vita?
 Dialogue: 0,0:13:13.60,0:13:15.10,Nanoha Dialogue1,,0,0,0,,Vita?
 Dialogue: 0,0:13:16.70,0:13:17.90,Nanoha Dialogue1,,0,0,0,,This is a nice breeze.
 Dialogue: 0,0:13:17.90,0:13:19.14,Nanoha Dialogue1,,0,0,0,,Really.
-Dialogue: 0,0:13:19.14,0:13:20.54,Nanoha Dialogue1,,0,0,0,,It's such a nice day out.
+Dialogue: 0,0:13:19.14,0:13:20.54,Nanoha Dialogue1,,0,0,0,,It’s such a nice day out.
 Dialogue: 0,0:13:20.54,0:13:22.90,Nanoha Dialogue1,,0,0,0,,The perfect day to go on a stroll!
 Dialogue: 0,0:13:24.71,0:13:25.32,Nanoha Dialogue1,,0,0,0,,Vita...
 Dialogue: 0,0:13:25.90,0:13:28.14,Nanoha Dialogue1,,0,0,0,,You can take it out of the bag now.
@@ -301,131 +301,131 @@ Dialogue: 0,0:14:01.13,0:14:03.28,Nanoha Dialogue1,,0,0,0,,About the Book of Dar
 Dialogue: 0,0:14:03.28,0:14:05.35,Nanoha Dialogue1,,0,0,0,,As soon as you wish it so,
 Dialogue: 0,0:14:05.35,0:14:08.84,Nanoha Dialogue1,,0,0,0,,we can fill the pages of the Book of Darkness,
 Dialogue: 0,0:14:08.84,0:14:12.36,Nanoha Dialogue1,,0,0,0,,and you would gain immense power.
-Dialogue: 0,0:14:12.36,0:14:15.36,Nanoha Dialogue1,,0,0,0,,I'm sure your legs would heal as well.
+Dialogue: 0,0:14:12.36,0:14:15.36,Nanoha Dialogue1,,0,0,0,,I’m sure your legs would heal as well.
 Dialogue: 0,0:14:15.36,0:14:16.96,Nanoha Dialogue1,,0,0,0,,No way.
 Dialogue: 0,0:14:16.96,0:14:19.22,Nanoha Dialogue1,,0,0,0,,To fill the pages of the Book of Darkness,
-Dialogue: 0,0:14:19.22,0:14:22.24,Nanoha Dialogue1,,0,0,0,,you'd have to inconvenience many people, right?
-Dialogue: 0,0:14:23.37,0:14:24.80,Nanoha Dialogue1,,0,0,0,,That's wrong.
-Dialogue: 0,0:14:25.48,0:14:29.74,Nanoha Dialogue1,,0,0,0,,It's wrong to trouble other people for your own selfishness.
-Dialogue: 0,0:14:30.76,0:14:35.60,Nanoha Dialogue1,,0,0,0,,I'm plenty happy as I am right now.
+Dialogue: 0,0:14:19.22,0:14:22.24,Nanoha Dialogue1,,0,0,0,,you’d have to inconvenience many people, right?
+Dialogue: 0,0:14:23.37,0:14:24.80,Nanoha Dialogue1,,0,0,0,,That’s wrong.
+Dialogue: 0,0:14:25.48,0:14:29.74,Nanoha Dialogue1,,0,0,0,,It’s wrong to trouble other people for your own selfishness.
+Dialogue: 0,0:14:30.76,0:14:35.60,Nanoha Dialogue1,,0,0,0,,I’m plenty happy as I am right now.
 Dialogue: 0,0:14:35.60,0:14:39.65,Nanoha Dialogue1,,0,0,0,,Dad and Mom are up in heaven already,
 Dialogue: 0,0:14:39.65,0:14:44.18,Nanoha Dialogue1,,0,0,0,,but my uncle is keeping tabs on the inheritance for me.
-Dialogue: 0,0:14:44.18,0:14:47.44,Nanoha Dialogue1,,0,0,0,,One of your father's friends, was it?
+Dialogue: 0,0:14:44.18,0:14:47.44,Nanoha Dialogue1,,0,0,0,,One of your father’s friends, was it?
 Dialogue: 0,0:14:47.44,0:14:48.53,Nanoha Dialogue1,,0,0,0,,Right.
-Dialogue: 0,0:14:48.53,0:14:51.06,Nanoha Dialogue1,,0,0,0,,Thanks to him, I don't face any troubles in everyday life.
+Dialogue: 0,0:14:48.53,0:14:51.06,Nanoha Dialogue1,,0,0,0,,Thanks to him, I don’t face any troubles in everyday life.
 Dialogue: 0,0:14:51.06,0:14:55.58,Nanoha Dialogue1,,0,0,0,,Besides, I have all of you with me now.
 Dialogue: 0,0:15:04.31,0:15:05.08,Nanoha Dialogue1,,0,0,0,,Hayate!
-Dialogue: 0,0:15:05.46,0:15:07.97,Nanoha Dialogue1,,0,0,0,,Oh, what's up, Vita?
+Dialogue: 0,0:15:05.46,0:15:07.97,Nanoha Dialogue1,,0,0,0,,Oh, what’s up, Vita?
 Dialogue: 0,0:15:07.97,0:15:11.49,Nanoha Dialogue1,,0,0,0,,Hayate, can I eat the ice cream in the freezer?
-Dialogue: 0,0:15:11.49,0:15:14.97,Nanoha Dialogue1,,0,0,0,,You ate that much dinner, yet you're going to eat more?
-Dialogue: 0,0:15:14.97,0:15:18.06,Nanoha Dialogue1,,0,0,0,,Shut up! I'm on a growth spurt!
-Dialogue: 0,0:15:18.06,0:15:20.54,Nanoha Dialogue1,,0,0,0,,Hayate's food is giga-delicious, too!
+Dialogue: 0,0:15:11.49,0:15:14.97,Nanoha Dialogue1,,0,0,0,,You ate that much dinner, yet you’re going to eat more?
+Dialogue: 0,0:15:14.97,0:15:18.06,Nanoha Dialogue1,,0,0,0,,Shut up! I’m on a growth spurt!
+Dialogue: 0,0:15:18.06,0:15:20.54,Nanoha Dialogue1,,0,0,0,,Hayate’s food is giga-delicious, too!
 Dialogue: 0,0:15:20.54,0:15:22.50,Nanoha Dialogue1,,0,0,0,,Oh, all right...
 Dialogue: 0,0:15:22.50,0:15:23.73,Nanoha Dialogue1,,0,0,0,,Just a little bit. Got it?
 Dialogue: 0,0:15:23.73,0:15:24.75,Nanoha Dialogue1,,0,0,0,,Yeah!
 Dialogue: 0,0:15:27.90,0:15:28.90,Nanoha Dialogue1,,0,0,0,,Signum?
 Dialogue: 0,0:15:28.90,0:15:29.54,Nanoha Dialogue1,,0,0,0,,Yes?
-Dialogue: 0,0:15:29.54,0:15:32.77,Nanoha Dialogue1,,0,0,0,,Signum, you're their leader,
+Dialogue: 0,0:15:29.54,0:15:32.77,Nanoha Dialogue1,,0,0,0,,Signum, you’re their leader,
 Dialogue: 0,0:15:32.77,0:15:34.16,Nanoha Dialogue1,,0,0,0,,so promise me one thing.
 Dialogue: 0,0:15:34.16,0:15:35.48,Nanoha Dialogue1,,0,0,0,,Yes?
 Dialogue: 0,0:15:35.48,0:15:38.40,Nanoha Dialogue1,,0,0,0,,Your current master, Hayate Yagami,
 Dialogue: 0,0:15:38.40,0:15:41.27,Nanoha Dialogue1,,0,0,0,,wishes nothing from the Book of Darkness.
 Dialogue: 0,0:15:41.27,0:15:45.92,Nanoha Dialogue1,,0,0,0,,As long as I am your master, forget about the Book of Darkness.
 Dialogue: 0,0:15:45.92,0:15:50.04,Nanoha Dialogue1,,0,0,0,,Your job is to all live together happily in my house.
-Dialogue: 0,0:15:50.04,0:15:52.25,Nanoha Dialogue1,,0,0,0,,That's all.
+Dialogue: 0,0:15:50.04,0:15:52.25,Nanoha Dialogue1,,0,0,0,,That’s all.
 Dialogue: 0,0:15:52.25,0:15:54.44,Nanoha Dialogue1,,0,0,0,,Can you promise me that?
 Dialogue: 0,0:15:55.32,0:15:59.30,Nanoha Dialogue1,,0,0,0,,I so pledge, on my sword as a knight.
 Dialogue: 0,0:16:03.72,0:16:05.75,Nanoha Sign,,0,0,0,,{\fs13\fax-0.3\pos(370,246)\c&H64A7BB&\frz21.27}Uminari University Hospital
-Dialogue: 0,0:16:05.75,0:16:07.94,Nanoha Dialogue1,,0,0,0,,It's life-threatening?
-Dialogue: 0,0:16:07.94,0:16:09.44,Nanoha Dialogue1,,0,0,0,,What's wrong with Hayate?
+Dialogue: 0,0:16:05.75,0:16:07.94,Nanoha Dialogue1,,0,0,0,,It’s life-threatening?
+Dialogue: 0,0:16:07.94,0:16:09.44,Nanoha Dialogue1,,0,0,0,,What’s wrong with Hayate?
 Dialogue: 0,0:16:10.37,0:16:11.94,Nanoha Dialogue1,,0,0,0,,Yes...
-Dialogue: 0,0:16:11.95,0:16:14.38,Nanoha Dialogue1,,0,0,0,,Hayate's legs, for some unknown reason,
+Dialogue: 0,0:16:11.95,0:16:14.38,Nanoha Dialogue1,,0,0,0,,Hayate’s legs, for some unknown reason,
 Dialogue: 0,0:16:14.38,0:16:17.31,Nanoha Dialogue1,,0,0,0,,suffer from neuroparalysis.
 Dialogue: 0,0:16:17.31,0:16:21.96,Nanoha Dialogue1,,0,0,0,,In the past six months,\Nthe paralysis has slowly moved up.
 Dialogue: 0,0:16:21.96,0:16:25.21,Nanoha Dialogue1,,0,0,0,,Especially in the past two months...
 Dialogue: 0,0:16:26.99,0:16:32.07,Nanoha Dialogue1,,0,0,0,,At this rate, it may spread to her organs.
 Dialogue: 0,0:16:33.84,0:16:35.29,Nanoha Dialogue1,,0,0,0,,Why...?!
-Dialogue: 0,0:16:35.29,0:16:36.88,Nanoha Dialogue1,,0,0,0,,Why didn't we notice?!
+Dialogue: 0,0:16:35.29,0:16:36.88,Nanoha Dialogue1,,0,0,0,,Why didn’t we notice?!
 Dialogue: 0,0:16:36.88,0:16:38.50,Nanoha Dialogue1,,0,0,0,,Sorry...
-Dialogue: 0,0:16:38.50,0:16:40.38,Nanoha Dialogue1,,0,0,0,,I'm sorry, I...
-Dialogue: 0,0:16:40.38,0:16:42.34,Nanoha Dialogue1,,0,0,0,,I'm not talking about you!
-Dialogue: 0,0:16:42.34,0:16:44.73,Nanoha Dialogue1,,0,0,0,,I'm talking about myself!
-Dialogue: 0,0:16:46.88,0:16:48.91,Nanoha Dialogue1,,0,0,0,,Mistress Hayate's condition...
+Dialogue: 0,0:16:38.50,0:16:40.38,Nanoha Dialogue1,,0,0,0,,I’m sorry, I...
+Dialogue: 0,0:16:40.38,0:16:42.34,Nanoha Dialogue1,,0,0,0,,I’m not talking about you!
+Dialogue: 0,0:16:42.34,0:16:44.73,Nanoha Dialogue1,,0,0,0,,I’m talking about myself!
+Dialogue: 0,0:16:46.88,0:16:48.91,Nanoha Dialogue1,,0,0,0,,Mistress Hayate’s condition...
 Dialogue: 0,0:16:48.91,0:16:50.42,Nanoha Dialogue1,,0,0,0,,was not an illness.
 Dialogue: 0,0:16:50.78,0:16:53.14,Nanoha Dialogue1,,0,0,0,,It was the curse of\Nthe Book of Darkness.
 Dialogue: 0,0:16:53.14,0:16:57.29,Nanoha Dialogue1,,0,0,0,,The Book of Darkness, with\NMistress Hayate ever since she was born,
-Dialogue: 0,0:16:57.29,0:17:00.39,Nanoha Dialogue1,,0,0,0,,was closely linked to our mistress' body.
+Dialogue: 0,0:16:57.29,0:17:00.39,Nanoha Dialogue1,,0,0,0,,was closely linked to our mistress’ body.
 Dialogue: 0,0:17:01.93,0:17:04.40,Nanoha Dialogue1,,0,0,0,,The magical power\Nthat had long been suppressed
-Dialogue: 0,0:17:04.40,0:17:08.10,Nanoha Dialogue1,,0,0,0,,ate away at our mistress' body, as she had a young Linker Core,
+Dialogue: 0,0:17:04.40,0:17:08.10,Nanoha Dialogue1,,0,0,0,,ate away at our mistress’ body, as she had a young Linker Core,
 Dialogue: 0,0:17:08.10,0:17:10.43,Nanoha Dialogue1,,0,0,0,,not only getting in the way of healthy physical activity,
 Dialogue: 0,0:17:10.43,0:17:13.29,Nanoha Dialogue1,,0,0,0,,but threatening basic operations for survival.
 Dialogue: 0,0:17:15.42,0:17:21.87,Nanoha Dialogue1,,0,0,0,,And when our mistress met her first awakening, the process accelerated.
 Dialogue: 0,0:17:26.92,0:17:30.52,Nanoha Dialogue1,,0,0,0,,That meant our mistress was expending her mana,
 Dialogue: 0,0:17:30.52,0:17:31.99,Nanoha Dialogue1,,0,0,0,,though only a very tiny amount,
 Dialogue: 0,0:17:31.99,0:17:34.59,Nanoha Dialogue1,,0,0,0,,to sustain the activities of the four of us.
-Dialogue: 0,0:17:34.59,0:17:36.94,Nanoha Dialogue1,,0,0,0,,We can't possibly claim to have had nothing to do with it.
+Dialogue: 0,0:17:34.59,0:17:36.94,Nanoha Dialogue1,,0,0,0,,We can’t possibly claim to have had nothing to do with it.
 Dialogue: 0,0:17:41.00,0:17:42.70,Nanoha Dialogue1,,0,0,0,,We have to save her...
 Dialogue: 0,0:17:42.70,0:17:44.96,Nanoha Dialogue1,,0,0,0,,We have to save Hayate!
-Dialogue: 0,0:17:44.96,0:17:48.34,Nanoha Dialogue1,,0,0,0,,Shamal! Shamal, you're good at the healing stuff, right?!
+Dialogue: 0,0:17:44.96,0:17:48.34,Nanoha Dialogue1,,0,0,0,,Shamal! Shamal, you’re good at the healing stuff, right?!
 Dialogue: 0,0:17:48.34,0:17:49.61,Nanoha Dialogue1,,0,0,0,,An illness like that...
 Dialogue: 0,0:17:49.61,0:17:51.46,Nanoha Dialogue1,,0,0,0,,Fix it!
-Dialogue: 0,0:17:51.46,0:17:53.34,Nanoha Dialogue1,,0,0,0,,I'm sorry...
+Dialogue: 0,0:17:51.46,0:17:53.34,Nanoha Dialogue1,,0,0,0,,I’m sorry...
 Dialogue: 0,0:17:53.34,0:17:55.94,Nanoha Dialogue1,,0,0,0,,My powers cannot...
 Dialogue: 0,0:17:56.62,0:17:58.09,Nanoha Dialogue1,,0,0,0,,Why...
 Dialogue: 0,0:17:58.09,0:18:00.21,Nanoha Dialogue1,,0,0,0,,Why is this happening?!
 Dialogue: 0,0:18:02.05,0:18:03.48,Nanoha Dialogue1,,0,0,0,,Signum...
 Dialogue: 0,0:18:04.60,0:18:08.77,Nanoha Dialogue1,,0,0,0,,We can do so little.
 Dialogue: 0,0:18:08.77,0:18:10.55,Nanoha Dialogue1,,0,0,0,,However...
-Dialogue: 0,0:18:16.64,0:18:19.41,Nanoha Narration1,,0,0,0,,Our mistress' body is being poisoned
+Dialogue: 0,0:18:16.64,0:18:19.41,Nanoha Narration1,,0,0,0,,Our mistress’ body is being poisoned
 Dialogue: 0,0:18:19.41,0:18:21.72,Nanoha Narration1,,0,0,0,,by the curse of the Book of Darkness.
 Dialogue: 0,0:18:21.72,0:18:24.14,Nanoha Narration1,,0,0,0,,If Hayate were to truly awaken
 Dialogue: 0,0:18:24.14,0:18:27.46,Nanoha Narration1,,0,0,0,,as the mistress of the Book of Darkness...
-Dialogue: 0,0:18:27.46,0:18:30.25,Nanoha Narration1,,0,0,0,,...our mistress' affliction will vanish.
+Dialogue: 0,0:18:27.46,0:18:30.25,Nanoha Narration1,,0,0,0,,...our mistress’ affliction will vanish.
 Dialogue: 0,0:18:30.25,0:18:33.21,Nanoha Narration1,,0,0,0,,At the least, it would stop progressing!
-Dialogue: 0,0:18:33.21,0:18:36.05,Nanoha Narration1,,0,0,0,,I don't want to tarnish Hayate's future with blood,
-Dialogue: 0,0:18:36.05,0:18:38.02,Nanoha Narration1,,0,0,0,,so I won't kill anyone.
-Dialogue: 0,0:18:38.02,0:18:41.95,Nanoha Narration1,,0,0,0,,But I'll stop at nothing else!
+Dialogue: 0,0:18:33.21,0:18:36.05,Nanoha Narration1,,0,0,0,,I don’t want to tarnish Hayate’s future with blood,
+Dialogue: 0,0:18:36.05,0:18:38.02,Nanoha Narration1,,0,0,0,,so I won’t kill anyone.
+Dialogue: 0,0:18:38.02,0:18:41.95,Nanoha Narration1,,0,0,0,,But I’ll stop at nothing else!
 Dialogue: 0,0:18:43.68,0:18:46.62,Nanoha Narration1,,0,0,0,,I am terribly sorry, my mistress.
 Dialogue: 0,0:18:46.62,0:18:50.70,Nanoha Narration1,,0,0,0,,Just this once, we will break the vow we have made to you.
 Dialogue: 0,0:19:11.88,0:19:14.88,Nanoha Dialogue1,,0,0,0,,Please forgive us for this wrongdoing!
 Dialogue: 0,0:19:22.33,0:19:24.85,Nanoha Narration1,,0,0,0,,Everyone, they look so good on you!
 Dialogue: 0,0:19:24.85,0:19:26.44,Nanoha Narration1,,0,0,0,,Time for dinner!
 Dialogue: 0,0:19:35.00,0:19:36.05,Nanoha Dialogue1,,0,0,0,,Crap...
-Dialogue: 0,0:19:36.05,0:19:41.99,Nanoha Dialogue1,,0,0,0,,You completely trashed the knight's outfit Hayate gave you.
+Dialogue: 0,0:19:36.05,0:19:41.99,Nanoha Dialogue1,,0,0,0,,You completely trashed the knight’s outfit Hayate gave you.
 Dialogue: 0,0:19:43.21,0:19:45.49,Nanoha Dialogue1,,0,0,0,,Well, the clothes will heal,
-Dialogue: 0,0:19:45.49,0:19:49.52,Nanoha Dialogue1,,0,0,0,,and I got a decent amount of pages, so I guess it's okay.
+Dialogue: 0,0:19:45.49,0:19:49.52,Nanoha Dialogue1,,0,0,0,,and I got a decent amount of pages, so I guess it’s okay.
 Dialogue: 0,0:19:54.65,0:19:55.50,Nanoha Dialogue1,,0,0,0,,It...
-Dialogue: 0,0:19:55.50,0:19:56.80,Nanoha Dialogue1,,0,0,0,,...doesn't...
+Dialogue: 0,0:19:55.50,0:19:56.80,Nanoha Dialogue1,,0,0,0,,...doesn’t...
 Dialogue: 0,0:19:56.80,0:19:58.46,Nanoha Dialogue1,,0,0,0,,...hurt!
-Dialogue: 0,0:19:58.46,0:20:00.92,Nanoha Dialogue1,,0,0,0,,It doesn't hurt!
-Dialogue: 0,0:20:00.92,0:20:03.69,Nanoha Dialogue1,,0,0,0,,This doesn't hurt at all!
-Dialogue: 0,0:20:03.69,0:20:07.93,Nanoha Dialogue1,,0,0,0,,It's not like the past.
+Dialogue: 0,0:19:58.46,0:20:00.92,Nanoha Dialogue1,,0,0,0,,It doesn’t hurt!
+Dialogue: 0,0:20:00.92,0:20:03.69,Nanoha Dialogue1,,0,0,0,,This doesn’t hurt at all!
+Dialogue: 0,0:20:03.69,0:20:07.93,Nanoha Dialogue1,,0,0,0,,It’s not like the past.
 Dialogue: 0,0:20:11.27,0:20:13.12,Nanoha Dialogue1,,0,0,0,,When I get home,
-Dialogue: 0,0:20:13.12,0:20:18.77,Nanoha Dialogue1,,0,0,0,,I'm sure that I have a warm bath—and Hayate's food—waiting for me.
+Dialogue: 0,0:20:13.12,0:20:18.77,Nanoha Dialogue1,,0,0,0,,I’m sure that I have a warm bath—and Hayate’s food—waiting for me.
 Dialogue: 0,0:20:18.77,0:20:23.86,Nanoha Dialogue1,,0,0,0,,Sweet Hayate is waiting for me with a smile!
 Dialogue: 0,0:20:23.86,0:20:25.10,Nanoha Dialogue1,,0,0,0,,Oh yeah!
-Dialogue: 0,0:20:25.10,0:20:29.14,Nanoha Dialogue1,,0,0,0,,I'm super happy!
+Dialogue: 0,0:20:25.10,0:20:29.14,Nanoha Dialogue1,,0,0,0,,I’m super happy!
 Dialogue: 0,0:20:30.11,0:20:31.39,Nanoha Dialogue1,,0,0,0,,So!
-Dialogue: 0,0:20:35.26,0:20:38.58,Nanoha Dialogue1,,0,0,0,,This doesn't hurt one bit!
+Dialogue: 0,0:20:35.26,0:20:38.58,Nanoha Dialogue1,,0,0,0,,This doesn’t hurt one bit!
 Dialogue: 0,0:20:54.26,0:20:57.81,Nanoha Dialogue1,,0,0,0,,The three of us came together, but is it all right?
 Dialogue: 0,0:20:57.81,0:21:01.34,Nanoha Dialogue1,,0,0,0,,Well, we left Allex to do the monitoring.
 Dialogue: 0,0:21:01.34,0:21:03.94,Nanoha Dialogue1,,0,0,0,,We just have to investigate the Book of Darkness, right?
 Dialogue: 0,0:21:03.94,0:21:04.88,Nanoha Dialogue1,,0,0,0,,Yeah.
-Dialogue: 0,0:21:04.88,0:21:07.56,Nanoha Dialogue1,,0,0,0,,The two we're about to meet are in the know for that kind of thing.
+Dialogue: 0,0:21:04.88,0:21:07.56,Nanoha Dialogue1,,0,0,0,,The two we’re about to meet are in the know for that kind of thing.
 Dialogue: 0,0:21:09.58,0:21:10.82,Nanoha Dialogue1,,0,0,0,,The Liese....
-Dialogue: 0,0:21:10.82,0:21:13.15,Nanoha Dialogue1,,0,0,0,,It's been a while. It's me, Chrono.
+Dialogue: 0,0:21:10.82,0:21:13.15,Nanoha Dialogue1,,0,0,0,,It’s been a while. It’s me, Chrono.
 Dialogue: 0,0:21:13.15,0:21:14.60,Nanoha Dialogue1,,0,0,0,,Wow!
 Dialogue: 0,0:21:15.55,0:21:16.69,Nanoha Dialogue1,,0,0,0,,Chroboy!
 Dialogue: 0,0:21:16.69,0:21:19.09,Nanoha Dialogue1,,0,0,0,,Wow, long time no see!
 Dialogue: 0,0:21:19.09,0:21:20.14,Nanoha Dialogue1,,0,0,0,,Lotte!
 Dialogue: 0,0:21:21.08,0:21:22.23,Nanoha Dialogue1,,0,0,0,,Lemme go!
 Dialogue: 0,0:21:22.23,0:21:23.53,Nanoha Dialogue1,,0,0,0,,What was that?
-Dialogue: 0,0:21:23.53,0:21:27.23,Nanoha Dialogue1,,0,0,0,,You're being so cold to the trainers you haven't seen in a while!
+Dialogue: 0,0:21:23.53,0:21:27.23,Nanoha Dialogue1,,0,0,0,,You’re being so cold to the trainers you haven’t seen in a while!
 Dialogue: 0,0:21:28.63,0:21:30.62,Nanoha Dialogue1,,0,0,0,,Aria! Do something about this!
-Dialogue: 0,0:21:30.62,0:21:34.20,Nanoha Dialogue1,,0,0,0,,It's been a while, so let her do what she wants.
+Dialogue: 0,0:21:30.62,0:21:34.20,Nanoha Dialogue1,,0,0,0,,It’s been a while, so let her do what she wants.
 Dialogue: 0,0:21:34.20,0:21:36.31,Nanoha Dialogue1,,0,0,0,,Besides, well, you know...
-Dialogue: 0,0:21:36.31,0:21:37.57,Nanoha Dialogue1,,0,0,0,,It's not that you hate it, right?
-Dialogue: 0,0:21:37.57,0:21:38.84,Nanoha Dialogue1,,0,0,0,,Of course that's not—
+Dialogue: 0,0:21:36.31,0:21:37.57,Nanoha Dialogue1,,0,0,0,,It’s not that you hate it, right?
+Dialogue: 0,0:21:37.57,0:21:38.84,Nanoha Dialogue1,,0,0,0,,Of course that’s not—
 Dialogue: 0,0:21:41.68,0:21:42.98,Nanoha Dialogue1,,0,0,0,,Hey! Hey!
 Dialogue: 0,0:21:42.98,0:21:45.22,Nanoha Dialogue1,,0,0,0,,Liesearia, long time no see.
 Dialogue: 0,0:21:45.22,0:21:46.85,Nanoha Dialogue1,,0,0,0,,Yeah, long time no see!
@@ -433,21 +433,21 @@ Dialogue: 0,0:21:46.22,0:21:48.22,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Get away
 Dialogue: 0,0:21:46.85,0:21:49.35,Nanoha Dialogue1,,0,0,0,,Lieselotte is as always...
 Dialogue: 0,0:21:48.82,0:21:51.29,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Do something about this, dammit!
 Dialogue: 0,0:21:49.35,0:21:51.29,Nanoha Dialogue1,,0,0,0,,Well, despite being my twin,
-Dialogue: 0,0:21:51.29,0:21:53.40,Nanoha Dialogue1,,0,0,0,,there's no accounting for some things.
+Dialogue: 0,0:21:51.29,0:21:53.40,Nanoha Dialogue1,,0,0,0,,there’s no accounting for some things.
 Dialogue: 0,0:21:54.50,0:21:55.83,Nanoha Dialogue1,,0,0,0,,Thanks for the meal!
 Dialogue: 0,0:21:55.83,0:21:58.00,Nanoha Dialogue1,,0,0,0,,Lieselotte, long time no see.
 Dialogue: 0,0:22:01.37,0:22:02.90,Nanoha Dialogue1,,0,0,0,,Amy! Long time no see!
-Dialogue: 0,0:22:03.48,0:22:06.42,Nanoha Dialogue1,,0,0,0,,There's a tasty-looking little mouse-boy here...
+Dialogue: 0,0:22:03.48,0:22:06.42,Nanoha Dialogue1,,0,0,0,,There’s a tasty-looking little mouse-boy here...
 Dialogue: 0,0:22:07.50,0:22:09.43,Nanoha Dialogue1,,0,0,0,,Who is it?
 Dialogue: 0,0:22:12.24,0:22:16.42,Nanoha Dialogue1,,0,0,0,,How did someone like that become my trainer?
 Dialogue: 0,0:22:17.31,0:22:18.96,Nanoha Dialogue1,,0,0,0,,Oh, I see.
-Dialogue: 0,0:22:18.96,0:22:21.16,Nanoha Dialogue1,,0,0,0,,You're searching for the Book of Darkness, right?
+Dialogue: 0,0:22:18.96,0:22:21.16,Nanoha Dialogue1,,0,0,0,,You’re searching for the Book of Darkness, right?
 Dialogue: 0,0:22:21.16,0:22:23.40,Nanoha Dialogue1,,0,0,0,,I heard about the situation from Father.
-Dialogue: 0,0:22:23.40,0:22:25.76,Nanoha Dialogue1,,0,0,0,,We'll be as much help as we can.
-Dialogue: 0,0:22:25.76,0:22:27.65,Nanoha Dialogue1,,0,0,0,,We'll be counting on you.
+Dialogue: 0,0:22:23.40,0:22:25.76,Nanoha Dialogue1,,0,0,0,,We’ll be as much help as we can.
+Dialogue: 0,0:22:25.76,0:22:27.65,Nanoha Dialogue1,,0,0,0,,We’ll be counting on you.
 Dialogue: 0,0:22:27.65,0:22:29.24,Nanoha Dialogue1,,0,0,0,,Amy...
 Dialogue: 0,0:22:29.52,0:22:31.57,Nanoha Dialogue1,,0,0,0,,Who are these people?
-Dialogue: 0,0:22:31.57,0:22:36.16,Nanoha Dialogue1,,0,0,0,,They're the trainers who taught\NChrono magic and melee combat.
+Dialogue: 0,0:22:31.57,0:22:36.16,Nanoha Dialogue1,,0,0,0,,They’re the trainers who taught\NChrono magic and melee combat.
 Dialogue: 0,0:22:36.16,0:22:39.42,Nanoha Dialogue1,,0,0,0,,Liesearia, in charge of magical training,
 Dialogue: 0,0:22:39.42,0:22:43.16,Nanoha Dialogue1,,0,0,0,,and Lieselotte, in charge of melee combat training.
 Dialogue: 0,0:22:43.17,0:22:46.05,Nanoha Dialogue1,,0,0,0,,They are twin familiars of Admiral Graham,
@@ -457,15 +457,15 @@ Dialogue: 0,0:22:53.08,0:22:54.82,Nanoha Dialogue1,,0,0,0,,It would be really re
 Dialogue: 0,0:22:54.82,0:22:57.55,Nanoha Dialogue1,,0,0,0,,if the two of you could come out to the outpost,
 Dialogue: 0,0:22:57.55,0:22:59.28,Nanoha Dialogue1,,0,0,0,,but you have jobs right now, right?
 Dialogue: 0,0:22:59.28,0:23:03.43,Nanoha Dialogue1,,0,0,0,,Well, we still have to teach a few new armed operatives.
-Dialogue: 0,0:23:03.43,0:23:07.36,Nanoha Dialogue1,,0,0,0,,So we can't stay over on your end for too long. Sorry.
+Dialogue: 0,0:23:03.43,0:23:07.36,Nanoha Dialogue1,,0,0,0,,So we can’t stay over on your end for too long. Sorry.
 Dialogue: 0,0:23:07.36,0:23:12.16,Nanoha Dialogue1,,0,0,0,,No, actually, what I wanted to ask of you was about him.
 Dialogue: 0,0:23:12.98,0:23:14.26,Nanoha Dialogue1,,0,0,0,,Can I eat him?
 Dialogue: 0,0:23:15.07,0:23:15.74,Nanoha Dialogue1,,0,0,0,,Sure.
-Dialogue: 0,0:23:15.74,0:23:18.27,Nanoha Dialogue1,,0,0,0,,When you're done with everything, do what you want with him.
+Dialogue: 0,0:23:15.74,0:23:18.27,Nanoha Dialogue1,,0,0,0,,When you’re done with everything, do what you want with him.
 Dialogue: 0,0:23:18.27,0:23:20.62,Nanoha Dialogue1,,0,0,0,,Hey, wait a minute!
-Dialogue: 0,0:23:23.55,0:23:25.38,Nanoha Dialogue1,,0,0,0,,So, what's your request?
+Dialogue: 0,0:23:23.55,0:23:25.38,Nanoha Dialogue1,,0,0,0,,So, what’s your request?
 Dialogue: 0,0:23:26.52,0:23:30.76,Nanoha Dialogue1,,0,0,0,,I would like you to help him in\Nhis research in the Infinity Library.
-Dialogue: 0,0:23:36.47,0:23:41.64,Nanoha ED,,0,0,0,,I won't forget even when I grow up
+Dialogue: 0,0:23:36.47,0:23:41.64,Nanoha ED,,0,0,0,,I won’t forget even when I grow up
 Dialogue: 0,0:23:41.64,0:23:49.57,Nanoha ED,,0,0,0,,My love, the day that we came across each other
 Dialogue: 0,0:23:50.26,0:23:54.35,Nanoha ED,,0,0,0,,In this place, where flowers bloom intensely
 Dialogue: 0,0:23:54.35,0:23:57.86,Nanoha ED,,0,0,0,,I kept you in tears
@@ -477,18 +477,18 @@ Dialogue: 0,0:24:28.36,0:24:34.06,Nanoha ED,,0,0,0,,I got lost, and I wanted to 
 Dialogue: 0,0:24:34.06,0:24:37.72,Nanoha ED,,0,0,0,,My true wishes, my true feelings
 Dialogue: 0,0:24:37.72,0:24:42.50,Nanoha ED,,0,0,0,,Maybe you taught those to me
 Dialogue: 0,0:24:42.50,0:24:46.64,Nanoha ED,,0,0,0,,Guarded by such kind feelings
-Dialogue: 0,0:24:46.64,0:24:50.21,Nanoha ED,,0,0,0,,I'm sure I was spoiled for all this time
+Dialogue: 0,0:24:46.64,0:24:50.21,Nanoha ED,,0,0,0,,I’m sure I was spoiled for all this time
 Dialogue: 0,0:24:50.21,0:24:53.88,Nanoha ED,,0,0,0,,How you thought dear of me
-Dialogue: 0,0:24:53.88,0:24:59.79,Nanoha ED,,0,0,0,,My love, I won't forget all of you
+Dialogue: 0,0:24:53.88,0:24:59.79,Nanoha ED,,0,0,0,,My love, I won’t forget all of you
 Dialogue: 1,0:25:06.89,0:25:10.88,Nanoha Title2,,0,0,0,,{\fad(0,820)\bord0\blur0.5\pos(557.08,154)}Next Episode Preview
 Dialogue: 0,0:25:06.89,0:25:10.88,Nanoha Title2,,0,0,0,,{\fad(0,820)\blur0.5\c&HFFFFFF&\pos(557.08,154)\t(3170,3990,\1a&HFF&)}Next Episode Preview
-Dialogue: 0,0:25:10.46,0:25:11.76,Nanoha Narration1,,0,0,0,,Thanks to Yuuno's research,
+Dialogue: 0,0:25:10.46,0:25:11.76,Nanoha Narration1,,0,0,0,,Thanks to Yuuno’s research,
 Dialogue: 0,0:25:11.76,0:25:13.17,Nanoha Narration1,,0,0,0,,the truth of the Book of Darkness
 Dialogue: 0,0:25:13.17,0:25:14.87,Nanoha Narration1,,0,0,0,,is becoming clearer and clearer!
 Dialogue: 0,0:25:14.87,0:25:17.84,Nanoha Narration1,,0,0,0,,How my serious duel with\NSignum will turn out...
 Dialogue: 0,0:25:17.84,0:25:21.24,Nanoha Narration1,,0,0,0,,And that masked man shows up again?!
-Dialogue: 0,0:25:21.24,0:25:24.62,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha A's:{\i1}
+Dialogue: 0,0:25:21.24,0:25:24.62,Nanoha Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha A’s:{\i1}
 Dialogue: 0,0:25:24.62,0:25:28.92,Nanoha Narration1,,0,0,0,,Episode 7: With the Broken Past and Present
 Dialogue: 0,0:25:29.48,0:25:32.01,Nanoha Narration1,,0,0,0,,Drive Ignition!
-Dialogue: 1,0:25:31.99,0:25:37.03,Nanoha A's Title2,,0,0,0,,{\an5\pos(476,480)\blur0.5\bord0}With the Broken Past and Present
-Dialogue: 0,0:25:31.99,0:25:37.03,Nanoha A's Title2,,0,0,0,,{\an5\pos(476,480)\blur0.5\c&HFFFFFF&}With the Broken Past and Present
+Dialogue: 1,0:25:31.99,0:25:37.03,Nanoha A’s Title2,,0,0,0,,{\an5\pos(476,480)\blur0.5\bord0}With the Broken Past and Present
+Dialogue: 0,0:25:31.99,0:25:37.03,Nanoha A’s Title2,,0,0,0,,{\an5\pos(476,480)\blur0.5\c&HFFFFFF&}With the Broken Past and Present
