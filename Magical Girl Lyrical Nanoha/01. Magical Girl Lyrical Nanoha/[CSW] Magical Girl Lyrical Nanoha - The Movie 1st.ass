@@ -18,9 +18,9 @@ Video File: ../../../mnt/archive/[Doki] Mahou Shoujo Lyrical Nanoha The Movie 1s
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 1341
-Active Line: 1346
-Video Position: 186586
+Scroll Position: 1281
+Active Line: 1286
+Video Position: 177188
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -652,7 +652,7 @@ Dialogue: 0,0:58:58.47,0:59:00.53,NanohaW Device1,engrish,0,0,0,,Divide energy.
 Dialogue: 0,0:59:09.27,0:59:10.58,NanohaW Device1,engrish,0,0,0,,Charging.
 Dialogue: 0,0:59:12.32,0:59:13.84,NanohaW Device1,engrish,0,0,0,,Charging completed.
 Dialogue: 0,0:59:15.43,0:59:18.32,NanohaW Dialogue1,,0,0,0,,We’ll split them evenly, right down the middle.
-Dialogue: 0,0:59:30.67,0:59:33.51,NanohaW Dialogue1,,0,0,0,,Yuuno and Arf are stopping them for us.
+Dialogue: 0,0:59:30.67,0:59:33.51,NanohaW Dialogue1,,0,0,0,,Yuuno and Miss Arf are stopping them for us.
 Dialogue: 0,0:59:33.51,0:59:35.28,NanohaW Dialogue1,,0,0,0,,So now’s our chance!
 Dialogue: 0,0:59:35.28,0:59:37.76,NanohaW Dialogue1,,0,0,0,,We’ll seal them all on two!
 Dialogue: 0,0:59:38.26,0:59:39.62,NanohaW Device1,engrish,0,0,0,,Cannon Mode
@@ -760,7 +760,7 @@ Dialogue: 0,1:08:11.19,1:08:11.86,NanohaW Dialogue1,,0,0,0,,A dog?
 Dialogue: 0,1:08:11.86,1:08:15.60,NanohaW Dialogue1,,0,0,0,,Yeah. She was really big, and her fur was orange.
 Dialogue: 0,1:08:15.60,1:08:17.86,NanohaW Dialogue1,,0,0,0,,She was a breed that I’d never seen before.
 Dialogue: 0,1:08:17.86,1:08:21.62,NanohaW Dialogue1,,0,0,0,,And she had a red jewel right here, on her forehead.
-Dialogue: 0,1:08:28.29,1:08:30.12,NanohaW Narration1,,0,0,0,,I knew it, it’s you, Arf!
+Dialogue: 0,1:08:28.29,1:08:30.12,NanohaW Narration1,,0,0,0,,I knew it, it’s you, Miss Arf!
 Dialogue: 0,1:08:31.00,1:08:32.13,NanohaW Narration1,,0,0,0,,You, huh?
 Dialogue: 0,1:08:32.13,1:08:35.77,NanohaW Narration1,,0,0,0,,How did you get hurt? Is Fate okay?
 Dialogue: 0,1:08:36.37,1:08:38.38,NanohaW Dialogue1,,0,0,0,,Uh-oh... is she okay?
@@ -1213,7 +1213,7 @@ Dialogue: 0,1:53:48.30,1:53:53.14,NanohaW Dialogue1,,0,0,0,,The dimensional trem
 Dialogue: 0,1:53:53.14,1:53:55.20,NanohaW Dialogue1,,0,0,0,,Roger that.
 Dialogue: 0,1:54:00.86,1:54:02.19,NanohaW Dialogue1,,0,0,0,,Chrono...
 Dialogue: 0,1:54:02.19,1:54:03.93,NanohaW Dialogue1,,0,0,0,,Is something the matter?
-Dialogue: 0,1:54:03.93,1:54:06.20,NanohaW Dialogue1,,0,0,0,,Where are Fate and Arf?
+Dialogue: 0,1:54:03.93,1:54:06.20,NanohaW Dialogue1,,0,0,0,,Where are Fate and Miss Arf?
 Dialogue: 0,1:54:07.11,1:54:12.08,NanohaW Dialogue1,,0,0,0,,I’m sorry. The two of them are material witnesses in this case.
 Dialogue: 0,1:54:12.08,1:54:15.75,NanohaW Dialogue1,,0,0,0,,They’re being kept in isolation.
 Dialogue: 0,1:54:15.75,1:54:17.46,NanohaW Dialogue1,,0,0,0,,I can’t authorize you to see them.
@@ -1318,14 +1318,14 @@ Dialogue: 0,2:02:30.28,2:02:32.66,NanohaW Dialogue1,,0,0,0,,Thank you, Nanoha.
 Dialogue: 0,2:02:32.66,2:02:34.91,NanohaW Dialogue1,,0,0,0,,Yes, Fate...
 Dialogue: 0,2:02:34.91,2:02:36.96,NanohaW Dialogue1,,0,0,0,,We’ll meet again.
 Dialogue: 0,2:02:36.96,2:02:39.25,NanohaW Dialogue1,,0,0,0,,Yeah, I know we will.
-Dialogue: 0,2:02:44.61,2:02:47.87,NanohaW Dialogue1,,0,0,0,,Thank you! You take care too, Arf.
+Dialogue: 0,2:02:44.61,2:02:47.87,NanohaW Dialogue1,,0,0,0,,Thank you! You take care too, Miss Arf.
 Dialogue: 0,2:02:47.87,2:02:51.43,NanohaW Dialogue1,,0,0,0,,I will. Thanks for everything, Nanoha, Yuuno.
 Dialogue: 0,2:02:51.43,2:02:53.56,NanohaW Dialogue1,,0,0,0,,I should say goodbye as well.
 Dialogue: 0,2:02:53.56,2:02:55.16,NanohaW Dialogue1,,0,0,0,,I hope I see you soon too, Chrono.
 Dialogue: 0,2:02:55.16,2:02:55.93,NanohaW Dialogue1,,0,0,0,,Sure.
 Dialogue: 0,2:03:05.19,2:03:07.70,NanohaW Dialogue1,,0,0,0,,Bye-bye! Until we meet again.
 Dialogue: 0,2:03:07.70,2:03:09.04,NanohaW Dialogue1,,0,0,0,,Chrono.
-Dialogue: 0,2:03:10.18,2:03:11.99,NanohaW Dialogue1,,0,0,0,,Arf.
+Dialogue: 0,2:03:10.18,2:03:11.99,NanohaW Dialogue1,,0,0,0,,Miss Arf.
 Dialogue: 0,2:03:12.68,2:03:14.30,NanohaW Dialogue1,,0,0,0,,Fate.
 Dialogue: 0,2:03:50.20,2:03:51.87,NanohaW Dialogue1,,0,0,0,,Nanoha?
 Dialogue: 0,2:03:53.82,2:03:56.41,NanohaW Dialogue1,,0,0,0,,Yeah, I’m fine.

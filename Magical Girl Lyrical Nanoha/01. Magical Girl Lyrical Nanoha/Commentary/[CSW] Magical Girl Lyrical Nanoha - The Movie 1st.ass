@@ -16,9 +16,9 @@ Video File: ../../../../mnt/archive/[Doki] Mahou Shoujo Lyrical Nanoha The Movie
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 240
-Active Line: 245
-Video Position: 22518
+Scroll Position: 907
+Active Line: 912
+Video Position: 85432
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -951,7 +951,7 @@ Dialogue: 0,0:59:09.28,0:59:11.79,NanohaW Vivio,,0,0,0,,Scythe blade, revived!
 Dialogue: 0,0:59:11.79,0:59:15.09,NanohaW Teana,,0,0,0,,Subaru and Vivio are synchronizing as usual.
 Dialogue: 0,0:59:15.09,0:59:17.55,NanohaW Nanoha,,0,0,0,,I’m happy you two are getting along so well.
 Dialogue: 0,0:59:17.55,0:59:23.21,NanohaW Subaru,,0,0,0,,And when Chief Yuuno’s in trouble, Arf comes to the rescue\Nwith a Chain Bind! What an exciting turn!
-Dialogue: 0,0:59:23.21,0:59:26.82,NanohaW Vivio,,0,0,0,,It’s sort of funny that Mama used to talk about Arf\Nlike she’s her superior or something.{fuck honorifics, part the fourth. There’s no good way to translate this, especially since I’ve _just_ scrubbed out all the "Miss Arf" from my latest version of the series’ subtitles because nobody fucking talks like that}
+Dialogue: 0,0:59:23.21,0:59:26.82,NanohaW Vivio,,0,0,0,,It’s sort of funny that\NMama used to call her “Miss Arf”.{fuck honorifics, part the fourth. I wanted to avoid using "Miss Arf" anywhere, but the workaround I had sucked, so I actually had to go back and edit the scripts for not just the main movie but the series to include "Miss Arf".}
 Dialogue: 0,0:59:27.92,0:59:30.68,NanohaW Nanoha,,0,0,0,,It’s because she looked like she was older.
 Dialogue: 0,0:59:30.68,0:59:35.01,NanohaW Vivio,,0,0,0,,And this is where the two of you go\N“One, two!” and seal all of them in one hit, right?
 Dialogue: 0,0:59:35.01,0:59:38.27,NanohaW Teana,,0,0,0,,Fate didn’t talk at all in this scene, did she?

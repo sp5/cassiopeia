@@ -18,9 +18,9 @@ Video File: ../../../../mnt/archive/[Doki] Mahou Shoujo Lyrical Nanoha The Movie
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 2378
-Active Line: 2383
-Video Position: 185676
+Scroll Position: 196
+Active Line: 198
+Video Position: 12312
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -250,7 +250,7 @@ Dialogue: 0,0:08:07.12,0:08:15.31,NanohaW Fate,,0,0,0,,It was my first time ever
 Dialogue: 0,0:08:15.31,0:08:18.31,NanohaW Einhard,,0,0,0,,But everyone is really welcoming you.
 Dialogue: 0,0:08:18.31,0:08:21.52,NanohaW Fate,,0,0,0,,Yeah, I guess they were excited.
 Dialogue: 0,0:08:21.52,0:08:25.78,NanohaW Vivio,,0,0,0,,Now the scene’s changed to Lindy’s residence.
-Dialogue: 0,0:08:25.78,0:08:28.75,NanohaW Corona,,0,0,0,,Arf was still big back then, huh?
+Dialogue: 0,0:08:25.78,0:08:28.75,NanohaW Corona,,0,0,0,,Miss Arf was still big back then, huh?
 Dialogue: 0,0:08:28.75,0:08:34.35,NanohaW Vivio,,0,0,0,,We’ve only ever seen Arf in her small form,\Nso this is sort of strange.
 Dialogue: 0,0:08:34.35,0:08:38.22,NanohaW Nanoha,,0,0,0,,Wait, Rio and Einhard,\Ndo you know about Arf?
 Dialogue: 0,0:08:38.22,0:08:40.69,NanohaW Rio,,0,0,0,,I heard about her from Erio and Caro!
@@ -341,7 +341,7 @@ Dialogue: 0,0:13:33.95,0:13:38.01,NanohaW Vivio,,0,0,0,,And through you, Mama, i
 Dialogue: 0,0:13:38.01,0:13:40.15,NanohaW Nanoha,,0,0,0,,Yuuno’s really amazing!
 Dialogue: 0,0:13:43.87,0:13:46.93,NanohaW Rio,,0,0,0,,Oh, it’s time for that cute part!
 Dialogue: 0,0:13:46.93,0:13:48.35,NanohaW Fate,,0,0,0,,Cute part?
-Dialogue: 0,0:13:48.35,0:13:50.86,NanohaW Rio,,0,0,0,,Arf’s puppy form!
+Dialogue: 0,0:13:48.35,0:13:50.86,NanohaW Rio,,0,0,0,,Miss Arf’s puppy form!
 Dialogue: 0,0:13:50.86,0:13:52.65,NanohaW Corona,,0,0,0,,She’s so cute!
 Dialogue: 0,0:13:52.65,0:13:53.66,NanohaW Vivio,,0,0,0,,Right?
 Dialogue: 0,0:13:53.66,0:13:56.09,NanohaW Einhard,,0,0,0,,She’s wagging her tail.
@@ -423,7 +423,7 @@ Dialogue: 0,0:17:59.04,0:18:01.97,NanohaW Lutecia,,0,0,0,,Here comes the Book of
 Dialogue: 0,0:18:01.97,0:18:06.37,NanohaW Vita,,0,0,0,,This part’s a little different from what actually happened.
 Dialogue: 0,0:18:06.37,0:18:09.92,NanohaW Vita,,0,0,0,,Fate’s supposed to come save her right about now.
 Dialogue: 0,0:18:09.92,0:18:13.06,NanohaW Signum,,0,0,0,,In this, Testarossa’s still on her way there.
-Dialogue: 0,0:18:13.06,0:18:18.11,NanohaW Miura,,0,0,0,,During the real event, Vita ended up\Nfighting Fate and Arf too, right?
+Dialogue: 0,0:18:13.06,0:18:18.11,NanohaW Miura,,0,0,0,,During the real event, Vita ended up\Nfighting Fate and Miss Arf too, right?
 Dialogue: 0,0:18:18.11,0:18:19.54,NanohaW Vita,,0,0,0,,Yuuno was there, too.
 Dialogue: 0,0:18:19.54,0:18:24.74,NanohaW Vita,,0,0,0,,After Signum and the rest arrived,\NI fought with Yuuno.
 Dialogue: 0,0:18:29.36,0:18:33.08,NanohaW Signum,,0,0,0,,The real thing was a pretty chaotic battle.
@@ -1739,15 +1739,15 @@ Dialogue: 0,1:31:56.82,1:31:58.35,NanohaW Corona,,0,0,0,,Right!
 Dialogue: 0,1:31:56.82,1:31:58.35,NanohaW Rio,,0,0,0,,Right!
 Dialogue: 0,1:31:58.35,1:32:02.09,NanohaW Caro,,0,0,0,,So this is where Fate lived before, right?
 Dialogue: 0,1:32:02.09,1:32:05.53,NanohaW Fate,,0,0,0,,Yeah, this is the Garden of Time in Artesaim.
-Dialogue: 0,1:32:05.53,1:32:09.30,NanohaW Erio,,0,0,0,,Alicia and Arf make their appearance as well.
-Dialogue: 0,1:32:09.30,1:32:10.83,NanohaW Caro,,0,0,0,,And Lynith’s debut.
+Dialogue: 0,1:32:05.53,1:32:09.30,NanohaW Caro,,0,0,0,,Alicia and Arf make their appearance as well.
+Dialogue: 0,1:32:09.30,1:32:10.83,NanohaW Erio,,0,0,0,,And Lynith’s debut.
 Dialogue: 0,1:32:10.83,1:32:14.36,NanohaW Corona,,0,0,0,,Everyone from the last movie’s back again, huh?
 Dialogue: 0,1:32:14.37,1:32:17.34,NanohaW Fate,,0,0,0,,Yep, they’re my precious family.
 Dialogue: 0,1:32:17.34,1:32:21.94,NanohaW Vivio,,0,0,0,,It looks just like an ordinary, everyday morning.
 Dialogue: 0,1:32:21.94,1:32:26.13,NanohaW Rio,,0,0,0,,It’s unbelievable after that heated battle just now.
 Dialogue: 0,1:32:26.13,1:32:28.58,NanohaW Fate,,0,0,0,,It {\i1}is{\i0} inside a dream after all.
 Dialogue: 0,1:32:28.58,1:32:31.51,NanohaW Fate,,0,0,0,,It’s a dream of the time that I wished for most.
-Dialogue: 0,1:32:32.41,1:32:36.22,NanohaW Corona,,0,0,0,,Alicia and Arf are both really cute!
+Dialogue: 0,1:32:32.41,1:32:36.22,NanohaW Corona,,0,0,0,,Alicia and Miss Arf are both really cute!
 Dialogue: 0,1:32:36.22,1:32:38.23,NanohaW Vivio,,0,0,0,,She’s a little big sister.
 Dialogue: 0,1:32:38.23,1:32:44.81,NanohaW Fate,,0,0,0,,Alicia’s appearance here probably comes from\Nthe impression of her that remains inside me.
 Dialogue: 0,1:32:44.81,1:32:49.09,NanohaW Caro,,0,0,0,,But the two of you make a really cute pair\Nof sisters when you’re together like this!
@@ -2351,7 +2351,7 @@ Dialogue: 0,2:04:04.57,2:04:07.51,NanohaW Miura,,0,0,0,,I-I’ll do my best to w
 Dialogue: 0,2:04:07.51,2:04:08.63,NanohaW Einhard,,0,0,0,,Fight!
 Dialogue: 0,2:04:09.09,2:04:12.51,NanohaW Vivio,,0,0,0,,Ah, Dr. Shamal’s secured the core!
 Dialogue: 0,2:04:12.51,2:04:14.31,NanohaW Shamal,,0,0,0,,I somehow managed to find it.
-Dialogue: 0,2:04:14.31,2:04:17.84,NanohaW Corona,,0,0,0,,Chief Yuuno and Arf are in charge of translocating it.
+Dialogue: 0,2:04:14.31,2:04:17.84,NanohaW Corona,,0,0,0,,Chief Yuuno and Miss Arf are in charge of translocating it.
 Dialogue: 0,2:04:17.84,2:04:21.06,NanohaW Shamal,,0,0,0,,Yuuno was doing the control for it back then, right?
 Dialogue: 0,2:04:21.06,2:04:24.86,NanohaW Yuuno,,0,0,0,,It was thanks to Arf helping out\Nthat I could focus on the spell.
 Dialogue: 0,2:04:24.86,2:04:28.12,NanohaW Subaru,,0,0,0,,And now the core flies far away, straight into orbit!

@@ -21,7 +21,9 @@ Video File: ../../../mnt/archive/[Doki] Mahou Shoujo Lyrical Nanoha The Movie 2n
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Video Position: 421
+Scroll Position: 1794
+Active Line: 1799
+Video Position: 204464
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +43,7 @@ Style: NanohaW Hospital,Junicode,72,&H77A67F52,&H000000FF,&H00CFB087,&H40000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.53,0:00:19.91,NanohaW Narration1,,0,0,0,,In the vast time-space continuum,
+Dialogue: 0,0:00:17.53,0:00:19.91,NanohaW Narration1,,0,0,0,,In the vast ocean of worlds,
 Dialogue: 0,0:00:20.82,0:00:27.88,NanohaW Narration1,,0,0,0,,this is a story that took place in a small country\Non a small planet.
 Dialogue: 0,0:00:30.00,0:00:42.77,NanohaW Narration1,,0,0,0,,I didn’t see it with my own eyes, \Nbut my family and my dear friends told me all about it.
 Dialogue: 1,0:00:44.52,0:00:49.57,NanohaW Narration1,,0,0,0,,It all started in June two years ago.
@@ -1837,10 +1839,10 @@ Dialogue: 0,2:21:02.93,2:21:07.72,NanohaW Narration1,,0,0,0,,However much we may
 Dialogue: 0,2:21:17.36,2:21:22.91,NanohaW Narration1,,0,0,0,,But with the strong will to shape the future,
 Dialogue: 0,2:21:25.40,2:21:32.00,NanohaW Narration1,,0,0,0,,and the wings to fly in the boundless sky,\Nwe can make it.
 Dialogue: 0,2:21:43.47,2:21:48.56,NanohaW Narration1,,0,0,0,,This is all I know about the Book of Darkness Incident.
-Dialogue: 1,2:21:43.58,2:21:48.04,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.5\fad(479,479)\pos(640,618)}Two years later...
+Dialogue: 1,2:21:43.58,2:21:48.04,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.5\fad(499,499)\pos(640,618)}Two years later...
 Dialogue: 0,2:21:43.58,2:21:48.04,NanohaW Dialogue2,,0,0,0,,{\blur1\fad(479,479)\pos(640,618)\c&H000000&\1a&HFF&\t(0,479,\1a&H00&)\t(3941,4420,\1a&HFF&)}Two years later...
 Dialogue: 0,2:21:49.93,2:21:56.11,NanohaW Narration1,,0,0,0,,The kind mages and the young mistress\Nall lived their days to the fullest.
-Dialogue: 0,2:21:58.11,2:22:04.91,NanohaW Narration1,,0,0,0,,And the knights repented for their past mistakes by\Nsaving and protecting the people.
+Dialogue: 0,2:21:58.11,2:22:04.91,NanohaW Narration1,,0,0,0,,And the knights repented for their past mistakes by\Nprotecting and serving the people.
 Dialogue: 0,2:22:04.91,2:22:08.58,NanohaW Narration1,,0,0,0,,They were allowed to live with their mistress.
 Dialogue: 0,2:22:10.12,2:22:15.66,NanohaW Narration1,,0,0,0,,And the will of the Wind of Blessing who crossed the winter night
 Dialogue: 0,2:22:15.66,2:22:22.84,NanohaW Narration1,,0,0,0,,was inherited by a breeze born in the spring\Nwith the same name.
