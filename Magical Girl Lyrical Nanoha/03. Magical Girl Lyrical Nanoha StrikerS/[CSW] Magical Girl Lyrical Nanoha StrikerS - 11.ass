@@ -19,28 +19,28 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 176
-Active Line: 180
-Video Position: 18578
+Scroll Position: 316
+Active Line: 320
+Video Position: 33650
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha StrikerS Title1,Junicode,89,&H00E4CBE0,&H000000FF,&H108C0062,&H60890B65,0,0,0,0,100,100,0,0,1,3.5,0,2,91,91,22,1
-Style: Nanoha StrikerS Title2,Junicode,89,&H00EFF3F7,&H000000FF,&H00183ACD,&H60203DC1,0,0,0,0,100,100,0,0,1,3.5,0,2,91,91,22,1
+Style: Nanoha StrikerS Title1,Bodoni Twelve ITC Std,72,&H00E4CBE0,&H000000FF,&H108C0062,&H60890B65,0,0,0,0,100,100,0,0,1,4.5,0,2,91,91,22,1
+Style: Nanoha StrikerS Title2,Bodoni Twelve ITC Std,72,&H00EFF3F7,&H000000FF,&H00183ACD,&H60203DC1,0,0,0,0,100,100,0,0,1,4.5,0,2,91,91,22,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: NanohaW Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
-Style: NanohaW Dialogue2,Noto Sans,45,&H00D3D6D3,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,1.2,0,5,14,14,13,1
-Style: NanohaW Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.4,8,80,80,18,1
-Style: NanohaW Device1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
-Style: NanohaW Device2,Noto Serif,45,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
+Style: NanohaW Dialogue1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,80,80,40,1
+Style: NanohaW Dialogue2,Helvetica Neue LT Pro,40,&H00D1D3D3,&H000000FF,&H00000000,&HC7000000,-1,0,0,0,100,100,0,0,1,1.2,0,5,14,14,13,1
+Style: NanohaW Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.4,8,80,80,20,1
+Style: NanohaW Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,40,1
+Style: NanohaW Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.44,0:00:05.61,NanohaW Narration1,First,0,0,0,,After days and days of training,
-Dialogue: 0,0:00:05.61,0:00:10.06,NanohaW Narration1,First,0,0,0,,I gave them a full day off to take a breather.
-Dialogue: 0,0:00:10.06,0:00:14.90,NanohaW Narration1,First,0,0,0,,Time for them to spend as friends and as partners.
+Dialogue: 0,0:00:03.34,0:00:05.61,NanohaW Narration1,First,0,0,0,,After days and days of training,
+Dialogue: 0,0:00:05.61,0:00:09.88,NanohaW Narration1,First,0,0,0,,I gave them a full day off to take a breather.
+Dialogue: 0,0:00:09.88,0:00:14.90,NanohaW Narration1,First,0,0,0,,Time for them to spend as friends and as partners.
 Dialogue: 0,0:00:14.90,0:00:18.88,NanohaW Narration1,First,0,0,0,,Time to refresh ourselves,\Nso that we can do our best tomorrow.
 Dialogue: 0,0:00:18.88,0:00:23.59,NanohaW Narration1,First,0,0,0,,But that day off came to a halt due to a sudden emergency.
 Dialogue: 0,0:00:23.59,0:00:28.59,NanohaW Narration1,First,0,0,0,,A small girl appeared, carrying a Relic case.
@@ -60,44 +60,43 @@ Dialogue: 0,0:01:58.63,0:02:04.00,Nanoha OP,Song,0,0,0,,Because I want to know
 Dialogue: 0,0:02:04.00,0:02:08.79,Nanoha OP,Song,0,0,0,,I won't be stopped
 Dialogue: 1,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\blur0.5\pos(640,229)\bord0}Episode 11
 Dialogue: 0,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\blur5\pos(640,229)\c&H8C0062&}Episode 11
-Dialogue: 1,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\blur0.5\pos(640,574.25)\bord0}Riot Force 6's Day Off
-Dialogue: 0,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\blur5\pos(640,574.25)\c&H8C0062&}Riot Force 6's Day Off
-Dialogue: 1,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\blur0.5\pos(640,636.25)\bord0}(part 2)
-Dialogue: 0,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\blur5\pos(640,636.25)\c&H8C0062&}(part 2)
-Dialogue: 1,0:02:34.12,0:02:37.90,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(480,450)\b1\pos(640,579)\bord0}Church of the Holy King, Headquarters{\b0}
-Dialogue: 0,0:02:34.12,0:02:37.90,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(480,450)\b1\pos(640,579)\1a&HFF&\t(0,480,\1a&H00&)\t(3330,3780,\1a&HFF&)}Church of the Holy King, Headquarters{\b0}
+Dialogue: 1,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\fs89\blur0.5\pos(640,574.25)\bord0}Riot Force 6's Day Off
+Dialogue: 0,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\fs89\blur5\pos(640,574.25)\c&H8C0062&}Riot Force 6's Day Off
+Dialogue: 1,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\fs89\blur0.5\pos(640,648.25)\bord0}(part 2)
+Dialogue: 0,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\fs89\blur5\pos(640,648.25)\c&H8C0062&}(part 2)
+Dialogue: 1,0:02:34.12,0:02:37.90,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,451)\b1\pos(640,579)\bord0}Church of the Holy King, Headquarters{\b0}
+Dialogue: 0,0:02:34.12,0:02:37.90,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,451)\b1\pos(640,579)\1a&HFF&\t(0,493,\1a&H00&)\t(3329,3780,\1a&HFF&)\c&H000000&}Church of the Holy King, Headquarters{\b0}
 Dialogue: 0,0:02:43.64,0:02:46.52,NanohaW Dialogue1,FirstI,0,0,0,,But really, it's an interesting sight
 Dialogue: 0,0:02:46.52,0:02:48.06,NanohaW Dialogue1,FirstI,0,0,0,,seeing you in uniform.
-Dialogue: 1,0:02:48.05,0:02:54.00,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(509,0)\pos(640,433.312)\bord0\b1}Admiral, Time-Space Administrative Bureau Dimensional Navy\NCaptain of the flagship {\i1}Claudia,{\i0} sponsor of Riot Force 6\N{\fs54}Chrono Harlaown{\b0}
-Dialogue: 0,0:02:48.05,0:02:54.00,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(509,0)\pos(640,433.312)\b1\1a&HFF&\t(0,509,\1a&H00&)}Admiral, Time-Space Administrative Bureau Dimensional Navy\NCaptain of the flagship {\i1}Claudia,{\i0} sponsor of Riot Force 6\N{\fs54}Chrono Harlaown{\b0}
-Dialogue: 0,0:02:49.59,0:02:51.46,NanohaW Dialogue1,First,0,0,15,,Everyone tells me I look silly in uniform,
-Dialogue: 0,0:02:51.46,0:02:53.98,NanohaW Dialogue1,First,0,0,15,,even my wife.
-Dialogue: 0,0:02:55.04,0:02:56.14,NanohaW Dialogue1,First,0,0,0,,Not at all!
-Dialogue: 0,0:02:56.14,0:03:01.94,NanohaW Dialogue1,First,0,0,0,,You look as good as you do in your armor, Admiral Chrono.
-Dialogue: 0,0:03:01.94,0:03:04.87,NanohaW Dialogue1,First,0,0,0,,Thank you, Knight Carim.
+Dialogue: 1,0:02:48.05,0:02:54.00,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,0)\pos(640,439.312)\bord0\b1}Admiral, Time-Space Administrative Bureau Dimensional Navy\NCaptain of the flagship {\i1}Claudia,{\i0} sponsor of Riot Force 6\N{\fs49}Chrono Harlaown{\b0}
+Dialogue: 0,0:02:48.05,0:02:54.00,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,0)\pos(640,439.312)\b1\1a&HFF&\t(0,493,\1a&H00&)\c&H000000&}Admiral, Time-Space Administrative Bureau Dimensional Navy\NCaptain of the flagship {\i1}Claudia,{\i0} sponsor of Riot Force 6\N{\fs49}Chrono Harlaown{\b0}
+Dialogue: 0,0:02:49.00,0:02:53.98,NanohaW Dialogue1,First,0,0,20,,Everyone tells me I look silly in uniform, even my wife.
+Dialogue: 0,0:02:54.93,0:02:55.94,NanohaW Dialogue1,First,0,0,0,,Not at all!
+Dialogue: 0,0:02:55.94,0:03:01.65,NanohaW Dialogue1,First,0,0,0,,You look as good as you do in your armor, Admiral Chrono.
+Dialogue: 0,0:03:01.65,0:03:04.87,NanohaW Dialogue1,First,0,0,0,,Thank you, Knight Carim.
 Dialogue: 0,0:03:05.62,0:03:06.75,NanohaW Dialogue1,First,0,0,0,,Excuse me.
 Dialogue: 0,0:03:09.16,0:03:11.12,NanohaW Dialogue1,First,0,0,0,,Signum. Welcome back.
 Dialogue: 0,0:03:11.12,0:03:13.27,NanohaW Dialogue1,First,0,0,0,,Is the joint investigation conference over?
 Dialogue: 0,0:03:13.27,0:03:15.42,NanohaW Dialogue1,First,0,0,0,,Yes. Everything's going splendidly.
 Dialogue: 0,0:03:15.42,0:03:19.70,NanohaW Dialogue1,First,0,0,0,,We just finished discussing the logistical side of Riot Force 6.
-Dialogue: 0,0:03:19.70,0:03:22.98,NanohaW Dialogue1,First,0,0,0,,We were just about to discuss the missions for here on out.
-Dialogue: 0,0:03:22.98,0:03:25.35,NanohaW Dialogue1,First,0,0,0,,You should stay and listen as well, okay?
+Dialogue: 0,0:03:19.70,0:03:22.87,NanohaW Dialogue1,First,0,0,0,,We were just about to discuss the missions for here on out.
+Dialogue: 0,0:03:22.87,0:03:25.35,NanohaW Dialogue1,First,0,0,0,,You should stay and listen as well, okay?
 Dialogue: 0,0:03:25.35,0:03:26.36,NanohaW Dialogue1,First,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:03:28.84,0:03:31.72,NanohaW Dialogue1,First,0,0,0,,A direct call from Hayate?
-Dialogue: 0,0:03:39.47,0:03:41.02,NanohaW Dialogue1,FirstI,0,0,0,,Erio! Caro!
-Dialogue: 0,0:03:41.69,0:03:43.75,NanohaW Dialogue1,First,0,0,0,,Subaru! Tia!
-Dialogue: 0,0:03:43.75,0:03:44.49,NanohaW Dialogue1,Second,0,0,0,,Is this her?
-Dialogue: 0,0:03:44.49,0:03:47.21,NanohaW Dialogue1,FirstI,0,0,0,,She's quite a mess.
-Dialogue: 0,0:03:47.21,0:03:51.41,NanohaW Dialogue1,FirstI,0,0,0,,I believe she's walked a long distance through the sewers.
+Dialogue: 0,0:03:39.47,0:03:40.62,NanohaW Dialogue1,FirstI,0,0,0,,Erio! Caro!
+Dialogue: 0,0:03:41.69,0:03:43.65,NanohaW Dialogue1,First,0,0,0,,Subaru! Tia!
+Dialogue: 0,0:03:43.65,0:03:44.49,NanohaW Dialogue1,Second,0,0,0,,Is this her?
+Dialogue: 0,0:03:44.49,0:03:47.07,NanohaW Dialogue1,FirstI,0,0,0,,She's quite a mess.
+Dialogue: 0,0:03:47.07,0:03:51.41,NanohaW Dialogue1,FirstI,0,0,0,,I believe she walked a long distance through the sewers.
 Dialogue: 0,0:03:53.88,0:03:56.64,NanohaW Dialogue1,First,0,0,0,,But she's so small!
-Dialogue: 0,0:03:56.64,0:03:57.80,NanohaW Dialogue1,First,0,0,0,,She is.
-Dialogue: 0,0:03:57.80,0:03:58.80,NanohaW Dialogue1,First,0,0,0,,Did you seal the case?
+Dialogue: 0,0:03:56.64,0:03:57.33,NanohaW Dialogue1,First,0,0,0,,She is.
+Dialogue: 0,0:03:57.33,0:03:58.80,NanohaW Dialogue1,First,0,0,0,,Did you seal the case?
 Dialogue: 0,0:03:58.80,0:04:00.84,NanohaW Dialogue1,First,0,0,0,,Caro did.
 Dialogue: 0,0:04:00.84,0:04:04.72,NanohaW Dialogue1,First,0,0,0,,There's no chance a Gadget will find it, I believe.
 Dialogue: 0,0:04:04.72,0:04:07.00,NanohaW Dialogue1,First,0,0,0,,And this.
 Dialogue: 0,0:04:07.91,0:04:09.64,NanohaW Dialogue1,First,0,0,0,,There was another case?
 Dialogue: 0,0:04:09.64,0:04:13.60,NanohaW Dialogue1,First,0,0,0,,I'm having the Long Arch look into it.
-Dialogue: 0,0:04:13.60,0:04:18.98,NanohaW Dialogue1,First,0,0,0,,The captains and Dr. Shamal, as well as Command Sergeant Major Rein, are heading here right now.
+Dialogue: 0,0:04:13.60,0:04:18.98,NanohaW Dialogue1,First,0,0,0,,The captains and Dr. Shamal, as well as\NCommand Sergeant Major Rein, are heading here right now.
 Dialogue: 0,0:04:18.98,0:04:22.32,NanohaW Dialogue1,First,0,0,0,,For now, we need to secure the area and keep an eye on it.
 Dialogue: 0,0:04:22.32,0:04:23.03,NanohaW Dialogue1,First,0,0,0,,Yes, ma'am!
 Dialogue: 0,0:04:31.87,0:04:34.33,NanohaW Dialogue1,FirstI,0,0,0,,I see. A Relic.
@@ -106,13 +105,13 @@ Dialogue: 0,0:04:38.00,0:04:42.42,NanohaW Dialogue1,First,0,0,0,,If that summone
 Dialogue: 0,0:04:42.42,0:04:45.62,NanohaW Dialogue1,First,0,0,0,,We need to get this matter settled as quickly as possible.
 Dialogue: 0,0:04:45.62,0:04:47.88,NanohaW Dialogue1,First,0,0,0,,Have you already contacted the other forces in the area?
 Dialogue: 0,0:04:47.88,0:04:52.34,NanohaW Dialogue1,First,0,0,0,,Yes. I contacted the City and Coastal Forces.
-Dialogue: 0,0:04:53.43,0:04:55.81,NanohaW Dialogue1,First,0,0,0,,We may need to get our trump card ready as well.
+Dialogue: 0,0:04:53.22,0:04:55.81,NanohaW Dialogue1,First,0,0,0,,We may need to get our trump card ready as well.
 Dialogue: 0,0:04:55.81,0:04:58.77,NanohaW Dialogue1,First,0,0,0,,I pray that doesn't happen.
 Dialogue: 0,0:04:59.70,0:05:03.44,NanohaW Dialogue1,First,0,0,0,,Signum, you should return.
-Dialogue: 0,0:05:03.44,0:05:04.62,NanohaW Dialogue1,Title,0,0,0,,Yes, ma'am.
-Dialogue: 0,0:05:04.62,0:05:07.54,NanohaW Dialogue1,FirstI,0,0,0,,If Schach sees you off, you can get back right away.
-Dialogue: 0,0:05:07.54,0:05:09.99,NanohaW Dialogue1,FirstI,0,0,0,,Thank you very much, Knight Carim.
-Dialogue: 0,0:05:16.34,0:05:17.88,NanohaW Dialogue1,FirstI,0,0,0,,Her physical condition is stable.
+Dialogue: 0,0:05:03.44,0:05:04.54,NanohaW Dialogue1,Title,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:05:04.54,0:05:07.40,NanohaW Dialogue1,FirstI,0,0,0,,If Schach sees you off, you can get back right away.
+Dialogue: 0,0:05:07.40,0:05:09.99,NanohaW Dialogue1,FirstI,0,0,0,,Thank you for your generosity, Knight Carim.
+Dialogue: 0,0:05:16.16,0:05:17.88,NanohaW Dialogue1,FirstI,0,0,0,,Her physical condition is stable.
 Dialogue: 0,0:05:17.88,0:05:21.38,NanohaW Dialogue1,FirstI,0,0,0,,There are no dangerous readings either.\NThere's no need to worry.
 Dialogue: 0,0:05:21.38,0:05:22.56,NanohaW Dialogue1,FirstI,0,0,0,,Good.
 Dialogue: 0,0:05:22.56,0:05:24.03,NanohaW Dialogue1,FirstI,0,0,0,,What a relief!
@@ -122,20 +121,20 @@ Dialogue: 0,0:05:28.32,0:05:29.14,NanohaW Dialogue1,FirstI,0,0,0,,We're all righ
 Dialogue: 0,0:05:29.14,0:05:32.80,NanohaW Dialogue1,FirstI,0,0,0,,We'll take the case and the girl back via helicopter.
 Dialogue: 0,0:05:32.80,0:05:35.48,NanohaW Dialogue1,FirstI,0,0,0,,Everyone else, inspect the scene.
 Dialogue: 0,0:05:35.48,0:05:35.98,NanohaW Dialogue1,FirstI,0,0,0,,Yes, ma'am!
-Dialogue: 0,0:05:37.79,0:05:40.74,NanohaW Dialogue1,FirstI,0,0,0,,Nanoha, would you carry her to the helicopter?
+Dialogue: 0,0:05:37.43,0:05:40.74,NanohaW Dialogue1,FirstI,0,0,0,,Nanoha, would you carry her to the helicopter?
 Dialogue: 0,0:05:40.74,0:05:41.65,NanohaW Dialogue1,FirstI,0,0,0,,Sure.
 Dialogue: 0,0:05:54.42,0:05:55.74,NanohaW Dialogue1,FirstI,0,0,0,,The Gadgets are here!
-Dialogue: 0,0:05:55.74,0:06:00.63,NanohaW Dialogue1,First,0,0,0,,They're coming through the sewer in small groups. There are 16—no, 20 of them in all!
+Dialogue: 0,0:05:55.74,0:06:00.63,NanohaW Dialogue1,First,0,0,0,,They're coming through the sewer in small groups.\NThere are 16—no, 20 of them in all!
 Dialogue: 0,0:06:00.63,0:06:04.09,NanohaW Dialogue1,First,0,0,0,,And over the sea, there are five groups of twelve!
-Dialogue: 0,0:06:04.09,0:06:05.82,NanohaW Dialogue1,First,0,0,0,,That's a lot.
-Dialogue: 0,0:06:05.82,0:06:07.07,NanohaW Dialogue1,SecondI,0,0,0,,What should we do?
-Dialogue: 0,0:06:07.07,0:06:08.90,NanohaW Dialogue1,First,0,0,0,,Let me think.
-Dialogue: 0,0:06:08.90,0:06:11.27,NanohaW Dialogue1,Setting,0,0,0,,Stars 2 to Long Arch.
-Dialogue: 0,0:06:11.27,0:06:12.49,NanohaW Dialogue1,SecondI,0,0,0,,This is Stars 2.
+Dialogue: 0,0:06:04.09,0:06:05.54,NanohaW Dialogue1,First,0,0,0,,That's a lot.
+Dialogue: 0,0:06:05.54,0:06:06.91,NanohaW Dialogue1,SecondI,0,0,0,,What should we do?
+Dialogue: 0,0:06:06.91,0:06:08.90,NanohaW Dialogue1,First,0,0,0,,Let me think.
+Dialogue: 0,0:06:08.90,0:06:11.21,NanohaW Dialogue1,Setting,0,0,0,,Stars 2 to Long Arch.
+Dialogue: 0,0:06:11.21,0:06:12.49,NanohaW Dialogue1,SecondI,0,0,0,,This is Stars 2.
 Dialogue: 0,0:06:12.49,0:06:15.16,NanohaW Dialogue1,Setting,0,0,0,,I was practicing over the ocean.
 Dialogue: 0,0:06:15.16,0:06:17.39,NanohaW Dialogue1,Setting,0,0,0,,Major Nakajima gave me permission.
-Dialogue: 0,0:06:17.39,0:06:19.72,NanohaW Dialogue1,First,0,0,0,,I'm heading to the scene now.
-Dialogue: 0,0:06:19.72,0:06:21.51,NanohaW Dialogue1,Setting,0,0,0,,Along with one other.
+Dialogue: 0,0:06:17.39,0:06:19.59,NanohaW Dialogue1,First,0,0,0,,I'm heading to the scene now.
+Dialogue: 0,0:06:19.59,0:06:21.51,NanohaW Dialogue1,Setting,0,0,0,,Along with one other.
 Dialogue: 0,0:06:21.51,0:06:24.28,NanohaW Dialogue1,First,0,0,0,,Ginga Nakajima of the 108th Battalion.
 Dialogue: 0,0:06:24.28,0:06:26.84,NanohaW Dialogue1,First,0,0,0,,I was investigating another incident,
 Dialogue: 0,0:06:26.84,0:06:29.70,NanohaW Dialogue1,First,0,0,0,,but it may have something to do with what you're investigating.
@@ -145,37 +144,39 @@ Dialogue: 0,0:06:33.58,0:06:36.04,NanohaW Dialogue1,First,0,0,0,,Okay, Vita, mee
 Dialogue: 0,0:06:36.04,0:06:39.71,NanohaW Dialogue1,First,0,0,0,,Cooperate and gain control of the southwest area of the sea.
 Dialogue: 0,0:06:39.71,0:06:41.80,NanohaW Dialogue1,First,0,0,0,,Southwest area, roger.
 Dialogue: 0,0:06:41.80,0:06:44.80,NanohaW Dialogue1,First,0,0,0,,Captain Nanoha and Captain Fate,\Nstart with the northeast.
-Dialogue: 0,0:06:44.80,0:06:45.63,NanohaW Dialogue1,First,0,0,0,,Roger.
+Dialogue: 0,0:06:44.80,0:06:45.63,NanohaW Dialogue1,First,0,0,0,,Ro{\c&HE1E1E1&}ger.
 Dialogue: 0,0:06:45.63,0:06:49.36,NanohaW Dialogue1,First,0,0,0,,Can I leave the helicopter to you and Shamal, Vice?
-Dialogue: 0,0:06:49.36,0:06:50.68,NanohaW Dialogue1,First,0,0,0,,Leave it to me.
-Dialogue: 0,0:06:50.68,0:06:51.54,NanohaW Dialogue1,First,0,0,0,,We'll protect it.
+Dialogue: 0,0:06:49.36,0:06:50.58,NanohaW Dialogue1,First,0,0,0,,Leave it to me.
+Dialogue: 0,0:06:50.58,0:06:51.54,NanohaW Dialogue1,First,0,0,0,,We'll protect it.
 Dialogue: 0,0:06:51.54,0:06:54.44,NanohaW Dialogue1,First,0,0,0,,Ginga, meet up with Subaru's group underground.
-Dialogue: 0,0:06:54.44,0:06:57.61,NanohaW Dialogue1,First,0,0,0,,Along the way, tell me about this other incident.
-Dialogue: 0,0:06:57.61,0:06:58.89,NanohaW Dialogue1,First,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:06:54.44,0:06:57.42,NanohaW Dialogue1,First,0,0,0,,Along the way, tell me about this other incident.
+Dialogue: 0,0:06:57.42,0:06:58.12,NanohaW Dialogue1,First,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:06:58.89,0:07:02.90,NanohaW Dialogue1,First,0,0,0,,Now then, everyone, I hope you enjoyed your break.
 Dialogue: 0,0:07:02.90,0:07:06.80,NanohaW Dialogue1,First,0,0,0,,Time to get to work! Let's go kick ass!
 Dialogue: 0,0:07:06.80,0:07:07.71,NanohaW Dialogue1,First,0,0,0,,Yes!
 Dialogue: 0,0:07:07.71,0:07:09.42,NanohaW Device1,First,0,0,0,,Stand by.
 Dialogue: 0,0:07:09.42,0:07:11.22,NanohaW Dialogue1,First,0,0,0,,{\b1}Set up!{\b0}
-Dialogue: 0,0:08:59.35,0:09:02.42,NanohaW Dialogue1,First,0,0,0,,Have the forwards become a little more reliable?
-Dialogue: 0,0:09:03.41,0:09:05.95,NanohaW Dialogue1,First,0,0,0,,We need them to become even more reliable.
-Dialogue: 0,0:09:12.42,0:09:17.16,NanohaW Dialogue1,First,0,0,0,,Let's finish up this incident and give them another day off.
-Dialogue: 0,0:09:18.10,0:09:20.98,NanohaW Dialogue1,First,0,0,0,,If we all enjoyed ourselves together,\Nit would be a lot of fun.
+Dialogue: 0,0:08:54.37,0:08:55.49,NanohaW Dialogue1,First,0,0,0,,Go!
+Dialogue: 0,0:08:58.34,0:09:02.42,NanohaW Dialogue1,First,0,0,0,,Have the forwards become a little more reliable?
+Dialogue: 0,0:09:03.05,0:09:05.83,NanohaW Dialogue1,First,0,0,0,,We need them to become even more reliable.
+Dialogue: 0,0:09:12.42,0:09:16.58,NanohaW Dialogue1,First,0,0,0,,Let's finish up this incident and give them another day off.
+Dialogue: 0,0:09:16.58,0:09:17.16,NanohaW Dialogue1,First,0,0,0,,Let's.
+Dialogue: 0,0:09:17.80,0:09:20.98,NanohaW Dialogue1,First,0,0,0,,If we all enjoyed ourselves together,\Nit would be a lot of fun.
 Dialogue: 0,0:09:20.98,0:09:21.58,NanohaW Dialogue1,First,0,0,0,,Yep.
-Dialogue: 0,0:09:26.00,0:09:27.74,NanohaW Dialogue1,First,0,0,0,,Be careful, okay?
-Dialogue: 0,0:09:27.74,0:09:28.46,NanohaW Dialogue1,First,0,0,0,,I totes will!
-Dialogue: 0,0:09:31.20,0:09:34.30,NanohaW Dialogue1,First,0,0,0,,Sergeant Vice, please take care of things!
-Dialogue: 0,0:09:34.30,0:09:35.56,NanohaW Dialogue1,First,0,0,0,,Yes!
-Dialogue: 0,0:09:35.56,0:09:39.24,NanohaW Dialogue1,First,0,0,0,,Storm Raider, keep them safe, okay?
+Dialogue: 0,0:09:26.00,0:09:27.61,NanohaW Dialogue1,First,0,0,0,,Be careful, okay?
+Dialogue: 0,0:09:27.61,0:09:28.46,NanohaW Dialogue1,First,0,0,0,,I totes will!
+Dialogue: 0,0:09:31.20,0:09:33.61,NanohaW Dialogue1,First,0,0,0,,Sergeant Vice, please take care of things!
+Dialogue: 0,0:09:34.30,0:09:35.48,NanohaW Dialogue1,First,0,0,0,,Yes!
+Dialogue: 0,0:09:35.48,0:09:39.24,NanohaW Dialogue1,First,0,0,0,,Storm Raider, keep them safe, okay?
 Dialogue: 0,0:09:39.24,0:09:40.77,NanohaW Device1,First,0,0,0,,All right, my friend.
-Dialogue: 0,0:09:51.64,0:09:56.81,NanohaW Dialogue1,First,0,0,0,,My sisters will get the material and the case in the helicopter.
-Dialogue: 0,0:09:56.81,0:09:59.07,NanohaW Dialogue1,First,0,0,0,,Miss, head underground.
+Dialogue: 0,0:09:51.64,0:09:56.35,NanohaW Dialogue1,First,0,0,0,,My sisters will get the material and the case in the helicopter.
+Dialogue: 0,0:09:56.36,0:09:59.07,NanohaW Dialogue1,First,0,0,0,,Miss, head underground.
 Dialogue: 0,0:09:59.07,0:10:02.04,NanohaW Dialogue1,First,0,0,0,,Where are Knight Zest and Agito?
 Dialogue: 0,0:10:02.04,0:10:03.40,NanohaW Dialogue1,First,0,0,0,,They are elsewhere.
 Dialogue: 0,0:10:03.40,0:10:04.86,NanohaW Dialogue1,First,0,0,0,,So you're alone?
 Dialogue: 0,0:10:04.86,0:10:06.06,NanohaW Dialogue1,First,0,0,0,,I am not alone.
 Dialogue: 0,0:10:10.30,0:10:12.44,NanohaW Dialogue1,First,0,0,0,,I have Galue.
-Dialogue: 0,0:10:12.44,0:10:14.16,NanohaW Dialogue1,First,0,0,0,,Pardon me.
+Dialogue: 0,0:10:12.44,0:10:14.16,NanohaW Dialogue1,First,0,0,0,,Pardon my mistake.
 Dialogue: 0,0:10:14.16,0:10:17.86,NanohaW Dialogue1,First,0,0,0,,If you need help, contact me.
 Dialogue: 0,0:10:17.86,0:10:19.89,NanohaW Dialogue1,First,0,0,0,,I'll make it my highest priority.
 Dialogue: 0,0:10:20.93,0:10:22.98,NanohaW Dialogue1,First,0,0,0,,Let us go, Galue.
@@ -191,116 +192,116 @@ Dialogue: 0,0:10:48.71,0:10:50.82,NanohaW Dialogue1,First,0,0,0,,Would you give 
 Dialogue: 0,0:10:50.82,0:10:51.63,NanohaW Dialogue1,First,0,0,0,,I will.
 Dialogue: 0,0:10:52.46,0:10:56.55,NanohaW Dialogue1,First,0,0,0,,For now, head to area F94 in the southwest.
 Dialogue: 0,0:10:56.55,0:10:58.25,NanohaW Dialogue1,First,0,0,0,,We'll meet up with you along the way.
-Dialogue: 0,0:10:59.66,0:11:01.00,NanohaW Dialogue1,First,0,0,0,,F94.
-Dialogue: 0,0:11:02.50,0:11:03.67,NanohaW Dialogue1,First,0,0,0,,Roger.
-Dialogue: 0,0:11:05.39,0:11:09.61,NanohaW Dialogue1,First,0,0,0,,Ginga is your sister, right, Subaru?
-Dialogue: 0,0:11:09.61,0:11:14.52,NanohaW Dialogue1,First,0,0,0,,Yes. She taught me shooting arts. She's two years older and two ranks higher than me.
+Dialogue: 0,0:10:59.54,0:11:01.00,NanohaW Dialogue1,First,0,0,0,,F94.
+Dialogue: 0,0:11:02.50,0:11:03.49,NanohaW Dialogue1,First,0,0,0,,Roger.
+Dialogue: 0,0:11:05.39,0:11:09.34,NanohaW Dialogue1,First,0,0,0,,Ginga is your sister, right, Subaru?
+Dialogue: 0,0:11:09.34,0:11:14.38,NanohaW Dialogue1,First,0,0,0,,Yes. She taught me shooting arts.\NShe's two years older and two ranks higher than me.
 Dialogue: 0,0:11:16.02,0:11:16.84,NanohaW Dialogue1,First,0,0,0,,Ginga,
 Dialogue: 0,0:11:16.84,0:11:19.78,NanohaW Dialogue1,First,0,0,0,,We can keep in touch and coordinate our movements with our Devices.
 Dialogue: 0,0:11:19.78,0:11:21.28,NanohaW Dialogue1,First,0,0,0,,Are you ready?
+Dialogue: 0,0:11:21.28,0:11:22.22,NanohaW Dialogue1,First,0,0,0,,Yes.
 Dialogue: 0,0:11:22.22,0:11:24.20,NanohaW Dialogue1,First,0,0,0,,Blitz Caliber, I'm counting on you.
-Dialogue: 0,0:11:24.20,0:11:26.01,NanohaW Device1,First,0,0,0,,Yes, sir.
+Dialogue: 0,0:11:24.20,0:11:25.93,NanohaW Device1,First,0,0,0,,Yes, sir.
 Dialogue: 0,0:11:42.34,0:11:45.26,NanohaW Dialogue1,First,0,0,0,,Stars 1 and Lightning 1 have engaged.
 Dialogue: 0,0:11:47.18,0:11:49.88,NanohaW Dialogue1,First,0,0,0,,What I found at the scene of the accident that I was called to
 Dialogue: 0,0:11:49.88,0:11:53.35,NanohaW Dialogue1,First,0,0,0,,was a bunch of destroyed Gadgets and a broken life pod.
 Dialogue: 0,0:11:53.35,0:11:55.98,NanohaW Dialogue1,First,0,0,0,,One just big enough for a child of five or six.
-Dialogue: 0,0:11:56.68,0:12:00.47,NanohaW Dialogue1,First,0,0,0,,There were marks nearby as if somebody was dragging something heavy.
+Dialogue: 0,0:11:56.52,0:12:00.47,NanohaW Dialogue1,First,0,0,0,,There were marks nearby as if somebody was dragging something heavy.
 Dialogue: 0,0:12:00.47,0:12:03.78,NanohaW Dialogue1,First,0,0,0,,I was following them when you contacted me.
-Dialogue: 0,0:12:04.69,0:12:10.70,NanohaW Dialogue1,First,0,0,0,,Also, I have seen something very similar to this life pod in another case.
-Dialogue: 0,0:12:10.70,0:12:12.93,NanohaW Dialogue1,First,0,0,0,,Me too.
-Dialogue: 0,0:12:12.93,0:12:16.12,NanohaW Dialogue1,First,0,0,0,,The primary cultivation body called for in the Artificial Mage Project.
-Dialogue: 0,0:12:16.90,0:12:23.97,NanohaW Dialogue1,First,0,0,0,,This is just a guess, but that girl was perhaps created as material for an artificial mage.
-Dialogue: 0,0:12:26.43,0:12:28.87,NanohaW Dialogue1,First,0,0,0,,Artificial mage?
-Dialogue: 0,0:12:28.87,0:12:30.76,NanohaW Dialogue1,First,0,0,0,,Children fabricated from high-quality genetic material
-Dialogue: 0,0:12:30.76,0:12:35.27,NanohaW Dialogue1,First,0,0,0,,who receive injections and cybernetic implants,
-Dialogue: 0,0:12:35.27,0:12:38.64,NanohaW Dialogue1,First,0,0,0,,to produce the possibility of giving them powerful magical abilities.
-Dialogue: 0,0:12:38.64,0:12:40.20,NanohaW Dialogue1,First,0,0,0,,That's an artificial mage.
+Dialogue: 0,0:12:04.69,0:12:10.16,NanohaW Dialogue1,First,0,0,0,,Also, I have seen something\Nvery similar to this life pod in another case.
+Dialogue: 0,0:12:10.70,0:12:12.65,NanohaW Dialogue1,First,0,0,0,,Me too.
+Dialogue: 0,0:12:12.65,0:12:16.12,NanohaW Dialogue1,First,0,0,0,,The primary cultivation body\Ncalled for in the Artificial Mage Project.
+Dialogue: 0,0:12:16.82,0:12:23.97,NanohaW Dialogue1,First,0,0,0,,This is just a guess, but that girl was perhaps created as material for an artificial mage.
+Dialogue: 0,0:12:26.43,0:12:28.36,NanohaW Dialogue1,First,0,0,0,,An artificial mage?
+Dialogue: 0,0:12:28.36,0:12:35.27,NanohaW Dialogue1,First,0,0,0,,Children fabricated from high-quality genetic material\Nwho receive injections and cybernetic implants
+Dialogue: 0,0:12:35.27,0:12:38.58,NanohaW Dialogue1,First,0,0,0,,to produce the possibility of giving them powerful magical abilities.
+Dialogue: 0,0:12:38.58,0:12:40.20,NanohaW Dialogue1,First,0,0,0,,That's an artificial mage.
 Dialogue: 0,0:12:40.20,0:12:45.44,NanohaW Dialogue1,First,0,0,0,,Ethics aside, there are many insurmountable problems using current technology,
 Dialogue: 0,0:12:45.44,0:12:46.72,NanohaW Dialogue1,First,0,0,0,,and the cost just isn't worth it.
 Dialogue: 0,0:12:46.72,0:12:54.12,NanohaW Dialogue1,First,0,0,0,,But if someone was out of his mind,\Nhe wouldn't bother...
-Dialogue: 0,0:12:54.82,0:12:56.72,NanohaW Device1,First,0,0,15,,A movement reaction perception,
-Dialogue: 0,0:12:56.72,0:12:58.15,NanohaW Device1,First,0,0,15,,at the Gadget Drone.
+Dialogue: 0,0:12:54.82,0:12:58.15,NanohaW Device1,First,0,0,20,,Motion detected. Gadget Drones are present.
+Dialogue: 0,0:12:54.82,0:12:58.15,NanohaW Device2,First,0,0,0,,{\pos(640,595)}A movement reaction perception, at the Gadget Drone.
 Dialogue: 0,0:12:58.15,0:13:01.11,NanohaW Dialogue1,First,0,0,0,,Incoming! Six small Gadgets!
 Dialogue: 0,0:13:03.59,0:13:07.50,NanohaW Dialogue1,First,0,0,0,,Stars 1 and Lightning 1 have taken out group 2.
 Dialogue: 0,0:13:07.50,0:13:09.79,NanohaW Dialogue1,First,0,0,0,,It's going well.
 Dialogue: 0,0:13:09.79,0:13:14.16,NanohaW Dialogue1,First,0,0,0,,Stars 2 and Command Sergeant Major Rein have taken out group 1.
-Dialogue: 0,0:13:18.30,0:13:21.05,NanohaW Dialogue1,First,0,0,0,,Alright! It's going well.
-Dialogue: 0,0:13:21.05,0:13:22.88,NanohaW Dialogue1,First,0,0,0,,I'm doing great too!
-Dialogue: 0,0:13:22.88,0:13:24.54,NanohaW Dialogue1,First,0,0,0,,Let's keep going.
-Dialogue: 0,0:13:24.54,0:13:27.18,NanohaW Dialogue1,First,0,0,0,,We need to beat them quickly and help the others.
+Dialogue: 0,0:13:18.30,0:13:20.93,NanohaW Dialogue1,First,0,0,0,,Alright! It's going well.
+Dialogue: 0,0:13:20.93,0:13:22.56,NanohaW Dialogue1,First,0,0,0,,I'm doing great too!
+Dialogue: 0,0:13:22.56,0:13:24.06,NanohaW Dialogue1,First,0,0,0,,Let's keep going.
+Dialogue: 0,0:13:24.06,0:13:27.18,NanohaW Dialogue1,First,0,0,0,,We need to beat them quickly and help the others.
 Dialogue: 0,0:13:27.18,0:13:28.05,NanohaW Dialogue1,First,0,0,0,,Yes indeedy!
-Dialogue: 0,0:13:28.95,0:13:30.87,NanohaW Dialogue1,First,0,0,0,,Why, that's...!
+Dialogue: 0,0:13:28.95,0:13:30.05,NanohaW Dialogue1,First,0,0,0,,Why, that's...!
 Dialogue: 0,0:13:33.83,0:13:35.29,NanohaW Dialogue1,First,0,0,0,,Reinforcements?
 Dialogue: 0,0:13:38.21,0:13:39.97,NanohaW Dialogue1,First,0,0,0,,This signal.
-Dialogue: 0,0:13:45.14,0:13:48.34,NanohaW Dialogue1,First,0,0,0,,Quattro's Inherent Skill: Silver Curtain.
-Dialogue: 0,0:13:48.34,0:13:52.04,NanohaW Dialogue1,First,0,0,0,,These lies and illusions are going to make you dance for me.
+Dialogue: 0,0:13:45.14,0:13:48.29,NanohaW Dialogue1,First,0,0,0,,Quattro's Inherent Skill: Silver Curtain.
+Dialogue: 0,0:13:48.29,0:13:52.04,NanohaW Dialogue1,First,0,0,0,,These lies and illusions are going to make you dance for me.
 Dialogue: 0,0:14:08.91,0:14:12.83,NanohaW Dialogue1,First,0,0,0,,The signals in the air are multiplying.\NThis is impossible!
 Dialogue: 0,0:14:12.83,0:14:14.65,NanohaW Dialogue1,First,0,0,0,,What is this?
-Dialogue: 0,0:14:15.28,0:14:17.25,NanohaW Dialogue1,First,0,0,0,,Waveform check!
-Dialogue: 0,0:14:17.25,0:14:18.83,NanohaW Dialogue1,First,0,0,0,,It has to be a computer error, right?
-Dialogue: 0,0:14:18.83,0:14:20.14,NanohaW Dialogue1,First,0,0,0,,There are no problems in the system.
+Dialogue: 0,0:14:15.28,0:14:17.04,NanohaW Dialogue1,First,0,0,0,,Waveform check!
+Dialogue: 0,0:14:17.04,0:14:18.58,NanohaW Dialogue1,First,0,0,0,,It has to be a computer error, right?
+Dialogue: 0,0:14:18.58,0:14:20.14,NanohaW Dialogue1,First,0,0,0,,There are no problems in the system.
 Dialogue: 0,0:14:20.14,0:14:22.12,NanohaW Dialogue1,First,0,0,0,,All checks show them to be real units!
 Dialogue: 0,0:14:22.12,0:14:26.13,NanohaW Dialogue1,First,0,0,0,,Nanoha's team says they have a visual on them too!
-Dialogue: 0,0:14:26.13,0:14:28.09,NanohaW Dialogue1,First,0,0,0,,Griffith!
-Dialogue: 0,0:14:29.02,0:14:29.54,NanohaW Dialogue1,First,0,0,0,,Yes, ma'am.
-Dialogue: 0,0:14:32.68,0:14:35.36,NanohaW Dialogue1,First,0,0,0,,The formations are composed of illusory and real units.
+Dialogue: 0,0:14:26.13,0:14:27.38,NanohaW Dialogue1,First,0,0,0,,Griffith!
+Dialogue: 0,0:14:28.92,0:14:29.54,NanohaW Dialogue1,First,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:14:32.68,0:14:34.91,NanohaW Dialogue1,First,0,0,0,,The formations are composed of illusory and real units.
 Dialogue: 0,0:14:38.82,0:14:41.48,NanohaW Dialogue1,First,0,0,0,,I'm pretty sure we can keep them from breaking through the defensive line,
 Dialogue: 0,0:14:41.48,0:14:43.26,NanohaW Dialogue1,First,0,0,0,,but there sure are a lot of them.
 Dialogue: 0,0:14:43.26,0:14:46.54,NanohaW Dialogue1,First,0,0,0,,If they're going this far, it would mean...
 Dialogue: 0,0:14:46.54,0:14:49.22,NanohaW Dialogue1,First,0,0,0,,Their main forces are heading for the helicopter or underground.
-Dialogue: 0,0:14:49.22,0:14:53.39,NanohaW Dialogue1,First,0,0,0,,Nanoha, I'll stay here and take care of them. You go with Vita.
+Dialogue: 0,0:14:49.22,0:14:53.39,NanohaW Dialogue1,First,0,0,0,,Nanoha, I'll stay here and take care of them.\NYou go with Vita.
 Dialogue: 0,0:14:53.39,0:14:54.98,NanohaW Dialogue1,First,0,0,0,,Fate!
 Dialogue: 0,0:14:54.98,0:14:58.98,NanohaW Dialogue1,First,0,0,0,,Even together, if we fight normally, it'll take too much time.
-Dialogue: 0,0:15:01.33,0:15:05.17,NanohaW Dialogue1,First,0,0,0,,If I release my limiter, I can use a wide-area spell to destroy all of them.
-Dialogue: 0,0:15:05.17,0:15:07.45,NanohaW Dialogue1,First,0,0,0,,That's true, but...
-Dialogue: 0,0:15:07.45,0:15:09.60,NanohaW Dialogue1,First,0,0,0,,I've got a bad feeling about this.
+Dialogue: 0,0:15:00.90,0:15:05.17,NanohaW Dialogue1,First,0,0,0,,If I release my limiter, I can use\Na wide-area spell to destroy all of them.
+Dialogue: 0,0:15:05.17,0:15:07.16,NanohaW Dialogue1,First,0,0,0,,That's true, but...
+Dialogue: 0,0:15:07.16,0:15:09.60,NanohaW Dialogue1,First,0,0,0,,I've got a bad feeling about this.
 Dialogue: 0,0:15:09.60,0:15:11.20,NanohaW Dialogue1,First,0,0,0,,But Fate...
 Dialogue: 0,0:15:11.20,0:15:12.64,NanohaW Dialogue1,First,0,0,0,,Sorry to intrude.
-Dialogue: 0,0:15:13.42,0:15:16.13,NanohaW Dialogue1,First,0,0,0,,Lightning 1, this is the Long Arch.
-Dialogue: 0,0:15:16.13,0:15:20.52,NanohaW Dialogue1,First,0,0,0,,As commander, belay that plan and the release of your limiter.
-Dialogue: 0,0:15:20.52,0:15:21.78,NanohaW Dialogue1,First,0,0,0,,Hayate!
-Dialogue: 0,0:15:21.78,0:15:23.94,NanohaW Dialogue1,First,0,0,0,,Hayate, why are you in your Knight's Armor?
+Dialogue: 0,0:15:13.24,0:15:15.46,NanohaW Dialogue1,First,0,0,0,,Lightning 1, this is the Long Arch.
+Dialogue: 0,0:15:15.90,0:15:20.52,NanohaW Dialogue1,First,0,0,0,,As commander, belay that plan and the release of your limiter.
+Dialogue: 0,0:15:20.52,0:15:21.47,NanohaW Dialogue1,First,0,0,0,,Hayate!
+Dialogue: 0,0:15:21.47,0:15:23.94,NanohaW Dialogue1,First,0,0,0,,Hayate, why are you in your Knight Armor?
 Dialogue: 0,0:15:23.94,0:15:26.61,NanohaW Dialogue1,First,0,0,0,,I have a bad feeling too.
 Dialogue: 0,0:15:26.61,0:15:31.02,NanohaW Dialogue1,First,0,0,0,,I've decided to ask Chrono for permission to release {\i1}my{\i0} limiter.
-Dialogue: 0,0:15:31.02,0:15:33.98,NanohaW Dialogue1,First,0,0,0,,I'll take care of these.
-Dialogue: 0,0:15:33.98,0:15:38.66,NanohaW Dialogue1,First,0,0,0,,Nanoha, Fate, get back to land, and defend the helicopter.
+Dialogue: 0,0:15:31.02,0:15:33.84,NanohaW Dialogue1,First,0,0,0,,I'll take care of these.
+Dialogue: 0,0:15:33.84,0:15:38.66,NanohaW Dialogue1,First,0,0,0,,Nanoha, Fate, get back to land, and defend the helicopter.
 Dialogue: 0,0:15:39.52,0:15:42.16,NanohaW Dialogue1,First,0,0,0,,Vita and Rein, you meet up with the forwards.
 Dialogue: 0,0:15:42.16,0:15:43.58,NanohaW Dialogue1,First,0,0,0,,Help them secure the case.
 Dialogue: 0,0:15:43.58,0:15:45.04,NanohaW Dialogue1,First,0,0,0,,Roger.
 Dialogue: 0,0:15:45.04,0:15:51.47,NanohaW Dialogue1,First,0,0,0,,Right now, Knight Carim and I can only grant you permission to release your limiter once apiece.
-Dialogue: 0,0:15:51.47,0:15:55.06,NanohaW Dialogue1,First,0,0,0,,It's hard to get that renewed.
-Dialogue: 0,0:15:55.06,0:15:56.43,NanohaW Dialogue1,FirstI,0,0,0,,Are you sure you want to use it?
+Dialogue: 0,0:15:51.47,0:15:54.67,NanohaW Dialogue1,First,0,0,0,,It's hard to get that renewed.
+Dialogue: 0,0:15:54.67,0:15:56.43,NanohaW Dialogue1,FirstI,0,0,0,,Are you sure you want to use it?
 Dialogue: 0,0:15:56.43,0:16:01.31,NanohaW Dialogue1,FirstI,0,0,0,,I don't want to reserve power that I could have used and regret it later.
-Dialogue: 0,0:16:01.31,0:16:05.76,NanohaW Dialogue1,FirstI,0,0,0,,Considering your location, I cannot grant you permission for SS rank.
+Dialogue: 0,0:16:01.31,0:16:05.76,NanohaW Dialogue1,FirstI,0,0,0,,Considering your location,\NI cannot grant you permission for SS rank.
 Dialogue: 0,0:16:05.76,0:16:09.23,NanohaW Dialogue1,First,0,0,0,,I can only release three ranks. Will that suffice?
-Dialogue: 0,0:16:09.23,0:16:12.06,NanohaW Dialogue1,First,0,0,0,,S rank?
-Dialogue: 0,0:16:12.06,0:16:13.66,NanohaW Dialogue1,First,0,0,0,,That's more than enough.
+Dialogue: 0,0:16:09.23,0:16:11.81,NanohaW Dialogue1,First,0,0,0,,S rank?
+Dialogue: 0,0:16:11.81,0:16:13.66,NanohaW Dialogue1,First,0,0,0,,That's more than enough.
 Dialogue: 0,0:16:17.12,0:16:21.28,NanohaW Dialogue1,First,0,0,0,,Hayate Yagami, limiter release for three ranks has been approved.
 Dialogue: 0,0:16:22.23,0:16:25.02,NanohaW Dialogue1,First,0,0,0,,Release time, 120 minutes.
 Dialogue: 0,0:16:29.42,0:16:31.88,NanohaW Dialogue1,First,0,0,0,,Limiter release!
 Dialogue: 0,0:16:42.97,0:16:49.57,NanohaW Dialogue1,First,0,0,0,,It might be a little easier to get permission renewed since it's not a full release, right?
 Dialogue: 0,0:16:50.64,0:16:52.94,NanohaW Dialogue1,First,0,0,0,,Not really.
-Dialogue: 0,0:16:52.94,0:16:56.01,NanohaW Dialogue1,First,0,0,0,,HQ is really strict about its ground forces.
+Dialogue: 0,0:16:52.94,0:16:56.01,NanohaW Dialogue1,First,0,0,0,,The G.A.S.'s top brass is really strict about this.
 Dialogue: 0,0:17:04.12,0:17:04.86,NanohaW Dialogue1,First,0,0,0,,Well, then...
 Dialogue: 0,0:17:04.86,0:17:09.77,NanohaW Dialogue1,First,0,0,0,,This will be the first time I've used long-range attack magic in a while.
-Dialogue: 0,0:17:15.63,0:17:19.55,NanohaW Dialogue1,First,0,0,0,,Seems like they're having some trouble above.
+Dialogue: 0,0:17:15.63,0:17:18.94,NanohaW Dialogue1,First,0,0,0,,Seems like they're having some trouble above.
 Dialogue: 0,0:17:20.30,0:17:23.02,NanohaW Dialogue1,First,0,0,0,,We're almost at the case's location.
-Dialogue: 0,0:17:34.12,0:17:35.34,NanohaW Dialogue1,First,0,0,0,,Ginny!
-Dialogue: 0,0:17:35.34,0:17:36.28,NanohaW Dialogue1,First,0,0,0,,Ginga!
+Dialogue: 0,0:17:33.93,0:17:34.72,NanohaW Dialogue1,First,0,0,0,,Ginny!
+Dialogue: 0,0:17:34.72,0:17:36.28,NanohaW Dialogue1,First,0,0,0,,Ginga!
 Dialogue: 0,0:17:37.74,0:17:40.38,NanohaW Dialogue1,First,0,0,0,,Let's look for the case together.
-Dialogue: 0,0:17:40.38,0:17:43.70,NanohaW Dialogue1,First,0,0,0,,I think I've finished off most of the Gadgets on the way here.
+Dialogue: 0,0:17:40.38,0:17:43.70,NanohaW Dialogue1,First,0,0,0,,I think I finished off most of the Gadgets on the way here.
 Dialogue: 0,0:17:43.70,0:17:44.58,NanohaW Dialogue1,First,0,0,0,,Aw yeah!
 Dialogue: 0,0:17:51.92,0:17:56.82,NanohaW Dialogue1,First,0,0,0,,This is Long Arch 1, Shario, to Long Arch 0, Commander Yagami.
 Dialogue: 0,0:17:56.82,0:17:57.58,NanohaW Dialogue1,First,0,0,0,,Yes?
-Dialogue: 0,0:17:57.58,0:18:01.20,NanohaW Dialogue1,First,0,0,0,,The Sighting Support System is ready.
-Dialogue: 0,0:18:01.20,0:18:04.42,NanohaW Dialogue1,First,0,0,0,,We've finished compensating for Schwertkreuz's synchronization error.
-Dialogue: 0,0:18:05.06,0:18:06.27,NanohaW Dialogue1,First,0,0,0,,Roger.
-Dialogue: 0,0:18:06.27,0:18:07.10,NanohaW Dialogue1,First,0,0,0,,Sorry to bother you with this.
-Dialogue: 0,0:18:07.10,0:18:11.98,NanohaW Dialogue1,First,0,0,0,,Without Rein, I'm a total klutz with long-range sighting and accurate firing.
-Dialogue: 0,0:18:11.98,0:18:14.96,NanohaW Dialogue1,First,0,0,0,,Leave that to us.
-Dialogue: 0,0:18:14.96,0:18:16.15,NanohaW Dialogue1,First,0,0,0,,We're all ready.
-Dialogue: 0,0:18:17.14,0:18:18.86,NanohaW Dialogue1,First,0,0,0,,Thanks.
-Dialogue: 0,0:18:21.90,0:18:28.06,NanohaW Dialogue1,First,0,0,0,,Come forth, the wind of snow, and become the fletching which falls from the heavens.
+Dialogue: 0,0:17:57.58,0:18:01.17,NanohaW Dialogue1,First,0,0,0,,The Sighting Support System is ready.
+Dialogue: 0,0:18:01.17,0:18:04.42,NanohaW Dialogue1,First,0,0,0,,We've finished compensating for Schwertkreuz's synchronization error.
+Dialogue: 0,0:18:05.06,0:18:05.79,NanohaW Dialogue1,First,0,0,0,,Roger.
+Dialogue: 0,0:18:05.79,0:18:06.76,NanohaW Dialogue1,First,0,0,0,,Sorry to bother you with this.
+Dialogue: 0,0:18:06.76,0:18:11.98,NanohaW Dialogue1,First,0,0,0,,Without Rein, I'm a total klutz with long-range sighting and accurate firing.
+Dialogue: 0,0:18:11.98,0:18:14.81,NanohaW Dialogue1,First,0,0,0,,Leave that to us.
+Dialogue: 0,0:18:14.81,0:18:16.15,NanohaW Dialogue1,First,0,0,0,,We're all ready.
+Dialogue: 0,0:18:17.10,0:18:18.43,NanohaW Dialogue1,First,0,0,0,,Thanks.
+Dialogue: 0,0:18:21.90,0:18:28.06,NanohaW Dialogue1,First,0,0,0,,Come forth, winds of winter, and become\Nthe fletching which falls from the heavens.
 Dialogue: 0,0:18:38.72,0:18:41.93,NanohaW Dialogue1,First,0,0,0,,Stars 1 and Lightning 1 have both evacuated to a safe area.
 Dialogue: 0,0:18:41.93,0:18:44.35,NanohaW Dialogue1,First,0,0,0,,Impact area's safety confirmed.
 Dialogue: 0,0:18:44.35,0:18:47.56,NanohaW Dialogue1,First,0,0,0,,Okay, here comes the first wave!
@@ -313,17 +314,17 @@ Dialogue: 0,0:19:09.15,0:19:10.97,NanohaW Dialogue1,First,0,0,0,,Three, two...
 Dialogue: 0,0:19:10.97,0:19:12.70,NanohaW Dialogue1,First,0,0,0,,One, zero.
 Dialogue: 0,0:19:17.84,0:19:20.02,NanohaW Dialogue1,First,0,0,0,,Group E destroyed.
 Dialogue: 0,0:19:20.02,0:19:21.43,NanohaW Dialogue1,First,0,0,0,,Next, Group B. Impact.
-Dialogue: 0,0:19:22.14,0:19:24.28,NanohaW Dialogue1,First,0,0,0,,Destroyed. And A too!
-Dialogue: 0,0:19:24.28,0:19:26.33,NanohaW Dialogue1,FirstI,0,0,0,,Second wave fired.
+Dialogue: 0,0:19:22.14,0:19:24.24,NanohaW Dialogue1,First,0,0,0,,Destroyed. And A too!
+Dialogue: 0,0:19:24.24,0:19:26.33,NanohaW Dialogue1,FirstI,0,0,0,,Second wave fired.
 Dialogue: 0,0:19:26.33,0:19:29.04,NanohaW Dialogue1,First,0,0,0,,Shari, calculate the discrimination pattern
 Dialogue: 0,0:19:29.04,0:19:31.73,NanohaW Dialogue1,First,0,0,0,,for the real units and the false ones with the data from their destruction.
 Dialogue: 0,0:19:31.73,0:19:34.42,NanohaW Dialogue1,First,0,0,0,,If there are any clues, we'll be able to find them.
 Dialogue: 0,0:19:34.42,0:19:36.42,NanohaW Dialogue1,FirstI,0,0,0,,I'll find them!
 Dialogue: 0,0:19:39.23,0:19:40.92,NanohaW Dialogue1,First,0,0,0,,Fried!
-Dialogue: 0,0:19:47.02,0:19:49.74,NanohaW Dialogue1,First,0,0,0,,Subaru, can you finish it with a single blow?
-Dialogue: 0,0:19:49.74,0:19:50.24,NanohaW Dialogue1,First,0,0,0,,I can!
-Dialogue: 0,0:19:50.24,0:19:51.74,NanohaW Device1,First,0,0,0,,{\pos(320,696)}Are you ready?
-Dialogue: 0,0:19:51.74,0:19:52.52,NanohaW Device1,First,0,0,0,,{\pos(960,696)}Yes.
+Dialogue: 0,0:19:47.02,0:19:49.61,NanohaW Dialogue1,First,0,0,0,,Subaru, can you finish it with a single blow?
+Dialogue: 0,0:19:49.61,0:19:50.24,NanohaW Dialogue1,First,0,0,0,,I can!
+Dialogue: 0,0:19:50.24,0:19:51.74,NanohaW Device1,First,0,0,0,,{\pos(320,674)}Are you ready?
+Dialogue: 0,0:19:51.74,0:19:52.52,NanohaW Device1,First,0,0,0,,{\pos(960,674)}Yes.
 Dialogue: 0,0:19:52.52,0:19:54.16,NanohaW Dialogue1,First,0,0,0,,Okay, follow me.
 Dialogue: 0,0:19:54.16,0:19:54.94,NanohaW Dialogue1,First,0,0,0,,Right!
 Dialogue: 0,0:19:54.94,0:19:56.37,NanohaW Dialogue1,First,0,0,0,,Here we go, partner!
@@ -331,11 +332,11 @@ Dialogue: 0,0:19:56.37,0:19:58.32,NanohaW Device1,First,0,0,0,,Load Cartridge
 Dialogue: 0,0:20:01.75,0:20:03.60,NanohaW Dialogue1,First,0,0,0,,{\b1}Tri-Shield{\b0}
 Dialogue: 0,0:20:16.65,0:20:18.23,NanohaW Dialogue1,First,0,0,0,,{\b1}Divine...{\b0}
 Dialogue: 0,0:20:22.85,0:20:24.70,NanohaW Dialogue1,FirstI,0,0,0,,{\b1}...Buster{\b0}
-Dialogue: 0,0:20:50.52,0:20:52.11,NanohaW Dialogue1,First,0,0,0,,I found it!
+Dialogue: 0,0:20:50.46,0:20:51.45,NanohaW Dialogue1,First,0,0,0,,I found it!
 Dialogue: 0,0:20:54.90,0:20:55.88,NanohaW Dialogue1,First,0,0,0,,What's that sound?
-Dialogue: 0,0:21:15.51,0:21:17.08,NanohaW Dialogue1,First,0,0,0,,Erio!
-Dialogue: 0,0:21:30.56,0:21:31.30,NanohaW Dialogue1,First,0,0,0,,You're in the way.
-Dialogue: 0,0:21:35.76,0:21:36.74,NanohaW Dialogue1,First,0,0,0,,Caro!
+Dialogue: 0,0:21:15.45,0:21:16.27,NanohaW Dialogue1,First,0,0,0,,Erio!
+Dialogue: 0,0:21:30.21,0:21:31.30,NanohaW Dialogue1,First,0,0,0,,You're in the way.
+Dialogue: 0,0:21:35.76,0:21:36.50,NanohaW Dialogue1,First,0,0,0,,Caro!
 Dialogue: 0,0:21:54.98,0:21:56.10,NanohaW Dialogue1,First,0,0,0,,Hey!
 Dialogue: 0,0:21:56.10,0:21:57.54,NanohaW Dialogue1,First,0,0,0,,Hey, girl!
 Dialogue: 0,0:21:57.54,0:21:59.61,NanohaW Dialogue1,First,0,0,0,,That's dangerous!
@@ -349,15 +350,15 @@ Dialogue: 0,0:22:17.94,0:22:19.42,NanohaW Dialogue1,First,0,0,0,,Ready?
 Dialogue: 0,0:22:20.22,0:22:21.31,NanohaW Dialogue1,First,0,0,0,,One.
 Dialogue: 0,0:22:21.31,0:22:22.76,NanohaW Dialogue1,First,0,0,0,,Two.
 Dialogue: 0,0:22:24.18,0:22:26.42,NanohaW Dialogue1,First,0,0,0,,{\b1}Starling's Howl{\b0}
-Dialogue: 0,0:22:24.18,0:22:26.42,NanohaW Device2,First,0,0,0,,{\b1\i0\pos(640,644)}Starengeheul{\b0\i1}
-Dialogue: 0,0:22:54.43,0:22:59.77,NanohaW Dialogue1,First,0,0,0,,Geez! This is what you get for going out without telling us.
-Dialogue: 0,0:22:59.77,0:23:01.40,NanohaW Dialogue1,First,0,0,0,,Lulu, you and Galue too.
-Dialogue: 0,0:23:01.40,0:23:02.60,NanohaW Dialogue1,First,0,0,0,,Agito.
-Dialogue: 0,0:23:03.59,0:23:05.32,NanohaW Dialogue1,FirstI,0,0,0,,I was really worried.
-Dialogue: 0,0:23:05.32,0:23:08.33,NanohaW Dialogue1,First,0,0,0,,Well, it's okay now, Lulu.
-Dialogue: 0,0:23:08.33,0:23:12.51,NanohaW Dialogue1,First,0,0,0,,After all, I, Sword Faerie of the Raging Fire,
+Dialogue: 0,0:22:24.18,0:22:26.42,NanohaW Device2,First,0,0,0,,{\b1\i0\pos(640,627)}Starengeheul{\b0\i1}
+Dialogue: 0,0:22:54.43,0:22:59.60,NanohaW Dialogue1,First,0,0,0,,Geez! This is what you get for going out without telling us.
+Dialogue: 0,0:22:59.60,0:23:01.40,NanohaW Dialogue1,First,0,0,0,,Lulu, you and Galue too.
+Dialogue: 0,0:23:01.40,0:23:02.52,NanohaW Dialogue1,First,0,0,0,,Agito.
+Dialogue: 0,0:23:03.44,0:23:05.32,NanohaW Dialogue1,FirstI,0,0,0,,I was really worried.
+Dialogue: 0,0:23:05.32,0:23:08.27,NanohaW Dialogue1,First,0,0,0,,Well, it's okay now, Lulu.
+Dialogue: 0,0:23:08.27,0:23:12.51,NanohaW Dialogue1,First,0,0,0,,After all, I, Sword Faerie of the Raging Fire,
 Dialogue: 0,0:23:14.24,0:23:16.70,NanohaW Dialogue1,First,0,0,0,,Agito is finally here!
-Dialogue: 0,0:23:22.90,0:23:28.18,NanohaW Dialogue1,FirstI,0,0,0,,Come on, all of you, bring it on!
+Dialogue: 0,0:23:22.74,0:23:28.18,NanohaW Dialogue1,FirstI,0,0,0,,Come on, all of you, bring it on!
 Dialogue: 0,0:23:35.68,0:23:39.17,Nanoha ED,Endsong,0,0,0,,Without end, the dreams continue to weave
 Dialogue: 0,0:23:39.17,0:23:42.72,Nanoha ED,Endsong,0,0,0,,Surpassing thousands of nights
 Dialogue: 0,0:23:42.72,0:23:46.22,Nanoha ED,Endsong,0,0,0,,Like a prayer, the journey continues
@@ -387,6 +388,6 @@ Dialogue: 0,0:25:28.08,0:25:31.52,NanohaW Narration1,First,0,0,0,,Next episode o
 Dialogue: 0,0:25:31.52,0:25:34.57,NanohaW Narration1,First,0,0,0,,Episode 12: Numbers
 Dialogue: 1,0:25:33.42,0:25:37.00,Nanoha StrikerS Title2,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 12
 Dialogue: 0,0:25:33.42,0:25:37.00,Nanoha StrikerS Title2,,0,0,0,,{\blur5\pos(640,267.75)\c&H183ACD&}Episode 12
-Dialogue: 1,0:25:33.42,0:25:37.00,Nanoha StrikerS Title2,,0,0,0,,{\blur0.5\pos(640,535.5)\bord0}Numbers
-Dialogue: 0,0:25:33.42,0:25:37.00,Nanoha StrikerS Title2,,0,0,0,,{\blur5\pos(640,535.5)\c&H183ACD&}Numbers
+Dialogue: 1,0:25:33.42,0:25:37.00,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Numbers
+Dialogue: 0,0:25:33.42,0:25:37.00,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H183ACD&}Numbers
 Dialogue: 0,0:25:34.57,0:25:35.92,NanohaW Narration1,First,0,0,0,,Take off!

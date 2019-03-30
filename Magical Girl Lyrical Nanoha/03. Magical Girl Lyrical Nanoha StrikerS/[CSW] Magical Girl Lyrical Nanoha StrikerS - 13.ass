@@ -19,19 +19,19 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 343
-Active Line: 348
-Video Position: 36348
+Scroll Position: 312
+Active Line: 317
+Video Position: 31925
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Nanoha StrikerS Title1,Junicode,89,&H00E4CBE0,&H000000FF,&H108C0062,&H60890B65,0,0,0,0,100,100,0,0,1,3.5,0,2,91,91,22,1
-Style: Nanoha StrikerS Title2,Junicode,89,&H00EFF3F7,&H000000FF,&H00183ACD,&H60203DC1,0,0,0,0,100,100,0,0,1,3.5,0,2,91,91,22,1
+Style: Nanoha StrikerS Title1,Bodoni Twelve ITC Std,72,&H00E4CBE0,&H000000FF,&H108C0062,&H60890B65,0,0,0,0,100,100,0,0,1,4.5,0,2,91,91,22,1
+Style: Nanoha StrikerS Title2,Bodoni Twelve ITC Std,72,&H00EFF3F7,&H000000FF,&H00183ACD,&H60203DC1,0,0,0,0,100,100,0,0,1,4.5,0,2,91,91,22,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
-Style: NanohaW Dialogue1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
-Style: NanohaW Narration1,Noto Serif,62,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.4,8,80,80,18,1
-Style: NanohaW Device2,Noto Serif,45,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
+Style: NanohaW Dialogue1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,80,80,40,1
+Style: NanohaW Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.4,8,80,80,20,1
+Style: NanohaW Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 
 [Events]
@@ -57,45 +57,44 @@ Dialogue: 0,0:01:44.02,0:01:50.88,Nanoha OP,Song,0,0,0,,The door to the truth wi
 Dialogue: 0,0:01:50.88,0:01:57.63,Nanoha OP,Song,0,0,0,,No matter what kind of cold darkness binds me
 Dialogue: 0,0:01:57.63,0:02:03.00,Nanoha OP,Song,0,0,0,,Because I want to know
 Dialogue: 0,0:02:03.00,0:02:07.79,Nanoha OP,Song,0,0,0,,I won't be stopped
-Dialogue: 0,0:02:30.76,0:02:34.01,NanohaW Narration1,,0,0,0,,I don't remember when I was born.
-Dialogue: 0,0:02:34.01,0:02:38.95,NanohaW Narration1,,0,0,0,,I never knew my {\i0}Meisters,{\i1}\Nor parents as humans would call them.
+Dialogue: 0,0:02:30.58,0:02:34.01,NanohaW Narration1,,0,0,0,,I don't remember when I was born.
+Dialogue: 0,0:02:34.01,0:02:38.95,NanohaW Narration1,,0,0,0,,I never knew my {\i0}Meister,{\i1}\Nor my parent as humans would call them.
 Dialogue: 0,0:02:40.03,0:02:45.48,NanohaW Narration1,,0,0,0,,I just slept silently, probably for a very long time.
-Dialogue: 0,0:02:47.46,0:02:51.48,NanohaW Narration1,,0,0,0,,Then the next thing I knew,\NI was an experimental subject in a white room.
+Dialogue: 0,0:02:47.46,0:02:51.48,NanohaW Narration1,,0,0,0,,Then the next thing I knew,\NI was a test subject in a white room.
 Dialogue: 0,0:02:59.24,0:03:05.48,NanohaW Narration1,,0,0,0,,Just not knowing why I'd been born was painful.
-Dialogue: 0,0:03:08.86,0:03:15.15,NanohaW Narration1,,0,0,0,,And I suffered, not knowing\Na single reason why I'd been born.
-Dialogue: 0,0:03:15.15,0:03:16.45,NanohaW Narration1,,0,0,0,,I didn't even have the freedom to die.
-Dialogue: 0,0:03:18.65,0:03:23.93,NanohaW Narration1,,0,0,0,,And I thought that someday my body and mind would break, and that would be it.
+Dialogue: 0,0:03:08.76,0:03:14.83,NanohaW Narration1,,0,0,0,,And I suffered, not knowing\Na single reason why I'd been born.
+Dialogue: 0,0:03:14.83,0:03:16.45,NanohaW Narration1,,0,0,0,,I didn't even have the freedom to die.
+Dialogue: 0,0:03:18.65,0:03:23.93,NanohaW Narration1,,0,0,0,,And I thought that someday my body and mind\Nwould break, and that would be it.
 Dialogue: 0,0:03:27.53,0:03:29.29,NanohaW Narration1,,0,0,0,,What changed that
 Dialogue: 0,0:03:42.02,0:03:50.00,NanohaW Narration1,,0,0,0,,was the appearance of a very rough hand and a small girl.
 Dialogue: 0,0:04:09.00,0:04:10.11,NanohaW Dialogue1,,0,0,0,,What?
 Dialogue: 0,0:04:10.11,0:04:11.68,NanohaW Dialogue1,,0,0,0,,You're leaving her?
-Dialogue: 0,0:04:13.48,0:04:16.10,NanohaW Dialogue1,,0,0,0,,That's an actual Ancient Belka-type
-Dialogue: 0,0:04:16.10,0:04:19.40,NanohaW Dialogue1,,0,0,0,,Unight, not a replica.
+Dialogue: 0,0:04:13.48,0:04:19.40,NanohaW Dialogue1,,0,0,0,,That's an actual Ancient Belkan Unight, not a replica.
 Dialogue: 0,0:04:19.40,0:04:23.00,NanohaW Dialogue1,,0,0,0,,She should be properly cared for,
 Dialogue: 0,0:04:23.00,0:04:25.57,NanohaW Dialogue1,,0,0,0,,assuming one of the Bureau staff members who notices the fire finds her.
 Dialogue: 0,0:04:25.57,0:04:29.54,NanohaW Dialogue1,,0,0,0,,And she'll be used for experiments again.
 Dialogue: 0,0:04:29.54,0:04:32.83,NanohaW Dialogue1,,0,0,0,,They aren't as evil as the people here.
 Dialogue: 0,0:04:32.83,0:04:35.61,NanohaW Dialogue1,,0,0,0,,I'd like to think so, anyway.
 Dialogue: 0,0:04:35.61,0:04:38.37,NanohaW Dialogue1,,0,0,0,,Zest, let's take her.
-Dialogue: 0,0:04:42.85,0:04:43.84,NanohaW Dialogue1,,0,0,0,,Are you sure?
+Dialogue: 0,0:04:42.58,0:04:43.84,NanohaW Dialogue1,,0,0,0,,Are you sure?
 Dialogue: 0,0:04:43.84,0:04:45.43,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:04:45.43,0:04:49.57,NanohaW Dialogue1,,0,0,0,,I'm sure she's just like us.
 Dialogue: 0,0:04:58.97,0:05:01.29,NanohaW Dialogue1,,0,0,0,,Dammit! What an awful dream.
 Dialogue: 0,0:05:03.23,0:05:06.84,NanohaW Narration1,,0,0,0,,It's their fault I remembered that.
 Dialogue: 0,0:05:10.03,0:05:15.19,NanohaW Narration1,,0,0,0,,The white Unight with the strange x-mark who was using ice magic,
-Dialogue: 0,0:05:17.55,0:05:22.09,NanohaW Narration1,,0,0,0,,And the red knight who is probably her Lord.
+Dialogue: 0,0:05:17.34,0:05:22.09,NanohaW Narration1,,0,0,0,,And the red knight who is probably her Lord.
 Dialogue: 0,0:05:22.09,0:05:28.54,NanohaW Narration1,,0,0,0,,She probably doesn't know how lonely it is to be a Unight without a Lord.
 Dialogue: 0,0:05:30.50,0:05:33.28,NanohaW Dialogue1,,0,0,0,,Dammit, this pisses me off!
-Dialogue: 0,0:05:33.28,0:05:35.07,NanohaW Dialogue1,,0,0,0,,Stupid cross-marked midget!
-Dialogue: 0,0:05:35.07,0:05:38.60,NanohaW Dialogue1,,0,0,0,,Next time I see you, I'm gonna burn you!
+Dialogue: 0,0:05:33.28,0:05:35.00,NanohaW Dialogue1,,0,0,0,,Stupid cross-marked midget!
+Dialogue: 0,0:05:35.00,0:05:38.60,NanohaW Dialogue1,,0,0,0,,Next time I see you, I'm gonna burn you!
 Dialogue: 1,0:05:38.60,0:05:43.61,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 13
 Dialogue: 0,0:05:38.60,0:05:43.61,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 13
-Dialogue: 1,0:05:38.60,0:05:43.61,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,535.5)\bord0}The Reason I Live
-Dialogue: 0,0:05:38.60,0:05:43.61,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,535.5)\c&H8C0062&}The Reason I Live
+Dialogue: 1,0:05:38.60,0:05:43.61,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}The Reason I Live
+Dialogue: 0,0:05:38.60,0:05:43.61,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}The Reason I Live
 Dialogue: 0,0:05:44.54,0:05:48.57,NanohaW Dialogue1,,0,0,0,,I'm sorry, Signum, for having you drive me like this.
-Dialogue: 0,0:05:48.57,0:05:52.62,NanohaW Dialogue1,,0,0,0,,Why? I'm borrowing this car from Testarossa anyway.
-Dialogue: 0,0:05:52.62,0:05:55.41,NanohaW Dialogue1,,0,0,0,,And Sister Schach is waiting there.
-Dialogue: 0,0:05:55.41,0:05:58.22,NanohaW Dialogue1,,0,0,0,,I should go as an intermediary.
+Dialogue: 0,0:05:48.57,0:05:52.27,NanohaW Dialogue1,,0,0,0,,Why? I'm borrowing this car from Testarossa anyway.
+Dialogue: 0,0:05:52.27,0:05:55.15,NanohaW Dialogue1,,0,0,0,,And Sister Schach is waiting there.
+Dialogue: 0,0:05:55.15,0:05:58.22,NanohaW Dialogue1,,0,0,0,,I should go as an intermediary.
 Dialogue: 0,0:05:58.22,0:05:59.00,NanohaW Dialogue1,,0,0,0,,I suppose.
 Dialogue: 0,0:06:01.08,0:06:05.62,NanohaW Dialogue1,,0,0,0,,Anyway, once the examination is finished and we know what's going on,
 Dialogue: 0,0:06:05.62,0:06:07.96,NanohaW Dialogue1,,0,0,0,,what do you think will happen to her?
@@ -104,22 +103,22 @@ Dialogue: 0,0:06:14.31,0:06:19.23,NanohaW Dialogue1,,0,0,0,,If we were to find a
 Dialogue: 0,0:06:22.15,0:06:25.82,NanohaW Dialogue1,,0,0,0,,Knight Signum, this is Schach Nouera of the Church of the Holy King.
 Dialogue: 0,0:06:25.82,0:06:27.18,NanohaW Dialogue1,,0,0,0,,What's wrong?
 Dialogue: 0,0:06:27.18,0:06:27.90,NanohaW Dialogue1,,0,0,0,,I'm sorry.
-Dialogue: 0,0:06:27.90,0:06:29.88,NanohaW Dialogue1,,0,0,0,,We failed to properly secure her, and
-Dialogue: 0,0:06:31.32,0:06:34.97,NanohaW Dialogue1,,0,0,0,,she vanished in the middle of the examination.
-Dialogue: 0,0:06:36.91,0:06:38.23,NanohaW Dialogue1,,0,0,0,,I'm terribly sorry.
-Dialogue: 0,0:06:38.23,0:06:40.22,NanohaW Dialogue1,,0,0,0,,Can you tell us what's going on?
+Dialogue: 0,0:06:27.90,0:06:29.88,NanohaW Dialogue1,,0,0,0,,We failed to properly secure her
+Dialogue: 0,0:06:31.32,0:06:34.97,NanohaW Dialogue1,,0,0,0,,and she vanished in the middle of the examination.
+Dialogue: 0,0:06:36.91,0:06:38.07,NanohaW Dialogue1,,0,0,0,,I'm terribly sorry.
+Dialogue: 0,0:06:38.07,0:06:40.22,NanohaW Dialogue1,,0,0,0,,Can you tell us what's going on?
 Dialogue: 0,0:06:40.22,0:06:41.04,NanohaW Dialogue1,,0,0,0,,Yes.
-Dialogue: 0,0:06:41.04,0:06:45.38,NanohaW Dialogue1,,0,0,0,,We've sealed and evacuated the special wing and the surrounding areas.
+Dialogue: 0,0:06:41.04,0:06:45.38,NanohaW Dialogue1,,0,0,0,,We've sealed and evacuated\Nthe special wing and the surrounding areas.
 Dialogue: 0,0:06:45.38,0:06:50.26,NanohaW Dialogue1,,0,0,0,,As of yet, we've found no indication that anyone came in via flight or teleportation.
 Dialogue: 0,0:06:51.05,0:06:53.50,NanohaW Dialogue1,,0,0,0,,She can't leave the building, right?
-Dialogue: 0,0:06:54.51,0:06:57.16,NanohaW Dialogue1,,0,0,0,,Then, let's split up and look for her.
-Dialogue: 0,0:06:57.16,0:06:58.47,NanohaW Dialogue1,,0,0,0,,Lt. Signum.
+Dialogue: 0,0:06:54.51,0:06:57.05,NanohaW Dialogue1,,0,0,0,,Then, let's split up and look for her.
+Dialogue: 0,0:06:57.05,0:06:58.47,NanohaW Dialogue1,,0,0,0,,Lt. Signum.
 Dialogue: 0,0:06:58.47,0:06:59.44,NanohaW Dialogue1,,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:07:01.60,0:07:06.49,NanohaW Dialogue1,,0,0,0,,The examination failed to find anything dangerous, correct?
-Dialogue: 0,0:07:06.49,0:07:10.52,NanohaW Dialogue1,,0,0,0,,Indeed. Her magical power levels were fairly high,
-Dialogue: 0,0:07:10.52,0:07:13.53,NanohaW Dialogue1,,0,0,0,,but they were within the range of a normal child.
+Dialogue: 0,0:07:06.49,0:07:10.52,NanohaW Dialogue1,,0,0,0,,Indeed. Her mana capacity is higher than average,
+Dialogue: 0,0:07:10.52,0:07:13.53,NanohaW Dialogue1,,0,0,0,,but it's well within the range of a normal child.
 Dialogue: 0,0:07:13.53,0:07:15.49,NanohaW Dialogue1,,0,0,0,,But, even so...
-Dialogue: 0,0:07:15.49,0:07:20.88,NanohaW Dialogue1,,0,0,0,,I'm sorry to say it, but there's no doubt that she's an artificial being.
+Dialogue: 0,0:07:15.49,0:07:20.88,NanohaW Dialogue1,,0,0,0,,I'm sorry to say it, but there's\Nno doubt that she's an artificial being.
 Dialogue: 0,0:07:20.88,0:07:24.29,NanohaW Dialogue1,,0,0,0,,There's no way to tell what kind of latent threat she poses.
 Dialogue: 0,0:07:38.12,0:07:40.17,NanohaW Dialogue1,,0,0,0,,There you are.
 Dialogue: 0,0:07:41.81,0:07:44.23,NanohaW Dialogue1,,0,0,0,,I've been worried.
@@ -128,101 +127,102 @@ Dialogue: 0,0:07:48.44,0:07:51.25,NanohaW Dialogue1,,0,0,0,,Spin up, Windenschaf
 Dialogue: 0,0:08:08.38,0:08:12.35,NanohaW Dialogue1,,0,0,0,,Sister Schach, may I handle this?
 Dialogue: 0,0:08:15.85,0:08:17.14,NanohaW Dialogue1,,0,0,0,,I'm sorry.
 Dialogue: 0,0:08:17.14,0:08:18.81,NanohaW Dialogue1,,0,0,0,,You were scared, right?
-Dialogue: 0,0:08:19.92,0:08:20.98,NanohaW Dialogue1,,0,0,0,,Are you all right?
+Dialogue: 0,0:08:19.80,0:08:20.98,NanohaW Dialogue1,,0,0,0,,Are you all right?
 Dialogue: 0,0:08:24.27,0:08:25.71,NanohaW Dialogue1,,0,0,0,,Can you stand?
 Dialogue: 0,0:08:26.85,0:08:29.35,NanohaW Narration1,,0,0,0,,I don't think there's any immediate danger.
 Dialogue: 0,0:08:29.35,0:08:32.23,NanohaW Narration1,,0,0,0,,Thank you, Sister Schach.
 Dialogue: 0,0:08:33.04,0:08:33.79,NanohaW Narration1,,0,0,0,,Yes, ma'am.
-Dialogue: 0,0:08:34.70,0:08:36.76,NanohaW Dialogue1,,0,0,0,,Nice to meet you.
-Dialogue: 0,0:08:36.76,0:08:38.97,NanohaW Dialogue1,,0,0,0,,My name is Nanoha Takamachi.
+Dialogue: 0,0:08:34.70,0:08:36.56,NanohaW Dialogue1,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:08:36.56,0:08:38.97,NanohaW Dialogue1,,0,0,0,,My name is Nanoha Takamachi.
 Dialogue: 0,0:08:38.97,0:08:40.65,NanohaW Dialogue1,,0,0,0,,Can you say your name?
 Dialogue: 0,0:08:41.96,0:08:42.96,NanohaW Dialogue1,,0,0,0,,Vivio.
 Dialogue: 0,0:08:42.96,0:08:44.66,NanohaW Dialogue1,,0,0,0,,{\c&HE1E1E1&}Vivio.
 Dialogue: 0,0:08:44.66,0:08:47.38,NanohaW Dialogue1,,0,0,0,,I see. That's a cute name.
 Dialogue: 0,0:08:47.38,0:08:49.84,NanohaW Dialogue1,,0,0,0,,Did you want to go somewhere, Vivio?
 Dialogue: 0,0:08:49.84,0:08:52.30,NanohaW Dialogue1,,0,0,0,,My mom isn't here.
-Dialogue: 0,0:08:54.17,0:08:56.00,NanohaW Dialogue1,,0,0,0,,That's terrible.
-Dialogue: 0,0:08:56.00,0:08:58.22,NanohaW Dialogue1,,0,0,0,,Then let's look for her together!
+Dialogue: 0,0:08:54.04,0:08:55.75,NanohaW Dialogue1,,0,0,0,,That's terrible.
+Dialogue: 0,0:08:55.75,0:08:58.22,NanohaW Dialogue1,,0,0,0,,Then let's look for her together!
 Dialogue: 0,0:09:03.88,0:09:05.19,NanohaW Dialogue1,,0,0,0,,An emergency inspection?
 Dialogue: 0,0:09:05.19,0:09:06.73,NanohaW Dialogue1,,0,0,0,,For Riot Force 6?
-Dialogue: 0,0:09:07.95,0:09:11.34,NanohaW Dialogue1,,0,0,0,,It seems like there's talk of it at Ground HQ.
+Dialogue: 0,0:09:07.64,0:09:11.34,NanohaW Dialogue1,,0,0,0,,It seems like there's talk of it at Ground HQ.
 Dialogue: 0,0:09:11.34,0:09:14.58,NanohaW Dialogue1,,0,0,0,,Inspections by Ground HQ are pretty tough, I hear.
-Dialogue: 0,0:09:15.61,0:09:20.26,NanohaW Dialogue1,,0,0,0,,We, this team, have a lot of challenges to begin with.
-Dialogue: 0,0:09:20.26,0:09:23.56,NanohaW Dialogue1,,0,0,0,,If we were ordered to change our shift or our position right now,
+Dialogue: 0,0:09:15.61,0:09:20.15,NanohaW Dialogue1,,0,0,0,,We, this team, have a lot of challenges to begin with.
+Dialogue: 0,0:09:20.15,0:09:23.56,NanohaW Dialogue1,,0,0,0,,If we were ordered to change\Nour shifts or our position right now,
 Dialogue: 0,0:09:23.56,0:09:26.04,NanohaW Dialogue1,,0,0,0,,to be honest, it would be the end of us.
 Dialogue: 0,0:09:26.04,0:09:28.39,NanohaW Dialogue1,,0,0,0,,Urgh... we have to overcome this somehow.
-Dialogue: 0,0:09:29.95,0:09:34.45,NanohaW Dialogue1,,0,0,0,,Ah, this has something to do with the inspection as well, but
+Dialogue: 0,0:09:29.82,0:09:34.45,NanohaW Dialogue1,,0,0,0,,Ah, this has something to do with the inspection as well, but
 Dialogue: 0,0:09:34.45,0:09:39.03,NanohaW Dialogue1,,0,0,0,,can you tell me the real reason Riot Force 6 was established now?
-Dialogue: 0,0:09:40.04,0:09:41.65,NanohaW Dialogue1,,0,0,0,,That's right.
-Dialogue: 0,0:09:41.65,0:09:43.47,NanohaW Dialogue1,,0,0,0,,Well, it's a good time, I guess.
-Dialogue: 0,0:09:43.47,0:09:49.71,NanohaW Dialogue1,,0,0,0,,I'm heading to the Church of the Holy King's headquarters to meet with Carim today.
-Dialogue: 0,0:09:49.71,0:09:51.31,NanohaW Dialogue1,,0,0,0,,Chrono will be there, too.
+Dialogue: 0,0:09:40.04,0:09:41.38,NanohaW Dialogue1,,0,0,0,,That's right.
+Dialogue: 0,0:09:41.38,0:09:43.47,NanohaW Dialogue1,,0,0,0,,Well, it's a good time, I guess.
+Dialogue: 0,0:09:43.47,0:09:49.55,NanohaW Dialogue1,,0,0,0,,I'm heading to the Church of the Holy King's headquarters to meet with Carim today.
+Dialogue: 0,0:09:49.55,0:09:51.31,NanohaW Dialogue1,,0,0,0,,Chrono will be there, too.
 Dialogue: 0,0:09:51.31,0:09:52.27,NanohaW Dialogue1,,0,0,0,,Chrono.
 Dialogue: 0,0:09:52.27,0:09:55.46,NanohaW Dialogue1,,0,0,0,,Could you and Nanoha come with me?
 Dialogue: 0,0:09:55.46,0:09:57.82,NanohaW Dialogue1,,0,0,0,,I'll tell you there.
+Dialogue: 0,0:09:57.82,0:09:59.24,NanohaW Dialogue1,,0,0,0,,Sure.
 Dialogue: 0,0:09:59.24,0:10:02.41,NanohaW Dialogue1,,0,0,0,,I wonder if Nanoha's back...
-Dialogue: 0,0:10:06.65,0:10:08.87,NanohaW Dialogue1,,0,0,0,,Hey, don't cry, don't cry.
+Dialogue: 0,0:10:06.40,0:10:08.87,NanohaW Dialogue1,,0,0,0,,Hey, don't cry, don't cry.
 Dialogue: 0,0:10:08.87,0:10:11.79,NanohaW Dialogue1,,0,0,0,,Come play with us!
-Dialogue: 0,0:10:13.12,0:10:14.40,NanohaW Dialogue1,,0,0,0,,What's happening?
+Dialogue: 0,0:10:13.03,0:10:14.12,NanohaW Dialogue1,,0,0,0,,What's happening?
 Dialogue: 0,0:10:15.21,0:10:17.57,NanohaW Dialogue1,,0,0,0,,Captain Fate, actually...
 Dialogue: 0,0:10:16.85,0:10:18.30,NanohaW Dialogue1,,0,0,0,,{\c&HE1E1E1&}Don't go!
 Dialogue: 0,0:10:18.77,0:10:21.58,NanohaW Dialogue1,,0,0,0,,Don't go!
 Dialogue: 0,0:10:29.44,0:10:30.84,NanohaW Dialogue1,,0,0,0,,Commander Yagami!
-Dialogue: 0,0:10:30.84,0:10:32.13,NanohaW Dialogue1,,0,0,0,,Fate!
-Dialogue: 0,0:10:32.13,0:10:36.62,NanohaW Dialogue1,,0,0,0,,I guess there are some opponents even the ace of aces can't defeat.
+Dialogue: 0,0:10:30.84,0:10:31.76,NanohaW Dialogue1,,0,0,0,,Fate!
+Dialogue: 0,0:10:31.76,0:10:36.62,NanohaW Dialogue1,,0,0,0,,I guess there are some opponents even the ace of aces can't defeat.
 Dialogue: 0,0:10:36.62,0:10:40.57,NanohaW Narration1,,0,0,0,,Fate, Hayate, save me.
-Dialogue: 0,0:10:41.85,0:10:43.58,NanohaW Dialogue1,,0,0,0,,Subaru, Caro.
-Dialogue: 0,0:10:43.58,0:10:45.37,NanohaW Dialogue1,,0,0,0,,For now, let's calm her down.
+Dialogue: 0,0:10:41.52,0:10:43.27,NanohaW Dialogue1,,0,0,0,,Subaru, Caro.
+Dialogue: 0,0:10:43.27,0:10:45.37,NanohaW Dialogue1,,0,0,0,,For now, let's calm her down.
 Dialogue: 0,0:10:45.37,0:10:47.48,NanohaW Dialogue1,,0,0,0,,Go rest somewhere.
 Dialogue: 0,0:10:47.48,0:10:48.18,NanohaW Dialogue1,,0,0,0,,Yes, ma'am.
 Dialogue: 0,0:10:48.18,0:10:49.71,NanohaW Dialogue1,,0,0,0,,Hello there.
 Dialogue: 0,0:10:50.75,0:10:53.67,NanohaW Dialogue1,,0,0,0,,Is this your friend?
 Dialogue: 0,0:10:53.67,0:10:56.34,NanohaW Dialogue1,,0,0,0,,Vivio, this is Fate.
-Dialogue: 0,0:10:56.34,0:10:59.21,NanohaW Dialogue1,,0,0,0,,She's my best friend.
-Dialogue: 0,0:10:59.21,0:11:01.26,NanohaW Dialogue1,,0,0,0,,Vivio, what's wrong?
-Dialogue: 0,0:11:02.80,0:11:09.05,NanohaW Narration1,,0,0,0,,I brought her here from the hospital for the time being, but she won't leave me alone.
+Dialogue: 0,0:10:56.34,0:10:59.16,NanohaW Dialogue1,,0,0,0,,She's my closest friend.
+Dialogue: 0,0:10:59.16,0:11:01.26,NanohaW Dialogue1,,0,0,0,,Vivio, what's wrong?
+Dialogue: 0,0:11:02.80,0:11:09.05,NanohaW Narration1,,0,0,0,,I brought her here from the hospital\Nfor the time being, but she won't leave me alone.
 Dialogue: 0,0:11:10.03,0:11:11.93,NanohaW Narration1,,0,0,0,,Perhaps she's fallen in love with you.
 Dialogue: 0,0:11:11.93,0:11:16.48,NanohaW Narration1,,0,0,0,,So I thought I would have the forwards take care of her.
 Dialogue: 0,0:11:16.48,0:11:18.40,NanohaW Narration1,,0,0,0,,Sorry.
 Dialogue: 0,0:11:19.52,0:11:21.55,NanohaW Narration1,,0,0,0,,It's okay. Leave it to me.
 Dialogue: 0,0:11:21.55,0:11:25.12,NanohaW Dialogue1,,0,0,0,,Say, do you want to be with Nanoha, Vivio?
 Dialogue: 0,0:11:27.29,0:11:32.08,NanohaW Dialogue1,,0,0,0,,But Nanoha has to go do something important.
-Dialogue: 0,0:11:32.08,0:11:35.61,NanohaW Dialogue1,,0,0,0,,And your selfishness is bothering her, Vivio.
-Dialogue: 0,0:11:35.61,0:11:37.34,NanohaW Dialogue1,,0,0,0,,This girl too, see?
+Dialogue: 0,0:11:32.08,0:11:35.45,NanohaW Dialogue1,,0,0,0,,And your selfishness is bothering her, Vivio.
+Dialogue: 0,0:11:35.45,0:11:37.34,NanohaW Dialogue1,,0,0,0,,This girl too, see?
 Dialogue: 0,0:11:38.96,0:11:42.94,NanohaW Dialogue1,,0,0,0,,You don't want to bother Nanoha, do you, Vivio?
-Dialogue: 0,0:11:42.94,0:11:46.94,NanohaW Narration1,,0,0,0,,Fate's pretty good at this!
+Dialogue: 0,0:11:42.94,0:11:46.94,NanohaW Narration1,,0,0,0,,F-Fate's pretty good at this!
 Dialogue: 0,0:11:46.94,0:11:51.13,NanohaW Narration1,,0,0,0,,Fate still has a young niece and nephew.
 Dialogue: 0,0:11:51.13,0:11:53.35,NanohaW Narration1,,0,0,0,,She's raising her familiar too.
 Dialogue: 0,0:11:54.78,0:11:57.97,NanohaW Narration1,,0,0,0,,And she took care of you when you were younger too, right?
 Dialogue: 0,0:11:59.36,0:12:02.77,NanohaW Dialogue1,,0,0,0,,So be a good girl and wait, okay?
 Dialogue: 0,0:12:04.16,0:12:06.16,NanohaW Dialogue1,,0,0,0,,Thanks, Vivio.
 Dialogue: 0,0:12:06.16,0:12:09.08,NanohaW Dialogue1,,0,0,0,,I'll only be gone a little while.
-Dialogue: 0,0:12:15.79,0:12:18.59,NanohaW Dialogue1,,0,0,0,,Sorry for all that.
+Dialogue: 0,0:12:15.79,0:12:18.59,NanohaW Dialogue1,,0,0,0,,Sorry about all that.
 Dialogue: 0,0:12:18.59,0:12:21.52,NanohaW Dialogue1,,0,0,0,,No, that was pretty funny.
-Dialogue: 0,0:12:23.43,0:12:26.56,NanohaW Dialogue1,,0,0,0,,But what should we do with her?
-Dialogue: 0,0:12:26.56,0:12:29.65,NanohaW Dialogue1,,0,0,0,,We could have the Church take care of her.
-Dialogue: 0,0:12:29.65,0:12:30.63,NanohaW Dialogue1,,0,0,0,,It's okay.
-Dialogue: 0,0:12:30.63,0:12:33.85,NanohaW Dialogue1,,0,0,0,,When I get back, I'll talk to her\Na little more and think of something.
+Dialogue: 0,0:12:23.43,0:12:26.42,NanohaW Dialogue1,,0,0,0,,But what should we do with her?
+Dialogue: 0,0:12:26.42,0:12:29.59,NanohaW Dialogue1,,0,0,0,,We could have the Church take care of her.
+Dialogue: 0,0:12:29.59,0:12:30.38,NanohaW Dialogue1,,0,0,0,,It's okay.
+Dialogue: 0,0:12:30.38,0:12:33.85,NanohaW Dialogue1,,0,0,0,,When I get back, I'll talk to her\Na little more and think of something.
 Dialogue: 0,0:12:33.85,0:12:35.40,NanohaW Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:12:36.41,0:12:41.60,NanohaW Dialogue1,,0,0,0,,For now, I think she's just nervous because she has nobody to rely on.
 Dialogue: 0,0:13:03.96,0:13:05.32,NanohaW Dialogue1,,0,0,0,,Okay, all done!
 Dialogue: 0,0:13:05.32,0:13:05.93,NanohaW Dialogue1,,0,0,0,,That was fast!
-Dialogue: 0,0:13:05.93,0:13:07.72,NanohaW Dialogue1,,0,0,0,,Don't be so slow.
-Dialogue: 0,0:13:07.72,0:13:09.89,NanohaW Dialogue1,,0,0,0,,Give me some. I'll help you out.
-Dialogue: 0,0:13:10.74,0:13:12.22,NanohaW Dialogue1,,0,0,0,,Thanks.
-Dialogue: 0,0:13:12.22,0:13:14.06,NanohaW Dialogue1,,0,0,0,,I'm not good at writing reports.
+Dialogue: 0,0:13:05.93,0:13:07.38,NanohaW Dialogue1,,0,0,0,,Don't be so slow.
+Dialogue: 0,0:13:07.38,0:13:09.89,NanohaW Dialogue1,,0,0,0,,Give me some. I'll help you out.
+Dialogue: 0,0:13:10.74,0:13:11.84,NanohaW Dialogue1,,0,0,0,,Thanks.
+Dialogue: 0,0:13:11.84,0:13:14.06,NanohaW Dialogue1,,0,0,0,,I'm not good at writing reports.
 Dialogue: 0,0:13:14.06,0:13:17.92,NanohaW Dialogue1,,0,0,0,,We agreed to do Lightning's reports for them too.
-Dialogue: 0,0:13:18.85,0:13:21.98,NanohaW Dialogue1,,0,0,0,,Even so, I'd rather do this than babysit.
+Dialogue: 0,0:13:18.64,0:13:21.98,NanohaW Dialogue1,,0,0,0,,Even so, I'd rather do this than babysit.
 Dialogue: 0,0:13:21.98,0:13:26.16,NanohaW Dialogue1,,0,0,0,,Aww, but I was having fun.
 Dialogue: 0,0:13:28.45,0:13:33.10,NanohaW Dialogue1,,0,0,0,,Those are the ones from yesterday with all the data Alto recorded.
-Dialogue: 0,0:13:33.97,0:13:40.25,NanohaW Dialogue1,,0,0,0,,They could do all that, and it was another type of energy, not magic, that they were using.
+Dialogue: 0,0:13:33.78,0:13:40.25,NanohaW Dialogue1,,0,0,0,,They could do all that, and it was another type of energy, not magic, that they were using.
 Dialogue: 0,0:13:40.25,0:13:46.49,NanohaW Dialogue1,,0,0,0,,The fact that they have that inside them means that they're...
-Dialogue: 0,0:13:50.43,0:13:51.83,NanohaW Dialogue1,,0,0,0,,T-Tia?
-Dialogue: 0,0:13:51.83,0:13:53.54,NanohaW Dialogue1,,0,0,0,,Are you dense, or what?
-Dialogue: 0,0:13:53.54,0:13:57.79,NanohaW Dialogue1,,0,0,0,,Figuring out what these guys are isn't our job.
-Dialogue: 0,0:13:57.79,0:14:01.74,NanohaW Dialogue1,,0,0,0,,It's the Long Arch staff and the captains that make the decisions.
-Dialogue: 0,0:14:01.74,0:14:06.28,NanohaW Dialogue1,,0,0,0,,What we're writing are reports to help them make that decision.
-Dialogue: 0,0:14:06.28,0:14:07.85,NanohaW Dialogue1,,0,0,0,,So get to work.
+Dialogue: 0,0:13:50.17,0:13:51.83,NanohaW Dialogue1,,0,0,0,,T-Tia?
+Dialogue: 0,0:13:51.83,0:13:53.21,NanohaW Dialogue1,,0,0,0,,Are you dense, or what?
+Dialogue: 0,0:13:53.21,0:13:57.79,NanohaW Dialogue1,,0,0,0,,Figuring out what these guys are isn't our job.
+Dialogue: 0,0:13:57.79,0:14:01.74,NanohaW Dialogue1,,0,0,0,,It's the Long Arch staff and\Nthe captains that make the decisions.
+Dialogue: 0,0:14:01.74,0:14:06.02,NanohaW Dialogue1,,0,0,0,,What we're writing are reports to help them make that decision.
+Dialogue: 0,0:14:06.02,0:14:07.85,NanohaW Dialogue1,,0,0,0,,So get to work.
 Dialogue: 0,0:14:09.08,0:14:10.03,NanohaW Dialogue1,,0,0,0,,Yeah, whatever.
 Dialogue: 0,0:14:13.37,0:14:18.26,NanohaW Dialogue1,,0,0,0,,And even if that was certain,\Nit's nothing for you to worry about.
 Dialogue: 0,0:14:18.26,0:14:19.35,NanohaW Dialogue1,,0,0,0,,Get to work.
@@ -234,65 +234,66 @@ Dialogue: 0,0:14:27.90,0:14:29.80,NanohaW Dialogue1,,0,0,0,,Excuse us.
 Dialogue: 0,0:14:29.80,0:14:32.70,NanohaW Dialogue1,,0,0,0,,Captain Nanoha Takamachi.
 Dialogue: 0,0:14:33.39,0:14:36.27,NanohaW Dialogue1,,0,0,0,,Enforcer Fate Testarossa-Harlaown.
 Dialogue: 0,0:14:37.59,0:14:38.44,NanohaW Dialogue1,,0,0,0,,Welcome.
-Dialogue: 0,0:14:38.44,0:14:40.53,NanohaW Dialogue1,,0,0,0,,Nice to meet you.
-Dialogue: 0,0:14:40.53,0:14:45.98,NanohaW Dialogue1,,0,0,0,,I am Carim Gracia, a knight of the Church of the Holy King's Church Knights.
+Dialogue: 0,0:14:38.44,0:14:40.38,NanohaW Dialogue1,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:14:40.38,0:14:45.98,NanohaW Dialogue1,,0,0,0,,I am Carim Gracia, a knight of the Church of the Holy King's Church Knights.
 Dialogue: 0,0:14:45.98,0:14:48.40,NanohaW Dialogue1,,0,0,0,,Please come in.
-Dialogue: 0,0:14:51.24,0:14:53.40,NanohaW Dialogue1,,0,0,0,,Excuse me.
-Dialogue: 0,0:14:53.40,0:14:56.95,NanohaW Dialogue1,,0,0,0,,Admiral Chrono, it's been a while.
+Dialogue: 0,0:14:51.24,0:14:53.36,NanohaW Dialogue1,,0,0,0,,Excuse me.
+Dialogue: 0,0:14:53.36,0:14:56.95,NanohaW Dialogue1,,0,0,0,,Admiral Chrono, it's been a while.
 Dialogue: 0,0:14:56.95,0:14:59.12,NanohaW Dialogue1,,0,0,0,,Yes, Enforcer Fate.
-Dialogue: 0,0:15:00.35,0:15:03.54,NanohaW Dialogue1,,0,0,0,,Don't be so stiff, both of you.
-Dialogue: 0,0:15:03.54,0:15:07.04,NanohaW Dialogue1,,0,0,0,,We're friends as well.
-Dialogue: 0,0:15:07.04,0:15:09.32,NanohaW Dialogue1,,0,0,0,,Act like you would normally would.
-Dialogue: 0,0:15:09.32,0:15:12.28,NanohaW Dialogue1,,0,0,0,,Well then, you heard Knight Carim.
-Dialogue: 0,0:15:12.28,0:15:13.97,NanohaW Dialogue1,,0,0,0,,Same as always.
-Dialogue: 0,0:15:13.97,0:15:14.74,NanohaW Dialogue1,,0,0,0,,You're fine.
+Dialogue: 0,0:15:00.20,0:15:03.54,NanohaW Dialogue1,,0,0,0,,Don't be so stiff, both of you.
+Dialogue: 0,0:15:03.54,0:15:06.74,NanohaW Dialogue1,,0,0,0,,We're friends as well.
+Dialogue: 0,0:15:06.74,0:15:09.32,NanohaW Dialogue1,,0,0,0,,Act like you would normally would.
+Dialogue: 0,0:15:09.32,0:15:11.87,NanohaW Dialogue1,,0,0,0,,Well then, you heard Knight Carim.
+Dialogue: 0,0:15:11.87,0:15:13.88,NanohaW Dialogue1,,0,0,0,,Same as always.
+Dialogue: 0,0:15:13.88,0:15:14.74,NanohaW Dialogue1,,0,0,0,,You're fine.
 Dialogue: 0,0:15:14.74,0:15:17.25,NanohaW Dialogue1,,0,0,0,,Okay then. It's been a while, Chrono.
 Dialogue: 0,0:15:17.70,0:15:19.69,NanohaW Dialogue1,,0,0,0,,How have you been, brother?
-Dialogue: 0,0:15:21.12,0:15:22.75,NanohaW Dialogue1,,0,0,0,,Don't call me that.
-Dialogue: 0,0:15:22.75,0:15:24.61,NanohaW Dialogue1,,0,0,0,,We're both adults now.
+Dialogue: 0,0:15:21.12,0:15:22.64,NanohaW Dialogue1,,0,0,0,,Don't call me that.
+Dialogue: 0,0:15:22.64,0:15:24.61,NanohaW Dialogue1,,0,0,0,,We're both adults now.
 Dialogue: 0,0:15:24.61,0:15:28.53,NanohaW Dialogue1,,0,0,0,,That has nothing to do with us being brother and sister, Chrono.
-Dialogue: 0,0:15:32.05,0:15:35.20,NanohaW Dialogue1,,0,0,0,,Now then, we need to discuss what happened yesterday,
-Dialogue: 0,0:15:35.20,0:15:38.87,NanohaW Dialogue1,,0,0,0,,As well as the full story behind the creation of Riot Force 6,
+Dialogue: 0,0:15:31.98,0:15:35.20,NanohaW Dialogue1,,0,0,0,,Now then, we need to discuss what happened yesterday,
+Dialogue: 0,0:15:35.20,0:15:38.87,NanohaW Dialogue1,,0,0,0,,As well as the full story behind the creation of Riot Force 6
 Dialogue: 0,0:15:38.87,0:15:42.46,NanohaW Dialogue1,,0,0,0,,and what we do next.
 Dialogue: 0,0:15:48.95,0:15:51.23,NanohaW Dialogue1,,0,0,0,,I'm glad she calmed down.
 Dialogue: 0,0:15:51.23,0:15:52.01,NanohaW Dialogue1,,0,0,0,,Me too.
 Dialogue: 0,0:15:52.01,0:15:55.69,NanohaW Dialogue1,,0,0,0,,She's like a normal girl, isn't she?
-Dialogue: 0,0:15:57.92,0:16:04.10,NanohaW Narration1,,0,0,0,,If she's a sample for an artificial mage project, then her intelligence and language are far too advanced.
-Dialogue: 0,0:16:04.10,0:16:07.77,NanohaW Narration1,,0,0,0,,Artificial people don't become like this.
+Dialogue: 0,0:15:55.69,0:15:56.92,NanohaW Dialogue1,,0,0,0,,Yeah.
+Dialogue: 0,0:15:57.92,0:16:04.10,NanohaW Narration1,,0,0,0,,If she's a sample for an artificial mage project,\Nthen her intelligence and language are far too advanced.
+Dialogue: 0,0:16:04.10,0:16:07.77,NanohaW Narration1,,0,0,0,,Artificial people aren't made like this.
 Dialogue: 0,0:16:07.77,0:16:11.92,NanohaW Narration1,,0,0,0,,She probably has her original's memories.
-Dialogue: 0,0:16:11.92,0:16:12.90,NanohaW Dialogue1,,0,0,0,,Erio?
+Dialogue: 0,0:16:11.92,0:16:12.78,NanohaW Dialogue1,,0,0,0,,Erio?
 Dialogue: 0,0:16:13.74,0:16:15.24,NanohaW Dialogue1,,0,0,0,,Is something wrong?
-Dialogue: 0,0:16:15.24,0:16:19.04,NanohaW Dialogue1,,0,0,0,,S-sorry! It's nothing.
+Dialogue: 0,0:16:15.24,0:16:18.56,NanohaW Dialogue1,,0,0,0,,S-Sorry! It's nothing.
 Dialogue: 0,0:16:19.04,0:16:24.24,NanohaW Narration1,,0,0,0,,Project F is continuing somewhere.
-Dialogue: 0,0:16:26.17,0:16:31.91,NanohaW Dialogue1,,0,0,0,,The reason given for the creation of Riot Force 6\Nwas to deal with Lost Logia such as Relics,
-Dialogue: 0,0:16:31.91,0:16:35.80,NanohaW Dialogue1,,0,0,0,,as well as to experiment with the creation of small, highly independent forces.
-Dialogue: 0,0:16:35.80,0:16:40.36,NanohaW Dialogue1,,0,0,0,,As you know, the sponsors of\NRiot Force 6 are myself, Knight Carim,
+Dialogue: 0,0:16:26.17,0:16:31.50,NanohaW Dialogue1,,0,0,0,,The reason given for the creation of Riot Force 6\Nwas to deal with Lost Logia such as Relics,
+Dialogue: 0,0:16:31.50,0:16:35.62,NanohaW Dialogue1,,0,0,0,,as well as to experiment with the creation of small, highly independent forces.
+Dialogue: 0,0:16:35.62,0:16:40.36,NanohaW Dialogue1,,0,0,0,,As you know, the sponsors of\NRiot Force 6 are myself, Knight Carim,
 Dialogue: 0,0:16:40.36,0:16:44.26,NanohaW Dialogue1,,0,0,0,,and my and Fate's mother as well as our superior, Lindy Harlaown.
 Dialogue: 0,0:16:44.26,0:16:52.03,NanohaW Dialogue1,,0,0,0,,Furthermore, unofficially, the Three Admirals have backed us and given us promises of cooperation.
 Dialogue: 0,0:16:52.99,0:16:57.13,NanohaW Dialogue1,,0,0,0,,The reason for this is connected to my ability.
 Dialogue: 0,0:16:58.16,0:17:01.83,NanohaW Dialogue1,,0,0,0,,My power, Prophetic Writings,
-Dialogue: 0,0:16:58.16,0:17:01.83,NanohaW Device2,,0,0,0,,{\pos(758.185,644)\i1}Prophetinschriften{\i0}
+Dialogue: 0,0:16:58.16,0:17:01.83,NanohaW Device2,,0,0,0,,{\i1\pos(728.138,627)}Prophetinschriften{\i0}
 Dialogue: 0,0:17:01.83,0:17:09.72,NanohaW Dialogue1,,0,0,0,,can see the future from a minimum of a half a year to a maximum of a few years away,
 Dialogue: 0,0:17:09.72,0:17:12.26,NanohaW Dialogue1,,0,0,0,,and record it in the form of a poem.
-Dialogue: 0,0:17:12.26,0:17:17.22,NanohaW Dialogue1,,0,0,0,,The alignment of the two moons' magical power has to be perfect, or I can't do it.
-Dialogue: 0,0:17:17.22,0:17:20.81,NanohaW Dialogue1,,0,0,0,,So I can only create pages once a year.
+Dialogue: 0,0:17:12.26,0:17:17.08,NanohaW Dialogue1,,0,0,0,,The alignment of the two moons' magical power\Nhas to be perfect, or I can't do it.
+Dialogue: 0,0:17:17.08,0:17:20.81,NanohaW Dialogue1,,0,0,0,,So I can only create pages once a year.
 Dialogue: 0,0:17:20.81,0:17:24.04,NanohaW Dialogue1,,0,0,0,,The prophecies are in Ancient Belkan
-Dialogue: 0,0:17:24.04,0:17:28.48,NanohaW Dialogue1,,0,0,0,,and are difficult passages whose interpretations are up for debate.
+Dialogue: 0,0:17:24.04,0:17:28.48,NanohaW Dialogue1,,0,0,0,,and are difficult passages\Nwhose interpretations are up for debate.
 Dialogue: 0,0:17:28.48,0:17:31.35,NanohaW Dialogue1,,0,0,0,,They randomly record things that happen all around the world.
-Dialogue: 0,0:17:31.98,0:17:34.50,NanohaW Dialogue1,,0,0,0,,If you include misinterpreted passages,
-Dialogue: 0,0:17:34.50,0:17:39.31,NanohaW Dialogue1,,0,0,0,,they're about as useful and prophetic as a fairly accurate horoscope.
+Dialogue: 0,0:17:31.98,0:17:34.18,NanohaW Dialogue1,,0,0,0,,If you include misinterpreted passages,
+Dialogue: 0,0:17:34.18,0:17:39.31,NanohaW Dialogue1,,0,0,0,,they're about as useful and prophetic as a fairly accurate horoscope.
 Dialogue: 0,0:17:39.31,0:17:43.03,NanohaW Dialogue1,,0,0,0,,In other words, it's not a very useful ability.
-Dialogue: 0,0:17:43.03,0:17:49.48,NanohaW Dialogue1,,0,0,0,,The Church of the Holy King and the top brass of the Dimensional Navy look through these.
-Dialogue: 0,0:17:49.48,0:17:54.86,NanohaW Dialogue1,,0,0,0,,Putting whether or not they believe them aside,\Nthey're treated as predictions by an expert.
-Dialogue: 0,0:17:54.86,0:17:58.50,NanohaW Dialogue1,,0,0,0,,By the way, the Ground Armed Service hates them.
+Dialogue: 0,0:17:43.03,0:17:49.07,NanohaW Dialogue1,,0,0,0,,The Church of the Holy King and the top brass of the Dimensional Navy look through these.
+Dialogue: 0,0:17:49.07,0:17:54.83,NanohaW Dialogue1,,0,0,0,,Putting whether or not they believe them aside,\Nthey're treated as predictions by an expert.
+Dialogue: 0,0:17:54.83,0:17:58.50,NanohaW Dialogue1,,0,0,0,,By the way, the Ground Armed Service hates them.
 Dialogue: 0,0:17:58.50,0:18:02.68,NanohaW Dialogue1,,0,0,0,,Their {\i1}de facto{\i0} leader dislikes this kind of Rare Skill.
 Dialogue: 0,0:18:02.68,0:18:05.60,NanohaW Dialogue1,,0,0,0,,Lt. General Regius Gaiz, right?
 Dialogue: 0,0:18:05.60,0:18:08.38,NanohaW Dialogue1,,0,0,0,,Little by little for the past few years,
 Dialogue: 0,0:18:08.38,0:18:13.07,NanohaW Dialogue1,,0,0,0,,Knight Carim's prophecies have begun to converge on a single event.
-Dialogue: 0,0:18:15.30,0:18:19.50,NanohaW Dialogue1,,0,0,0,,In the land where ancient crystals and unlimited desire gather and intertwine,
-Dialogue: 0,0:18:19.50,0:18:23.49,NanohaW Dialogue1,,0,0,0,,the wings shall be restored from the holy land of the dead King.
+Dialogue: 0,0:18:15.30,0:18:19.50,NanohaW Dialogue1,,0,0,0,,In the land where ancient crystals and\Nunlimited desire gather and intertwine,
+Dialogue: 0,0:18:19.50,0:18:23.74,NanohaW Dialogue1,,0,0,0,,the wings shall be restored from the holy land of the dead King.
 Dialogue: 0,0:18:24.54,0:18:29.71,NanohaW Dialogue1,,0,0,0,,The dead shall dance, and the tower of law in the central lands shall burn to the ground,
-Dialogue: 0,0:18:29.71,0:18:34.85,NanohaW Dialogue1,,0,0,0,,and from there, the ship of law that guards the many seas shall be torn apart.
+Dialogue: 0,0:18:29.71,0:18:34.85,NanohaW Dialogue1,,0,0,0,,and from there, the ship of law\Nthat guards the many seas shall be torn apart.
 Dialogue: 0,0:18:35.85,0:18:37.05,NanohaW Dialogue1,,0,0,0,,That...
 Dialogue: 0,0:18:37.05,0:18:38.26,NanohaW Dialogue1,,0,0,0,,...can't be!
 Dialogue: 0,0:18:38.26,0:18:43.89,NanohaW Dialogue1,,0,0,0,,The Lost Logia will commence the destruction of the Bureau's Ground Headquarters.
@@ -301,57 +302,58 @@ Dialogue: 0,0:18:52.77,0:18:55.64,NanohaW Dialogue1,,0,0,0,,Has the date for the
 Dialogue: 0,0:18:55.64,0:18:57.94,NanohaW Dialogue1,,0,0,0,,I've secured the necessary personnel.
 Dialogue: 0,0:18:57.94,0:19:00.07,NanohaW Dialogue1,,0,0,0,,We will perform it next week.
 Dialogue: 0,0:19:00.07,0:19:03.40,NanohaW Dialogue1,,0,0,0,,I don't know what they're planning,
-Dialogue: 0,0:19:03.40,0:19:09.20,NanohaW Dialogue1,,0,0,0,,But we're the ones who have shed blood and covered ourselves in dust to support the land.
-Dialogue: 0,0:19:09.20,0:19:16.65,NanohaW Dialogue1,,0,0,0,,We won't let the Navy, who makes light of that,\Nor the ignorant Church, have its way.
+Dialogue: 0,0:19:03.40,0:19:09.03,NanohaW Dialogue1,,0,0,0,,But we're the ones who have shed blood and covered ourselves in dust to support the land.
+Dialogue: 0,0:19:09.03,0:19:16.65,NanohaW Dialogue1,,0,0,0,,We won't let the Navy, who makes light of that,\Nor the ignorant Church, have its way.
 Dialogue: 0,0:19:16.65,0:19:20.46,NanohaW Dialogue1,,0,0,0,,More than anything else,\Nthe High Council is on my side.
 Dialogue: 0,0:19:20.46,0:19:22.67,NanohaW Dialogue1,,0,0,0,,Right, Auris?
 Dialogue: 0,0:19:22.67,0:19:23.53,NanohaW Dialogue1,,0,0,0,,Yes, sir.
 Dialogue: 0,0:19:23.53,0:19:26.65,NanohaW Dialogue1,,0,0,0,,The press conference is happening soon.
 Dialogue: 0,0:19:26.65,0:19:31.10,NanohaW Dialogue1,,0,0,0,,Use the inspection to find anything you can to use against the Church or the Main Office.
 Dialogue: 0,0:19:31.10,0:19:32.96,NanohaW Dialogue1,,0,0,0,,Regarding that,
-Dialogue: 0,0:19:32.96,0:19:36.09,NanohaW Dialogue1,,0,0,0,,I performed a preliminary investigation of Riot Force 6.
-Dialogue: 0,0:19:36.09,0:19:39.24,NanohaW Dialogue1,,0,0,0,,It's rather cleverly put together.
-Dialogue: 0,0:19:39.24,0:19:42.85,NanohaW Dialogue1,,0,0,0,,It has a young commander with no real credit to her name at the head,
+Dialogue: 0,0:19:32.96,0:19:35.97,NanohaW Dialogue1,,0,0,0,,I performed a preliminary investigation of Riot Force 6.
+Dialogue: 0,0:19:35.97,0:19:39.05,NanohaW Dialogue1,,0,0,0,,It's rather cleverly put together.
+Dialogue: 0,0:19:39.05,0:19:42.85,NanohaW Dialogue1,,0,0,0,,It has a young commander with\Nno real credit to her name at the head,
 Dialogue: 0,0:19:42.85,0:19:45.10,NanohaW Dialogue1,,0,0,0,,and its two squad leaders didn't actually transfer,
 Dialogue: 0,0:19:45.10,0:19:47.61,NanohaW Dialogue1,,0,0,0,,but are on loan from the Main Office.
 Dialogue: 0,0:19:47.61,0:19:50.52,NanohaW Dialogue1,,0,0,0,,If you disregard the commander's private forces, who are her family,
 Dialogue: 0,0:19:50.52,0:19:52.58,NanohaW Dialogue1,,0,0,0,,all the rest of them are relatively new recruits.
 Dialogue: 0,0:19:52.58,0:19:53.69,NanohaW Dialogue1,,0,0,0,,And more than anything,
 Dialogue: 0,0:19:53.69,0:19:56.74,NanohaW Dialogue1,,0,0,0,,they're an experimental squad only being allowed to operate for a limited time.
-Dialogue: 0,0:19:57.59,0:19:59.32,NanohaW Dialogue1,,0,0,0,,In other words, they're expendable?
+Dialogue: 0,0:19:57.54,0:19:59.32,NanohaW Dialogue1,,0,0,0,,In other words, they're expendable?
 Dialogue: 0,0:19:59.32,0:20:03.00,NanohaW Dialogue1,,0,0,0,,If there was any kind of trouble that could implicate the Main Office
-Dialogue: 0,0:20:03.00,0:20:05.53,NanohaW Dialogue1,,0,0,0,,they would simply be cut off.
-Dialogue: 0,0:20:05.53,0:20:07.31,NanohaW Dialogue1,,0,0,0,,That's how they're set up.
+Dialogue: 0,0:20:03.00,0:20:05.29,NanohaW Dialogue1,,0,0,0,,they would simply be cut off.
+Dialogue: 0,0:20:05.29,0:20:07.31,NanohaW Dialogue1,,0,0,0,,That's how they're set up.
 Dialogue: 0,0:20:07.31,0:20:09.52,NanohaW Dialogue1,,0,0,0,,So, the girl is a sacrificial lamb, huh?
 Dialogue: 0,0:20:09.52,0:20:12.93,NanohaW Dialogue1,,0,0,0,,That's a perfect role for a former criminal.
 Dialogue: 0,0:20:12.93,0:20:17.48,NanohaW Dialogue1,,0,0,0,,Well, it's most likely a role that she chose.
-Dialogue: 0,0:20:18.65,0:20:20.12,NanohaW Dialogue1,,0,0,0,,Nothing.
-Dialogue: 0,0:20:20.12,0:20:22.70,NanohaW Dialogue1,,0,0,0,,You have two appointments for press conferences after this.
+Dialogue: 0,0:20:18.65,0:20:19.48,NanohaW Dialogue1,,0,0,0,,Nothing.
+Dialogue: 0,0:20:19.48,0:20:22.70,NanohaW Dialogue1,,0,0,0,,You have two appointments for press conferences after this.
 Dialogue: 0,0:20:22.70,0:20:24.65,NanohaW Dialogue1,,0,0,0,,Please come with me.
 Dialogue: 0,0:20:28.02,0:20:31.00,NanohaW Dialogue1,,0,0,0,,Okay then, Nanoha, Fate.
-Dialogue: 0,0:20:32.15,0:20:33.82,NanohaW Dialogue1,,0,0,0,,That's plenty of information.
-Dialogue: 0,0:20:33.82,0:20:34.95,NanohaW Dialogue1,,0,0,0,,We're okay.
-Dialogue: 0,0:20:45.93,0:20:51.30,NanohaW Dialogue1,,0,0,0,,To me, you're the people who saved my life and the lives of my dear friends.
+Dialogue: 0,0:20:32.15,0:20:33.53,NanohaW Dialogue1,,0,0,0,,That's plenty of information.
+Dialogue: 0,0:20:33.53,0:20:34.85,NanohaW Dialogue1,,0,0,0,,We're okay.
+Dialogue: 0,0:20:41.82,0:20:42.74,NanohaW Dialogue1,,0,0,0,,Hey, wait!
+Dialogue: 0,0:20:45.93,0:20:51.30,NanohaW Dialogue1,,0,0,0,,To me, you're the people who saved\Nmy life and the lives of my dear friends.
 Dialogue: 0,0:20:51.30,0:20:56.71,NanohaW Dialogue1,,0,0,0,,I don't know what will happen to Riot Force 6, but...
-Dialogue: 0,0:20:56.71,0:21:00.95,NanohaW Dialogue1,,0,0,0,,You already told us that when we joined.
-Dialogue: 0,0:21:00.95,0:21:04.08,NanohaW Dialogue1,,0,0,0,,Both Nanoha and I chose to be here, knowing that.
+Dialogue: 0,0:20:56.71,0:21:00.81,NanohaW Dialogue1,,0,0,0,,You already told us that when we joined.
+Dialogue: 0,0:21:00.81,0:21:04.08,NanohaW Dialogue1,,0,0,0,,Both Nanoha and I chose to be here, knowing that.
 Dialogue: 0,0:21:04.08,0:21:05.55,NanohaW Dialogue1,,0,0,0,,It's okay.
-Dialogue: 0,0:21:05.55,0:21:10.28,NanohaW Dialogue1,,0,0,0,,Besides, getting me into the Instructor Corps and setting up Fate's examinations
-Dialogue: 0,0:21:10.28,0:21:14.58,NanohaW Dialogue1,,0,0,0,,were things that you and the whole Yagami family were instrumental in, Hayate.
-Dialogue: 0,0:21:14.58,0:21:18.46,NanohaW Dialogue1,,0,0,0,,So now, we need to help {\i1}you{\i0} achieve {\i1}your{\i0} dreams.
+Dialogue: 0,0:21:05.55,0:21:09.48,NanohaW Dialogue1,,0,0,0,,Besides, getting me into the Instructor Corps\Nand setting up Fate's examinations
+Dialogue: 0,0:21:09.48,0:21:14.58,NanohaW Dialogue1,,0,0,0,,were things that you and the whole\NYagami family were instrumental in, Hayate.
+Dialogue: 0,0:21:14.58,0:21:18.46,NanohaW Dialogue1,,0,0,0,,So now, Hayate, we need to help {\i1}you{\i0} achieve {\i1}your{\i0} dreams.
 Dialogue: 0,0:21:18.46,0:21:23.67,NanohaW Dialogue1,,0,0,0,,That's no good—we'll just keep helping each other forever.
-Dialogue: 0,0:21:24.85,0:21:27.85,NanohaW Dialogue1,,0,0,0,,That's what friends are.
-Dialogue: 0,0:21:31.06,0:21:36.31,NanohaW Dialogue1,,0,0,0,,Commander Yagami, I don't think you're doing anything wrong right now.
-Dialogue: 0,0:21:36.31,0:21:37.83,NanohaW Dialogue1,,0,0,0,,So, it's okay.
+Dialogue: 0,0:21:24.79,0:21:27.85,NanohaW Dialogue1,,0,0,0,,That's what friends are.
+Dialogue: 0,0:21:31.06,0:21:36.13,NanohaW Dialogue1,,0,0,0,,Commander Yagami, I don't think you're doing anything wrong right now.
+Dialogue: 0,0:21:36.13,0:21:37.83,NanohaW Dialogue1,,0,0,0,,So, it's okay.
 Dialogue: 0,0:21:37.83,0:21:42.98,NanohaW Dialogue1,,0,0,0,,Give us your orders like always, with pride in your heart.
 Dialogue: 0,0:21:50.20,0:21:54.12,NanohaW Dialogue1,,0,0,0,,And next he went to a baker in the next town.
 Dialogue: 0,0:21:54.12,0:21:55.50,NanohaW Dialogue1,,0,0,0,,We're back!
 Dialogue: 0,0:21:56.21,0:21:57.83,NanohaW Dialogue1,,0,0,0,,We're back.
 Dialogue: 0,0:21:59.75,0:22:01.62,NanohaW Dialogue1,,0,0,0,,Vivio, I'm back.
 Dialogue: 0,0:22:01.62,0:22:03.30,NanohaW Dialogue1,,0,0,0,,Were you a good girl?
-Dialogue: 0,0:22:08.61,0:22:10.80,NanohaW Dialogue1,,0,0,0,,Thanks, Erio, Caro.
-Dialogue: 0,0:22:10.80,0:22:11.91,NanohaW Dialogue1,,0,0,0,,Not at all.
-Dialogue: 0,0:22:11.91,0:22:14.47,NanohaW Dialogue1,,0,0,0,,Vivio was a good girl.
+Dialogue: 0,0:22:08.21,0:22:10.80,NanohaW Dialogue1,,0,0,0,,Thanks, Erio, Caro.
+Dialogue: 0,0:22:10.80,0:22:11.75,NanohaW Dialogue1,,0,0,0,,Not at all.
+Dialogue: 0,0:22:11.75,0:22:14.47,NanohaW Dialogue1,,0,0,0,,Vivio was a good girl.
 Dialogue: 0,0:22:14.47,0:22:15.68,NanohaW Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:22:44.38,0:22:47.55,NanohaW Dialogue1,,0,0,0,,Uncle Graham.
 Dialogue: 0,0:22:49.14,0:22:53.64,NanohaW Dialogue1,,0,0,0,,You raised me my whole life, Uncle Graham.
@@ -385,7 +387,7 @@ Dialogue: 0,0:24:59.28,0:25:06.00,Nanoha ED,Endsong,0,0,0,,Be my guide anyday, o
 Dialogue: 0,0:25:06.00,0:25:09.64,Nanoha ED,Endsong,0,0,0,,Spica among the stars
 Dialogue: 1,0:25:15.98,0:25:20.97,Nanoha Title2,,0,0,0,,{\an1\fad(0,400)\bord0\blur0.5\pos(134.42,292.542)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:15.98,0:25:20.97,Nanoha Title2,,0,0,0,,{\an1\fad(0,400)\blur0.5\c&HFFFFFF&\pos(134.42,292.542)\t(4590,4990,\1a&HFF&)}Next\NEpisode\NPreview
-Dialogue: 0,0:25:17.30,0:25:18.58,NanohaW Narration1,,0,0,0,,As we spend days\Non standby,
+Dialogue: 0,0:25:17.14,0:25:18.58,NanohaW Narration1,,0,0,0,,As we spend days\Non standby,
 Dialogue: 0,0:25:18.58,0:25:21.49,NanohaW Narration1,,0,0,0,,the training continues,\Nas do our daily lives.
 Dialogue: 0,0:25:21.49,0:25:24.75,NanohaW Narration1,,0,0,0,,Riot Force 6's destination,\Nand that girl who has no place to go...
 Dialogue: 0,0:25:24.75,0:25:26.96,NanohaW Narration1,,0,0,0,,Where do I go from here?
