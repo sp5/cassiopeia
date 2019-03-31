@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 193
-Active Line: 198
-Video Position: 22415
+Scroll Position: 9
+Active Line: 14
+Video Position: 2544
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,6 +37,9 @@ Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,
 Style: Nanoha Handwriting,Cheyenne Hand Bold,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha Clock,Digital-7,18,&H00B26E3E,&H000000FF,&H00000000,&H94000000,-1,0,0,0,100,100,0,0,1,0,1.5,4,14,14,13,1
+Style: Nanona A’s Logo1,Noto Sans ExtraCondensed,64,&H007F3113,&H000000FF,&H00C8A18A,&HC7000000,-1,0,0,0,72,100,0,0,1,2.1,0,4,14,14,13,1
+Style: Nanona A’s Logo2,Noto Sans,64,&H0021AEEA,&H000000FF,&H00A9F7FF,&HC7000000,-1,0,0,0,100,100,0.8,0,1,2.1,0,4,14,14,13,1
+Style: Nanona A’s Logo3,Noto Sans,150,&H002200C7,&H000000FF,&H00FFFFFF,&HC7000000,-1,0,0,0,100,100,0,0,1,4.1,0,4,14,14,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -54,6 +57,26 @@ Dialogue: 0,0:01:20.92,0:01:26.76,Nanoha OP,,0,0,0,,An eternal blaze that stoppe
 Dialogue: 0,0:01:26.76,0:01:30.20,Nanoha OP,,0,0,0,,Releasing the deep darkness
 Dialogue: 0,0:01:30.20,0:01:36.55,Nanoha OP,,0,0,0,,It opens the door of freedom
 Dialogue: 0,0:01:36.55,0:01:43.50,Nanoha OP,,0,0,0,,Towards the strong, boundless future
+Dialogue: 2,0:01:42.73,0:01:43.53,Nanona A’s Logo1,,0,0,0,,{\bord0\blur0.5\pos(128,220)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Magical Girl
+Dialogue: 1,0:01:42.73,0:01:43.53,Nanona A’s Logo1,,0,0,0,,{\c&HC8A18A&\blur0.5\pos(128,220)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Magical Girl
+Dialogue: 0,0:01:42.73,0:01:43.53,Nanona A’s Logo1,,0,0,0,,{\bord3.6\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(128,220)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Magical Girl
+Dialogue: 2,0:01:42.73,0:01:43.53,Nanona A’s Logo2,,0,0,0,,{\bord0\blur0.5\pos(128,271)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Lyrical
+Dialogue: 1,0:01:42.73,0:01:43.53,Nanona A’s Logo2,,0,0,0,,{\blur0.5\c&HA9F7FF&\pos(128,271)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Lyrical
+Dialogue: 0,0:01:42.73,0:01:43.53,Nanona A’s Logo2,,0,0,0,,{\bord3.6\blur0.5\c&H000000&\3c&H000000&\pos(128,271)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Lyrical
+Dialogue: 3,0:01:42.73,0:01:43.53,Nanona A’s Logo3,,0,0,0,,{\bord0\blur0.5\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
+Dialogue: 2,0:01:42.73,0:01:43.53,Nanona A’s Logo3,,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
+Dialogue: 1,0:01:42.73,0:01:43.53,Nanona A’s Logo3,,0,0,0,,{\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
+Dialogue: 0,0:01:42.73,0:01:43.53,Nanona A’s Logo3,,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
+Dialogue: 2,0:01:43.53,0:01:47.98,Nanona A’s Logo1,,0,0,0,,{\bord0\blur0.5\pos(128,220)}Magical Girl
+Dialogue: 1,0:01:43.53,0:01:47.98,Nanona A’s Logo1,,0,0,0,,{\c&HC8A18A&\blur0.5\pos(128,220)}Magical Girl
+Dialogue: 0,0:01:43.53,0:01:47.98,Nanona A’s Logo1,,0,0,0,,{\bord3.6\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(128,220)}Magical Girl
+Dialogue: 2,0:01:43.53,0:01:47.98,Nanona A’s Logo2,,0,0,0,,{\bord0\blur0.5\pos(128,271)}Lyrical
+Dialogue: 1,0:01:43.53,0:01:47.98,Nanona A’s Logo2,,0,0,0,,{\blur0.5\c&HA9F7FF&\pos(128,271)}Lyrical
+Dialogue: 0,0:01:43.53,0:01:47.98,Nanona A’s Logo2,,0,0,0,,{\bord3.6\blur0.5\c&H000000&\3c&H000000&\pos(128,271)}Lyrical
+Dialogue: 3,0:01:43.53,0:01:47.98,Nanona A’s Logo3,,0,0,0,,{\bord0\blur0.5\pos(297,243)}Nanoha
+Dialogue: 2,0:01:43.53,0:01:47.98,Nanona A’s Logo3,,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(297,243)}Nanoha
+Dialogue: 1,0:01:43.53,0:01:47.98,Nanona A’s Logo3,,0,0,0,,{\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)}Nanoha
+Dialogue: 0,0:01:43.53,0:01:47.98,Nanona A’s Logo3,,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)}Nanoha
 Dialogue: 1,0:01:50.07,0:01:55.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(832,0)\an5\pos(476,517.5)\bord0}June 3, 9:05 PM\NCity of Uminari, Nakaoka district
 Dialogue: 0,0:01:50.07,0:01:55.07,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(832,0)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,832,\1a&H00&)}June 3, 9:05 PM\NCity of Uminari, Nakaoka district
 Dialogue: 0,0:02:02.04,0:02:05.08,Nanoha Clock,,0,0,0,,{\fax-0.2\pos(415,398)\blur0.5\frz358.3}Sat

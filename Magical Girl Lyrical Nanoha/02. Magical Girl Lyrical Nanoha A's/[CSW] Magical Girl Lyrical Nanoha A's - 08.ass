@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 384
-Active Line: 388
-Video Position: 31899
+Scroll Position: 21
+Active Line: 23
+Video Position: 3442
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,6 +38,9 @@ Style: Suzuka Handwriting,Merri Christina Bold,72,&H00FFFFFF,&H000000FF,&H000000
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha Cell,Roboto Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Nanoha Sign,Junicode,12,&H0099D2CB,&H000000FF,&H00000000,&H49000000,0,0,0,0,100,100,0,0,1,0,1,4,14,14,13,1
+Style: Nanona A’s Logo1,Noto Sans ExtraCondensed,64,&H007F3113,&H000000FF,&H00C8A18A,&HC7000000,-1,0,0,0,72,100,0,0,1,2.1,0,4,14,14,13,1
+Style: Nanona A’s Logo2,Noto Sans,64,&H0021AEEA,&H000000FF,&H00A9F7FF,&HC7000000,-1,0,0,0,100,100,0.8,0,1,2.1,0,4,14,14,13,1
+Style: Nanona A’s Logo3,Noto Sans,150,&H002200C7,&H000000FF,&H00FFFFFF,&HC7000000,-1,0,0,0,100,100,0,0,1,4.1,0,4,14,14,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -64,6 +67,26 @@ Dialogue: 0,0:01:59.96,0:02:05.80,Nanoha OP,,0,0,0,,An eternal blaze that stoppe
 Dialogue: 0,0:02:05.80,0:02:09.24,Nanoha OP,,0,0,0,,Releasing the deep darkness
 Dialogue: 0,0:02:09.24,0:02:15.59,Nanoha OP,,0,0,0,,It opens the door of freedom
 Dialogue: 0,0:02:15.59,0:02:22.54,Nanoha OP,,0,0,0,,Towards the strong, boundless future
+Dialogue: 2,0:02:21.77,0:02:22.57,Nanona A’s Logo1,,0,0,0,,{\bord0\blur0.5\pos(128,220)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Magical Girl
+Dialogue: 1,0:02:21.77,0:02:22.57,Nanona A’s Logo1,,0,0,0,,{\c&HC8A18A&\blur0.5\pos(128,220)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Magical Girl
+Dialogue: 0,0:02:21.77,0:02:22.57,Nanona A’s Logo1,,0,0,0,,{\bord3.6\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(128,220)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Magical Girl
+Dialogue: 2,0:02:21.77,0:02:22.57,Nanona A’s Logo2,,0,0,0,,{\bord0\blur0.5\pos(128,271)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Lyrical
+Dialogue: 1,0:02:21.77,0:02:22.57,Nanona A’s Logo2,,0,0,0,,{\blur0.5\c&HA9F7FF&\pos(128,271)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Lyrical
+Dialogue: 0,0:02:21.77,0:02:22.57,Nanona A’s Logo2,,0,0,0,,{\bord3.6\blur0.5\c&H000000&\3c&H000000&\pos(128,271)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Lyrical
+Dialogue: 3,0:02:21.77,0:02:22.57,Nanona A’s Logo3,,0,0,0,,{\bord0\blur0.5\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
+Dialogue: 2,0:02:21.77,0:02:22.57,Nanona A’s Logo3,,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
+Dialogue: 1,0:02:21.77,0:02:22.57,Nanona A’s Logo3,,0,0,0,,{\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
+Dialogue: 0,0:02:21.77,0:02:22.57,Nanona A’s Logo3,,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
+Dialogue: 2,0:02:22.57,0:02:27.02,Nanona A’s Logo1,,0,0,0,,{\bord0\blur0.5\pos(128,220)}Magical Girl
+Dialogue: 1,0:02:22.57,0:02:27.02,Nanona A’s Logo1,,0,0,0,,{\c&HC8A18A&\blur0.5\pos(128,220)}Magical Girl
+Dialogue: 0,0:02:22.57,0:02:27.02,Nanona A’s Logo1,,0,0,0,,{\bord3.6\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(128,220)}Magical Girl
+Dialogue: 2,0:02:22.57,0:02:27.02,Nanona A’s Logo2,,0,0,0,,{\bord0\blur0.5\pos(128,271)}Lyrical
+Dialogue: 1,0:02:22.57,0:02:27.02,Nanona A’s Logo2,,0,0,0,,{\blur0.5\c&HA9F7FF&\pos(128,271)}Lyrical
+Dialogue: 0,0:02:22.57,0:02:27.02,Nanona A’s Logo2,,0,0,0,,{\bord3.6\blur0.5\c&H000000&\3c&H000000&\pos(128,271)}Lyrical
+Dialogue: 3,0:02:22.57,0:02:27.02,Nanona A’s Logo3,,0,0,0,,{\bord0\blur0.5\pos(297,243)}Nanoha
+Dialogue: 2,0:02:22.57,0:02:27.02,Nanona A’s Logo3,,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(297,243)}Nanoha
+Dialogue: 1,0:02:22.57,0:02:27.02,Nanona A’s Logo3,,0,0,0,,{\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)}Nanoha
+Dialogue: 0,0:02:22.57,0:02:27.02,Nanona A’s Logo3,,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)}Nanoha
 Dialogue: 0,0:02:39.26,0:02:43.18,Nanoha Dialogue1,,0,0,0,,Though Fate’s Linker Core\Nis severely damaged,
 Dialogue: 0,0:02:43.18,0:02:45.81,Nanoha Dialogue1,,0,0,0,,her life is not in danger.
 Dialogue: 0,0:02:45.81,0:02:48.13,Nanoha Dialogue1,,0,0,0,,Just like what happened to me...

@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 173
-Active Line: 175
-Video Position: 20403
+Scroll Position: 24
+Active Line: 28
+Video Position: 3284
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,6 +32,9 @@ Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
+Style: Nanoha Logo1,Noto Sans ExtraCondensed,98,&H009C4E5D,&H000000FF,&H00EDC7B4,&HC7000000,-1,0,0,0,74,100,0,0,1,4.1,0,4,14,14,13,1
+Style: Nanoha Logo2,Betm Rounded Medium,160,&H0042BDEB,&H000000FF,&H00B3DFFB,&HC7000000,0,0,0,0,73,100,0,0,1,4.1,0,4,14,14,13,1
+Style: Nanoha Logo3,Cheyenne Hand Bold,320,&H005F32D8,&H000000FF,&H00FFFFFF,&HC7000000,-1,0,0,0,72,100,0,0,1,4.1,0,4,14,14,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -55,6 +58,15 @@ Dialogue: 0,0:01:53.75,0:01:58.29,Nanoha OP,,0,0,0,,Right now, a warmth that mig
 Dialogue: 0,0:01:58.29,0:02:02.86,Nanoha OP,,0,0,0,,Parts itself from the past, and overflows
 Dialogue: 0,0:02:02.86,0:02:07.43,Nanoha OP,,0,0,0,,I’ll be by your side forever
 Dialogue: 0,0:02:07.43,0:02:17.43,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
+Dialogue: 1,0:02:16.02,0:02:23.97,Nanoha Logo1,,0,0,0,,{\fad(2200,0)\bord0\blur0.5\pos(105.095,137)}Magical Girl
+Dialogue: 0,0:02:16.02,0:02:23.97,Nanoha Logo1,,0,0,0,,{\fad(2200,0)\c&HEDC7B4&\blur0.5\pos(105.095,137)}Magical Girl
+Dialogue: 2,0:02:16.02,0:02:23.97,Nanoha Logo2,,0,0,0,,{\fad(2200,0)\bord0\blur0.5\pos(105.095,221)}Lyrical
+Dialogue: 1,0:02:16.02,0:02:23.97,Nanoha Logo2,,0,0,0,,{\fad(2200,0)\c&HB3DFFB&\blur0.5\pos(105.095,221)}Lyrical
+Dialogue: 0,0:02:16.02,0:02:23.97,Nanoha Logo2,,0,0,0,,{\fad(2200,0)\bord8.1\c&H423B6B&\3c&H423B6B&\blur0.5\pos(105.095,221)}Lyrical
+Dialogue: 3,0:02:16.02,0:02:23.97,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\bord0\blur0.5\pos(377.379,194)}Nanoha
+Dialogue: 2,0:02:16.02,0:02:23.97,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\blur0.5\c&HFFFFFF&\pos(377.379,194)}Nanoha
+Dialogue: 1,0:02:16.02,0:02:23.97,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\bord13.1\blur0.5\c&H4B2A8C&\3c&H4B2A8C&\pos(377.379,194)}Nanoha
+Dialogue: 0,0:02:16.02,0:02:23.97,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\bord19.1\blur0.5\c&HFFFFFF&\pos(377.379,194)}Nanoha
 Dialogue: 0,0:02:29.06,0:02:32.19,Nanoha Narration1,,0,0,0,,I’m sure it all started from one coincidence.
 Dialogue: 0,0:02:32.76,0:02:36.67,Nanoha Narration1,,0,0,0,,But many coincidences overlap each other.
 Dialogue: 0,0:02:36.67,0:02:41.00,Nanoha Narration1,,0,0,0,,I was choosing my path,\Ntaking care to not make mistakes.

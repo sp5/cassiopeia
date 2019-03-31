@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 28
-Active Line: 33
-Video Position: 4471
+Scroll Position: 18
+Active Line: 21
+Video Position: 3479
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,6 +33,9 @@ Style: NanohaW Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000
 Style: NanohaW Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,40,1
 Style: NanohaW Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
+Style: Nanoha StrikerS Logo1,Noto Sans ExtraCondensed,73,&H00873520,&H000000FF,&H00CCA694,&HC7000000,-1,0,0,0,67,100,0,0,1,3.1,0,4,14,14,13,1
+Style: Nanoha StrikerS Logo2,Noto Sans SemiCondensed,74,&H002AA9DD,&H000000FF,&H00A6E8FC,&HC7000000,-1,0,0,0,100,100,0.8,0,1,3.1,0,4,14,14,13,1
+Style: Nanoha StrikerS Logo3,Noto Sans SemiCondensed,155,&H002900B6,&H000000FF,&H00FFFFFF,&HC7000000,-1,0,0,0,100,100,0,0,1,4.1,0,4,14,14,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -57,6 +60,26 @@ Dialogue: 0,0:01:44.02,0:01:50.88,Nanoha OP,Song,0,0,0,,The door to the truth wi
 Dialogue: 0,0:01:50.88,0:01:57.63,Nanoha OP,Song,0,0,0,,No matter what kind of cold darkness binds me
 Dialogue: 0,0:01:57.63,0:02:03.00,Nanoha OP,Song,0,0,0,,Because I want to know
 Dialogue: 0,0:02:03.00,0:02:07.79,Nanoha OP,Song,0,0,0,,I won’t be stopped
+Dialogue: 2,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
+Dialogue: 1,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
+Dialogue: 0,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
+Dialogue: 2,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
+Dialogue: 1,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
+Dialogue: 0,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
+Dialogue: 3,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 2,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 1,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 0,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 2,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 1,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 0,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 2,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 1,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 0,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&}Lyrical
+Dialogue: 3,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)}Nanoha
+Dialogue: 2,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)}Nanoha
+Dialogue: 1,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)}Nanoha
+Dialogue: 0,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)}Nanoha
 Dialogue: 1,0:02:28.33,0:02:34.46,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.75\fad(811,932)\b1\pos(640,495.5)}May 0075, 5:45 AM\NTime-Space Administrative Bureau Antiquities Department\NRiot Force 6 Headquarters{\b0}
 Dialogue: 0,0:02:28.33,0:02:34.46,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(811,932)\b1\pos(640,495.5)\c&H000000&\1a&HFF&\t(0,811,\1a&H00&)\t(5198,6130,\1a&HFF&)}May 0075, 5:45 AM\NTime-Space Administrative Bureau Antiquities Department\NRiot Force 6 Headquarters{\b0}
 Dialogue: 0,0:02:33.92,0:02:38.30,NanohaW Narration1,,0,0,0,,Dad, Ginny, how have you been? This is Subaru.

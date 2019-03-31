@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 316
-Active Line: 320
-Video Position: 33650
+Scroll Position: 15
+Active Line: 20
+Video Position: 3528
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,6 +35,9 @@ Style: NanohaW Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000
 Style: NanohaW Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,40,1
 Style: NanohaW Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
+Style: Nanoha StrikerS Logo1,Noto Sans ExtraCondensed,73,&H00873520,&H000000FF,&H00CCA694,&HC7000000,-1,0,0,0,67,100,0,0,1,3.1,0,4,14,14,13,1
+Style: Nanoha StrikerS Logo2,Noto Sans SemiCondensed,74,&H002AA9DD,&H000000FF,&H00A6E8FC,&HC7000000,-1,0,0,0,100,100,0.8,0,1,3.1,0,4,14,14,13,1
+Style: Nanoha StrikerS Logo3,Noto Sans SemiCondensed,155,&H002900B6,&H000000FF,&H00FFFFFF,&HC7000000,-1,0,0,0,100,100,0,0,1,4.1,0,4,14,14,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -58,6 +61,26 @@ Dialogue: 0,0:01:45.02,0:01:51.88,Nanoha OP,Song,0,0,0,,The door to the truth wi
 Dialogue: 0,0:01:51.88,0:01:58.63,Nanoha OP,Song,0,0,0,,No matter what kind of cold darkness binds me
 Dialogue: 0,0:01:58.63,0:02:04.00,Nanoha OP,Song,0,0,0,,Because I want to know
 Dialogue: 0,0:02:04.00,0:02:08.79,Nanoha OP,Song,0,0,0,,I won’t be stopped
+Dialogue: 2,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
+Dialogue: 1,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
+Dialogue: 0,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
+Dialogue: 2,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
+Dialogue: 1,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
+Dialogue: 0,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
+Dialogue: 3,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 2,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 1,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 0,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 2,0:02:26.28,0:02:29.02,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 1,0:02:26.28,0:02:29.02,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 0,0:02:26.28,0:02:29.02,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 2,0:02:26.28,0:02:29.02,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 1,0:02:26.28,0:02:29.02,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 0,0:02:26.28,0:02:29.02,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&}Lyrical
+Dialogue: 3,0:02:26.28,0:02:29.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)}Nanoha
+Dialogue: 2,0:02:26.28,0:02:29.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)}Nanoha
+Dialogue: 1,0:02:26.28,0:02:29.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)}Nanoha
+Dialogue: 0,0:02:26.28,0:02:29.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)}Nanoha
 Dialogue: 1,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\blur0.5\pos(640,229)\bord0}Episode 11
 Dialogue: 0,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\blur5\pos(640,229)\c&H8C0062&}Episode 11
 Dialogue: 1,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\fs89\blur0.5\pos(640,574.25)\bord0}Riot Force 6’s Day Off

@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 171
-Active Line: 176
-Video Position: 25654
+Scroll Position: 30
+Active Line: 33
+Video Position: 3308
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,6 +31,9 @@ Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
+Style: Nanoha Logo1,Noto Sans ExtraCondensed,98,&H009C4E5D,&H000000FF,&H00EDC7B4,&HC7000000,-1,0,0,0,74,100,0,0,1,4.1,0,4,14,14,13,1
+Style: Nanoha Logo2,Betm Rounded Medium,160,&H0042BDEB,&H000000FF,&H00B3DFFB,&HC7000000,0,0,0,0,73,100,0,0,1,4.1,0,4,14,14,13,1
+Style: Nanoha Logo3,Cheyenne Hand Bold,320,&H005F32D8,&H000000FF,&H00FFFFFF,&HC7000000,-1,0,0,0,72,100,0,0,1,4.1,0,4,14,14,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -59,6 +62,15 @@ Dialogue: 0,0:01:54.65,0:01:59.19,Nanoha OP,,0,0,0,,Right now, a warmth that mig
 Dialogue: 0,0:01:59.19,0:02:03.76,Nanoha OP,,0,0,0,,Parts itself from the past, and overflows
 Dialogue: 0,0:02:03.76,0:02:08.33,Nanoha OP,,0,0,0,,I’ll be by your side forever
 Dialogue: 0,0:02:08.33,0:02:18.33,Nanoha OP,,0,0,0,,Do not be lured into the somber shadows
+Dialogue: 1,0:02:16.98,0:02:24.95,Nanoha Logo1,,0,0,0,,{\fad(2200,0)\bord0\blur0.5\pos(105.095,137)}Magical Girl
+Dialogue: 0,0:02:16.98,0:02:24.95,Nanoha Logo1,,0,0,0,,{\fad(2200,0)\c&HEDC7B4&\blur0.5\pos(105.095,137)}Magical Girl
+Dialogue: 2,0:02:16.98,0:02:24.95,Nanoha Logo2,,0,0,0,,{\fad(2200,0)\bord0\blur0.5\pos(105.095,221)}Lyrical
+Dialogue: 1,0:02:16.98,0:02:24.95,Nanoha Logo2,,0,0,0,,{\fad(2200,0)\c&HB3DFFB&\blur0.5\pos(105.095,221)}Lyrical
+Dialogue: 0,0:02:16.98,0:02:24.95,Nanoha Logo2,,0,0,0,,{\fad(2200,0)\bord8.1\c&H423B6B&\3c&H423B6B&\blur0.5\pos(105.095,221)}Lyrical
+Dialogue: 3,0:02:16.98,0:02:24.95,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\bord0\blur0.5\pos(377.379,194)}Nanoha
+Dialogue: 2,0:02:16.98,0:02:24.95,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\blur0.5\c&HFFFFFF&\pos(377.379,194)}Nanoha
+Dialogue: 1,0:02:16.98,0:02:24.95,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\bord13.1\blur0.5\c&H4B2A8C&\3c&H4B2A8C&\pos(377.379,194)}Nanoha
+Dialogue: 0,0:02:16.98,0:02:24.95,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\bord19.1\blur0.5\c&HFFFFFF&\pos(377.379,194)}Nanoha
 Dialogue: 0,0:02:35.80,0:02:38.72,Nanoha Narration1,,0,0,0,,My mother... my mother...
 Dialogue: 0,0:02:39.43,0:02:42.44,Nanoha Narration1,,0,0,0,,My mother was always kind.
 Dialogue: 0,0:02:42.44,0:02:46.31,Nanoha Narration1,,0,0,0,,My mother called out my name so gently.
