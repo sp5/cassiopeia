@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 407
-Active Line: 393
-Video Position: 34501
+Scroll Position: 302
+Active Line: 307
+Video Position: 26053
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -246,7 +246,7 @@ Dialogue: 0,0:11:50.84,0:11:53.22,NanohaW Dialogue1,,0,0,0,,The problem is Groun
 Dialogue: 0,0:11:53.22,0:11:56.72,NanohaW Dialogue1,,0,0,0,,Lt. General Gaiz refuses to believe the prophecy.
 Dialogue: 0,0:11:56.72,0:11:59.10,NanohaW Dialogue1,,0,0,0,,He’s not taking any special precautions.
 Dialogue: 0,0:11:59.10,0:12:03.07,NanohaW Dialogue1,,0,0,0,,It’s difficult for different organizations to cooperate.
-Dialogue: 0,0:12:03.07,0:12:10.62,NanohaW Dialogue1,,0,0,0,,If "cooperation" is recast as "interfering with our internal affairs" or "meddling", then it becomes a matter of dispute.
+Dialogue: 0,0:12:03.07,0:12:10.62,NanohaW Dialogue1,,0,0,0,,If “cooperation” is recast as “interfering with our internal affairs” or “meddling”, then it becomes a matter of dispute.
 Dialogue: 0,0:12:10.62,0:12:16.54,NanohaW Dialogue1,,0,0,0,,And even without that, the military power and influence of Ground HQ has on Mid has been considered a problem.
 Dialogue: 0,0:12:16.54,0:12:20.51,NanohaW Dialogue1,,0,0,0,,Therefore, you couldn’t offer any major help that would be noticed in terms of military forces.
 Dialogue: 0,0:12:20.51,0:12:22.21,NanohaW Dialogue1,,0,0,0,,I’m sorry.
@@ -348,7 +348,7 @@ Dialogue: 0,0:17:52.48,0:17:59.38,NanohaW Dialogue1,,0,0,0,,But not as a person.
 Dialogue: 0,0:17:59.38,0:18:02.46,NanohaW Dialogue1,,0,0,0,,Of course, that’s an extreme case.
 Dialogue: 0,0:18:02.46,0:18:05.14,NanohaW Dialogue1,,0,0,0,,It’s not actually like that.
 Dialogue: 0,0:18:05.14,0:18:06.59,NanohaW Dialogue1,,0,0,0,,Yes, I understand.
-Dialogue: 0,0:18:06.59,0:18:12.06,NanohaW Dialogue1,,0,0,0,,"Pressure and loneliness come with that power," is what you’re saying.
+Dialogue: 0,0:18:06.59,0:18:12.06,NanohaW Dialogue1,,0,0,0,,“Pressure and loneliness come with that power,” is what you’re saying.
 Dialogue: 0,0:18:12.06,0:18:13.13,NanohaW Dialogue1,,0,0,0,,Yes, that’s right.
 Dialogue: 0,0:18:14.10,0:18:17.57,NanohaW Dialogue1,,0,0,0,,Anyway, so what I’m trying to say is, well...
 Dialogue: 0,0:18:18.02,0:18:23.02,NanohaW Dialogue1,,0,0,0,,I’m sure that a lot of things may happen between a commander and her front-line soldiers.
