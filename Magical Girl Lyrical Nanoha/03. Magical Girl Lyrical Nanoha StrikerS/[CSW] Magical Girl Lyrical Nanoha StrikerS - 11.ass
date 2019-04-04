@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 15
-Active Line: 20
-Video Position: 3528
+Scroll Position: 6
+Active Line: 9
+Video Position: 1346
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,6 +50,36 @@ Dialogue: 0,0:00:23.59,0:00:28.59,NanohaW Narration1,First,0,0,0,,A small girl a
 Dialogue: 0,0:00:28.59,0:00:31.78,NanohaW Narration1,First,0,0,0,,The case is quietly set in motion.
 Dialogue: 0,0:00:32.68,0:00:37.53,NanohaW Narration1,First,0,0,0,,{\i0}Magical Girl Lyrical Nanoha StrikerS{\i1}\Nwill now begin.
 Dialogue: 0,0:00:43.39,0:00:51.81,Nanoha OP,Song,0,0,0,,The hot comet dwelling within my heart beats towards the beginning.
+Dialogue: 2,0:00:55.64,0:00:58.26,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx77\fscy115\t(\fscx67\fscy100)\fad(1751,0)\bord0\blur0.5\move(365.326,102.205,397.599,119,41,2585)}Magical Girl
+Dialogue: 1,0:00:55.64,0:00:58.26,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx77\fscy115\t(\fscx67\fscy100)\fad(1751,0)\c&HCCA694&\blur0.5\move(365.326,102.205,397.599,119,41,2585)\1a&HFF&\t(0,1751,\1a&H00&)}Magical Girl
+Dialogue: 0,0:00:55.64,0:00:58.26,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx77\fscy115\t(\fscx67\fscy100)\fad(1751,0)\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\move(365.326,102.205,397.599,119,41,2585)\1a&HFF&\t(0,1751,\1a&H00&)}Magical Girl
+Dialogue: 2,0:00:55.64,0:00:58.26,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx115\fscy115\t(\fscx100\fscy100)\fad(1751,0)\bord0\blur0.5\move(365.326,155.205,397.599,172,41,2585)}Lyrical
+Dialogue: 1,0:00:55.64,0:00:58.26,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx115\fscy115\t(\fscx100\fscy100)\fad(1751,0)\c&HA6E8FC&\blur0.5\move(365.326,155.205,397.599,172,41,2585)\1a&HFF&\t(0,1751,\1a&H00&)}Lyrical
+Dialogue: 0,0:00:55.64,0:00:58.26,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx115\fscy115\t(\fscx100\fscy100)\fad(1751,0)\bord5.1\c&H3D3046&\blur0.5\3c&H3D3046&\move(365.326,155.205,397.599,172,41,2585)\1a&HFF&\t(0,1751,\1a&H00&)}Lyrical
+Dialogue: 3,0:00:55.64,0:00:58.26,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx115\fscy115\t(\fscx100\fscy100)\fad(1751,0)\bord0\blur0.5\move(566.604,126.205,575.877,143,41,2585)}Nanoha
+Dialogue: 2,0:00:55.64,0:00:58.26,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx115\fscy115\t(\fscx100\fscy100)\fad(1751,0)\c&HFFFFFF&\blur0.5\move(566.604,126.205,575.877,143.205,41,2585)\1a&HFF&\t(0,1751,\1a&H00&)}Nanoha
+Dialogue: 1,0:00:55.64,0:00:58.26,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx115\fscy115\t(\fscx100\fscy100)\fad(1751,0)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(566.604,126.205,575.877,143,41,2585)\1a&HFF&\t(0,1751,\1a&H00&)}Nanoha
+Dialogue: 0,0:00:55.64,0:00:58.26,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx115\fscy115\t(\fscx100\fscy100)\fad(1751,0)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(566.604,126.205,575.877,143,41,2585)\1a&HFF&\t(0,1751,\1a&H00&)}Nanoha
+Dialogue: 2,0:00:58.27,0:00:58.56,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 1,0:00:58.27,0:00:58.56,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 0,0:00:58.27,0:00:58.56,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 2,0:00:58.27,0:00:58.56,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 1,0:00:58.27,0:00:58.56,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 0,0:00:58.27,0:00:58.56,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&}Lyrical
+Dialogue: 3,0:00:58.27,0:00:58.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)}Nanoha
+Dialogue: 2,0:00:58.27,0:00:58.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)}Nanoha
+Dialogue: 1,0:00:58.27,0:00:58.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)}Nanoha
+Dialogue: 0,0:00:58.27,0:00:58.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)}Nanoha
+Dialogue: 2,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo1,Song,0,0,0,,{\fad(310,374)\bord0\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 1,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo1,Song,0,0,0,,{\fad(310,374)\c&HCCA694&\blur0.5\pos(397.599,119)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Magical Girl
+Dialogue: 0,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo1,Song,0,0,0,,{\fad(310,374)\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Magical Girl
+Dialogue: 2,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo2,Song,0,0,0,,{\fad(310,374)\bord0\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 1,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo2,Song,0,0,0,,{\fad(310,374)\c&HA6E8FC&\blur0.5\pos(397.599,172)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Lyrical
+Dialogue: 0,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo2,Song,0,0,0,,{\fad(310,374)\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Lyrical
+Dialogue: 3,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,374)\bord0\blur0.5\pos(575.877,143)\c&H2900B6&}Nanoha
+Dialogue: 2,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,374)\c&HFFFFFF&\blur0.5\pos(575.877,143)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Nanoha
+Dialogue: 1,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,374)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Nanoha
+Dialogue: 0,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,374)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Nanoha
 Dialogue: 0,0:01:06.69,0:01:13.81,Nanoha OP,Song,0,0,0,,My fingers tremble, grasping upon a silent wish
 Dialogue: 0,0:01:13.81,0:01:21.07,Nanoha OP,Song,0,0,0,,I cower, wanting to flee from the inescapable past
 Dialogue: 0,0:01:21.07,0:01:27.28,Nanoha OP,Song,0,0,0,,Even if it is merely a faint light fading
@@ -88,11 +118,11 @@ Dialogue: 0,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\fs89\bl
 Dialogue: 1,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\fs89\blur0.5\pos(640,648.25)\bord0}(part 2)
 Dialogue: 0,0:02:29.04,0:02:34.00,Nanoha StrikerS Title1,FirstI,0,0,0,,{\fs89\blur5\pos(640,648.25)\c&H8C0062&}(part 2)
 Dialogue: 1,0:02:34.12,0:02:37.90,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,451)\b1\pos(640,579)\bord0}Church of the Holy King, Headquarters{\b0}
-Dialogue: 0,0:02:34.12,0:02:37.90,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,451)\b1\pos(640,579)\1a&HFF&\t(0,493,\1a&H00&)\t(3329,3780,\1a&HFF&)\c&H000000&}Church of the Holy King, Headquarters{\b0}
+Dialogue: 0,0:02:34.12,0:02:37.90,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,451)\b1\pos(640,579)\c&H000000&\1a&HFF&\t(0,493,\1a&H00&)\t(3329,3780,\1a&HFF&)}Church of the Holy King, Headquarters{\b0}
 Dialogue: 0,0:02:43.64,0:02:46.52,NanohaW Dialogue1,FirstI,0,0,0,,But really, it’s an interesting sight
 Dialogue: 0,0:02:46.52,0:02:48.06,NanohaW Dialogue1,FirstI,0,0,0,,seeing you in uniform.
-Dialogue: 1,0:02:48.05,0:02:54.00,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,0)\pos(640,439.312)\bord0\b1}Admiral, Time-Space Administrative Bureau Dimensional Navy\NCaptain of the flagship {\i1}Claudia,{\i0} sponsor of Riot Force 6\N{\fs49}Chrono Harlaown{\b0}
-Dialogue: 0,0:02:48.05,0:02:54.00,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,0)\pos(640,439.312)\b1\1a&HFF&\t(0,493,\1a&H00&)\c&H000000&}Admiral, Time-Space Administrative Bureau Dimensional Navy\NCaptain of the flagship {\i1}Claudia,{\i0} sponsor of Riot Force 6\N{\fs49}Chrono Harlaown{\b0}
+Dialogue: 1,0:02:48.05,0:02:54.00,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,0)\pos(640,439.312)\bord0}Admiral, Time-Space Administrative Bureau Dimensional Navy\NCaptain of the flagship {\i1}Claudia,{\i0} sponsor of Riot Force 6\N{\fs49}Chrono Harlaown
+Dialogue: 0,0:02:48.05,0:02:54.00,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(493,0)\pos(640,439.312)\c&H000000&\1a&HFF&\t(0,493,\1a&H00&)}Admiral, Time-Space Administrative Bureau Dimensional Navy\NCaptain of the flagship {\i1}Claudia,{\i0} sponsor of Riot Force 6\N{\fs49}Chrono Harlaown
 Dialogue: 0,0:02:49.00,0:02:53.98,NanohaW Dialogue1,First,0,0,20,,Everyone tells me I look silly in uniform, even my wife.
 Dialogue: 0,0:02:54.93,0:02:55.94,NanohaW Dialogue1,First,0,0,0,,Not at all!
 Dialogue: 0,0:02:55.94,0:03:01.65,NanohaW Dialogue1,First,0,0,0,,You look as good as you do in your armor, Admiral Chrono.
