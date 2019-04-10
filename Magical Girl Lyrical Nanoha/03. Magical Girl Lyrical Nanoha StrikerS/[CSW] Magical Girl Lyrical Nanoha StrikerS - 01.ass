@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 1
-Active Line: 2
-Video Position: 391
+Scroll Position: 248
+Active Line: 253
+Video Position: 21853
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -293,7 +293,7 @@ Dialogue: 0,0:14:55.52,0:14:57.06,NanohaW Dialogue1,Tia,0,0,0,,If you understand
 Dialogue: 0,0:15:00.33,0:15:01.54,NanohaW Dialogue1,Tia,0,0,0,,Look, just hurry up!
 Dialogue: 0,0:15:02.44,0:15:05.75,NanohaW Dialogue1,Subaru,0,0,0,,Tia, I told you before, didn’t I?
 Dialogue: 0,0:15:05.75,0:15:11.45,NanohaW Dialogue1,Subaru,0,0,0,,How I hated myself for being weak, useless, and always wanting help from others?
-Dialogue: 0,0:15:11.45,0:15:13.68,NanohaW Dialogue1,Subaru,0,0,0,,That’s why I enlisted in the Bureau’s Ground Armed Service.
+Dialogue: 0,0:15:11.45,0:15:13.68,NanohaW Dialogue1,Subaru,0,0,0,,That’s why I joined the Bureau and enlisted in the G.A.S.
 Dialogue: 0,0:15:15.14,0:15:16.94,NanohaW Dialogue1,Subaru,0,0,0,,Aiming to become a mage,
 Dialogue: 0,0:15:16.94,0:15:19.11,NanohaW Dialogue1,Subaru,0,0,0,,studying magic and Shooting Arts,
 Dialogue: 0,0:15:19.11,0:15:21.04,NanohaW Dialogue1,Subaru,0,0,0,,and finally working to save people.

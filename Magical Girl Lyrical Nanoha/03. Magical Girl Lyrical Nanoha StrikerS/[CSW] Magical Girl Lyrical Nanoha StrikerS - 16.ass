@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 111
-Active Line: 114
-Video Position: 7279
+Scroll Position: 190
+Active Line: 195
+Video Position: 15095
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -197,8 +197,8 @@ Dialogue: 0,0:07:24.93,0:07:26.50,NanohaW Dialogue1,,0,0,0,,I’m sorry, that wa
 Dialogue: 0,0:07:27.20,0:07:33.43,NanohaW Dialogue1,,0,0,0,,In other words, I have two mothers.
 Dialogue: 0,0:07:34.04,0:07:35.72,NanohaW Dialogue1,,0,0,0,,Just like me?
 Dialogue: 0,0:07:35.72,0:07:37.68,NanohaW Dialogue1,,0,0,0,,Yep, just like you.
-Dialogue: 1,0:07:40.17,0:07:44.42,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.75\fad(499,457)\pos(640,579)}September 12, Central Bureau Ground HQ, 2:35 AM
-Dialogue: 0,0:07:40.17,0:07:44.42,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(499,457)\pos(640,579)\c&H000000&\1a&HFF&\t(0,499,\1a&H00&)\t(3793,4250,\1a&HFF&)}September 12, Central Bureau Ground HQ, 2:35 AM
+Dialogue: 1,0:07:40.17,0:07:44.42,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.75\fad(499,457)\pos(640,579)}September 12, Central Bureau Surface HQ, 2:35 AM
+Dialogue: 0,0:07:40.17,0:07:44.42,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(499,457)\pos(640,579)\c&H000000&\1a&HFF&\t(0,499,\1a&H00&)\t(3793,4250,\1a&HFF&)}September 12, Central Bureau Surface HQ, 2:35 AM
 Dialogue: 0,0:08:10.89,0:08:12.34,NanohaW Dialogue1,,0,0,0,,Oh, what’s up?
 Dialogue: 0,0:08:12.34,0:08:17.01,NanohaW Dialogue1,,0,0,0,,I got some tea from the other security forces,\Nso I thought I’d bring you some.
 Dialogue: 0,0:08:17.01,0:08:19.68,NanohaW Dialogue1,,0,0,0,,Oh, how nice, thanks.
@@ -212,7 +212,7 @@ Dialogue: 0,0:08:31.83,0:08:35.54,NanohaW Dialogue1,,0,0,0,,I think this might h
 Dialogue: 0,0:08:35.54,0:08:38.55,NanohaW Dialogue1,,0,0,0,,I looked into you a bit.
 Dialogue: 0,0:08:39.07,0:08:42.50,NanohaW Dialogue1,,0,0,0,,You were supposedly an ace-tier mage some years back.
 Dialogue: 0,0:08:42.50,0:08:49.67,NanohaW Dialogue1,,0,0,0,,What? An ace?\NMy magical point values were only half yours.
-Dialogue: 0,0:08:49.67,0:08:55.13,NanohaW Dialogue1,,0,0,0,,Even so, you were an expert at\Nthe far-range shot, an outstanding sniper.
+Dialogue: 0,0:08:49.67,0:08:55.13,NanohaW Dialogue1,,0,0,0,,Even so, you were an expert at\Noutrange shooting, an outstanding sniper.
 Dialogue: 0,0:08:56.80,0:09:01.88,NanohaW Dialogue1,,0,0,0,,The past is the past. I’m Riot Force 6’s helicopter pilot now.
 Dialogue: 0,0:09:01.88,0:09:04.98,NanohaW Dialogue1,,0,0,0,,It’s not a story which will be of any use to you.
 Dialogue: 0,0:09:07.59,0:09:11.41,NanohaW Dialogue1,,0,0,0,,Besides, now is not the time to\Nbe thinking about worthless stuff.
@@ -235,7 +235,7 @@ Dialogue: 0,0:10:16.30,0:10:20.59,NanohaW Dialogue1,,0,0,0,,There’s only three
 Dialogue: 0,0:10:20.59,0:10:23.49,NanohaW Dialogue1,,0,0,0,,The purpose of this conference is the exchange of ideas
 Dialogue: 0,0:10:23.49,0:10:26.32,NanohaW Dialogue1,,0,0,0,,in regards to the management of\Nthe Bureau on Midchilda’s surface
 Dialogue: 0,0:10:26.32,0:10:28.62,NanohaW Dialogue1,,0,0,0,,between representatives for the HQ and the Main Office, as well as other worlds.
-Dialogue: 0,0:10:28.62,0:10:34.29,NanohaW Dialogue1,,0,0,0,,And many people will be paying close attention to the announcements by Ground HQ,
+Dialogue: 0,0:10:28.62,0:10:34.29,NanohaW Dialogue1,,0,0,0,,And many people will be paying close attention to the announcements by Surface HQ,
 Dialogue: 0,0:10:34.29,0:10:35.78,NanohaW Dialogue1,,0,0,0,,which is a frequent subject of heated controversy.
 Dialogue: 0,0:10:36.35,0:10:41.70,NanohaW Dialogue1,,0,0,0,,In particular, there has long been dispute over the use of the G.A.S.’s Defense Interception System,
 Dialogue: 0,0:10:41.70,0:10:46.66,NanohaW Dialogue1,,0,0,0,,Einherjar, and it is believed that this issue will be discussed.
@@ -289,9 +289,9 @@ Dialogue: 0,0:13:46.16,0:13:47.12,NanohaW Dialogue1,,0,0,0,,Do as you wish.
 Dialogue: 0,0:13:47.12,0:13:48.46,NanohaW Dialogue1,,0,0,0,,And I will.
 Dialogue: 0,0:13:48.46,0:13:51.58,NanohaW Dialogue1,,0,0,0,,You are my savior, after all, sir.
 Dialogue: 0,0:13:53.52,0:14:00.19,NanohaW Dialogue1,,0,0,0,,The Numbers from Number III, Tre,\Nto Number XII, Deed, are all in position.
-Dialogue: 0,0:14:00.19,0:14:03.90,NanohaW Narration1,,0,0,0,,The young lady and Zest are in position as well.
-Dialogue: 0,0:14:03.90,0:14:06.42,NanohaW Narration1,,0,0,0,,All preparations for attack are complete.
-Dialogue: 0,0:14:06.42,0:14:08.86,NanohaW Narration1,,0,0,0,,Only thing that’s left is to wait for the signal.
+Dialogue: 0,0:14:00.19,0:14:03.90,NanohaW Dialogue1,,0,0,0,,The young lady and Zest are in position as well.
+Dialogue: 0,0:14:03.90,0:14:06.42,NanohaW Dialogue1,,0,0,0,,All preparations for attack are complete.
+Dialogue: 0,0:14:06.42,0:14:08.86,NanohaW Dialogue1,,0,0,0,,Only thing that’s left is to wait for the signal.
 Dialogue: 0,0:14:08.86,0:14:09.86,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:14:16.22,0:14:17.65,NanohaW Dialogue1,,0,0,0,,Seems like you’re having fun.
 Dialogue: 0,0:14:19.20,0:14:20.04,NanohaW Dialogue1,,0,0,0,,I am.
@@ -330,7 +330,7 @@ Dialogue: 0,0:16:49.57,0:16:51.27,NanohaW Dialogue1,,0,0,0,,We’re taking fire.
 Dialogue: 0,0:16:51.27,0:16:52.89,NanohaW Dialogue1,,0,0,0,,We won’t stop the conference.
 Dialogue: 0,0:16:52.89,0:16:54.89,NanohaW Dialogue1,,0,0,0,,Take action as quickly as possible.
 Dialogue: 0,0:16:54.89,0:16:55.49,NanohaW Dialogue1,,0,0,0,,Sir!
-Dialogue: 0,0:16:56.19,0:16:59.13,NanohaW Dialogue1,,0,0,0,,Ground HQ’s defenses are perfect.
+Dialogue: 0,0:16:56.19,0:16:59.13,NanohaW Dialogue1,,0,0,0,,Surface HQ’s defenses are perfect.
 Dialogue: 0,0:16:59.13,0:17:01.41,NanohaW Dialogue1,,0,0,0,,There isn’t anyone who can get past them.
 Dialogue: 0,0:17:01.41,0:17:07.79,NanohaW Dialogue1,,0,0,0,,There’s no real need to get all the way inside\Nif we just surround you and keep you powerless.
 Dialogue: 0,0:17:33.15,0:17:34.73,NanohaW Dialogue1,,0,0,0,,So we’ve been locked in?
@@ -358,7 +358,7 @@ Dialogue: 0,0:18:47.64,0:18:50.58,NanohaW Dialogue1,,0,0,0,,Ranks are estimated 
 Dialogue: 0,0:18:50.58,0:18:51.67,NanohaW Dialogue1,,0,0,0,,Rein!
 Dialogue: 0,0:18:51.67,0:18:52.84,NanohaW Dialogue1,,0,0,0,,Righty-o!
 Dialogue: 0,0:18:52.84,0:18:55.51,NanohaW Dialogue1,,0,0,0,,Rein and I will head up.
-Dialogue: 0,0:18:55.51,0:18:57.55,NanohaW Dialogue1,,0,0,0,,These guys will handle Ground HQ.
+Dialogue: 0,0:18:55.51,0:18:57.55,NanohaW Dialogue1,,0,0,0,,These guys will handle Surface HQ.
 Dialogue: 0,0:18:59.34,0:19:01.74,NanohaW Dialogue1,,0,0,0,,I’ll leave these to you as well.
 Dialogue: 0,0:19:01.74,0:19:03.91,NanohaW Dialogue1,,0,0,0,,Make sure it gets to them.
 Dialogue: 0,0:19:03.91,0:19:04.64,NanohaW Dialogue1,,0,0,0,,Ma’am!

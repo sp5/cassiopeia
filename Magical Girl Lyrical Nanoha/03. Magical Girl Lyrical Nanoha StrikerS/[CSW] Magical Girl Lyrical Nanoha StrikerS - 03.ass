@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 4
-Active Line: 9
-Video Position: 1310
+Scroll Position: 225
+Active Line: 230
+Video Position: 17286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -270,8 +270,8 @@ Dialogue: 0,0:11:43.04,0:11:43.76,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
 Dialogue: 0,0:11:43.76,0:11:44.74,NanohaW Dialogue1,,0,0,0,,{\pos(640,400)}Now then,
 Dialogue: 0,0:11:44.88,0:11:46.03,NanohaW Dialogue1,,0,0,0,,Mission...
 Dialogue: 0,0:11:46.03,0:11:47.80,NanohaW Dialogue1,,0,0,0,,...start!
-Dialogue: 1,0:12:00.93,0:12:04.43,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.5\b1\pos(640,513.5)\c&HD7D3D6&}Time-Space Administrative Bureau\NMidchilda Ground Headquarters, Central Command Center{\b0}
-Dialogue: 0,0:12:00.93,0:12:04.43,NanohaW Dialogue2,,0,0,0,,{\bord2.1\blur0.5\b1\pos(640,513.5)\c&H000000&}Time-Space Administrative Bureau\NMidchilda Ground Headquarters, Central Command Center{\b0}
+Dialogue: 1,0:12:00.93,0:12:04.43,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.5\b1\pos(640,513.5)\c&HD7D3D6&}Time-Space Administrative Bureau\NMidchilda Surface Headquarters, Central Command Center{\b0}
+Dialogue: 0,0:12:00.93,0:12:04.43,NanohaW Dialogue2,,0,0,0,,{\bord2.1\blur0.5\b1\pos(640,513.5)\c&H000000&}Time-Space Administrative Bureau\NMidchilda Surface Headquarters, Central Command Center{\b0}
 Dialogue: 0,0:12:02.15,0:12:04.40,NanohaW Dialogue1,,0,0,20,,Regarding the search for
 Dialogue: 0,0:12:04.40,0:12:06.15,NanohaW Dialogue1,,0,0,0,,antiquities known as Lost Logia,
 Dialogue: 0,0:12:06.15,0:12:09.33,NanohaW Dialogue1,,0,0,0,,I’m sure everyone already knows about them.
@@ -468,8 +468,8 @@ Dialogue: 0,0:25:17.62,0:25:19.37,NanohaW Narration1,,0,0,0,,To be prepared to\N
 Dialogue: 0,0:25:19.37,0:25:21.94,NanohaW Narration1,,0,0,0,,the forward members\Nare continuously training.
 Dialogue: 0,0:25:21.94,0:25:24.36,NanohaW Narration1,,0,0,0,,You are about to meet your partner,\Nwho will fight with you.
 Dialogue: 0,0:25:24.36,0:25:27.13,NanohaW Narration1,,0,0,0,,Your Device is only for you and is customized for your use.
-Dialogue: 0,0:25:27.13,0:25:29.54,NanohaW Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha StrikerS:{\i1}
-Dialogue: 0,0:25:29.54,0:25:33.13,NanohaW Narration1,,0,0,0,,Episode 4: First Alert
+Dialogue: 0,0:25:27.13,0:25:30.30,NanohaW Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha StrikerS:{\i1}
+Dialogue: 0,0:25:30.30,0:25:33.13,NanohaW Narration1,,0,0,0,,Episode 4: First Alert
 Dialogue: 1,0:25:31.99,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 4
 Dialogue: 0,0:25:31.99,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\blur5\pos(640,267.75)\c&H183ACD&}Episode 4
 Dialogue: 1,0:25:31.99,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}First Alert

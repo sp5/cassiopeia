@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 4
-Active Line: 10
-Video Position: 1310
+Scroll Position: 238
+Active Line: 243
+Video Position: 18002
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -194,19 +194,19 @@ Dialogue: 0,0:07:04.02,0:07:07.08,NanohaW Dialogue1,,0,0,0,,It’s homemade, but
 Dialogue: 0,0:07:07.08,0:07:10.73,NanohaW Dialogue1,,0,0,0,,I told you I don’t like sweet things.
 Dialogue: 0,0:07:10.73,0:07:12.60,NanohaW Dialogue1,,0,0,0,,It’s not too sweet.
 Dialogue: 0,0:07:12.60,0:07:14.45,NanohaW Dialogue1,,0,0,0,,I guess I’ll have some.
-Dialogue: 0,0:07:15.48,0:07:20.61,NanohaW Dialogue1,,0,0,0,,Anyway, just like you asked, I secretly looked into the internal situation at Ground HQ,
+Dialogue: 0,0:07:15.48,0:07:20.61,NanohaW Dialogue1,,0,0,0,,Anyway, just like you asked, I secretly looked into the internal situation at Surface HQ,
 Dialogue: 0,0:07:20.61,0:07:23.08,NanohaW Dialogue1,,0,0,0,,Especially the people around Lt. General Gaiz.
 Dialogue: 0,0:07:23.88,0:07:28.80,NanohaW Dialogue1,,0,0,0,,He’s quite the character, an amazing strong-arm politician.
 Dialogue: 0,0:07:28.80,0:07:32.84,NanohaW Dialogue1,,0,0,0,,He’s a powerful force and has an air of authority that draws people to him.
 Dialogue: 0,0:07:32.84,0:07:35.76,NanohaW Dialogue1,,0,0,0,,I’ll admit he’s impressive.
 Dialogue: 0,0:07:35.76,0:07:39.21,NanohaW Dialogue1,,0,0,0,,The head of administration is his subordinate as well.
-Dialogue: 0,0:07:39.21,0:07:45.64,NanohaW Dialogue1,,0,0,0,,Even though there’s no end to the bad rumors about him,\Nhe {\i1}is{\i0} the guardian of order on the ground.
+Dialogue: 0,0:07:39.21,0:07:45.64,NanohaW Dialogue1,,0,0,0,,Even though there’s no end to the bad rumors about him,\Nhe {\i1}is{\i0} the guardian of order on the surface.
 Dialogue: 0,0:07:45.64,0:07:48.47,NanohaW Dialogue1,,0,0,0,,And he’s well-supported by various corporations and political groups,
 Dialogue: 0,0:07:48.47,0:07:51.95,NanohaW Dialogue1,,0,0,0,,plus he’s in good standing with the Bureau High Council.
 Dialogue: 0,0:07:51.95,0:07:57.91,NanohaW Dialogue1,,0,0,0,,He’s definitely somebody who’s hard for the Main Office to deal with.
 Dialogue: 0,0:07:57.91,0:07:59.11,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:07:59.11,0:08:03.28,NanohaW Dialogue1,,0,0,0,,We can’t intervene carelessly, with relations between the ground and naval forces being as they are.
-Dialogue: 0,0:08:03.28,0:08:07.38,NanohaW Dialogue1,,0,0,0,,And with relations between Ground HQ and\Nthe Main Office, conflict with every single thing—
+Dialogue: 0,0:08:03.28,0:08:07.38,NanohaW Dialogue1,,0,0,0,,And with relations between Surface HQ and\Nthe Main Office, conflict with every single thing—
 Dialogue: 0,0:08:08.33,0:08:11.30,NanohaW Dialogue1,,0,0,0,,Excuse me, Captain Chrono.
 Dialogue: 0,0:08:11.30,0:08:14.26,NanohaW Dialogue1,,0,0,0,,Lt. Colonel Hayate Yagami is here.
 Dialogue: 0,0:08:19.72,0:08:20.64,NanohaW Dialogue1,,0,0,0,,Hayate.
@@ -227,10 +227,10 @@ Dialogue: 0,0:08:53.40,0:08:55.68,NanohaW Dialogue1,,0,0,0,,No, I’ll stand her
 Dialogue: 0,0:08:56.80,0:08:59.60,NanohaW Narration1,,0,0,0,,You told the front-line soldiers everything?
 Dialogue: 0,0:08:59.60,0:09:02.14,NanohaW Narration1,,0,0,0,,Not about the prophecy.
 Dialogue: 0,0:09:02.09,0:09:03.30,NanohaW Dialogue1,,0,0,0,,You want some too, right?
-Dialogue: 0,0:09:02.81,0:09:05.56,NanohaW Narration1,,0,0,0,,But that Ground HQ might be attacked.
+Dialogue: 0,0:09:02.81,0:09:05.56,NanohaW Narration1,,0,0,0,,But that Surface HQ might be attacked.
 Dialogue: 0,0:09:03.30,0:09:05.56,NanohaW Dialogue1,,0,0,0,,No, I’m fine.
 Dialogue: 0,0:09:05.56,0:09:07.73,NanohaW Narration1,,0,0,0,,I see.
-Dialogue: 0,0:09:10.15,0:09:13.61,NanohaW Dialogue1,,0,0,0,,A terrorist attack on Ground HQ?
+Dialogue: 0,0:09:10.15,0:09:13.61,NanohaW Dialogue1,,0,0,0,,A terrorist attack on Surface HQ?
 Dialogue: 0,0:09:13.61,0:09:17.70,NanohaW Dialogue1,,0,0,0,,It’s possible, that’s all.
 Dialogue: 0,0:09:17.70,0:09:19.58,NanohaW Dialogue1,,0,0,0,,But, if you think about it,
 Dialogue: 0,0:09:19.58,0:09:24.88,NanohaW Dialogue1,,0,0,0,,The magic defenses at HQ facilities are impressive,\Nbut if they use the Gadgets...
@@ -252,7 +252,7 @@ Dialogue: 0,0:10:20.17,0:10:25.96,NanohaW Dialogue1,,0,0,0,,Being both relativel
 Dialogue: 0,0:10:27.27,0:10:28.59,NanohaW Dialogue1,,0,0,0,,That’s right.
 Dialogue: 0,0:10:28.59,0:10:35.82,NanohaW Dialogue1,,0,0,0,,The Bureau’s effective use of magic is what enabled it to manage the various worlds.
 Dialogue: 0,0:10:35.82,0:10:39.91,NanohaW Dialogue1,,0,0,0,,They established their Main Office\Nin the Dimensional Sea where all the worlds float.
-Dialogue: 0,0:10:39.91,0:10:43.66,NanohaW Dialogue1,,0,0,0,,And they put their Ground HQ on their homeworld, Midchilda.
+Dialogue: 0,0:10:39.91,0:10:43.66,NanohaW Dialogue1,,0,0,0,,And on their homeworld, Midchilda, they built Surface HQ.
 Dialogue: 0,0:10:44.32,0:10:48.80,NanohaW Dialogue1,,0,0,0,,Oh! That was the beginning of the New Calendar, 75 years ago.
 Dialogue: 0,0:10:48.80,0:10:49.57,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:10:49.57,0:10:54.58,NanohaW Dialogue1,,0,0,0,,And who was it that saw the Bureau through the beginning of the New Calendar,
@@ -269,22 +269,22 @@ Dialogue: 0,0:11:17.36,0:11:21.78,NanohaW Dialogue1,,0,0,0,,We’ve gotten prett
 Dialogue: 0,0:11:20.61,0:11:26.66,NanohaW Narration1,,0,0,0,,To be honest, I wanted Erio and Caro\Nto go down a more peaceful path.
 Dialogue: 0,0:11:28.95,0:11:32.50,NanohaW Dialogue1,,0,0,0,,Yes, it’s true that the information comes from an unreliable source,
 Dialogue: 0,0:11:32.50,0:11:37.45,NanohaW Dialogue1,,0,0,0,,but everyone says the notion that\Nthe Bureau might be destroyed is absurd.
-Dialogue: 0,0:11:37.45,0:11:41.38,NanohaW Dialogue1,,0,0,0,,Even if Ground HQ did fall to terrorism or a {\i1}coup d’etat,{\i0}
+Dialogue: 0,0:11:37.45,0:11:41.38,NanohaW Dialogue1,,0,0,0,,Even if Surface HQ did fall to terrorism or a {\i1}coup d’etat,{\i0}
 Dialogue: 0,0:11:41.38,0:11:47.01,NanohaW Dialogue1,,0,0,0,,nobody’s willing to believe that\Nthe Main Office could be taken down with it.
 Dialogue: 0,0:11:47.01,0:11:50.84,NanohaW Dialogue1,,0,0,0,,Well, the Bureau {\i1}is{\i0} enhancing its defenses.
-Dialogue: 0,0:11:50.84,0:11:53.22,NanohaW Dialogue1,,0,0,0,,The problem is Ground HQ.
-Dialogue: 0,0:11:53.22,0:11:56.72,NanohaW Dialogue1,,0,0,0,,Lt. General Gaiz refuses to believe the prophecy.
+Dialogue: 0,0:11:50.84,0:11:53.09,NanohaW Dialogue1,,0,0,0,,The problem is Surface HQ.
+Dialogue: 0,0:11:53.09,0:11:56.72,NanohaW Dialogue1,,0,0,0,,Lt. General Gaiz refuses to believe the prophecy.
 Dialogue: 0,0:11:56.72,0:11:59.10,NanohaW Dialogue1,,0,0,0,,He’s not taking any special precautions.
 Dialogue: 0,0:11:59.10,0:12:03.07,NanohaW Dialogue1,,0,0,0,,It’s difficult for different organizations to cooperate.
 Dialogue: 0,0:12:03.07,0:12:10.62,NanohaW Dialogue1,,0,0,0,,If “cooperation” is recast as “interfering with our internal affairs” or “meddling”, then it becomes a matter of dispute.
-Dialogue: 0,0:12:10.62,0:12:16.54,NanohaW Dialogue1,,0,0,0,,And even without that, the military power and influence of Ground HQ has on Mid has been considered a problem.
+Dialogue: 0,0:12:10.62,0:12:16.54,NanohaW Dialogue1,,0,0,0,,And even without that, the military power and influence of Surface HQ has on Mid has been considered a problem.
 Dialogue: 0,0:12:16.54,0:12:20.51,NanohaW Dialogue1,,0,0,0,,Therefore, you couldn’t offer any major help that would be noticed in terms of military forces.
 Dialogue: 0,0:12:20.51,0:12:22.21,NanohaW Dialogue1,,0,0,0,,I’m sorry.
 Dialogue: 0,0:12:22.21,0:12:26.39,NanohaW Dialogue1,,0,0,0,,I’d like to keep political problems away from the front lines.
-Dialogue: 0,0:12:26.39,0:12:30.92,NanohaW Dialogue1,,0,0,0,,Even if it’s cheating, you would need a force\Nthat could act freely on the ground.
-Dialogue: 0,0:12:30.92,0:12:33.80,NanohaW Dialogue1,,0,0,0,,If it all that happens is we have a Relic Incident, that’s fine.
+Dialogue: 0,0:12:26.39,0:12:30.80,NanohaW Dialogue1,,0,0,0,,Even if it’s cheating, you would need a force\Nthat could act freely on the surface.
+Dialogue: 0,0:12:30.80,0:12:33.80,NanohaW Dialogue1,,0,0,0,,If it all that happens is we have a Relic Incident, that’s fine.
 Dialogue: 0,0:12:33.80,0:12:39.65,NanohaW Dialogue1,,0,0,0,,And if things get worse, we’d need somebody who could watch the situation up close...
-Dialogue: 0,0:12:39.65,0:12:42.39,NanohaW Dialogue1,,0,0,0,,And until Ground HQ starts to take things seriously
+Dialogue: 0,0:12:39.65,0:12:42.39,NanohaW Dialogue1,,0,0,0,,And until Surface HQ starts to take things seriously
 Dialogue: 0,0:12:42.39,0:12:46.87,NanohaW Dialogue1,,0,0,0,,or the Bureau and the Church\Nsend their own forces in to keep things stable.
 Dialogue: 0,0:12:46.87,0:12:49.28,NanohaW Dialogue1,,0,0,0,,That’s what Riot Force 6 is for.
 Dialogue: 0,0:12:52.25,0:12:56.75,NanohaW Dialogue1,,0,0,0,,Of course, we won’t cause any trouble for you outside your missions.

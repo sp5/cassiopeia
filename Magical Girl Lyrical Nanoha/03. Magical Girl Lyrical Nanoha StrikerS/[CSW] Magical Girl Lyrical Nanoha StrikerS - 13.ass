@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 6
-Active Line: 10
-Video Position: 1310
+Scroll Position: 305
+Active Line: 310
+Video Position: 26812
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -197,8 +197,8 @@ Dialogue: 0,0:08:54.04,0:08:55.75,NanohaW Dialogue1,,0,0,0,,That’s terrible.
 Dialogue: 0,0:08:55.75,0:08:58.22,NanohaW Dialogue1,,0,0,0,,Then let’s look for her together!
 Dialogue: 0,0:09:03.88,0:09:05.19,NanohaW Dialogue1,,0,0,0,,An emergency inspection?
 Dialogue: 0,0:09:05.19,0:09:06.73,NanohaW Dialogue1,,0,0,0,,For Riot Force 6?
-Dialogue: 0,0:09:07.64,0:09:11.34,NanohaW Dialogue1,,0,0,0,,It seems like there’s talk of it at Ground HQ.
-Dialogue: 0,0:09:11.34,0:09:14.58,NanohaW Dialogue1,,0,0,0,,Inspections by Ground HQ are pretty tough, I hear.
+Dialogue: 0,0:09:07.64,0:09:11.34,NanohaW Dialogue1,,0,0,0,,It seems like there’s talk of it at Surface HQ.
+Dialogue: 0,0:09:11.34,0:09:14.58,NanohaW Dialogue1,,0,0,0,,Inspections by Surface HQ are pretty tough, I hear.
 Dialogue: 0,0:09:15.61,0:09:20.15,NanohaW Dialogue1,,0,0,0,,We, this team, have a lot of challenges to begin with.
 Dialogue: 0,0:09:20.15,0:09:23.56,NanohaW Dialogue1,,0,0,0,,If we were ordered to change\Nour shifts or our position right now,
 Dialogue: 0,0:09:23.56,0:09:26.04,NanohaW Dialogue1,,0,0,0,,to be honest, it would be the end of us.
@@ -349,7 +349,7 @@ Dialogue: 0,0:18:24.54,0:18:29.71,NanohaW Dialogue1,,0,0,0,,The dead shall dance
 Dialogue: 0,0:18:29.71,0:18:34.85,NanohaW Dialogue1,,0,0,0,,and from there, the ship of law\Nthat guards the many seas shall be torn apart.
 Dialogue: 0,0:18:35.85,0:18:37.05,NanohaW Dialogue1,,0,0,0,,That...
 Dialogue: 0,0:18:37.05,0:18:38.26,NanohaW Dialogue1,,0,0,0,,...can’t be!
-Dialogue: 0,0:18:38.26,0:18:43.89,NanohaW Dialogue1,,0,0,0,,The Lost Logia will commence the destruction of the Bureau’s Ground Headquarters.
+Dialogue: 0,0:18:38.26,0:18:43.89,NanohaW Dialogue1,,0,0,0,,The Lost Logia will commence the destruction of the Bureau’s Surface Headquarters.
 Dialogue: 0,0:18:43.89,0:18:47.97,NanohaW Dialogue1,,0,0,0,,And then, the Bureau’s entire system.
 Dialogue: 0,0:18:52.77,0:18:55.64,NanohaW Dialogue1,,0,0,0,,Has the date for the inspection been decided?
 Dialogue: 0,0:18:55.64,0:18:57.94,NanohaW Dialogue1,,0,0,0,,I’ve secured the necessary personnel.

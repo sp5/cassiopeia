@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 6
-Active Line: 9
-Video Position: 1310
+Scroll Position: 133
+Active Line: 138
+Video Position: 8808
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -178,8 +178,8 @@ Dialogue: 0,0:05:57.16,0:06:00.61,NanohaW Dialogue1,first,0,0,0,,Great! You are 
 Dialogue: 0,0:06:01.18,0:06:03.17,NanohaW Dialogue1,first,0,0,0,,Okay, let’s keep it going.
 Dialogue: 0,0:06:03.17,0:06:04.88,NanohaW Dialogue1,first,0,0,0,,Please take care of my targeting.
 Dialogue: 0,0:06:04.88,0:06:06.05,NanohaW Dialogue1,firstitalics,0,0,0,,Yes, ma’am!
-Dialogue: 1,0:06:06.20,0:06:10.49,NanohaW Dialogue2,Setting,0,0,0,,{\bord0\blur0.75\fad(458,495)\b1\pos(640,561)}Time-Space Administrative Bureau\NMidchilda Capital/Ground Headquarters
-Dialogue: 0,0:06:06.20,0:06:10.49,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\fad(458,495)\b1\pos(640,561)\c&H000000&\1a&HFF&\t(0,458,\1a&H00&)\t(3795,4290,\1a&HFF&)}Time-Space Administrative Bureau\NMidchilda Capital/Ground Headquarters
+Dialogue: 1,0:06:06.20,0:06:10.49,NanohaW Dialogue2,Setting,0,0,0,,{\bord0\blur0.75\fad(458,495)\b1\pos(640,561)}Time-Space Administrative Bureau\NMidchilda Capital/Surface Headquarters
+Dialogue: 0,0:06:06.20,0:06:10.49,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\fad(458,495)\b1\pos(640,561)\c&H000000&\1a&HFF&\t(0,458,\1a&H00&)\t(3795,4290,\1a&HFF&)}Time-Space Administrative Bureau\NMidchilda Capital/Surface Headquarters
 Dialogue: 0,0:06:08.09,0:06:09.01,NanohaW Dialogue1,first,0,0,20,,What is it?
 Dialogue: 0,0:06:09.01,0:06:11.12,NanohaW Dialogue1,first,0,0,20,,What’s going on here?
 Dialogue: 1,0:06:11.04,0:06:16.87,NanohaW Dialogue2,Setting,0,0,0,,{\bord0\blur0.75\fad(498,494)\b1\pos(640,576)}Same place, top floor, observation room{\b0}

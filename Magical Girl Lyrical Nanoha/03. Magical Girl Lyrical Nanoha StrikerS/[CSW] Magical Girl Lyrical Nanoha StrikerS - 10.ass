@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 3
-Active Line: 8
-Video Position: 1311
+Scroll Position: 111
+Active Line: 116
+Video Position: 7464
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -156,7 +156,7 @@ Dialogue: 1,0:05:01.36,0:05:06.36,Nanoha StrikerS Title1,Title,0,0,0,,{\pos(640,
 Dialogue: 0,0:05:01.36,0:05:06.36,Nanoha StrikerS Title1,Title,0,0,0,,{\pos(640,648.25)\blur5\c&H8C0062&}(part 1)
 Dialogue: 0,0:05:06.36,0:05:09.27,NanohaW Dialogue1,FirstI,0,0,0,,That was your entertainment news for the day.
 Dialogue: 0,0:05:09.27,0:05:11.29,NanohaW Dialogue1,FirstI,0,0,0,,And now for political and economic news.
-Dialogue: 0,0:05:11.29,0:05:15.99,NanohaW Dialogue1,FirstI,0,0,0,,Yesterday at the Bureau’s Ground Central HQ on Midchilda,
+Dialogue: 0,0:05:11.29,0:05:15.99,NanohaW Dialogue1,FirstI,0,0,0,,Yesterday at the Bureau’s Surface/Central HQ on Midchilda,
 Dialogue: 0,0:05:15.99,0:05:18.58,NanohaW Dialogue1,FirstI,0,0,0,,a budgetary conference for next year was held.
 Dialogue: 0,0:05:18.58,0:05:21.05,NanohaW Dialogue1,FirstI,0,0,0,,This is the third budget that has been submitted,
 Dialogue: 0,0:05:21.05,0:05:25.42,NanohaW Dialogue1,FirstI,0,0,0,,and every world is watching carefully due to concerns about taxation issues.

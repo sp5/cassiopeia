@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 6
-Active Line: 10
-Video Position: 1310
+Scroll Position: 436
+Active Line: 441
+Video Position: 36400
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -460,8 +460,8 @@ Dialogue: 0,0:23:00.65,0:23:04.53,NanohaW Dialogue1,,0,0,0,,The lieutenants are 
 Dialogue: 0,0:23:04.53,0:23:09.74,NanohaW Dialogue1,,0,0,0,,We’ll be raising everyone’s Device limiters to the third level tomorrow as well.
 Dialogue: 0,0:23:09.74,0:23:14.66,NanohaW Dialogue1,,0,0,0,,If we can hold this place down,\NI believe we’ll turn this situation around quickly.
 Dialogue: 0,0:23:16.12,0:23:19.21,NanohaW Dialogue1,,0,0,0,,It will definitely be all right.
-Dialogue: 0,0:23:22.07,0:23:23.03,NanohaW Dialogue3,,0,0,0,,{\blur0.5\pos(640,292.838)\clip(239.374,250,287,344)\t(\clip(239.374,250,1046.636,344))}Time-Space Administrative Bureau Ground Headquarters
-Dialogue: 0,0:23:23.03,0:23:28.03,NanohaW Dialogue3,,0,0,0,,{\blur0.5\pos(640,292.838)}Time-Space Administrative Bureau Ground Headquarters
+Dialogue: 0,0:23:22.07,0:23:23.03,NanohaW Dialogue3,,0,0,0,,{\blur0.5\pos(640,292.838)\clip(239.374,250,287,344)\t(\clip(239.374,250,1046.636,344))}Time-Space Administrative Bureau Surface Headquarters
+Dialogue: 0,0:23:23.03,0:23:28.03,NanohaW Dialogue3,,0,0,0,,{\blur0.5\pos(640,292.838)}Time-Space Administrative Bureau Surface Headquarters
 Dialogue: 0,0:23:23.53,0:23:24.58,NanohaW Dialogue3,,0,0,0,,{\blur0.5\pos(640,403.4)\clip(516.807,384,530,422)\t(\clip(516.807,384,770,422))}Press Conference
 Dialogue: 0,0:23:24.58,0:23:28.03,NanohaW Dialogue3,,0,0,0,,{\blur0.5\pos(640,403.4)}Press Conference
 Dialogue: 0,0:23:25.03,0:23:28.03,NanohaW Dialogue3,,0,0,0,,{\blur0.5\fs64\pos(640,571.125)\k25}I{\k75}n {\fs96\k52}7 {\fs72\k4}days
@@ -483,7 +483,7 @@ Dialogue: 0,0:24:57.96,0:25:04.17,Nanoha ED,,0,0,0,,No matter what type of tomor
 Dialogue: 0,0:25:04.17,0:25:09.82,Nanoha ED,,0,0,0,,In my precious days
 Dialogue: 1,0:25:15.98,0:25:20.97,Nanoha Title2,,0,0,0,,{\an1\fad(0,451)\bord0\blur0.5\pos(134.42,292.542)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:15.98,0:25:20.97,Nanoha Title2,,0,0,0,,{\an1\fad(0,451)\blur0.5\c&HFFFFFF&\pos(134.42,292.542)\t(4539,4990,\1a&HFF&)}Next\NEpisode\NPreview
-Dialogue: 0,0:25:17.53,0:25:19.90,NanohaW Narration1,,0,0,0,,We head to protect Ground HQ,
+Dialogue: 0,0:25:17.53,0:25:19.90,NanohaW Narration1,,0,0,0,,We head to protect Surface HQ,
 Dialogue: 0,0:25:19.90,0:25:22.40,NanohaW Narration1,,0,0,0,,and the members of Riot Force 6\Nsee us off at the base.
 Dialogue: 0,0:25:22.40,0:25:25.96,NanohaW Narration1,,0,0,0,,The attack comes silently at first, then abruptly.
 Dialogue: 0,0:25:25.96,0:25:29.00,NanohaW Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Nanoha StrikerS:{\i1}

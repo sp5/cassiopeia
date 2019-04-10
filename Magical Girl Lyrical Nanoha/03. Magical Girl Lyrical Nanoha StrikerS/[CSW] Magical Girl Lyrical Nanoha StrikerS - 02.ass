@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 4
-Active Line: 9
-Video Position: 1321
+Scroll Position: 243
+Active Line: 245
+Video Position: 17824
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -253,8 +253,8 @@ Dialogue: 0,0:10:12.50,0:10:14.95,NanohaW Dialogue1,,0,0,0,,We’ll search for t
 Dialogue: 0,0:10:17.97,0:10:19.26,NanohaW Dialogue1,,0,0,0,,Sorry we took so long!
 Dialogue: 0,0:10:20.18,0:10:23.76,NanohaW Dialogue1,,0,0,0,,We thank the gentlemen at the scene as well as the aces for the emergency support.
 Dialogue: 0,0:10:23.76,0:10:26.01,NanohaW Dialogue1,,0,0,0,,Please leave the rest to us!
-Dialogue: 0,0:10:26.01,0:10:31.36,NanohaW Dialogue1,,0,0,0,,Roger! I’ll continue helping with the rescue effort, so please give me instructions.
-Dialogue: 0,0:10:33.02,0:10:37.70,NanohaW Dialogue1,,0,0,20,,{\an8}This is First Squadron, arriving from the north. We’ll deploy immediately.
+Dialogue: 0,0:10:26.01,0:10:31.36,NanohaW Dialogue1,,0,0,0,,Roger! I’ll continue helping with the rescue effort,\Nso please give me instructions.
+Dialogue: 0,0:10:33.02,0:10:37.70,NanohaW Dialogue1,,0,0,20,,{\an8}This is First Squadron, arriving from the north.\NWe’ll deploy immediately.
 Dialogue: 0,0:10:34.98,0:10:36.69,NanohaW Dialogue1,,0,0,0,,They’ve finally arrived.
 Dialogue: 0,0:10:36.69,0:10:37.70,NanohaW Dialogue1,,0,0,0,,Yes!
 Dialogue: 0,0:10:37.70,0:10:40.00,NanohaW Dialogue1,,0,0,0,,But we can’t let our guard down yet.
@@ -265,10 +265,10 @@ Dialogue: 0,0:10:49.72,0:10:51.46,NanohaW Dialogue1,,0,0,0,,I’m reporting live
 Dialogue: 0,0:10:51.46,0:10:53.62,NanohaW Dialogue1,,0,0,0,,Although the fire has been extinguished,
 Dialogue: 0,0:10:53.62,0:10:56.27,NanohaW Dialogue1,,0,0,0,,smoke continues to rise from the area.
 Dialogue: 0,0:10:56.27,0:10:58.91,NanohaW Dialogue1,,0,0,0,,As I speak, operatives from the Time-Space Administrative Bureau
-Dialogue: 0,0:10:58.91,0:11:02.22,NanohaW Dialogue1,,0,0,0,,are conducting investigations into the dangers as well as the cause of the accident.
-Dialogue: 0,0:11:03.14,0:11:09.48,NanohaW Dialogue1,,0,0,0,,Luckily, thanks to the efforts of the aerial mages from the Main Office, there were no casualties.
+Dialogue: 0,0:10:58.91,0:11:02.22,NanohaW Dialogue1,,0,0,0,,are conducting investigations into\Nthe dangers as well as the cause of the accident.
+Dialogue: 0,0:11:03.14,0:11:09.48,NanohaW Dialogue1,,0,0,0,,Luckily, thanks to the efforts of a group of aerial mages\Nfrom the Main Office, there were no casualties.
 Dialogue: 0,0:11:10.97,0:11:12.71,NanohaW Dialogue1,,0,0,0,,Just as I thought.
-Dialogue: 0,0:11:13.98,0:11:19.24,NanohaW Dialogue1,,0,0,0,,the Ground Armed Service’s trainees, and Nanoha and Fate,
+Dialogue: 0,0:11:13.98,0:11:19.24,NanohaW Dialogue1,,0,0,0,,the G.A.S. trainees, plus Nanoha and Fate
 Dialogue: 0,0:11:19.24,0:11:21.99,NanohaW Dialogue1,,0,0,0,,worked just as hard as Disaster Response\Nbut never got the credit for it
 Dialogue: 0,0:11:23.44,0:11:25.89,NanohaW Dialogue1,,0,0,0,,Well, we {\i1}are{\i0} on vacation, anyway.
 Dialogue: 0,0:11:25.89,0:11:28.02,NanohaW Dialogue1,,0,0,0,,And the civilians are safe.
@@ -284,7 +284,7 @@ Dialogue: 0,0:11:58.74,0:12:03.74,NanohaW Dialogue1,,0,0,0,,And if I succeed, th
 Dialogue: 0,0:12:03.74,0:12:11.90,NanohaW Dialogue1,,0,0,0,,If I did make a unit like that,\NFate, Nanoha, would you cooperate with me?
 Dialogue: 0,0:12:14.36,0:12:20.71,NanohaW Dialogue1,,0,0,0,,Of course if you two don’t want to, or if you have any worries about it, I understand, but...
 Dialogue: 0,0:12:20.71,0:12:23.08,NanohaW Dialogue1,,0,0,0,,Hayate, what are you being so reserved for?
-Dialogue: 0,0:12:23.08,0:12:25.89,NanohaW Dialogue1,,0,0,0,,Haven’t we known each other since third grade?
+Dialogue: 0,0:12:23.08,0:12:25.74,NanohaW Dialogue1,,0,0,0,,Haven’t we known each other since third grade?
 Dialogue: 0,0:12:26.59,0:12:32.11,NanohaW Dialogue1,,0,0,0,,Anyway, if you didn’t invite us to such a fun unit, we would be mad instead.
 Dialogue: 0,0:12:32.11,0:12:33.47,NanohaW Dialogue1,,0,0,0,,Right, Fate?
 Dialogue: 0,0:12:33.47,0:12:34.17,NanohaW Dialogue1,,0,0,0,,Right.
@@ -299,7 +299,7 @@ Dialogue: 0,0:13:18.02,0:13:20.94,NanohaW Dialogue1,,0,0,0,,Riot Force 6’s for
 Dialogue: 0,0:13:20.94,0:13:24.95,NanohaW Dialogue1,,0,0,0,,Missions will include investigating antiquities as well as management and protection.
 Dialogue: 0,0:13:24.95,0:13:28.08,NanohaW Dialogue1,,0,0,0,,Antiquities. You mean Lost Logia, right?
 Dialogue: 0,0:13:28.08,0:13:29.27,NanohaW Dialogue1,,0,0,0,,That’s right.
-Dialogue: 0,0:13:29.27,0:13:35.07,NanohaW Dialogue1,,0,0,0,,But, we’ll investigate everything from public safety to large-scale cases, and counter-measures as well.
+Dialogue: 0,0:13:29.27,0:13:35.07,NanohaW Dialogue1,,0,0,0,,But, we’ll investigate everything from public safety to large-scale cases and counter-measures as well.
 Dialogue: 0,0:13:35.07,0:13:36.44,NanohaW Dialogue1,,0,0,0,,Is that so?
 Dialogue: 0,0:13:36.44,0:13:38.00,NanohaW Narration1,,0,0,0,,Tia. Tia!
 Dialogue: 0,0:13:36.99,0:13:40.10,NanohaW Dialogue1,,0,0,0,,In short, we’ll investigate anything to do with the Lost Logia,

@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 3
-Active Line: 8
-Video Position: 1335
+Scroll Position: 284
+Active Line: 289
+Video Position: 23188
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -329,8 +329,8 @@ Dialogue: 0,0:15:56.44,0:15:57.72,NanohaW Dialogue1,,0,0,0,,And so you have it.
 Dialogue: 0,0:15:57.72,0:16:00.23,NanohaW Dialogue1,,0,0,0,,All right. Thank you very much.
 Dialogue: 0,0:16:00.23,0:16:03.19,NanohaW Dialogue1,,0,0,0,,After the meeting, want to go get something to eat?
 Dialogue: 0,0:16:03.19,0:16:05.61,NanohaW Dialogue1,,0,0,0,,Sure, I’ll accompany you.
-Dialogue: 1,0:16:06.22,0:16:09.92,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(496,452)\b1\pos(640,560)\bord0\c&HECE7E3&}Time-Space Administrative Bureau\NCapital Central/Ground Headquarters{\b0}
-Dialogue: 0,0:16:06.22,0:16:09.92,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(496,452)\b1\pos(640,560)\c&H000000&\1a&HFF&\t(0,496,\1a&H00&)\t(3248,3700,\1a&HFF&)}Time-Space Administrative Bureau\NCapital Central/Ground Headquarters{\b0}
+Dialogue: 1,0:16:06.22,0:16:09.92,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(496,452)\b1\pos(640,560)\bord0\c&HECE7E3&}Time-Space Administrative Bureau\NCapital Central/Surface Headquarters{\b0}
+Dialogue: 0,0:16:06.22,0:16:09.92,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(496,452)\b1\pos(640,560)\c&H000000&\1a&HFF&\t(0,496,\1a&H00&)\t(3248,3700,\1a&HFF&)}Time-Space Administrative Bureau\NCapital Central/Surface Headquarters{\b0}
 Dialogue: 0,0:16:11.06,0:16:13.24,NanohaW Dialogue1,,0,0,0,,That’s all the data we have on the Relic.
 Dialogue: 0,0:16:13.24,0:16:15.67,NanohaW Dialogue1,,0,0,0,,They’ve properly sealed it, right?
 Dialogue: 0,0:16:15.67,0:16:18.16,NanohaW Dialogue1,,0,0,0,,Yes, ma’am, and very securely at that.
