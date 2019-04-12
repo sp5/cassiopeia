@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 133
-Active Line: 138
-Video Position: 8808
+Scroll Position: 169
+Active Line: 174
+Video Position: 11184
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -215,7 +215,7 @@ Dialogue: 0,0:07:34.98,0:07:36.18,NanohaW Dialogue1,first,0,0,0,,I know.
 Dialogue: 0,0:07:36.18,0:07:39.51,NanohaW Dialogue1,first,0,0,0,,How annoying! The Navy is always like that.
 Dialogue: 0,0:07:39.51,0:07:41.98,NanohaW Dialogue1,first,0,0,0,,It continually underestimates dangerous elements.
 Dialogue: 0,0:07:41.98,0:07:45.68,NanohaW Dialogue1,first,0,0,0,,Lt. General, for two years you have continually denied the Ground Armed Service’s requests
-Dialogue: 0,0:07:45.68,0:07:50.06,NanohaW Dialogue1,first,0,0,0,,for funds devoted to develop countermeasures for AMF weapons.
+Dialogue: 0,0:07:45.68,0:07:50.06,NanohaW Dialogue1,first,0,0,0,,for funds devoted to develop countermeasures for A.M.F. weapons.
 Dialogue: 0,0:07:50.06,0:07:52.41,NanohaW Dialogue1,first,0,0,0,,So it’s quite likely that the Main Office and the Church of the Holy King
 Dialogue: 0,0:07:52.41,0:07:54.66,NanohaW Dialogue1,first,0,0,0,,created them as an independent means of dealing with the problem.
 Dialogue: 0,0:07:57.86,0:08:00.78,NanohaW Dialogue1,first,0,0,0,,Sometime soon, I want you to go investigate them.

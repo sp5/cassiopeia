@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 225
-Active Line: 230
-Video Position: 17286
+Scroll Position: 285
+Active Line: 286
+Video Position: 22357
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -327,7 +327,7 @@ Dialogue: 0,0:15:25.75,0:15:27.10,NanohaW Dialogue1,,0,0,0,,Dammit!
 Dialogue: 0,0:15:27.10,0:15:27.71,NanohaW Dialogue1,,0,0,0,,Why you!
 Dialogue: 0,0:15:29.11,0:15:30.11,NanohaW Dialogue1,,0,0,0,,Subaru!
 Dialogue: 0,0:15:30.11,0:15:31.36,NanohaW Dialogue1,,0,0,0,,Idiot, that’s dangerous!
-Dialogue: 0,0:15:32.45,0:15:35.41,NanohaW Dialogue1,,0,0,0,,Furthermore, when the AMF has been fully expanded,
+Dialogue: 0,0:15:32.45,0:15:35.41,NanohaW Dialogue1,,0,0,0,,Furthermore, when the A.M.F. has been fully expanded,
 Dialogue: 0,0:15:45.38,0:15:50.36,NanohaW Dialogue1,,0,0,0,,flight, aerial pathways, and teleportation magic will all be dispelled within the field.
 Dialogue: 0,0:15:50.36,0:15:51.84,NanohaW Narration1,,0,0,0,,Subaru, are you all right?
 Dialogue: 0,0:15:52.68,0:15:54.76,NanohaW Dialogue1,,0,0,0,,Somehow.

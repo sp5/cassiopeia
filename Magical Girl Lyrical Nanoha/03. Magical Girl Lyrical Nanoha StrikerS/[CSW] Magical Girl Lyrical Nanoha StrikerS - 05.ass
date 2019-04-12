@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 172
-Active Line: 173
-Video Position: 19467
+Scroll Position: 205
+Active Line: 210
+Video Position: 23462
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -250,7 +250,7 @@ Dialogue: 0,0:15:51.21,0:15:52.33,NanohaW Dialogue1,,0,0,0,,Fried!
 Dialogue: 0,0:15:52.33,0:15:53.48,NanohaW Dialogue1,,0,0,0,,{\b1}Blast Flare{\b0}
 Dialogue: 0,0:15:56.56,0:15:58.02,NanohaW Dialogue1,,0,0,0,,Fire!
 Dialogue: 0,0:16:09.04,0:16:11.03,NanohaW Dialogue1,,0,0,0,,It’s tough!
-Dialogue: 0,0:16:18.56,0:16:19.75,NanohaW Dialogue1,,0,0,0,,An AMF?
+Dialogue: 0,0:16:18.56,0:16:19.75,NanohaW Dialogue1,,0,0,0,,An A.M.F.?
 Dialogue: 0,0:16:19.75,0:16:21.23,NanohaW Dialogue1,,0,0,0,,Even this far away?
 Dialogue: 0,0:16:33.61,0:16:35.41,NanohaW Dialogue1,,0,0,0,,Don’t worry! Leave it to me.
 Dialogue: 0,0:16:55.36,0:17:01.70,NanohaW Dialogue1,,0,0,0,,She certainly does have some tremendous powers,\Nbut she can’t control them very well.

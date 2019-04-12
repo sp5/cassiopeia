@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 406
-Active Line: 411
-Video Position: 36767
+Scroll Position: 291
+Active Line: 293
+Video Position: 22700
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -334,9 +334,9 @@ Dialogue: 0,0:15:25.84,0:15:27.88,NanohaW Dialogue1,,0,0,0,,Are you okay?
 Dialogue: 0,0:15:27.88,0:15:32.05,NanohaW Dialogue1,,0,0,0,,Yep! Mach Caliber and I have totally recovered.
 Dialogue: 0,0:15:41.33,0:15:43.10,NanohaW Dialogue1,,0,0,0,,Dammit! Our magic’s barely getting through!
 Dialogue: 0,0:15:43.10,0:15:46.33,NanohaW Dialogue1,,0,0,0,,Everyone who can use anti-field magic, group together and counterattack!
-Dialogue: 0,0:15:46.33,0:15:47.55,NanohaW Dialogue1,,0,0,0,,City ground defense!
-Dialogue: 0,0:15:47.55,0:15:48.73,NanohaW Dialogue1,,0,0,0,,City defense!
-Dialogue: 0,0:15:48.73,0:15:49.82,NanohaW Dialogue1,,0,0,0,,{\c&HE1E1E1&}City defense!
+Dialogue: 0,0:15:46.33,0:15:47.55,NanohaW Dialogue1,,0,0,0,,City ground defenses!
+Dialogue: 0,0:15:47.55,0:15:48.73,NanohaW Dialogue1,,0,0,0,,City defenses!
+Dialogue: 0,0:15:48.73,0:15:49.82,NanohaW Dialogue1,,0,0,0,,{\c&HE1E1E1&}City defenses!
 Dialogue: 0,0:15:49.82,0:15:50.97,NanohaW Dialogue1,,0,0,0,,Hey, respond!
 Dialogue: 0,0:16:01.35,0:16:06.77,NanohaW Dialogue1,,0,0,0,,Thanks to the data I’ve accumulated, it’s a lot easier to move.
 Dialogue: 0,0:16:08.00,0:16:09.95,NanohaW Dialogue1,,0,0,0,,Right, Otto, Deed?

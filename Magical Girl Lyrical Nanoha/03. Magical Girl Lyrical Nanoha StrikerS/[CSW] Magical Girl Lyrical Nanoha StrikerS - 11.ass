@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 6
-Active Line: 9
-Video Position: 1346
+Scroll Position: 335
+Active Line: 340
+Video Position: 28660
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -380,8 +380,8 @@ Dialogue: 0,0:19:50.24,0:19:51.74,NanohaW Device1,First,0,0,0,,{\pos(320,674)}Ar
 Dialogue: 0,0:19:51.74,0:19:52.52,NanohaW Device1,First,0,0,0,,{\pos(960,674)}Yes.
 Dialogue: 0,0:19:52.52,0:19:54.16,NanohaW Dialogue1,First,0,0,0,,Okay, follow me.
 Dialogue: 0,0:19:54.16,0:19:54.94,NanohaW Dialogue1,First,0,0,0,,Right!
-Dialogue: 0,0:19:54.94,0:19:56.37,NanohaW Dialogue1,First,0,0,0,,Here we go, partner!
-Dialogue: 0,0:19:56.37,0:19:58.32,NanohaW Device1,First,0,0,0,,Load Cartridge
+Dialogue: 0,0:19:54.94,0:19:56.36,NanohaW Dialogue1,First,0,0,0,,Here we go, buddy!
+Dialogue: 0,0:19:56.36,0:19:58.32,NanohaW Device1,First,0,0,0,,Load Cartridge
 Dialogue: 0,0:20:01.75,0:20:03.60,NanohaW Dialogue1,First,0,0,0,,{\b1}Tri-Shield{\b0}
 Dialogue: 0,0:20:16.65,0:20:18.23,NanohaW Dialogue1,First,0,0,0,,{\b1}Divine...{\b0}
 Dialogue: 0,0:20:22.85,0:20:24.70,NanohaW Dialogue1,FirstI,0,0,0,,{\b1}...Buster{\b0}

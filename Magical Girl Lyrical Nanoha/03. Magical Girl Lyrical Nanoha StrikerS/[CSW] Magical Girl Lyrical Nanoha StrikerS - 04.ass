@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 6
-Active Line: 10
-Video Position: 1333
+Scroll Position: 388
+Active Line: 393
+Video Position: 33518
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -432,7 +432,7 @@ Dialogue: 0,0:22:52.72,0:22:53.89,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
 Dialogue: 0,0:23:03.69,0:23:05.04,NanohaW Dialogue1,,0,0,0,,Are you okay?
 Dialogue: 0,0:23:05.04,0:23:08.40,NanohaW Dialogue1,,0,0,0,,Sorry, I’m okay.
 Dialogue: 0,0:23:16.45,0:23:17.98,NanohaW Dialogue1,,0,0,0,,Nice to meet you!
-Dialogue: 0,0:23:17.98,0:23:22.62,NanohaW Dialogue1,,0,0,0,,Although it may be a bit sudden,\Nlet’s do our best together, partner.
+Dialogue: 0,0:23:17.98,0:23:22.62,NanohaW Dialogue1,,0,0,0,,Although it may be a bit sudden,\Nlet’s do our best together, buddy!
 Dialogue: 0,0:23:34.64,0:23:38.13,Nanoha ED,Endsong,0,0,0,,Without end, the dreams continue to weave
 Dialogue: 0,0:23:38.13,0:23:41.68,Nanoha ED,Endsong,0,0,0,,Surpassing thousands of nights
 Dialogue: 0,0:23:41.68,0:23:45.18,Nanoha ED,Endsong,0,0,0,,Like a prayer, the journey continues
