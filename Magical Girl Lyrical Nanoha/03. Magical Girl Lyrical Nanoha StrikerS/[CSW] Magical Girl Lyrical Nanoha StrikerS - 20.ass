@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 407
-Active Line: 409
-Video Position: 36364
+Scroll Position: 385
+Active Line: 388
+Video Position: 33365
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -329,12 +329,12 @@ Dialogue: 0,0:15:36.90,0:15:38.75,NanohaW Dialogue1,,0,0,0,,I’ll save her for 
 Dialogue: 0,0:15:39.82,0:15:44.03,NanohaW Dialogue1,,0,0,0,,For now, Nanoha, I’m worried about you and Vivio.
 Dialogue: 0,0:15:44.03,0:15:46.12,NanohaW Dialogue1,,0,0,0,,Thank you, Subaru.
 Dialogue: 0,0:15:46.12,0:15:47.69,NanohaW Dialogue1,,0,0,0,,But I’m okay.
-Dialogue: 0,0:15:48.63,0:15:55.60,NanohaW Dialogue1,,0,0,0,,The thing I was most afraid of was not being able\Nto go out there, but Commander Yagami says it’s okay.
+Dialogue: 0,0:15:48.63,0:15:55.60,NanohaW Dialogue1,,0,0,0,,The thing I was most afraid of was not being able to go out there, but Commander Yagami gave me the go-ahead.
 Dialogue: 0,0:15:55.60,0:16:01.02,NanohaW Dialogue1,,0,0,0,,If I can go out and do my best,\Nthen there’s nothing I’m worried about.
 Dialogue: 0,0:16:01.02,0:16:02.84,NanohaW Dialogue1,,0,0,0,,Vivio will be okay too.
 Dialogue: 0,0:16:02.84,0:16:04.94,NanohaW Dialogue1,,0,0,0,,I’ll save her.
 Dialogue: 0,0:16:04.94,0:16:07.66,NanohaW Dialogue1,,0,0,0,,So don’t worry.
-Dialogue: 0,0:16:08.36,0:16:13.82,NanohaW Dialogue1,,0,0,0,,The Nanoha you’ve always admired\Nis an invincible ace who won’t lose to anybody.
+Dialogue: 0,0:16:08.36,0:16:13.82,NanohaW Dialogue1,,0,0,0,,The Nanoha you’ve always admired\Nis an invincible ace who won’t lose to anybody, Subaru.
 Dialogue: 0,0:16:15.02,0:16:16.28,NanohaW Dialogue1,,0,0,0,,Yes, ma’am.
 Dialogue: 0,0:16:16.28,0:16:20.70,NanohaW Dialogue1,,0,0,0,,And Subaru, you’re our front attacker,\Nthe pride of our squad.
 Dialogue: 0,0:16:20.70,0:16:25.45,NanohaW Dialogue1,,0,0,0,,Do your best with your partner, Mach Caliber.
@@ -346,7 +346,7 @@ Dialogue: 0,0:16:55.05,0:16:55.86,NanohaW Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:16:55.86,0:17:01.07,NanohaW Dialogue1,,0,0,0,,You idiot. It’s ten years too early\Nfor you to be doing that to Nanoha.
 Dialogue: 0,0:17:01.07,0:17:06.85,NanohaW Dialogue1,,0,0,0,,If you want to cheer Nanoha on, you need to be far stronger and better than you are now.
 Dialogue: 0,0:17:06.85,0:17:07.86,NanohaW Dialogue1,,0,0,0,,Yeah.
-Dialogue: 0,0:17:17.71,0:17:20.06,NanohaW Dialogue1,,0,0,0,,Okay, Captain Team, you’re up!
+Dialogue: 0,0:17:17.71,0:17:20.06,NanohaW Dialogue1,,0,0,0,,Okay, Officer Team, you’re up!
 Dialogue: 0,0:17:20.06,0:17:21.52,NanohaW Dialogue1,,0,0,0,,Ma’am!
 Dialogue: 0,0:17:24.24,0:17:26.10,NanohaW Dialogue1,,0,0,0,,Opening bottom hatch!
 Dialogue: 0,0:17:34.81,0:17:41.79,NanohaW Dialogue1,,0,0,0,,Ability limiters for Riot Force 6’s captains and lieutenants are now completely released.
@@ -422,12 +422,12 @@ Dialogue: 0,0:22:31.99,0:22:33.60,NanohaW Dialogue1,,0,0,0,,Good night.
 Dialogue: 0,0:22:42.50,0:22:44.92,NanohaW Dialogue1,,0,0,0,,Mages, group into formation!
 Dialogue: 0,0:22:44.92,0:22:47.38,NanohaW Dialogue1,,0,0,0,,Were going to take out the smaller units!
 Dialogue: 0,0:22:50.75,0:22:52.96,NanohaW Dialogue1,,0,0,0,,Look for a way inside!
-Dialogue: 0,0:22:52.96,0:22:54.93,NanohaW Dialogue1,,0,0,0,,Assault squad, report your position!
+Dialogue: 0,0:22:52.96,0:22:54.93,NanohaW Dialogue1,,0,0,0,,Assault Team, report your position!
 Dialogue: 0,0:23:00.97,0:23:03.25,NanohaW Dialogue1,,0,0,0,,Enemy group 7 destroyed!
 Dialogue: 0,0:23:03.25,0:23:04.13,NanohaW Dialogue1,,0,0,0,,Next!
 Dialogue: 0,0:23:04.13,0:23:05.19,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
 Dialogue: 0,0:23:10.35,0:23:11.28,NanohaW Dialogue1,,0,0,0,,Mama.
-Dialogue: 0,0:23:11.28,0:23:16.66,NanohaW Dialogue1,,0,0,0,,It will be a little over three hours before the Dimensional Navy reaches their location for the assault on the{\i1} Cradle{\i0}.
+Dialogue: 0,0:23:11.28,0:23:16.66,NanohaW Dialogue1,,0,0,0,,It will be a little over three hours before the Dimensional Navy reaches their location for the assault on the {\i1}Cradle{\i0}.
 Dialogue: 0,0:23:16.66,0:23:21.12,NanohaW Dialogue1,,0,0,0,,We estimate three hours until we reach the orbital point.
 Dialogue: 0,0:23:21.12,0:23:23.04,NanohaW Dialogue1,,0,0,0,,Three hours.
 Dialogue: 0,0:23:28.43,0:23:34.84,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times

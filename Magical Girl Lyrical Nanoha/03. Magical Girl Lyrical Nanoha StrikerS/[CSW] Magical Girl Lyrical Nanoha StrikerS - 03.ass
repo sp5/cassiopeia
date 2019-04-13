@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 285
-Active Line: 286
-Video Position: 22357
+Scroll Position: 118
+Active Line: 121
+Video Position: 7673
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -116,8 +116,8 @@ Dialogue: 0,0:02:28.32,0:02:33.48,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(871,0
 Dialogue: 1,0:02:33.48,0:02:38.82,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.5\b1\pos(640,513.5)}Same place, same time\NCommander’s Office{\b0}
 Dialogue: 0,0:02:33.48,0:02:38.82,NanohaW Dialogue2,,0,0,0,,{\blur0.5\b1\pos(640,513.5)\c&H000000&\bord2.1}Same place, same time\NCommander’s Office{\b0}
 Dialogue: 0,0:02:41.51,0:02:46.08,NanohaW Dialogue1,,0,0,0,,This room is finally fit for a commanding officer, isn’t it?
-Dialogue: 0,0:02:46.57,0:02:47.84,NanohaW Dialogue1,,0,0,0,,That’s true.
-Dialogue: 0,0:02:47.84,0:02:51.15,NanohaW Dialogue1,,0,0,0,,It’s a good thing we were able to find a desk that’s your size, Rein.
+Dialogue: 0,0:02:46.57,0:02:47.55,NanohaW Dialogue1,,0,0,0,,That’s true.
+Dialogue: 0,0:02:47.55,0:02:51.15,NanohaW Dialogue1,,0,0,0,,It’s a good thing we were able to find a desk that’s your size, Rein.
 Dialogue: 0,0:02:52.18,0:02:54.89,NanohaW Dialogue1,,0,0,0,,It totes fits me!
 Dialogue: 0,0:02:55.97,0:02:57.13,NanohaW Dialogue1,,0,0,0,,Yes, come in!
 Dialogue: 0,0:02:58.56,0:02:59.77,NanohaW Dialogue1,,0,0,0,,Excuse us.
@@ -162,8 +162,8 @@ Dialogue: 1,0:05:01.60,0:05:06.64,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(6
 Dialogue: 0,0:05:01.60,0:05:06.64,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 3
 Dialogue: 1,0:05:01.60,0:05:06.64,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Gathering of Troops
 Dialogue: 0,0:05:01.60,0:05:06.64,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Gathering of Troops
-Dialogue: 0,0:05:20.00,0:05:26.97,NanohaW Dialogue1,,0,0,0,,I’m Riot Force 6’s chief, this unit’s commanding officer, Hayate Yagami.
-Dialogue: 0,0:05:30.64,0:05:35.10,NanohaW Dialogue1,,0,0,0,,As a department of the Time-Space Administrative Bureau,\Nthe protectors of peace and law,
+Dialogue: 0,0:05:20.00,0:05:26.97,NanohaW Dialogue1,,0,0,0,,I’m Riot Force 6’s director, this unit’s commanding officer, Hayate Yagami.
+Dialogue: 0,0:05:30.64,0:05:35.10,NanohaW Dialogue1,,0,0,0,,As a unit of the Time-Space Administrative Bureau,\Nthe protectors of peace and law,
 Dialogue: 0,0:05:35.10,0:05:42.02,NanohaW Dialogue1,,0,0,0,,it is our mission and responsibility to take on many cases to protect the people we serve.
 Dialogue: 0,0:05:42.02,0:05:45.48,NanohaW Dialogue1,,0,0,0,,With our team of instructors with excellent achievements and strengths,
 Dialogue: 0,0:05:45.48,0:05:48.45,NanohaW Dialogue1,,0,0,0,,our young but promising forwards,

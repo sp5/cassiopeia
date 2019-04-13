@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 248
-Active Line: 253
-Video Position: 21853
+Scroll Position: 378
+Active Line: 382
+Video Position: 36568
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -128,7 +128,7 @@ Dialogue: 0,0:03:41.48,0:03:43.93,NanohaW Dialogue1,Nano,0,0,0,,Everything is ok
 Dialogue: 0,0:03:43.93,0:03:46.82,NanohaW Dialogue1,Nano,0,0,0,,I’ll take you to a safe place.
 Dialogue: 0,0:03:48.44,0:03:50.89,NanohaW Device1,,0,0,20,,Upward clearance confirmation.
 Dialogue: 0,0:03:55.62,0:03:58.02,NanohaW Device1,,0,0,20,,Firing lock, disengaged.
-Dialogue: 0,0:03:55.62,0:03:58.02,NanohaW Device2,,0,0,15,,{\pos(640,595)}A firing lock is cancelled.
+Dialogue: 0,0:03:55.62,0:03:58.02,NanohaW Device2,,0,0,20,,{\pos(640,595)}A firing lock is cancelled.
 Dialogue: 0,0:03:58.02,0:04:00.47,NanohaW Dialogue1,Nano,0,0,0,,Let’s pierce through to the surface with one shot.
 Dialogue: 0,0:04:00.47,0:04:02.70,NanohaW Device1,,0,0,0,,All right. Load Cartridge.
 Dialogue: 0,0:04:09.73,0:04:10.95,NanohaW Device1,,0,0,0,,Buster set.
@@ -188,12 +188,12 @@ Dialogue: 0,0:07:48.46,0:07:49.55,NanohaW Dialogue1,Fate,0,0,0,,I see.
 Dialogue: 0,0:07:49.55,0:07:51.10,NanohaW Dialogue1,Hayate,0,0,0,,If they make it onto the squad,
 Dialogue: 0,0:07:51.10,0:07:53.02,NanohaW Dialogue1,Hayate,0,0,0,,they’ll be under Nanoha’s direct command
 Dialogue: 0,0:07:53.02,0:07:55.28,NanohaW Dialogue1,Hayate,0,0,0,,and training under her.
-Dialogue: 0,0:08:00.03,0:08:02.90,NanohaW Device1,,0,0,20,,No life signs detected within the course,
-Dialogue: 0,0:08:00.03,0:08:02.90,NanohaW Device2,,0,0,0,,{\pos(640,595)}There is no life response within the range.
-Dialogue: 0,0:08:03.45,0:08:05.81,NanohaW Device1,,0,0,20,,nor have any dangerous objects been detected.
-Dialogue: 0,0:08:03.45,0:08:05.81,NanohaW Device2,,0,0,0,,{\pos(640,595)}There is no dangerous object, either.
+Dialogue: 0,0:08:00.03,0:08:03.18,NanohaW Device1,,0,0,20,,No life signs detected within the course,
+Dialogue: 0,0:08:00.03,0:08:03.18,NanohaW Device2,,0,0,0,,{\pos(640,595)}There is no life response within the range.
+Dialogue: 0,0:08:03.18,0:08:05.81,NanohaW Device1,,0,0,20,,nor have any dangerous objects been detected.
+Dialogue: 0,0:08:03.18,0:08:05.81,NanohaW Device2,,0,0,0,,{\pos(640,595)}There is no dangerous object, either.
 Dialogue: 0,0:08:06.95,0:08:08.69,NanohaW Device1,,0,0,20,,Check of the course was finished.
-Dialogue: 0,0:08:10.47,0:08:12.47,NanohaW Dialogue1,Nano,0,0,0,,Thank you, Raising Heart.
+Dialogue: 0,0:08:10.33,0:08:12.47,NanohaW Dialogue1,Nano,0,0,0,,Thank you, Raising Heart.
 Dialogue: 0,0:08:12.47,0:08:17.30,NanohaW Dialogue1,Nano,0,0,0,,The surveillence searchers and the Auto-Spheres’ obstruction field calibrations are done.
 Dialogue: 0,0:08:17.30,0:08:19.64,NanohaW Dialogue1,Nano,0,0,0,,Shall we just sit back and watch the show?
 Dialogue: 0,0:08:19.64,0:08:22.26,NanohaW Device1,,0,0,0,,Yes, my master.
@@ -265,7 +265,7 @@ Dialogue: 0,0:13:53.10,0:13:55.03,NanohaW Dialogue1,Nano,0,0,0,,I wonder if they
 Dialogue: 0,0:13:55.03,0:13:57.55,NanohaW Dialogue1,Nano,0,0,0,,Rein, I’m going to take a look, just in case, all right?
 Dialogue: 0,0:13:57.55,0:13:59.56,NanohaW Dialogue1,Rein,0,0,0,,Yes indeedy, please go ahead.
 Dialogue: 0,0:14:00.05,0:14:01.50,NanohaW Device1,,0,0,20,,Do you want me to set up too?
-Dialogue: 0,0:14:00.05,0:14:01.50,NanohaW Device2,,0,0,15,,{\pos(640,595)}Am I set up?
+Dialogue: 0,0:14:00.05,0:14:01.50,NanohaW Device2,,0,0,20,,{\pos(640,595)}Am I set up?
 Dialogue: 0,0:14:01.50,0:14:04.44,NanohaW Dialogue1,Nano,0,0,0,,I suppose. Just to be sure, please.
 Dialogue: 0,0:14:04.44,0:14:07.70,NanohaW Device1,,0,0,0,,All right. Barrier Jacket standing up.
 Dialogue: 0,0:14:09.47,0:14:09.91,NanohaW Dialogue1,Subaru,0,0,0,,Tia!
@@ -422,7 +422,7 @@ Dialogue: 1,0:25:16.90,0:25:21.85,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\bord0\b
 Dialogue: 0,0:25:16.90,0:25:21.85,Nanoha Title2,,0,0,0,,{\an1\fad(0,450)\blur0.5\c&HFFFFFF&\pos(134.42,295)\t(4500,4950,\1a&HFF&)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:17.99,0:25:22.12,NanohaW Narration1,,0,0,0,,The incident at the airport\Nfour years ago started it all.
 Dialogue: 0,0:25:22.12,0:25:24.90,NanohaW Narration1,,0,0,0,,Inside the burning flames\N there were many encounters,
-Dialogue: 0,0:25:24.90,0:25:27.20,NanohaW Narration1,,0,0,0,,And it was the beginning of many determinations.
+Dialogue: 0,0:25:24.90,0:25:27.20,NanohaW Narration1,,0,0,0,,and it was the beginning of many determinations.
 Dialogue: 0,0:25:27.20,0:25:31.25,NanohaW Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha StrikerS:{\i1}
 Dialogue: 1,0:25:31.24,0:25:36.95,Nanoha StrikerS Title2,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 2
 Dialogue: 0,0:25:31.24,0:25:36.95,Nanoha StrikerS Title2,,0,0,0,,{\blur5\pos(640,267.75)\c&H183ACD&}Episode 2
