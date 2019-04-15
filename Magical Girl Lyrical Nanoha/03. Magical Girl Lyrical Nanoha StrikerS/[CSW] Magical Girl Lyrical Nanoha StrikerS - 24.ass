@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 326
-Active Line: 327
-Video Position: 31017
+Scroll Position: 277
+Active Line: 279
+Video Position: 26289
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,7 +137,7 @@ Dialogue: 2,0:02:24.44,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&
 Dialogue: 1,0:02:24.44,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)}Nanoha
 Dialogue: 0,0:02:24.44,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)}Nanoha
 Dialogue: 0,0:02:31.33,0:02:33.92,NanohaW Dialogue1,,0,0,0,,We weren’t able to protect them again.
-Dialogue: 0,0:02:33.92,0:02:37.82,NanohaW Dialogue1,,0,0,0,,Deceased, twenty-five. Twenty-one of those were civilians.
+Dialogue: 0,0:02:33.92,0:02:37.82,NanohaW Dialogue1,,0,0,0,,Twenty-five dead. Twenty-one of those were civilians.
 Dialogue: 0,0:02:37.82,0:02:40.39,NanohaW Dialogue1,,0,0,0,,There really are too many crimes on Mid.
 Dialogue: 0,0:02:40.39,0:02:44.31,NanohaW Dialogue1,,0,0,0,,We don’t have enough men or firepower.\NWe’re lacking in everything.
 Dialogue: 0,0:02:44.31,0:02:49.01,NanohaW Dialogue1,,0,0,0,,This time the damned Navy managed to overlook a criminal mage.
@@ -194,7 +194,7 @@ Dialogue: 0,0:06:14.42,0:06:16.02,NanohaW Dialogue1,,0,0,0,,No.
 Dialogue: 0,0:06:16.02,0:06:18.98,NanohaW Dialogue1,,0,0,0,,We’ll need to put him under\Nour complete control eventually.
 Dialogue: 0,0:06:18.98,0:06:24.90,NanohaW Dialogue1,,0,0,0,,Zest Grangeitz may become a useful pawn to us.
 Dialogue: 0,0:06:27.37,0:06:29.36,NanohaW Dialogue1,,0,0,0,,I want to ask you this.
-Dialogue: 0,0:06:29.36,0:06:39.04,NanohaW Dialogue1,,0,0,0,,I was prepared to sacrifice myself for your justice,\Nbut for whose sake did my people die?
+Dialogue: 0,0:06:29.36,0:06:39.04,NanohaW Dialogue1,,0,0,0,,I was prepared to sacrifice myself for your justice,\Nbut for whose sake did my men die?
 Dialogue: 0,0:06:40.09,0:06:42.96,NanohaW Dialogue1,,0,0,0,,Why did it turn out this way?
 Dialogue: 0,0:06:42.96,0:06:45.88,NanohaW Dialogue1,,0,0,0,,The planet we wanted to protect.
 Dialogue: 0,0:06:45.88,0:06:48.55,NanohaW Dialogue1,,0,0,0,,The power we wanted.
@@ -239,11 +239,11 @@ Dialogue: 0,0:09:53.44,0:09:56.36,NanohaW Dialogue1,,0,0,0,,I don’t want to be
 Dialogue: 0,0:10:13.34,0:10:16.30,NanohaW Dialogue1,,0,0,0,,I’m tired of being lonely.
 Dialogue: 0,0:10:17.76,0:10:21.88,NanohaW Dialogue1,,0,0,0,,I don’t want to be alone!
 Dialogue: 0,0:10:23.10,0:10:24.16,NanohaW Dialogue1,,0,0,0,,Caro!
-Dialogue: 0,0:10:28.19,0:10:31.15,NanohaW Dialogue1,,0,0,0,,Glorious howl which pierces the heavens,
-Dialogue: 0,0:10:31.15,0:10:33.97,NanohaW Dialogue1,,0,0,0,,that which will forever protect a distant land.
-Dialogue: 0,0:10:33.97,0:10:35.30,NanohaW Dialogue1,,0,0,0,,Come to my side,
+Dialogue: 0,0:10:28.19,0:10:31.15,NanohaW Dialogue1,,0,0,0,,Great, grand howl which pierces the skies above,
+Dialogue: 0,0:10:31.15,0:10:33.64,NanohaW Dialogue1,,0,0,0,,that which eternally guards distant land.
+Dialogue: 0,0:10:33.64,0:10:35.30,NanohaW Dialogue1,,0,0,0,,Come forth, join me, and stand beside us now,
 Dialogue: 0,0:10:35.30,0:10:37.11,NanohaW Dialogue1,,0,0,0,,o jet black flame, protector of the land.
-Dialogue: 0,0:10:48.71,0:10:52.63,NanohaW Dialogue1,,0,0,0,,We are very alike, Lu and us.
+Dialogue: 0,0:10:48.71,0:10:52.63,NanohaW Dialogue1,,0,0,0,,We are very much alike, Lu and us.
 Dialogue: 0,0:10:52.63,0:11:00.01,NanohaW Dialogue1,,0,0,0,,We were both always alone,\Nwith no one to protect us, no one to believe in.
 Dialogue: 0,0:11:00.01,0:11:02.29,NanohaW Dialogue1,,0,0,0,,Nothing made sense.
 Dialogue: 0,0:11:03.60,0:11:07.52,NanohaW Dialogue1,,0,0,0,,And we couldn’t do anything but hurt things.
@@ -292,7 +292,7 @@ Dialogue: 0,0:15:46.25,0:15:50.20,NanohaW Dialogue1,,0,0,0,,If just one of them 
 Dialogue: 0,0:15:50.20,0:15:54.22,NanohaW Dialogue1,,0,0,0,,And in just one month,\Nthey’ll be revived with my memories.
 Dialogue: 0,0:15:54.22,0:15:56.21,NanohaW Dialogue1,,0,0,0,,That’s ridiculous.
 Dialogue: 0,0:15:56.21,0:16:01.64,NanohaW Dialogue1,,0,0,0,,In the old era, the era of Alhazred,\Nthis was everyday technology.
-Dialogue: 0,0:16:01.64,0:16:15.99,NanohaW Dialogue1,,0,0,0,,In other words, if you can’t kill me and all twelve of my combat cyborgs, you can’t stop me or my plan.
+Dialogue: 0,0:16:01.64,0:16:15.99,NanohaW Dialogue1,,0,0,0,,In other words, if you can’t kill me {\i1}and{\i0} all twelve of my combat cyborgs, you can’t stop me or my plan.
 Dialogue: 0,0:16:21.19,0:16:23.71,NanohaW Dialogue1,,0,0,0,,Have you fallen into despair?
 Dialogue: 0,0:16:23.71,0:16:26.13,NanohaW Dialogue1,,0,0,0,,You and I are quite similar.
 Dialogue: 0,0:16:27.29,0:16:37.18,NanohaW Dialogue1,,0,0,0,,The organic weapons that I’ve made myself,\Nand that which you sought, the children who can’t deny you.
@@ -321,7 +321,7 @@ Dialogue: 0,0:18:00.58,0:18:02.85,NanohaW Dialogue1,,0,0,0,,If she’s in troubl
 Dialogue: 0,0:18:02.85,0:18:08.58,NanohaW Dialogue1,,0,0,0,,If she, for some reason, is wrong,\Nwe’ll be there to scold her and then return back to her.
 Dialogue: 0,0:18:09.77,0:18:12.72,NanohaW Dialogue1,,0,0,0,,We—all of us are here for her.
 Dialogue: 0,0:18:12.72,0:18:15.19,NanohaW Dialogue1,,0,0,0,,So, don’t give up. Don’t hesitate.
-Dialogue: 0,0:18:16.00,0:18:17.52,NanohaW Dialogue1,,0,0,0,,Fight!
+Dialogue: 0,0:18:16.00,0:18:17.34,NanohaW Dialogue1,,0,0,0,,Fight!
 Dialogue: 0,0:18:22.44,0:18:23.64,NanohaW Device1,,0,0,0,,Get set.
 Dialogue: 0,0:18:23.64,0:18:27.54,NanohaW Dialogue1,,0,0,0,,Overdrive. Complete Sonic Form.
 Dialogue: 0,0:18:27.54,0:18:29.24,NanohaW Device1,,0,0,0,,Sonic Drive
@@ -385,7 +385,7 @@ Dialogue: 0,0:22:12.54,0:22:17.06,NanohaW Dialogue1,,0,0,0,,There’s no other w
 Dialogue: 0,0:22:18.06,0:22:19.34,NanohaW Device1,,0,0,0,,Snipe Shot
 Dialogue: 0,0:22:34.54,0:22:40.50,NanohaW Dialogue1,,0,0,0,,Even weapons that exist only for fighting\Ncan laugh and live as kind people.
 Dialogue: 0,0:22:40.50,0:22:42.86,NanohaW Dialogue1,,0,0,0,,You may have been born a combat cyborg, but
-Dialogue: 0,0:22:42.86,0:22:51.22,NanohaW Dialogue1,,0,0,0,,I know a girl that’s more human than anyone,\Nwho’s sweet to the point of stupidity, and who tries her best.
+Dialogue: 0,0:22:42.86,0:22:51.22,NanohaW Dialogue1,,0,0,0,,I know a girl who’s more human than anyone,\Nwho’s sweet to the point of stupidity, and who tries her best.
 Dialogue: 0,0:22:51.22,0:22:54.21,NanohaW Dialogue1,,0,0,0,,Stars 4 has captured Number IX.
 Dialogue: 0,0:22:54.21,0:22:57.18,NanohaW Dialogue1,,0,0,0,,Number IV is the only remaining combat cyborg.
 Dialogue: 0,0:23:00.10,0:23:03.02,NanohaW Dialogue1,,0,0,0,,They’re all complete losers.
@@ -399,7 +399,7 @@ Dialogue: 0,0:23:25.71,0:23:27.99,NanohaW Dialogue2,,0,0,0,,{\blur0.5\an4\pos(33
 Dialogue: 0,0:23:25.91,0:23:26.04,NanohaW Dialogue2,,0,0,0,,{\blur0.5\fs96\an4\pos(285.991,571.2)}1
 Dialogue: 0,0:23:26.04,0:23:26.66,NanohaW Dialogue2,,0,0,0,,{\blur0.5\fs96\an4\pos(285.991,571.2)}1 {\fs64}hour
 Dialogue: 0,0:23:26.66,0:23:27.33,NanohaW Dialogue2,,0,0,0,,{\blur0.5\fs96\an4\clip(285.446,537,504.518,604)\t(\clip(285.446,537,999.282,604))\pos(285.991,571.2)}1 {\fs64}hour and {\fs96}35 {\fs64}minutes
-Dialogue: 0,0:23:27.33,0:23:27.99,NanohaW Dialogue2,,0,0,0,,{\fsNoto Serif\blur0.5\fs96\an4\pos(285.991,571.2)}1 {\fs64}hour and {\fs96}35 {\fs64}minutes
+Dialogue: 0,0:23:27.33,0:23:27.99,NanohaW Dialogue2,,0,0,0,,{\blur0.5\fs96\an4\pos(285.991,571.2)}1 {\fs64}hour and {\fs96}35 {\fs64}minutes
 Dialogue: 0,0:23:28.43,0:23:34.84,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times
 Dialogue: 0,0:23:34.84,0:23:40.77,Nanoha ED,,0,0,0,,In my precious days
 Dialogue: 0,0:23:52.83,0:23:56.54,Nanoha ED,,0,0,0,,“The bluebird ran away”

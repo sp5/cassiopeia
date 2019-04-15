@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 377
-Active Line: 380
-Video Position: 36734
+Scroll Position: 350
+Active Line: 354
+Video Position: 33757
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -395,7 +395,7 @@ Dialogue: 0,0:23:25.05,0:23:27.99,NanohaW Dialogue2,,0,0,0,,{\blur0.5\an4\pos(30
 Dialogue: 0,0:23:25.33,0:23:25.49,NanohaW Dialogue2,,0,0,0,,{\blur0.5\fs96\an4\pos(242.924,586.2)}1
 Dialogue: 0,0:23:25.49,0:23:25.83,NanohaW Dialogue2,,0,0,0,,{\blur0.5\fs96\an4\pos(242.924,586.2)}1 {\fs64}hour
 Dialogue: 0,0:23:25.83,0:23:26.87,NanohaW Dialogue2,,0,0,0,,{\blur0.5\fs96\an4\pos(242.924,586.2)\clip(236.369,547,474.762,626)\t(\clip(236.369,547,925.446,626))}1 {\fs64}hour and {\fs96}44 {\fs64}minutes
-Dialogue: 0,0:23:26.87,0:23:27.99,NanohaW Dialogue2,,0,0,0,,{\fsNoto Serif\blur0.5\fs96\an4\pos(242.924,586.2)}1 {\fs64}hour and {\fs96}44 {\fs64}minutes
+Dialogue: 0,0:23:26.87,0:23:27.99,NanohaW Dialogue2,,0,0,0,,{\blur0.5\fs96\an4\pos(242.924,586.2)}1 {\fs64}hour and {\fs96}44 {\fs64}minutes
 Dialogue: 0,0:23:28.43,0:23:34.84,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times
 Dialogue: 0,0:23:34.84,0:23:40.77,Nanoha ED,,0,0,0,,In my precious days
 Dialogue: 0,0:23:52.83,0:23:56.54,Nanoha ED,,0,0,0,,“The bluebird ran away”

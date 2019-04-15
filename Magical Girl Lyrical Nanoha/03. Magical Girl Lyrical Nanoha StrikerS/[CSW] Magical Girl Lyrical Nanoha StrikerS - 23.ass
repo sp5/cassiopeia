@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 337
-Active Line: 342
-Video Position: 36754
+Scroll Position: 131
+Active Line: 132
+Video Position: 26303
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -161,7 +161,7 @@ Dialogue: 0,0:04:46.09,0:04:47.29,NanohaW Dialogue1,,0,0,0,,I’m fine.
 Dialogue: 0,0:04:47.29,0:04:49.79,NanohaW Dialogue1,,0,0,0,,Maintain Blaster 1.
 Dialogue: 0,0:04:49.79,0:04:51.99,NanohaW Dialogue1,,0,0,0,,We need to hurry, Raising Heart.
 Dialogue: 0,0:04:51.99,0:04:52.91,NanohaW Device1,,0,0,0,,All right.
-Dialogue: 0,0:05:02.32,0:05:10.03,NanohaW Dialogue1,,0,0,0,,I heard the name {\i1}Blaster System{\i0} and thought it was some advanced, incredible technology, but that’s just stupid.
+Dialogue: 0,0:05:02.32,0:05:10.03,NanohaW Dialogue1,,0,0,0,,I heard the name “Blaster System” and thought it was some advanced, incredible technology, but that’s just stupid.
 Dialogue: 0,0:05:10.03,0:05:15.35,NanohaW Dialogue1,,0,0,0,,Hey, Your Majesty? Your mom’s an idiot.
 Dialogue: 0,0:05:23.41,0:05:25.25,NanohaW Dialogue1,,0,0,0,,Welcome.
 Dialogue: 0,0:05:25.25,0:05:27.34,NanohaW Dialogue1,,0,0,0,,We’ve been waiting.
@@ -188,16 +188,16 @@ Dialogue: 0,0:07:01.67,0:07:02.58,NanohaW Dialogue1,,0,0,0,,Vivio!
 Dialogue: 0,0:07:02.89,0:07:04.58,NanohaW Dialogue1,,0,0,0,,Mama!
 Dialogue: 0,0:07:04.58,0:07:06.01,NanohaW Dialogue1,,0,0,0,,No! Mama!
 Dialogue: 0,0:07:06.01,0:07:08.21,NanohaW Dialogue1,,0,0,0,,Vivio! Vivio!
-Dialogue: 0,0:07:11.11,0:07:13.25,NanohaW Narration1,,0,0,0,,With the power of the {\i0}Cradle{\i1} added to her own,
-Dialogue: 0,0:07:13.25,0:07:15.29,NanohaW Narration1,,0,0,0,,our king will be complete soon,
-Dialogue: 0,0:07:15.29,0:07:19.01,NanohaW Narration1,,0,0,0,,and she will be invincible.
-Dialogue: 0,0:07:19.01,0:07:20.27,NanohaW Narration1,,0,0,0,,The ultimate warrior.
+Dialogue: 0,0:07:11.11,0:07:13.25,NanohaW Dialogue1,,0,0,0,,With the power of the {\i1}Cradle{\i0} added to her own,
+Dialogue: 0,0:07:13.25,0:07:15.29,NanohaW Dialogue1,,0,0,0,,our king will be complete soon,
+Dialogue: 0,0:07:15.29,0:07:19.01,NanohaW Dialogue1,,0,0,0,,and she will be invincible.
+Dialogue: 0,0:07:19.01,0:07:20.27,NanohaW Dialogue1,,0,0,0,,The ultimate warrior.
 Dialogue: 0,0:07:20.95,0:07:22.19,NanohaW Dialogue1,,0,0,0,,Mama!
 Dialogue: 0,0:07:22.19,0:07:23.61,NanohaW Dialogue1,,0,0,0,,Vivio!
 Dialogue: 0,0:07:44.34,0:07:45.66,NanohaW Dialogue1,,0,0,0,,Mama.
 Dialogue: 0,0:07:45.66,0:07:49.34,NanohaW Dialogue1,,0,0,0,,Oh my, Your Majesty. Don’t cry.
 Dialogue: 0,0:07:49.34,0:07:53.34,NanohaW Dialogue1,,0,0,0,,Your mother wants you to save her, Your Majesty.
-Dialogue: 0,0:07:53.34,0:07:57.81,NanohaW Dialogue1,,0,0,0,,The scary demon who kidnapped her\Nis right in front of you, Your Majesty.
+Dialogue: 0,0:07:53.34,0:07:57.81,NanohaW Dialogue1,,0,0,0,,The scary devil who kidnapped her\Nis right in front of you, Your Majesty.
 Dialogue: 0,0:07:58.61,0:08:03.45,NanohaW Dialogue1,,0,0,0,,Do your best to kick the crap out of her\Nand get your real mother back.
 Dialogue: 0,0:08:03.45,0:08:08.26,NanohaW Dialogue1,,0,0,0,,You have the power to do that now, Your Majesty.
 Dialogue: 0,0:08:09.21,0:08:14.40,NanohaW Dialogue1,,0,0,0,,Release that power you maintain in your heart and emotions.
@@ -310,7 +310,7 @@ Dialogue: 0,0:18:04.98,0:18:06.85,NanohaW Dialogue1,,0,0,0,,Let’s go, Mach Cal
 Dialogue: 0,0:18:07.01,0:18:08.30,NanohaW Device1,,0,0,20,,All right, buddy!
 Dialogue: 0,0:18:11.90,0:18:13.06,NanohaW Dialogue1,,0,0,0,,Full Drive...
 Dialogue: 0,0:18:13.06,0:18:14.02,NanohaW Device1,,0,0,0,,...Ignition!
-Dialogue: 0,0:18:16.45,0:18:18.44,NanohaW Dialogue1,,0,0,0,,{\b1}Gear Excelion{\b0}
+Dialogue: 0,0:18:16.45,0:18:18.38,NanohaW Dialogue1,,0,0,0,,{\b1}Gear Excelion{\b0}
 Dialogue: 0,0:18:19.90,0:18:22.74,NanohaW Device1,,0,0,0,,A.C.S., standby.
 Dialogue: 0,0:18:32.54,0:18:36.52,NanohaW Dialogue1,,0,0,0,,That helicopter is shooting down the Gadgets?
 Dialogue: 0,0:18:44.72,0:18:49.38,NanohaW Dialogue1,,0,0,0,,You’re the commander of the land battle and the one in charge of all the barriers.
