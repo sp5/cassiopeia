@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 357
-Active Line: 360
-Video Position: 34356
+Scroll Position: 348
+Active Line: 350
+Video Position: 33655
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -355,7 +355,7 @@ Dialogue: 0,0:19:45.27,0:19:47.20,NanohaW Dialogue1,,0,0,0,,Windenschaft!
 Dialogue: 0,0:19:48.92,0:19:55.90,Nanoha Insert Song,,0,0,0,,Someday our tears will light up tomorrow\Nand turn into a miraculous sun.
 Dialogue: 0,0:19:55.20,0:19:57.63,NanohaW Dialogue1,,0,0,0,,She has movement magic?
 Dialogue: 0,0:19:55.90,0:20:03.04,Nanoha Insert Song,,0,0,0,,Let’s go, for we have things to protect...
-Dialogue: 0,0:19:57.63,0:19:59.65,NanohaW Dialogue1,,0,0,0,,{\b1}Gale Clap{\b0}
+Dialogue: 0,0:19:57.63,0:19:59.65,NanohaW Dialogue1,,0,0,0,,{\b1}Gale Burst{\b0}
 Dialogue: 0,0:20:07.84,0:20:09.55,NanohaW Dialogue1,,0,0,0,,That armor is weak.
 Dialogue: 0,0:20:09.55,0:20:10.83,NanohaW Dialogue1,,0,0,0,,You’ll go down if you’re hit.
 Dialogue: 0,0:20:18.10,0:20:25.16,Nanoha Insert Song,,0,0,0,,Even for just a little, as long as you can smile for me,
@@ -392,7 +392,7 @@ Dialogue: 0,0:23:00.10,0:23:03.02,NanohaW Dialogue1,,0,0,0,,They’re all comple
 Dialogue: 0,0:23:07.19,0:23:10.64,NanohaW Dialogue1,,0,0,0,,Well, it’ll all work out if I’m around.
 Dialogue: 0,0:23:10.64,0:23:14.16,NanohaW Dialogue1,,0,0,0,,Isn’t that right, Doctor?
 Dialogue: 0,0:23:17.08,0:23:22.98,NanohaW Dialogue1,,0,0,0,,Their final trump card should soon be smashed to pieces, anyway.
-Dialogue: 0,0:23:23.66,0:23:25.21,NanohaW Dialogue2,,0,0,0,,{\blur0.5\an4\pos(336.054,408.65)}orbit in
+Dialogue: 0,0:23:23.66,0:23:25.21,NanohaW Dialogue2,,0,0,0,,{\blur0.5\an4\pos(306.007,291.55)\clip(301.471,263,323,319)\t(\clip(301.471,263,672,319))}The {\i1}Cradle{\i0} will reach
 Dialogue: 0,0:23:25.21,0:23:27.99,NanohaW Dialogue2,,0,0,0,,{\blur0.5\an4\pos(306.007,291.55)}The {\i1}Cradle{\i0} will reach
 Dialogue: 0,0:23:25.29,0:23:25.71,NanohaW Dialogue2,,0,0,0,,{\blur0.5\an4\pos(336.054,408.65)\clip(335.524,381,349,424)\t(\clip(335.524,381,466,424))}orbit in
 Dialogue: 0,0:23:25.71,0:23:27.99,NanohaW Dialogue2,,0,0,0,,{\blur0.5\an4\pos(336.054,408.65)}orbit in

@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 388
-Active Line: 391
-Video Position: 34380
+Scroll Position: 166
+Active Line: 167
+Video Position: 9528
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -209,7 +209,7 @@ Dialogue: 0,0:06:06.26,0:06:07.26,NanohaW Dialogue1,,0,0,0,,Roger!
 Dialogue: 0,0:06:13.22,0:06:18.39,NanohaW Dialogue1,,0,0,0,,Stars 1 and 2 of Riot Force 6\Nhave entered the inner corridor.
 Dialogue: 0,0:06:21.68,0:06:23.26,NanohaW Dialogue1,,0,0,0,,An A.M.F.?
 Dialogue: 0,0:06:23.26,0:06:24.98,NanohaW Dialogue1,,0,0,0,,All throughout the corridor?
-Dialogue: 0,0:06:37.37,0:06:39.17,NanohaW Dialogue1,,0,0,0,,{\b1}Gale Clap{\b0}
+Dialogue: 0,0:06:37.37,0:06:39.17,NanohaW Dialogue1,,0,0,0,,{\b1}Gale Burst{\b0}
 Dialogue: 0,0:06:40.58,0:06:43.15,NanohaW Dialogue1,,0,0,0,,Cut them down, Windenschaft!
 Dialogue: 0,0:07:07.55,0:07:09.38,NanohaW Dialogue1,,0,0,0,,The other squad has found a passage.
 Dialogue: 0,0:07:09.38,0:07:11.91,NanohaW Dialogue1,,0,0,0,,We will immediately seal any dangerous objects.

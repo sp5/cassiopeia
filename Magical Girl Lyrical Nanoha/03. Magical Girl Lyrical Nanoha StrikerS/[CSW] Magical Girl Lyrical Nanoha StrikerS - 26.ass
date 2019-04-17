@@ -18,10 +18,10 @@ Audio File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS (BDRip 1280x714 x264 FLAC)/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS - 26 (BDRip 1280x714 x264 FLAC).mkv
 Video AR Mode: 4
 Video AR Value: 1.790262
-Video Zoom Percent: 0.500000
-Scroll Position: 436
-Active Line: 439
-Video Position: 36757
+Video Zoom Percent: 1.000000
+Scroll Position: 146
+Active Line: 150
+Video Position: 7947
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -146,7 +146,7 @@ Dialogue: 0,0:02:51.44,0:02:56.48,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640
 Dialogue: 1,0:02:51.44,0:02:56.48,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}To the Promised Sky
 Dialogue: 0,0:02:51.44,0:02:56.48,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}To the Promised Sky
 Dialogue: 0,0:02:57.70,0:02:58.76,NanohaW Dialogue1,,0,0,0,,It’s impossible.
-Dialogue: 0,0:02:58.76,0:03:00.39,NanohaW Dialogue1,,0,0,0,,I can’t gather any magic!
+Dialogue: 0,0:02:58.76,0:03:00.39,NanohaW Dialogue1,,0,0,0,,I can’t gather any mana!
 Dialogue: 0,0:03:00.39,0:03:01.57,NanohaW Dialogue1,,0,0,0,,Comms are down too!
 Dialogue: 0,0:03:01.57,0:03:04.99,NanohaW Dialogue1,,0,0,0,,Looks like we have no choice but to escape on foot.
 Dialogue: 0,0:03:04.99,0:03:07.16,NanohaW Dialogue1,,0,0,0,,But, Nanoha is...
@@ -189,8 +189,8 @@ Dialogue: 0,0:05:04.13,0:05:08.28,NanohaW Dialogue1,,0,0,0,,If that were to happ
 Dialogue: 0,0:05:14.99,0:05:17.48,NanohaW Dialogue1,,0,0,0,,{\b1}Unison in!{\b0}
 Dialogue: 0,0:05:24.54,0:05:26.30,NanohaW Dialogue1,,0,0,0,,T-That’s...!
 Dialogue: 0,0:05:27.64,0:05:29.10,NanohaW Dialogue1,,0,0,0,,Sergeant Vice!
-Dialogue: 0,0:05:29.10,0:05:30.95,NanohaW Dialogue1,,0,0,0,,Listen up.
-Dialogue: 0,0:05:30.95,0:05:35.96,NanohaW Dialogue1,,0,0,0,,It seems that the further into the ship you go,\Nthe stronger the A.M.F. becomes.
+Dialogue: 0,0:05:29.80,0:05:30.71,NanohaW Dialogue1,,0,0,0,,Listen up.
+Dialogue: 0,0:05:30.71,0:05:35.96,NanohaW Dialogue1,,0,0,0,,It seems that the further into the ship you go,\Nthe stronger the A.M.F. becomes.
 Dialogue: 0,0:05:36.14,0:05:39.02,NanohaW Dialogue1,,0,0,0,,We’ll get you close enough that a Wingroad will reach.
 Dialogue: 0,0:05:39.02,0:05:42.51,NanohaW Dialogue1,,0,0,0,,Break through with that and pick up the captains!
 Dialogue: 0,0:05:42.51,0:05:43.36,NanohaW Dialogue1,,0,0,0,,Yes, sir!
@@ -246,9 +246,10 @@ Dialogue: 0,0:08:58.21,0:09:00.93,NanohaW Dialogue1,,0,0,0,,We’re going to res
 Dialogue: 0,0:09:00.93,0:09:02.16,NanohaW Dialogue1,,0,0,0,,We’re off!
 Dialogue: 0,0:09:04.99,0:09:06.48,NanohaW Dialogue1,,0,0,0,,They’re...
 Dialogue: 0,0:09:07.86,0:09:09.26,NanohaW Dialogue1,,0,0,0,,Those girls.
-Dialogue: 0,0:09:09.26,0:09:12.89,NanohaW Dialogue1,,0,0,0,,I can’t gather any magic at all.
+Dialogue: 0,0:09:09.26,0:09:12.89,NanohaW Dialogue1,,0,0,0,,I can’t gather any mana at all.
 Dialogue: 0,0:09:12.89,0:09:16.91,NanohaW Dialogue1,,0,0,0,,But if I’m in combat cyborg mode, I can shoot and run.
 Dialogue: 0,0:09:18.02,0:09:22.54,NanohaW Dialogue1,,0,0,0,,We’ll rescue them and return, the two of us together.
+Dialogue: 0,0:09:24.07,0:09:25.08,NanohaW Dialogue1,,0,0,0,,Yeah!
 Dialogue: 0,0:09:28.08,0:09:31.52,NanohaW Dialogue1,,0,0,0,,Data analyzed. Passcode cracked.
 Dialogue: 0,0:09:33.46,0:09:35.13,NanohaW Dialogue1,,0,0,0,,Fate!
 Dialogue: 0,0:09:43.42,0:09:45.27,NanohaW Dialogue1,,0,0,0,,It stopped.
