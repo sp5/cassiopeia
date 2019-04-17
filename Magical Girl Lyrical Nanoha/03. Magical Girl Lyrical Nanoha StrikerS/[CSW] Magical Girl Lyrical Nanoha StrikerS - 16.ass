@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 190
-Active Line: 195
-Video Position: 15095
+Scroll Position: 380
+Active Line: 384
+Video Position: 34393
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -80,17 +80,17 @@ Dialogue: 3,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,37
 Dialogue: 2,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,374)\c&HFFFFFF&\blur0.5\pos(575.877,143)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Nanoha
 Dialogue: 1,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,374)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Nanoha
 Dialogue: 0,0:00:58.56,0:01:05.23,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,374)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Nanoha
-Dialogue: 0,0:01:06.69,0:01:13.81,Nanoha OP,Song,0,0,0,,My fingers tremble, grasping upon a silent wish
-Dialogue: 0,0:01:13.81,0:01:21.07,Nanoha OP,Song,0,0,0,,I cower, wanting to flee from the inescapable past
-Dialogue: 0,0:01:21.07,0:01:27.28,Nanoha OP,Song,0,0,0,,Even if it is merely a faint light fading
-Dialogue: 0,0:01:27.28,0:01:30.97,Nanoha OP,Song,0,0,0,,I want to chase after it, just like that star
-Dialogue: 0,0:01:30.97,0:01:37.22,Nanoha OP,Song,0,0,0,,And accept everything, no matter how high it is
-Dialogue: 0,0:01:37.22,0:01:41.42,Nanoha OP,Song,0,0,0,,Dancing throughout the galaxy is the angel’s whisper
-Dialogue: 0,0:01:41.42,0:01:45.02,Nanoha OP,Song,0,0,0,,Pursuing these certain memories
-Dialogue: 0,0:01:45.02,0:01:51.88,Nanoha OP,Song,0,0,0,,The door to the truth will surely be born now
-Dialogue: 0,0:01:51.88,0:01:58.63,Nanoha OP,Song,0,0,0,,No matter what kind of cold darkness binds me
-Dialogue: 0,0:01:58.63,0:02:04.00,Nanoha OP,Song,0,0,0,,Because I want to know
-Dialogue: 0,0:02:04.00,0:02:08.79,Nanoha OP,Song,0,0,0,,I won’t be stopped
+Dialogue: 0,0:01:06.54,0:01:13.76,Nanoha OP,Song,0,0,0,,My fingers tremble, grasping upon a silent wish
+Dialogue: 0,0:01:13.76,0:01:20.92,Nanoha OP,Song,0,0,0,,I cower, wanting to flee from the inescapable past
+Dialogue: 0,0:01:20.92,0:01:27.08,Nanoha OP,Song,0,0,0,,Even if it is merely a faint light fading
+Dialogue: 0,0:01:27.08,0:01:30.76,Nanoha OP,Song,0,0,0,,I want to chase after it, just like that star
+Dialogue: 0,0:01:30.76,0:01:36.94,Nanoha OP,Song,0,0,0,,And accept everything, no matter how high it is
+Dialogue: 0,0:01:36.94,0:01:41.36,Nanoha OP,Song,0,0,0,,An angel’s whisper dancing throughout the galaxy
+Dialogue: 0,0:01:41.36,0:01:44.78,Nanoha OP,Song,0,0,0,,Pursuing these certain memories
+Dialogue: 0,0:01:44.78,0:01:51.44,Nanoha OP,Song,0,0,0,,The door to the truth will surely be born now
+Dialogue: 0,0:01:51.78,0:01:58.46,Nanoha OP,Song,0,0,0,,No matter what kind of cold darkness binds me
+Dialogue: 0,0:01:58.46,0:02:03.80,Nanoha OP,Song,0,0,0,,Because I want to know
+Dialogue: 0,0:02:03.80,0:02:08.72,Nanoha OP,Song,0,0,0,,I won’t be stopped
 Dialogue: 2,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
 Dialogue: 1,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
 Dialogue: 0,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
@@ -422,22 +422,22 @@ Dialogue: 0,0:23:05.06,0:23:07.44,NanohaW Dialogue1,,0,0,0,,Send a notice for su
 Dialogue: 0,0:23:07.44,0:23:08.15,NanohaW Dialogue1,,0,0,0,,Yes, sir!
 Dialogue: 0,0:23:08.15,0:23:11.07,NanohaW Dialogue1,,0,0,0,,All hands, highest alert status.
 Dialogue: 0,0:23:11.07,0:23:15.99,NanohaW Dialogue1,,0,0,0,,Support staff, please hurry with your evacuation.
-Dialogue: 0,0:23:29.26,0:23:35.67,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times
-Dialogue: 0,0:23:35.67,0:23:41.60,Nanoha ED,,0,0,0,,In my precious days
-Dialogue: 0,0:23:53.66,0:23:57.37,Nanoha ED,,0,0,0,,“The bluebird ran away”
-Dialogue: 0,0:23:59.21,0:24:02.82,Nanoha ED,,0,0,0,,I cried, embracing the empty cage
-Dialogue: 0,0:24:05.54,0:24:10.32,Nanoha ED,,0,0,0,,I still remember the color of the high-rising sky
-Dialogue: 0,0:24:10.98,0:24:13.73,Nanoha ED,,0,0,0,,That I looked up at that day
-Dialogue: 0,0:24:16.78,0:24:20.18,Nanoha ED,,0,0,0,,Rewinding
-Dialogue: 0,0:24:22.23,0:24:25.66,Nanoha ED,,0,0,0,,Inside my memories
-Dialogue: 0,0:24:26.68,0:24:31.46,Nanoha ED,,0,0,0,,In painful times, in happy times
-Dialogue: 0,0:24:31.46,0:24:36.81,Nanoha ED,,0,0,0,,You were always there at important times
-Dialogue: 0,0:24:36.81,0:24:43.07,Nanoha ED,,0,0,0,,The thing which I looked for to the ends of the labyrinth
-Dialogue: 0,0:24:43.07,0:24:47.70,Nanoha ED,,0,0,0,,Is deep within my heart
-Dialogue: 0,0:24:47.70,0:24:53.72,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times
-Dialogue: 0,0:24:53.72,0:24:58.76,Nanoha ED,,0,0,0,,Soft and secret pieces of my memory
-Dialogue: 0,0:24:58.76,0:25:04.97,Nanoha ED,,0,0,0,,No matter what type of tomorrow it is, I can walk towards it
-Dialogue: 0,0:25:04.97,0:25:10.62,Nanoha ED,,0,0,0,,In my precious days
+Dialogue: 0,0:23:29.27,0:23:35.68,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times
+Dialogue: 0,0:23:35.68,0:23:41.61,Nanoha ED,,0,0,0,,In my precious days
+Dialogue: 0,0:23:53.74,0:23:57.38,Nanoha ED,,0,0,0,,“The bluebird ran away”
+Dialogue: 0,0:23:59.22,0:24:02.83,Nanoha ED,,0,0,0,,I cried, embracing the empty cage
+Dialogue: 0,0:24:05.55,0:24:10.33,Nanoha ED,,0,0,0,,I still remember the color of the high-rising sky
+Dialogue: 0,0:24:10.99,0:24:13.74,Nanoha ED,,0,0,0,,That I looked up at that day
+Dialogue: 0,0:24:16.79,0:24:20.19,Nanoha ED,,0,0,0,,Rewinding
+Dialogue: 0,0:24:22.24,0:24:25.67,Nanoha ED,,0,0,0,,Inside my memories
+Dialogue: 0,0:24:26.43,0:24:31.47,Nanoha ED,,0,0,0,,In painful times, in happy times
+Dialogue: 0,0:24:31.47,0:24:36.73,Nanoha ED,,0,0,0,,You were always there at important times
+Dialogue: 0,0:24:37.15,0:24:43.08,Nanoha ED,,0,0,0,,The thing which I looked for to the ends of the labyrinth
+Dialogue: 0,0:24:43.08,0:24:47.50,Nanoha ED,,0,0,0,,Is deep within my heart
+Dialogue: 0,0:24:47.50,0:24:53.73,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times
+Dialogue: 0,0:24:53.73,0:24:58.77,Nanoha ED,,0,0,0,,Soft and secret pieces of my memory
+Dialogue: 0,0:24:58.77,0:25:04.98,Nanoha ED,,0,0,0,,No matter what type of tomorrow it is, I can walk towards it
+Dialogue: 0,0:25:04.98,0:25:10.63,Nanoha ED,,0,0,0,,In my precious days
 Dialogue: 1,0:25:16.77,0:25:21.81,Nanoha Title2,,0,0,0,,{\an1\fad(0,457)\bord0\blur0.5\pos(134.42,292.542)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:16.77,0:25:21.81,Nanoha Title2,,0,0,0,,{\an1\fad(0,457)\blur0.5\c&HFFFFFF&\pos(134.42,292.542)\t(4583,5040,\1a&HFF&)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:18.74,0:25:20.32,NanohaW Narration1,,0,0,0,,Things I wanted to protect,

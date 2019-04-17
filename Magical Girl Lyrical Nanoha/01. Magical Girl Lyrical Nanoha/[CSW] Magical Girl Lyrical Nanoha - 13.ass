@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha (BDRip 96
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.000000
-Scroll Position: 18
-Active Line: 22
-Video Position: 3276
+Scroll Position: 353
+Active Line: 358
+Video Position: 36717
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,6 +34,9 @@ Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,
 Style: Nanoha Logo1,Noto Sans ExtraCondensed,98,&H009C4E5D,&H000000FF,&H00EDC7B4,&HC7000000,-1,0,0,0,74,100,0,0,1,4.1,0,4,14,14,13,1
 Style: Nanoha Logo2,Betm Rounded Medium,160,&H0042BDEB,&H000000FF,&H00B3DFFB,&HC7000000,0,0,0,0,73,100,0,0,1,4.1,0,4,14,14,13,1
 Style: Nanoha Logo3,Cheyenne Hand Bold,320,&H005F32D8,&H000000FF,&H00FFFFFF,&HC7000000,-1,0,0,0,72,100,0,0,1,4.1,0,4,14,14,13,1
+Style: Nanoha Logo1a,Noto Sans ExtraCondensed,78,&H008B2B2C,&H000000FF,&H00EDC7B4,&HC7000000,-1,0,0,0,71,100,0,0,1,3.1,0,5,14,14,13,1
+Style: Nanoha Logo2a,Betm Rounded Medium,120,&H0023ABEE,&H000000FF,&H00BDEAFC,&HC7000000,0,0,0,0,73,100,0,0,1,2.1,0,5,14,14,13,1
+Style: Nanoha Logo3a,Cheyenne Hand Bold,270,&H002E03E5,&H000000FF,&H00CDCBFB,&HC7000000,-1,0,0,0,72,100,0,0,1,3.1,0,5,14,14,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -45,6 +48,33 @@ Dialogue: 0,0:00:20.94,0:00:24.36,Nanoha Narration1,,0,0,0,,The beginning of a j
 Dialogue: 0,0:00:25.04,0:00:28.46,Nanoha Narration1,,0,0,0,,but I’m sure the feelings have gotten across.
 Dialogue: 0,0:00:29.38,0:00:33.34,Nanoha Narration1,,0,0,0,,So I’m sure {\i0}goodbye{\i1} is the word that begins something.
 Dialogue: 0,0:00:35.55,0:00:38.75,Nanoha Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha{\i1}\Nwill now begin.
+Dialogue: 1,0:00:51.85,0:00:53.85,Nanoha Logo1a,,0,0,0,,{\fscx213\fscy300\bord0\blur0.5\t(\fscx71\fscy100)\move(58.72,-67.8,262.259,193.8,34,1995)}Magical Girl
+Dialogue: 0,0:00:51.85,0:00:53.85,Nanoha Logo1a,,0,0,0,,{\bord9.3\fscx213\fscy300\c&HEDC7B4&\blur0.5\t(\fscx71\fscy100\bord3.1)\move(58.72,-67.8,262.259,193.8,34,1995)}Magical Girl
+Dialogue: 2,0:00:51.85,0:00:53.85,Nanoha Logo2a,,0,0,0,,{\fscx219\fscy300\bord0\blur0.5\t(\fscx73\fscy100)\move(72.107,100.6,267.264,258,34,1995)}Lyrical
+Dialogue: 1,0:00:51.85,0:00:53.85,Nanoha Logo2a,,0,0,0,,{\bord6.3\fscx219\fscy300\c&HBDEAFC&\blur0.5\t(\fscx73\fscy100\bord2.1)\move(72.107,100.6,267.264,258,34,1995)}Lyrical
+Dialogue: 0,0:00:51.85,0:00:53.85,Nanoha Logo2a,,0,0,0,,{\fscx219\fscy300\bord18.3\c&H5C4D80&\3c&H494064&\blur0.5\t(\fscx73\fscy100\bord6.1)\move(72.107,100.6,267.264,258,34,1995)}Lyrical
+Dialogue: 3,0:00:51.85,0:00:53.85,Nanoha Logo3a,,0,0,0,,{\fscx216\fscy300\bord0\blur0.5\t(\fscx72\fscy100)\move(995.88,31.8,585.596,219,34,1995)}Nanoha
+Dialogue: 2,0:00:51.85,0:00:53.85,Nanoha Logo3a,,0,0,0,,{\bord9.3\fscx216\fscy300\blur0.5\3c&HCDCBFB&\c&HCDCBFB&\move(995.88,31.8,585.596,219,34,1995)\t(\fscx72\fscy100\bord3.1)}Nanoha
+Dialogue: 1,0:00:51.85,0:00:53.85,Nanoha Logo3a,,0,0,0,,{\fscx216\fscy300\bord30.3\blur0.5\c&H321771&\3c&H321771&\move(995.88,31.8,585.596,219,34,1995)\t(\fscx72\fscy100\bord10.3)}Nanoha
+Dialogue: 0,0:00:51.85,0:00:53.85,Nanoha Logo3a,,0,0,0,,{\fscx216\fscy300\bord45.3\blur0.5\3c&HFFFFFF&\c&HFFFFFF&\t(\fscx72\fscy100\bord15.1)\move(995.88,31.8,585.596,219,34,1995)}Nanoha
+Dialogue: 1,0:00:53.85,0:00:55.84,Nanoha Logo1a,,0,0,0,,{\bord0\blur0.5\pos(262.259,193)}Magical Girl
+Dialogue: 0,0:00:53.85,0:00:55.84,Nanoha Logo1a,,0,0,0,,{\c&HEDC7B4&\blur0.5\pos(262.259,193)}Magical Girl
+Dialogue: 2,0:00:53.85,0:00:55.84,Nanoha Logo2a,,0,0,0,,{\bord0\blur0.5\pos(267.264,258)}Lyrical
+Dialogue: 1,0:00:53.85,0:00:55.84,Nanoha Logo2a,,0,0,0,,{\c&HBDEAFC&\blur0.5\pos(267.264,258)}Lyrical
+Dialogue: 0,0:00:53.85,0:00:55.84,Nanoha Logo2a,,0,0,0,,{\bord6.1\c&H5C4D80&\3c&H494064&\blur0.5\pos(267.264,258)}Lyrical
+Dialogue: 3,0:00:53.85,0:00:55.84,Nanoha Logo3a,,0,0,0,,{\bord0\blur0.5\pos(585.596,219)}Nanoha
+Dialogue: 2,0:00:53.85,0:00:55.84,Nanoha Logo3a,,0,0,0,,{\blur0.5\3c&HCDCBFB&\c&HCDCBFB&\pos(585.596,219)}Nanoha
+Dialogue: 1,0:00:53.85,0:00:55.84,Nanoha Logo3a,,0,0,0,,{\bord10.1\blur0.5\c&H321771&\3c&H321771&\pos(585.596,219)}Nanoha
+Dialogue: 0,0:00:53.85,0:00:55.84,Nanoha Logo3a,,0,0,0,,{\bord15.1\blur0.5\3c&HFFFFFF&\c&HFFFFFF&\pos(585.596,219)}Nanoha
+Dialogue: 1,0:00:55.84,0:00:56.51,Nanoha Logo1a,,0,0,0,,{\fad(0,670)\bord0\blur5\t(\fscx35\fscy50)\move(262.259,193,314.314,193,38,622)}Magical Girl
+Dialogue: 0,0:00:55.84,0:00:56.51,Nanoha Logo1a,,0,0,0,,{\fad(0,670)\c&HEDC7B4&\blur5\t(\fscx35\fscy50\bord1.55)\move(262.259,193,314.314,193,38,622)\t(0,670,\1a&HFF&)}Magical Girl
+Dialogue: 2,0:00:55.84,0:00:56.51,Nanoha Logo2a,,0,0,0,,{\fad(0,670)\bord0\blur5\t(\fscx36\fscy50)\move(267.264,258,314.313,258,38,622)}Lyrical
+Dialogue: 1,0:00:55.84,0:00:56.51,Nanoha Logo2a,,0,0,0,,{\fad(0,670)\c&HBDEAFC&\blur5\move(267.264,258,314.313,258,38,622)\t(\fscx36\fscy50\bord0.7)\t(0,670,\1a&HFF&)}Lyrical
+Dialogue: 0,0:00:55.84,0:00:56.51,Nanoha Logo2a,,0,0,0,,{\fad(0,670)\bord7.1\c&H5C4D80&\3c&H564C76&\blur5\move(267.264,258,314.313,258,38,622)\t(\fscx36\fscy50\bord2.37)\t(0,670,\1a&HFF&)}Lyrical
+Dialogue: 3,0:00:55.84,0:00:56.51,Nanoha Logo3a,,0,0,0,,{\fad(0,670)\bord0\blur5\t(\fscx36\fscy50)\move(585.596,219,540.549,219,38,622)}Nanoha
+Dialogue: 2,0:00:55.84,0:00:56.51,Nanoha Logo3a,,0,0,0,,{\fad(0,670)\blur5\3c&HCDCBFB&\c&HCDCBFB&\move(585.596,219,540.549,219,38,622)\t(\fscx36\fscy50\bord1.55)\t(0,670,\1a&HFF&)}Nanoha
+Dialogue: 1,0:00:55.84,0:00:56.51,Nanoha Logo3a,,0,0,0,,{\fad(0,670)\bord13.1\blur5\c&H321771&\3c&H321771&\move(585.596,219,540.549,219,38,622)\t(\fscx36\fscy50\bord4.37)\t(0,670,\1a&HFF&)}Nanoha
+Dialogue: 0,0:00:55.84,0:00:56.51,Nanoha Logo3a,,0,0,0,,{\fad(0,670)\bord19.1\blur5\3c&HFFFFFF&\c&HFFFFFF&\move(585.596,219,540.549,219,38,622)\t(\fscx36\fscy50\bord6.37)\t(0,670,\1a&HFF&)}Nanoha
 Dialogue: 0,0:00:56.72,0:01:00.66,Nanoha OP,,0,0,0,,Cradling my knees in a corner of my room
 Dialogue: 0,0:01:00.66,0:01:04.19,Nanoha OP,,0,0,0,,I always shivered from uncertainty
 Dialogue: 0,0:01:04.19,0:01:11.23,Nanoha OP,,0,0,0,,I was scared of learning the truth,\Nso I closed the door
@@ -360,3 +390,12 @@ Dialogue: 0,0:25:05.30,0:25:12.37,Nanoha ED,,0,0,0,,Let’s turn them into warm 
 Dialogue: 0,0:25:12.37,0:25:13.97,Nanoha ED,,0,0,0,,Make a little wish
 Dialogue: 0,0:25:13.97,0:25:19.84,Nanoha ED,,0,0,0,,Even though at times\NI’ll trip or get lost
 Dialogue: 0,0:25:19.84,0:25:29.84,Nanoha ED,,0,0,0,,Because you’re with me, I can continue to smile and be energetic
+Dialogue: 1,0:25:31.03,0:25:39.99,Nanoha Logo1,,0,0,0,,{\fad(2200,0)\bord0\blur0.5\pos(91.08,137)}Magical Girl
+Dialogue: 0,0:25:31.03,0:25:39.99,Nanoha Logo1,,0,0,0,,{\fad(2200,0)\c&HEDC7B4&\blur0.5\pos(91.08,137)}Magical Girl
+Dialogue: 2,0:25:31.03,0:25:39.99,Nanoha Logo2,,0,0,0,,{\fad(2200,0)\bord0\blur0.5\pos(91.08,221)}Lyrical
+Dialogue: 1,0:25:31.03,0:25:39.99,Nanoha Logo2,,0,0,0,,{\fad(2200,0)\c&HB3DFFB&\blur0.5\pos(91.08,221)}Lyrical
+Dialogue: 0,0:25:31.03,0:25:39.99,Nanoha Logo2,,0,0,0,,{\fad(2200,0)\bord8.1\c&H423B6B&\3c&H423B6B&\blur0.5\pos(91.08,221)}Lyrical
+Dialogue: 3,0:25:31.03,0:25:39.99,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\bord0\blur0.5\clip(95.099,102,878.916,319)\pos(363.364,194)}Nanoha
+Dialogue: 2,0:25:31.03,0:25:39.99,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\blur0.5\c&HFFFFFF&\clip(95.099,102,878.916,319)\pos(363.364,194)}Nanoha
+Dialogue: 1,0:25:31.03,0:25:39.99,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\bord13.1\blur0.5\c&H4B2A8C&\3c&H4B2A8C&\clip(95.099,102,878.916,319)\pos(363.364,194)}Nanoha
+Dialogue: 0,0:25:31.03,0:25:39.99,Nanoha Logo3,,0,0,0,,{\fad(2200,0)\bord19.1\blur0.5\c&HFFFFFF&\clip(95.099,102,878.916,319)\pos(363.364,194)}Nanoha

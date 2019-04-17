@@ -19,9 +19,8 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 9
-Active Line: 14
-Video Position: 2544
+Active Line: 2
+Video Position: 566
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,6 +43,36 @@ Style: Nanona A’s Logo3,Noto Sans,150,&H002200C7,&H000000FF,&H00FFFFFF,&HC7000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.45,0:00:15.68,Nanoha OP,,0,0,0,,Prayers echoing in the vast skies turn to miracles
+Dialogue: 2,0:00:17.56,0:00:19.69,Nanona A’s Logo1,,0,0,0,,{\fscx76\fscy105\bord0\blur0.5\pos(112,220)\clip(95,127,109,332)\t(\clip(95,127,648,332))}Magical Girl
+Dialogue: 1,0:00:17.56,0:00:19.69,Nanona A’s Logo1,,0,0,0,,{\bord2.205\fscx76\fscy105\c&HC8A18A&\blur0.5\pos(112,220)\clip(95,127,109,332)\t(\clip(95,127,648,332))}Magical Girl
+Dialogue: 0,0:00:17.56,0:00:19.69,Nanona A’s Logo1,,0,0,0,,{\fscx76\fscy105\bord3.78\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(112,220)\clip(95,127,109,332)\t(\clip(95,127,648,332))}Magical Girl
+Dialogue: 2,0:00:17.56,0:00:19.69,Nanona A’s Logo2,,0,0,0,,{\fscx105\fscy105\bord0\blur0.5\pos(112,271)\clip(95,127,109,332)\t(\clip(95,127,648,332))}Lyrical
+Dialogue: 1,0:00:17.56,0:00:19.69,Nanona A’s Logo2,,0,0,0,,{\bord2.205\fscx105\fscy105\blur0.5\c&HA9F7FF&\pos(112,271)\clip(95,127,109,332)\t(\clip(95,127,648,332))}Lyrical
+Dialogue: 0,0:00:17.56,0:00:19.69,Nanona A’s Logo2,,0,0,0,,{\fscx105\fscy105\bord3.78\blur0.5\c&H000000&\3c&H000000&\pos(112,271)\clip(95,127,109,332)\t(\clip(95,127,648,332))}Lyrical
+Dialogue: 3,0:00:17.56,0:00:19.69,Nanona A’s Logo3,,0,0,0,,{\fscx105\fscy105\bord0\blur0.5\pos(288,243)\clip(95,127,109,332)\t(\clip(95,127,648,332))}Nanoha
+Dialogue: 2,0:00:17.56,0:00:19.69,Nanona A’s Logo3,,0,0,0,,{\bord4.305\fscx105\fscy105\c&HFFFFFF&\blur0.5\pos(288,243)\clip(95,127,109,332)\t(\clip(95,127,648,332))}Nanoha
+Dialogue: 1,0:00:17.56,0:00:19.69,Nanona A’s Logo3,,0,0,0,,{\fscx105\fscy105\bord8.505\c&H000000&\blur0.5\3c&H000000&\pos(288,243)\clip(95,127,109,332)\t(\clip(95,127,648,332))}Nanoha
+Dialogue: 0,0:00:17.56,0:00:19.69,Nanona A’s Logo3,,0,0,0,,{\fscx105\fscy105\bord10.605\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(288,243)\clip(95,127,109,332)\t(\clip(95,127,648,332))}Nanoha
+Dialogue: 2,0:00:19.69,0:00:20.69,Nanona A’s Logo1,,0,0,0,,{\fscx76\fscy105\t(\fscx72\fscy100)\bord0\blur0.5\move(112,220,128,220,38,997)}Magical Girl
+Dialogue: 1,0:00:19.69,0:00:20.69,Nanona A’s Logo1,,0,0,0,,{\bord2.205\fscx76\fscy105\t(\fscx72\fscy100\bord2.1)\c&HC8A18A&\blur0.5\move(112,220,128,220,38,997)}Magical Girl
+Dialogue: 0,0:00:19.69,0:00:20.69,Nanona A’s Logo1,,0,0,0,,{\bord3.78\fscx76\fscy105\t(\fscx72\fscy100\bord3.6)\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(112,220,128,220,38,997)}Magical Girl
+Dialogue: 2,0:00:19.69,0:00:20.69,Nanona A’s Logo2,,0,0,0,,{\fscx105\fscy105\t(\fscx100\fscy100)\bord0\blur0.5\move(112,271,128,271,38,997)}Lyrical
+Dialogue: 1,0:00:19.69,0:00:20.69,Nanona A’s Logo2,,0,0,0,,{\bord2.205\fscx105\fscy105\t(\fscx100\fscy100\bord2.1)\blur0.5\c&HA9F7FF&\move(112,271,128,271,38,997)}Lyrical
+Dialogue: 0,0:00:19.69,0:00:20.69,Nanona A’s Logo2,,0,0,0,,{\bord3.78\fscx105\fscy105\t(\fscx100\fscy100\bord3.6)\blur0.5\c&H000000&\3c&H000000&\move(112,271,128,271,38,997)}Lyrical
+Dialogue: 3,0:00:19.69,0:00:20.69,Nanona A’s Logo3,,0,0,0,,{\fscx105\fscy105\t(\fscx100\fscy100)\bord0\blur0.5\move(288,243,297,243,38,997)}Nanoha
+Dialogue: 2,0:00:19.69,0:00:20.69,Nanona A’s Logo3,,0,0,0,,{\bord4.305\fscx105\fscy105\t(\fscx100\fscy100\bord4.1)\c&HFFFFFF&\blur0.5\move(288,243,297,243,38,997)}Nanoha
+Dialogue: 1,0:00:19.69,0:00:20.69,Nanona A’s Logo3,,0,0,0,,{\bord8.505\fscx105\fscy105\t(\fscx100\fscy100\bord8.1)\c&H000000&\blur0.5\3c&H000000&\move(288,243,297,243,38,997)}Nanoha
+Dialogue: 0,0:00:19.69,0:00:20.69,Nanona A’s Logo3,,0,0,0,,{\bord10.605\fscx105\fscy105\t(\fscx100\fscy100\bord10.1)\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(288,243,297,243,38,997)}Nanoha
+Dialogue: 2,0:00:20.69,0:00:28.15,Nanona A’s Logo1,,0,0,0,,{\fad(0,1874)\bord0\blur0.5\pos(128,220)}Magical Girl
+Dialogue: 1,0:00:20.69,0:00:28.15,Nanona A’s Logo1,,0,0,0,,{\fad(0,1874)\c&HC8A18A&\blur0.5\pos(128,220)\t(5586,7460,\1a&HFF&)}Magical Girl
+Dialogue: 0,0:00:20.69,0:00:28.15,Nanona A’s Logo1,,0,0,0,,{\fad(0,1874)\bord3.6\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(128,220)\t(5586,7460,\1a&HFF&)}Magical Girl
+Dialogue: 2,0:00:20.69,0:00:28.15,Nanona A’s Logo2,,0,0,0,,{\fad(0,1874)\bord0\blur0.5\pos(128,271)}Lyrical
+Dialogue: 1,0:00:20.69,0:00:28.15,Nanona A’s Logo2,,0,0,0,,{\fad(0,1874)\blur0.5\c&HA9F7FF&\pos(128,271)\t(5586,7460,\1a&HFF&)}Lyrical
+Dialogue: 0,0:00:20.69,0:00:28.15,Nanona A’s Logo2,,0,0,0,,{\fad(0,1874)\bord3.6\blur0.5\c&H000000&\3c&H000000&\pos(128,271)\t(5586,7460,\1a&HFF&)}Lyrical
+Dialogue: 3,0:00:20.69,0:00:28.15,Nanona A’s Logo3,,0,0,0,,{\fad(0,1874)\bord0\blur0.5\pos(297,243)}Nanoha
+Dialogue: 2,0:00:20.69,0:00:28.15,Nanona A’s Logo3,,0,0,0,,{\fad(0,1874)\c&HFFFFFF&\blur0.5\pos(297,243)\t(5586,7460,\1a&HFF&)}Nanoha
+Dialogue: 1,0:00:20.69,0:00:28.15,Nanona A’s Logo3,,0,0,0,,{\fad(0,1874)\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)\t(5586,7460,\1a&HFF&)}Nanoha
+Dialogue: 0,0:00:20.69,0:00:28.15,Nanona A’s Logo3,,0,0,0,,{\fad(0,1874)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)\t(5586,7460,\1a&HFF&)}Nanoha
 Dialogue: 0,0:00:28.16,0:00:34.54,Nanoha OP,,0,0,0,,Teardrops melt and flow into the blue of the middle of the night
 Dialogue: 0,0:00:34.54,0:00:40.60,Nanoha OP,,0,0,0,,I met a warmth that engulfs all without hesitation
 Dialogue: 0,0:00:40.60,0:00:43.68,Nanoha OP,,0,0,0,,Just like the pure white snow
@@ -118,7 +147,7 @@ Dialogue: 0,0:06:15.60,0:06:18.56,Nanoha Narration1,,0,0,0,,I’m Nanoha Takamac
 Dialogue: 0,0:06:18.56,0:06:23.65,Nanoha Narration1,,0,0,0,,Until fairly recently, I was\Na very, very ordinary third-grader.
 Dialogue: 0,0:06:23.65,0:06:26.51,Nanoha Narration1,,0,0,0,,But because of a certain incident that happened this past spring,
 Dialogue: 0,0:06:26.51,0:06:28.81,Nanoha Narration1,,0,0,0,,I became a mage.
-Dialogue: 0,0:06:29.49,0:06:32.66,Nanoha Dialogue1,,0,0,0,,If you were scoring\Ntoday’s practice, how was it?
+Dialogue: 0,0:06:29.49,0:06:32.66,Nanoha Dialogue1,,0,0,0,,If you were scoring today’s practice,\Nwhat would you give it?
 Dialogue: 0,0:06:32.69,0:06:34.22,Nanoha Device1,,0,0,20,,About 80 points.
 Dialogue: 0,0:06:35.06,0:06:36.22,Nanoha Dialogue1,,0,0,0,,I see...
 Dialogue: 0,0:06:44.71,0:06:47.47,Nanoha Narration1,,0,0,0,,All the people back then who gave me magic,

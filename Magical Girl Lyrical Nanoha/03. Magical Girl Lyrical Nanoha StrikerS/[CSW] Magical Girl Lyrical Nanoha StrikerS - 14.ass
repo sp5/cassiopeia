@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 238
-Active Line: 243
-Video Position: 18002
+Scroll Position: 434
+Active Line: 438
+Video Position: 35632
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,7 +49,7 @@ Dialogue: 0,0:00:20.29,0:00:25.29,NanohaW Narration1,,0,0,0,,But without the pow
 Dialogue: 0,0:00:25.29,0:00:28.18,NanohaW Narration1,,0,0,0,,what can I do?
 Dialogue: 0,0:00:28.18,0:00:33.55,NanohaW Narration1,,0,0,0,,How should I answer those small eyes with nowhere to go?
 Dialogue: 0,0:00:35.34,0:00:39.93,NanohaW Narration1,,0,0,0,,{\i0}Magical Girl Lyrical Nanoha StrikerS{\i1}\Nwill now begin.
-Dialogue: 0,0:00:42.35,0:00:50.77,Nanoha OP,Song,0,0,0,,The hot comet dwelling within my heart beats towards the beginning.
+Dialogue: 0,0:00:42.26,0:00:50.77,Nanoha OP,Song,0,0,0,,The hot comet dwelling within my heart beats towards the beginning.
 Dialogue: 2,0:00:54.60,0:00:57.22,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx77\fscy115\t(\fscx67\fscy100)\fad(1751,0)\bord0\blur0.5\move(365.326,102.205,397.599,119,41,2585)}Magical Girl
 Dialogue: 1,0:00:54.60,0:00:57.22,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx77\fscy115\t(\fscx67\fscy100)\fad(1751,0)\c&HCCA694&\blur0.5\move(365.326,102.205,397.599,119,41,2585)\1a&HFF&\t(0,1751,\1a&H00&)}Magical Girl
 Dialogue: 0,0:00:54.60,0:00:57.22,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx77\fscy115\t(\fscx67\fscy100)\fad(1751,0)\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\move(365.326,102.205,397.599,119,41,2585)\1a&HFF&\t(0,1751,\1a&H00&)}Magical Girl
@@ -80,17 +80,17 @@ Dialogue: 3,0:00:57.52,0:01:04.19,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,37
 Dialogue: 2,0:00:57.52,0:01:04.19,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,374)\c&HFFFFFF&\blur0.5\pos(575.877,143)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Nanoha
 Dialogue: 1,0:00:57.52,0:01:04.19,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,374)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Nanoha
 Dialogue: 0,0:00:57.52,0:01:04.19,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(310,374)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)\1a&HFF&\t(0,310,\1a&H00&)\t(6296,6670,\1a&HFF&)}Nanoha
-Dialogue: 0,0:01:05.65,0:01:12.77,Nanoha OP,Song,0,0,0,,My fingers tremble, grasping upon a silent wish
-Dialogue: 0,0:01:12.77,0:01:20.03,Nanoha OP,Song,0,0,0,,I cower, wanting to flee from the inescapable past
-Dialogue: 0,0:01:20.03,0:01:26.24,Nanoha OP,Song,0,0,0,,Even if it is merely a faint light fading
-Dialogue: 0,0:01:26.24,0:01:29.93,Nanoha OP,Song,0,0,0,,I want to chase after it, just like that star
-Dialogue: 0,0:01:29.93,0:01:36.18,Nanoha OP,Song,0,0,0,,And accept everything, no matter how high it is
-Dialogue: 0,0:01:36.18,0:01:40.38,Nanoha OP,Song,0,0,0,,Dancing throughout the galaxy is the angel’s whisper
-Dialogue: 0,0:01:40.38,0:01:43.98,Nanoha OP,Song,0,0,0,,Pursuing these certain memories
-Dialogue: 0,0:01:43.98,0:01:50.84,Nanoha OP,Song,0,0,0,,The door to the truth will surely be born now
-Dialogue: 0,0:01:50.84,0:01:57.59,Nanoha OP,Song,0,0,0,,No matter what kind of cold darkness binds me
-Dialogue: 0,0:01:57.59,0:02:02.96,Nanoha OP,Song,0,0,0,,Because I want to know
-Dialogue: 0,0:02:02.96,0:02:07.75,Nanoha OP,Song,0,0,0,,I won’t be stopped
+Dialogue: 0,0:01:05.50,0:01:12.72,Nanoha OP,Song,0,0,0,,My fingers tremble, grasping upon a silent wish
+Dialogue: 0,0:01:12.72,0:01:19.88,Nanoha OP,Song,0,0,0,,I cower, wanting to flee from the inescapable past
+Dialogue: 0,0:01:19.88,0:01:26.04,Nanoha OP,Song,0,0,0,,Even if it is merely a faint light fading
+Dialogue: 0,0:01:26.04,0:01:29.72,Nanoha OP,Song,0,0,0,,I want to chase after it, just like that star
+Dialogue: 0,0:01:29.72,0:01:35.90,Nanoha OP,Song,0,0,0,,And accept everything, no matter how high it is
+Dialogue: 0,0:01:35.90,0:01:40.32,Nanoha OP,Song,0,0,0,,An angel’s whisper dancing throughout the galaxy
+Dialogue: 0,0:01:40.32,0:01:43.74,Nanoha OP,Song,0,0,0,,Pursuing these certain memories
+Dialogue: 0,0:01:43.74,0:01:50.40,Nanoha OP,Song,0,0,0,,The door to the truth will surely be born now
+Dialogue: 0,0:01:50.74,0:01:57.42,Nanoha OP,Song,0,0,0,,No matter what kind of cold darkness binds me
+Dialogue: 0,0:01:57.42,0:02:02.76,Nanoha OP,Song,0,0,0,,Because I want to know
+Dialogue: 0,0:02:02.76,0:02:07.68,Nanoha OP,Song,0,0,0,,I won’t be stopped
 Dialogue: 2,0:02:25.03,0:02:25.24,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
 Dialogue: 1,0:02:25.03,0:02:25.24,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
 Dialogue: 0,0:02:25.03,0:02:25.24,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
@@ -465,22 +465,22 @@ Dialogue: 0,0:22:53.43,0:22:56.22,NanohaW Narration1,,0,0,0,,A mother, huh?
 Dialogue: 0,0:23:00.85,0:23:04.82,NanohaW Narration1,,0,0,0,,What happened then isn’t over.
 Dialogue: 0,0:23:06.78,0:23:10.72,NanohaW Narration1,,0,0,0,,The Combat Cyborg Incident that killed my mother.
 Dialogue: 0,0:23:34.60,0:23:38.09,Nanoha ED,Endsong,0,0,0,,Without end, the dreams continue to weave
-Dialogue: 0,0:23:38.09,0:23:41.64,Nanoha ED,Endsong,0,0,0,,Surpassing thousands of nights
-Dialogue: 0,0:23:41.64,0:23:45.14,Nanoha ED,Endsong,0,0,0,,Like a prayer, the journey continues
+Dialogue: 0,0:23:38.09,0:23:41.43,Nanoha ED,Endsong,0,0,0,,Surpassing thousands of nights
+Dialogue: 0,0:23:41.43,0:23:45.14,Nanoha ED,Endsong,0,0,0,,Like a prayer, the journey continues
 Dialogue: 0,0:23:45.14,0:23:51.65,Nanoha ED,Endsong,0,0,0,,Be my guide any day, oh small jewel
-Dialogue: 0,0:23:51.77,0:23:55.32,Nanoha ED,Endsong,0,0,0,,Spica among the stars
-Dialogue: 0,0:24:00.17,0:24:05.77,Nanoha ED,Endsong,0,0,0,,I engrave beyond the horizon
+Dialogue: 0,0:23:51.65,0:23:55.32,Nanoha ED,Endsong,0,0,0,,Spica among the stars
+Dialogue: 0,0:24:00.17,0:24:05.32,Nanoha ED,Endsong,0,0,0,,I engrave beyond the horizon
 Dialogue: 0,0:24:06.35,0:24:13.93,Nanoha ED,Endsong,0,0,0,,The faint footsteps that are connected to everywhere
 Dialogue: 0,0:24:14.53,0:24:20.57,Nanoha ED,Endsong,0,0,0,,The reflection of your eyes casts away the loop of anxiety
-Dialogue: 0,0:24:20.71,0:24:22.52,Nanoha ED,Endsong,0,0,0,,The midnight sun
+Dialogue: 0,0:24:20.57,0:24:22.52,Nanoha ED,Endsong,0,0,0,,The midnight sun
 Dialogue: 0,0:24:22.52,0:24:24.33,Nanoha ED,Endsong,0,0,0,,The Orion of Midsummer
-Dialogue: 0,0:24:24.33,0:24:30.17,Nanoha ED,Endsong,0,0,0,,Just now from somewhere, I heard your voice
-Dialogue: 0,0:24:30.91,0:24:34.46,Nanoha ED,Endsong,0,0,0,,This heart without darkness
+Dialogue: 0,0:24:24.33,0:24:30.08,Nanoha ED,Endsong,0,0,0,,Just now from somewhere, I heard your voice
+Dialogue: 0,0:24:31.04,0:24:34.46,Nanoha ED,Endsong,0,0,0,,This heart without darkness
 Dialogue: 0,0:24:34.46,0:24:38.07,Nanoha ED,Endsong,0,0,0,,Illumine it, o distant blue star
 Dialogue: 0,0:24:38.07,0:24:41.58,Nanoha ED,Endsong,0,0,0,,No matter what the time, I will be able to start walking
 Dialogue: 0,0:24:41.58,0:24:45.06,Nanoha ED,Endsong,0,0,0,,Sparkling far and near
-Dialogue: 0,0:24:45.06,0:24:48.62,Nanoha ED,Endsong,0,0,0,,Watching over me
-Dialogue: 0,0:24:48.62,0:24:52.04,Nanoha ED,Endsong,0,0,0,,The thing inside my heart, overflowing
+Dialogue: 0,0:24:45.06,0:24:48.66,Nanoha ED,Endsong,0,0,0,,Watching over me
+Dialogue: 0,0:24:48.66,0:24:52.04,Nanoha ED,Endsong,0,0,0,,The thing inside my heart, overflowing
 Dialogue: 0,0:24:52.04,0:24:55.73,Nanoha ED,Endsong,0,0,0,,More than tears, I want to be loved
 Dialogue: 0,0:24:55.73,0:24:59.20,Nanoha ED,Endsong,0,0,0,,Like a prayer, the journey continues
 Dialogue: 0,0:24:59.20,0:25:05.92,Nanoha ED,Endsong,0,0,0,,Be my guide anyday, oh small jewel

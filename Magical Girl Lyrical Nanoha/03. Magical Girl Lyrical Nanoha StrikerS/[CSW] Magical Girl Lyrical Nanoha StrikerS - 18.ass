@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 199
-Active Line: 204
-Video Position: 12844
+Scroll Position: 421
+Active Line: 425
+Video Position: 34357
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -463,17 +463,17 @@ Dialogue: 0,0:23:17.16,0:23:23.08,NanohaW Dialogue1,,0,0,0,,Vivio, you shall be 
 Dialogue: 0,0:23:23.08,0:23:28.03,NanohaW Dialogue1,,0,0,0,,Mama!
 Dialogue: 0,0:23:28.47,0:23:34.88,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times
 Dialogue: 0,0:23:34.88,0:23:40.81,Nanoha ED,,0,0,0,,In my precious days
-Dialogue: 0,0:23:52.87,0:23:56.58,Nanoha ED,,0,0,0,,“The bluebird ran away”
+Dialogue: 0,0:23:52.94,0:23:56.58,Nanoha ED,,0,0,0,,“The bluebird ran away”
 Dialogue: 0,0:23:58.42,0:24:02.03,Nanoha ED,,0,0,0,,I cried, embracing the empty cage
 Dialogue: 0,0:24:04.75,0:24:09.53,Nanoha ED,,0,0,0,,I still remember the color of the high-rising sky
 Dialogue: 0,0:24:10.19,0:24:12.94,Nanoha ED,,0,0,0,,That I looked up at that day
 Dialogue: 0,0:24:15.99,0:24:19.39,Nanoha ED,,0,0,0,,Rewinding
 Dialogue: 0,0:24:21.44,0:24:24.87,Nanoha ED,,0,0,0,,Inside my memories
-Dialogue: 0,0:24:25.89,0:24:30.67,Nanoha ED,,0,0,0,,In painful times, in happy times
-Dialogue: 0,0:24:30.67,0:24:36.02,Nanoha ED,,0,0,0,,You were always there at important times
-Dialogue: 0,0:24:36.02,0:24:42.28,Nanoha ED,,0,0,0,,The thing which I looked for to the ends of the labyrinth
-Dialogue: 0,0:24:42.28,0:24:46.91,Nanoha ED,,0,0,0,,Is deep within my heart
-Dialogue: 0,0:24:46.91,0:24:52.93,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times
+Dialogue: 0,0:24:25.63,0:24:30.67,Nanoha ED,,0,0,0,,In painful times, in happy times
+Dialogue: 0,0:24:30.67,0:24:35.93,Nanoha ED,,0,0,0,,You were always there at important times
+Dialogue: 0,0:24:36.35,0:24:42.28,Nanoha ED,,0,0,0,,The thing which I looked for to the ends of the labyrinth
+Dialogue: 0,0:24:42.28,0:24:46.70,Nanoha ED,,0,0,0,,Is deep within my heart
+Dialogue: 0,0:24:46.70,0:24:52.93,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times
 Dialogue: 0,0:24:52.93,0:24:57.97,Nanoha ED,,0,0,0,,Soft and secret pieces of my memory
 Dialogue: 0,0:24:57.97,0:25:04.18,Nanoha ED,,0,0,0,,No matter what type of tomorrow it is, I can walk towards it
 Dialogue: 0,0:25:04.18,0:25:09.83,Nanoha ED,,0,0,0,,In my precious days
