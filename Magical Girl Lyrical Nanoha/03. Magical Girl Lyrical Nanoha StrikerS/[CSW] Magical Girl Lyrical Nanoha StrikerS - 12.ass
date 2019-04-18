@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 410
-Active Line: 412
-Video Position: 33918
+Scroll Position: 251
+Active Line: 254
+Video Position: 20669
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -101,20 +101,20 @@ Dialogue: 3,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur
 Dialogue: 2,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
 Dialogue: 1,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
 Dialogue: 0,0:02:25.07,0:02:25.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
-Dialogue: 2,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)}Magical Girl
-Dialogue: 1,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)}Magical Girl
-Dialogue: 0,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)}Magical Girl
-Dialogue: 2,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)}Lyrical
-Dialogue: 1,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)}Lyrical
-Dialogue: 0,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&}Lyrical
-Dialogue: 3,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)}Nanoha
-Dialogue: 2,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)}Nanoha
-Dialogue: 1,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)}Nanoha
-Dialogue: 0,0:02:25.28,0:02:28.02,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)}Nanoha
-Dialogue: 1,0:02:27.99,0:02:33.07,Nanoha StrikerS Title1,Title,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 12
-Dialogue: 0,0:02:27.99,0:02:33.07,Nanoha StrikerS Title1,Title,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 12
-Dialogue: 1,0:02:27.99,0:02:33.07,Nanoha StrikerS Title1,Title,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Numbers
-Dialogue: 0,0:02:27.99,0:02:33.07,Nanoha StrikerS Title1,Title,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Numbers
+Dialogue: 2,0:02:25.28,0:02:28.00,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 1,0:02:25.28,0:02:28.00,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 0,0:02:25.28,0:02:28.00,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 2,0:02:25.28,0:02:28.00,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 1,0:02:25.28,0:02:28.00,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 0,0:02:25.28,0:02:28.00,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&}Lyrical
+Dialogue: 3,0:02:25.28,0:02:28.00,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)}Nanoha
+Dialogue: 2,0:02:25.28,0:02:28.00,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)}Nanoha
+Dialogue: 1,0:02:25.28,0:02:28.00,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)}Nanoha
+Dialogue: 0,0:02:25.28,0:02:28.00,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)}Nanoha
+Dialogue: 1,0:02:28.00,0:02:33.07,Nanoha StrikerS Title1,Title,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 12
+Dialogue: 0,0:02:28.00,0:02:33.07,Nanoha StrikerS Title1,Title,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 12
+Dialogue: 1,0:02:28.00,0:02:33.07,Nanoha StrikerS Title1,Title,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Numbers
+Dialogue: 0,0:02:28.00,0:02:33.07,Nanoha StrikerS Title1,Title,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Numbers
 Dialogue: 0,0:02:54.78,0:02:56.42,NanohaW Dialogue1,first,0,0,0,,How’s this?
 Dialogue: 0,0:02:59.90,0:03:01.67,NanohaW Dialogue1,first,0,0,0,,Tia, what should we do?
 Dialogue: 0,0:03:01.67,0:03:04.36,NanohaW Dialogue1,first,0,0,0,,Our mission is to retrieve the case.
@@ -294,8 +294,8 @@ Dialogue: 0,0:14:08.10,0:14:10.59,NanohaW Dialogue1,first,0,0,0,,That’s imposs
 Dialogue: 0,0:14:10.59,0:14:13.70,NanohaW Dialogue1,first,0,0,0,,There’s too much interference!\NI can’t get any data!
 Dialogue: 0,0:14:13.70,0:14:14.97,NanohaW Dialogue1,first,0,0,0,,No...!
 Dialogue: 0,0:14:15.58,0:14:19.51,NanohaW Dialogue1,first,0,0,0,,Sgt. Vice and Dr. Shamal!
-Dialogue: 0,0:14:19.51,0:14:21.13,NanohaW Dialogue1,first,0,0,0,,Why you...!
-Dialogue: 0,0:14:21.13,0:14:23.23,NanohaW Dialogue1,first,0,0,0,,Lieutenant, calm down!
+Dialogue: 0,0:14:19.51,0:14:20.80,NanohaW Dialogue1,first,0,0,0,,Why you...!
+Dialogue: 0,0:14:20.80,0:14:23.23,NanohaW Dialogue1,first,0,0,0,,L-Lieutenant, calm down!
 Dialogue: 0,0:14:23.23,0:14:24.53,NanohaW Dialogue1,first,0,0,0,,Shut up!
 Dialogue: 0,0:14:24.53,0:14:26.46,NanohaW Dialogue1,first,0,0,0,,You have people working with you, right?
 Dialogue: 0,0:14:26.46,0:14:27.47,NanohaW Dialogue1,first,0,0,0,,Where are they?
@@ -348,9 +348,8 @@ Dialogue: 0,0:16:59.60,0:17:00.70,NanohaW Dialogue1,first,0,0,0,,No way!
 Dialogue: 0,0:17:00.70,0:17:04.25,NanohaW Dialogue1,first,0,0,0,,In a distant land, sink into the darkness.
 Dialogue: 0,0:17:04.25,0:17:06.48,NanohaW Dialogue1,Hayate,0,0,0,,{\b1}Diabolic Emission{\b0}
 Dialogue: 0,0:17:22.84,0:17:24.35,NanohaW Device1,Device,0,0,20,,They won’t surrender...
-Dialogue: 0,0:17:22.84,0:17:24.35,NanohaW Device2,Device,0,0,20,,{\pos(640,595)}We won’t surrender...
 Dialogue: 0,0:17:24.37,0:17:26.71,NanohaW Device1,Device,0,0,20,,Flight risk confirmed.
-Dialogue: 0,0:17:24.37,0:17:26.71,NanohaW Device2,Device,0,0,20,,{\pos(640,595)}Just as there is danger of escape.
+Dialogue: 0,0:17:24.37,0:17:26.71,NanohaW Device2,Device,0,0,20,,{\pos(640,595)}Judged that there is danger of escape.
 Dialogue: 0,0:17:36.73,0:17:38.40,NanohaW Device1,Device,0,0,20,,Knock them out via Buster,
 Dialogue: 0,0:17:36.73,0:17:38.40,NanohaW Device2,Device,0,0,20,,{\pos(640,595)}Knockout by Buster.
 Dialogue: 0,0:17:38.40,0:17:40.30,NanohaW Device1,Device,0,0,20,,and take them into custody.
@@ -481,9 +480,9 @@ Dialogue: 0,0:25:19.41,0:25:21.16,NanohaW Narration1,first,0,0,0,,Lives saved.
 Dialogue: 0,0:25:21.16,0:25:23.22,NanohaW Narration1,first,0,0,0,,Each longs for something different,
 Dialogue: 0,0:25:23.22,0:25:25.79,NanohaW Narration1,first,0,0,0,,for what their hearts are set on.
 Dialogue: 0,0:25:25.79,0:25:29.28,NanohaW Narration1,first,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha StrikerS:{\i1}
-Dialogue: 0,0:25:29.28,0:25:32.38,NanohaW Narration1,first,0,0,0,,Episode 13: The Reason I Live
+Dialogue: 0,0:25:29.28,0:25:32.38,NanohaW Narration1,first,0,0,0,,Episode 13: {\i0}Raison d’Être{\i1}
 Dialogue: 1,0:25:30.74,0:25:36.03,Nanoha StrikerS Title2,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 13
 Dialogue: 0,0:25:30.74,0:25:36.03,Nanoha StrikerS Title2,,0,0,0,,{\blur5\pos(640,267.75)\c&H183ACD&}Episode 13
-Dialogue: 1,0:25:30.74,0:25:36.03,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}The Reason I Live
-Dialogue: 0,0:25:30.74,0:25:36.03,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H183ACD&}The Reason I Live
+Dialogue: 1,0:25:30.74,0:25:36.03,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Raison d’Être
+Dialogue: 0,0:25:30.74,0:25:36.03,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H183ACD&}Raison d’Être
 Dialogue: 0,0:25:32.38,0:25:34.74,NanohaW Narration1,first,0,0,0,,It was only a small wish.

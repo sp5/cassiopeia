@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 354
-Active Line: 355
-Video Position: 33769
+Scroll Position: 127
+Active Line: 130
+Video Position: 7133
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -171,8 +171,8 @@ Dialogue: 0,0:04:44.86,0:04:47.60,NanohaW Dialogue1,,0,0,0,,Playing with them an
 Dialogue: 0,0:04:49.14,0:04:53.06,NanohaW Dialogue1,,0,0,0,,throwing them in a cage and watching them suffer
 Dialogue: 0,0:04:53.06,0:04:56.03,NanohaW Dialogue1,,0,0,0,,is so much fun!
 Dialogue: 0,0:04:56.03,0:04:57.48,NanohaW Dialogue1,,0,0,0,,Right?
-Dialogue: 1,0:04:57.47,0:05:02.55,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 22
-Dialogue: 0,0:04:57.47,0:05:02.55,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 22
+Dialogue: 1,0:04:57.48,0:05:02.52,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 22
+Dialogue: 0,0:04:57.48,0:05:02.52,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 22
 Dialogue: 0,0:05:07.95,0:05:15.33,NanohaW Dialogue1,,0,0,0,,The massive ship which rose from the mountains of central Midchilda continues to ascend.
 Dialogue: 0,0:05:15.33,0:05:20.45,NanohaW Dialogue1,,0,0,0,,At the same time, gadgets and a group that is being considered dangerous
 Dialogue: 0,0:05:20.45,0:05:23.98,NanohaW Dialogue1,,0,0,0,,are heading toward the capital, Clanagan, from the 7th Abandoned City Area.

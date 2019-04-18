@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 384
-Active Line: 385
-Video Position: 33770
+Scroll Position: 159
+Active Line: 162
+Video Position: 10134
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -145,10 +145,10 @@ Dialogue: 0,0:03:12.79,0:03:15.25,NanohaW Dialogue1,,0,0,0,,Let’s go, everyone
 Dialogue: 0,0:03:15.25,0:03:17.17,NanohaW Dialogue1,,0,0,0,,Right!
 Dialogue: 0,0:03:17.17,0:03:23.59,NanohaW Narration1,,0,0,0,,As Vice’s junior, and as a member of the Long Arch staff for Riot Force 6,
 Dialogue: 0,0:03:23.59,0:03:27.49,NanohaW Narration1,,0,0,0,,I inherit the job of taking everyone to the places they need to be.
-Dialogue: 1,0:03:30.84,0:03:35.88,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 19
-Dialogue: 0,0:03:30.84,0:03:35.88,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 19
-Dialogue: 1,0:03:30.84,0:03:35.88,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Cradle
-Dialogue: 0,0:03:30.84,0:03:35.88,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Cradle
+Dialogue: 1,0:03:30.84,0:03:35.86,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 19
+Dialogue: 0,0:03:30.84,0:03:35.86,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 19
+Dialogue: 1,0:03:30.84,0:03:35.86,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Cradle
+Dialogue: 0,0:03:30.84,0:03:35.86,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Cradle
 Dialogue: 1,0:03:39.35,0:03:43.76,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.75\fad(953,0)\pos(640,560)}Time-Space Administrative Bureau Dimensional Navy\NL-Class Cruiser {\i1}Arthra{\i0}
 Dialogue: 0,0:03:39.35,0:03:43.76,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(953,0)\pos(640,560)\c&H000000&\1a&HFF&\t(0,953,\1a&H00&)}Time-Space Administrative Bureau Dimensional Navy\NL-Class Cruiser {\i1}Arthra{\i0}
 Dialogue: 0,0:03:44.93,0:03:47.64,NanohaW Dialogue1,,0,0,0,,Lucino, is the control okay?
@@ -200,20 +200,25 @@ Dialogue: 0,0:06:38.76,0:06:42.25,NanohaW Dialogue1,,0,0,0,,No problem! All that
 Dialogue: 0,0:06:43.20,0:06:44.27,NanohaW Dialogue1,,0,0,0,,Right.
 Dialogue: 0,0:06:45.94,0:06:48.69,NanohaW Narration1,,0,0,0,,I’m sorry, Mach Caliber.
 Dialogue: 0,0:06:48.69,0:06:51.83,NanohaW Narration1,,0,0,0,,You’re mad at me, right?
-Dialogue: 0,0:06:51.83,0:06:55.72,NanohaW Device1,,0,0,20,,Perhaps I don’t have the feeling of anger.
-Dialogue: 0,0:06:55.72,0:06:57.75,NanohaW Device1,,0,0,20,,Worry is not needed.
-Dialogue: 0,0:07:02.40,0:07:09.38,NanohaW Narration1,,0,0,0,,I said that even though you’re an A.I., you have a soul,\Nand that you’re my buddy who runs with me,
-Dialogue: 0,0:07:09.38,0:07:14.64,NanohaW Narration1,,0,0,0,,But, during that moment, I wasn’t thinking about you at all, Mach Caliber.
+Dialogue: 0,0:06:51.83,0:06:55.72,NanohaW Device1,,0,0,20,,Perhaps I don’t have the feeling of “anger.”
+Dialogue: 0,0:06:55.72,0:06:57.75,NanohaW Device1,,0,0,20,,You have nothing to worry about.
+Dialogue: 0,0:06:55.72,0:06:57.75,NanohaW Device2,,0,0,20,,{\pos(640,595)}Worry is not needed.
+Dialogue: 0,0:07:02.40,0:07:06.16,NanohaW Narration1,,0,0,0,,Mach Caliber, I said that even though you’re an A.I., you have a soul,
+Dialogue: 0,0:07:06.16,0:07:09.38,NanohaW Narration1,,0,0,0,,and that you’re my buddy who runs with me,
+Dialogue: 0,0:07:09.38,0:07:14.64,NanohaW Narration1,,0,0,0,,but during that moment,\NI wasn’t thinking about you at all, Mach Caliber.
 Dialogue: 0,0:07:16.40,0:07:19.72,NanohaW Narration1,,0,0,0,,I was selfish, and I treated you like a tool.
 Dialogue: 0,0:07:20.87,0:07:23.53,NanohaW Narration1,,0,0,0,,I hurt you so much.
 Dialogue: 0,0:07:23.53,0:07:24.41,NanohaW Device1,,0,0,20,,No!
 Dialogue: 0,0:07:24.41,0:07:25.95,NanohaW Device1,,0,0,20,,{\i0}I{\i1} had a problem!
-Dialogue: 0,0:07:25.95,0:07:27.96,NanohaW Device1,,0,0,20,,Your best status was not supported
-Dialogue: 0,0:07:27.96,0:07:29.94,NanohaW Device1,,0,0,20,,due to my power shortage.
+Dialogue: 0,0:07:25.95,0:07:27.96,NanohaW Device1,,0,0,20,,I couldn’t handle your full power
+Dialogue: 0,0:07:25.95,0:07:27.96,NanohaW Device2,,0,0,20,,{\pos(640,595)}Your best status was not supported
+Dialogue: 0,0:07:27.96,0:07:29.94,NanohaW Device1,,0,0,20,,due to my own inadequacy.
+Dialogue: 0,0:07:27.96,0:07:29.94,NanohaW Device2,,0,0,20,,{\pos(640,595)}due to my power shortage.
 Dialogue: 0,0:07:31.68,0:07:33.32,NanohaW Dialogue1,,0,0,0,,Oh, sorry.
 Dialogue: 0,0:07:33.32,0:07:34.96,NanohaW Dialogue1,,0,0,0,,Are you in the middle of something important?
 Dialogue: 0,0:07:34.96,0:07:35.85,NanohaW Dialogue1,,0,0,0,,No.
-Dialogue: 0,0:07:35.84,0:07:37.79,NanohaW Device1,,0,0,20,,Reconsideration meeting.
+Dialogue: 0,0:07:35.84,0:07:37.79,NanohaW Device1,,0,0,20,,We’re having a postmortem.
+Dialogue: 0,0:07:35.84,0:07:37.79,NanohaW Device2,,0,0,20,,{\pos(640,595)}Reconsideration meeting.
 Dialogue: 0,0:07:38.17,0:07:40.53,NanohaW Dialogue1,,0,0,0,,Shari, are you okay?
 Dialogue: 0,0:07:40.53,0:07:44.94,NanohaW Dialogue1,,0,0,0,,Riot Force 6 is in big trouble,\Nand I need to look after the Devices.
 Dialogue: 0,0:07:44.94,0:07:46.89,NanohaW Dialogue1,,0,0,0,,I can’t just sit there.
@@ -274,7 +279,7 @@ Dialogue: 0,0:10:51.03,0:10:55.07,NanohaW Dialogue1,,0,0,0,,You can’t be worry
 Dialogue: 0,0:10:55.07,0:10:57.24,NanohaW Dialogue1,,0,0,0,,Thank you, ma’am.
 Dialogue: 0,0:11:02.80,0:11:05.50,NanohaW Dialogue1,,0,0,0,,Testarossa, it’s you.
 Dialogue: 0,0:11:05.50,0:11:06.22,NanohaW Dialogue1,,0,0,0,,Thanks.
-Dialogue: 0,0:11:06.22,0:11:10.91,NanohaW Dialogue1,,0,0,0,,Thank you for taking care of Erio, Instructor Signum. {I might be wrong, but isn’t she saying ’Erio’ specifically instead of just ’child’?}
+Dialogue: 0,0:11:06.22,0:11:10.91,NanohaW Dialogue1,,0,0,0,,Thank you for taking care of Erio, Instructor Signum.
 Dialogue: 0,0:11:12.37,0:11:15.30,NanohaW Dialogue1,,0,0,0,,I’m sorry for not asking you.
 Dialogue: 0,0:11:15.30,0:11:20.38,NanohaW Dialogue1,,0,0,0,,Erio asked you, and you accepted. That’s fine.
 Dialogue: 0,0:11:20.38,0:11:23.20,NanohaW Dialogue1,,0,0,0,,I’m just a bit lonely.

@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 166
-Active Line: 167
-Video Position: 9528
+Scroll Position: 135
+Active Line: 137
+Video Position: 7142
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -179,10 +179,10 @@ Dialogue: 0,0:04:45.43,0:04:49.10,NanohaW Dialogue1,,0,0,0,,Fate will capture Sc
 Dialogue: 0,0:04:49.10,0:04:49.89,NanohaW Dialogue1,,0,0,0,,Arf.
 Dialogue: 0,0:04:49.89,0:04:54.96,NanohaW Dialogue1,,0,0,0,,Fate has been chasing after him for so long.
 Dialogue: 0,0:04:54.96,0:04:57.86,NanohaW Dialogue1,,0,0,0,,I’m sure she’ll capture him.
-Dialogue: 1,0:04:57.84,0:05:02.88,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 21
-Dialogue: 0,0:04:57.84,0:05:02.88,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 21
-Dialogue: 1,0:04:57.84,0:05:02.88,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Decisive Battle
-Dialogue: 0,0:04:57.84,0:05:02.88,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Decisive Battle
+Dialogue: 1,0:04:57.86,0:05:02.86,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 21
+Dialogue: 0,0:04:57.86,0:05:02.86,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 21
+Dialogue: 1,0:04:57.86,0:05:02.86,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Decisive Battle
+Dialogue: 0,0:04:57.86,0:05:02.86,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Decisive Battle
 Dialogue: 0,0:05:08.27,0:05:09.65,NanohaW Dialogue1,,0,0,0,,Defensive formation!
 Dialogue: 0,0:05:09.65,0:05:11.65,NanohaW Dialogue1,,0,0,0,,Don’t break formation!
 Dialogue: 0,0:05:11.65,0:05:13.06,NanohaW Dialogue1,,0,0,0,,Y-Yes, ma’am!

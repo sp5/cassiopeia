@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 297
-Active Line: 300
-Video Position: 33918
+Scroll Position: 319
+Active Line: 321
+Video Position: 36348
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -118,10 +118,10 @@ Dialogue: 0,0:03:01.74,0:03:06.65,NanohaW Dialogue1,,0,0,0,,However, a power too
 Dialogue: 0,0:03:08.20,0:03:14.87,NanohaW Dialogue1,,0,0,0,,We are sorry. You can stay in this village no longer.
 Dialogue: 0,0:03:19.25,0:03:21.96,NanohaW Narration1,,0,0,0,,Dragon summoners hold a dangerous power.
 Dialogue: 0,0:03:26.97,0:03:30.33,NanohaW Narration1,,0,0,0,,A frightening power that can hurt people.
-Dialogue: 1,0:03:36.60,0:03:41.65,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,267.75)\blur0.5\bord0}Episode 5
-Dialogue: 0,0:03:36.60,0:03:41.65,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,267.75)\blur5\c&H8C0062&}Episode 5
-Dialogue: 1,0:03:36.60,0:03:41.65,Nanoha StrikerS Title1,,0,0,0,,{\fs89\pos(640,535.5)\blur0.5\bord0}Stars and Lightning
-Dialogue: 0,0:03:36.60,0:03:41.65,Nanoha StrikerS Title1,,0,0,0,,{\fs89\pos(640,535.5)\blur5\c&H8C0062&}Stars and Lightning
+Dialogue: 1,0:03:36.60,0:03:41.64,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,267.75)\blur0.5\bord0}Episode 5
+Dialogue: 0,0:03:36.60,0:03:41.64,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,267.75)\blur5\c&H8C0062&}Episode 5
+Dialogue: 1,0:03:36.60,0:03:41.64,Nanoha StrikerS Title1,,0,0,0,,{\fs89\pos(640,535.5)\blur0.5\bord0}Stars and Lightning
+Dialogue: 0,0:03:36.60,0:03:41.64,Nanoha StrikerS Title1,,0,0,0,,{\fs89\pos(640,535.5)\blur5\c&H8C0062&}Stars and Lightning
 Dialogue: 0,0:03:43.56,0:03:49.26,NanohaW Dialogue1,,0,0,0,,The target railcar is travelling at a velocity of 70 units and rising.
 Dialogue: 0,0:03:49.26,0:03:53.00,NanohaW Dialogue1,,0,0,0,,It seems they haven’t penetrated the important-goods container yet.
 Dialogue: 0,0:03:53.00,0:03:54.78,NanohaW Dialogue1,,0,0,0,,It’s just a matter of time.

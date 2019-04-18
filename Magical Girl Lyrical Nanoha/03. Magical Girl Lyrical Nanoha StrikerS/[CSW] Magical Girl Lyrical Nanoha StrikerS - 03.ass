@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 395
-Active Line: 400
-Video Position: 33917
+Scroll Position: 115
+Active Line: 120
+Video Position: 3549
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -158,10 +158,10 @@ Dialogue: 0,0:04:43.72,0:04:49.04,NanohaW Dialogue1,,0,0,0,,The four forwards, a
 Dialogue: 0,0:04:49.04,0:04:51.84,NanohaW Dialogue1,,0,0,0,,At the moment, they are standing by in the lobby.
 Dialogue: 0,0:04:51.84,0:04:54.14,NanohaW Dialogue1,,0,0,0,,Really? That was rather fast.
 Dialogue: 0,0:04:54.14,0:04:59.52,NanohaW Dialogue1,,0,0,0,,In that case, Nanoha, Fate,\Nlet’s greet everyone in the unit.
-Dialogue: 1,0:05:01.60,0:05:06.64,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 3
-Dialogue: 0,0:05:01.60,0:05:06.64,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 3
-Dialogue: 1,0:05:01.60,0:05:06.64,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Gathering of Troops
-Dialogue: 0,0:05:01.60,0:05:06.64,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Gathering of Troops
+Dialogue: 1,0:05:01.60,0:05:06.60,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 3
+Dialogue: 0,0:05:01.60,0:05:06.60,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 3
+Dialogue: 1,0:05:01.60,0:05:06.60,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Gathering of Troops
+Dialogue: 0,0:05:01.60,0:05:06.60,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Gathering of Troops
 Dialogue: 0,0:05:20.00,0:05:26.97,NanohaW Dialogue1,,0,0,0,,I’m Riot Force 6’s director, this unit’s commanding officer, Hayate Yagami.
 Dialogue: 0,0:05:30.64,0:05:35.10,NanohaW Dialogue1,,0,0,0,,As a unit of the Time-Space Administrative Bureau,\Nthe protectors of peace and law,
 Dialogue: 0,0:05:35.10,0:05:42.02,NanohaW Dialogue1,,0,0,0,,it is our mission and responsibility to take on many cases to protect the people we serve.

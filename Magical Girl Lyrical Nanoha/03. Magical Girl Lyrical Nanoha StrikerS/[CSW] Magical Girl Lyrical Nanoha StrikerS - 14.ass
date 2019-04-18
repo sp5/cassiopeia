@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 434
-Active Line: 438
-Video Position: 35632
+Scroll Position: 442
+Active Line: 444
+Video Position: 36347
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -111,8 +111,8 @@ Dialogue: 3,0:02:25.24,0:02:27.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur
 Dialogue: 2,0:02:25.24,0:02:27.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)}Nanoha
 Dialogue: 1,0:02:25.24,0:02:27.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)}Nanoha
 Dialogue: 0,0:02:25.24,0:02:27.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)}Nanoha
-Dialogue: 1,0:03:26.63,0:03:31.67,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 14
-Dialogue: 0,0:03:26.63,0:03:31.67,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 14
+Dialogue: 1,0:03:26.64,0:03:31.64,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 14
+Dialogue: 0,0:03:26.64,0:03:31.64,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 14
 Dialogue: 0,0:03:33.10,0:03:34.98,NanohaW Dialogue1,,0,0,0,,Okay, everybody come here.
 Dialogue: 0,0:03:35.94,0:03:37.76,NanohaW Dialogue1,,0,0,0,,Morning practice is done for the day.
 Dialogue: 0,0:03:37.76,0:03:38.48,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!

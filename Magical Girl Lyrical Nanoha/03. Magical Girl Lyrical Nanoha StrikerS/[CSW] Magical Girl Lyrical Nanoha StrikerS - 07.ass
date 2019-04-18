@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 369
-Active Line: 372
-Video Position: 33917
+Scroll Position: 388
+Active Line: 393
+Video Position: 36347
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,10 +137,10 @@ Dialogue: 0,0:03:49.12,0:03:52.07,NanohaW Dialogue1,,0,0,0,,Er... Dr. Shamal?
 Dialogue: 0,0:03:52.07,0:03:55.54,NanohaW Dialogue1,,0,0,0,,I’ve been wondering for a while now... what’s in that box?
 Dialogue: 0,0:03:58.06,0:03:58.86,NanohaW Dialogue1,,0,0,0,,This?
 Dialogue: 0,0:04:00.27,0:04:02.72,NanohaW Dialogue1,,0,0,0,,They’re the captains’ “work clothes.”
-Dialogue: 1,0:04:02.71,0:04:07.74,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,267.75)\blur0.5\bord0}Episode 7
-Dialogue: 0,0:04:02.71,0:04:07.74,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,267.75)\blur5\c&H8C0062&}Episode 7
-Dialogue: 1,0:04:02.71,0:04:07.74,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,535.5)\blur0.5\bord0}Hotel Augusta
-Dialogue: 0,0:04:02.71,0:04:07.74,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,535.5)\blur5\c&H8C0062&}Hotel Augusta
+Dialogue: 1,0:04:02.72,0:04:07.72,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,267.75)\blur0.5\bord0}Episode 7
+Dialogue: 0,0:04:02.72,0:04:07.72,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,267.75)\blur5\c&H8C0062&}Episode 7
+Dialogue: 1,0:04:02.72,0:04:07.72,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,535.5)\blur0.5\bord0}Hotel Augusta
+Dialogue: 0,0:04:02.72,0:04:07.72,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,535.5)\blur5\c&H8C0062&}Hotel Augusta
 Dialogue: 1,0:04:09.30,0:04:13.12,NanohaW Dialogue2,,0,0,0,,{\blur0.75\b1\pos(640,579)\fad(491,534)\bord0\c&HDAD5D8&}Hotel Augusta{\b0}
 Dialogue: 0,0:04:09.30,0:04:13.12,NanohaW Dialogue2,,0,0,0,,{\blur0.75\b1\pos(640,579)\fad(575,534)\c&H000000&\1a&HFF&\t(0,575,\1a&H00&)\t(3286,3820,\1a&HFF&)}Hotel Augusta{\b0}
 Dialogue: 0,0:04:14.14,0:04:15.30,NanohaW Dialogue1,,0,0,0,,It’s a pleasure to have you.

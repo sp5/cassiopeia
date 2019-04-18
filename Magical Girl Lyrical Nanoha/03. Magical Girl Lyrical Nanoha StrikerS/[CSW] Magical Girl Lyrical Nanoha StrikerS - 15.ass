@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 436
-Active Line: 438
-Video Position: 33769
+Scroll Position: 435
+Active Line: 440
+Video Position: 36348
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -145,8 +145,8 @@ Dialogue: 0,0:03:40.64,0:03:42.39,NanohaW Dialogue1,,0,0,0,,Oh, yes, ma’am.
 Dialogue: 0,0:03:43.16,0:03:46.12,NanohaW Dialogue1,,0,0,0,,A light mock battle, one-on-one.
 Dialogue: 0,0:03:46.12,0:03:49.25,NanohaW Dialogue1,,0,0,0,,I want you to see how much Subaru’s grown.
 Dialogue: 0,0:03:49.25,0:03:50.66,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
-Dialogue: 1,0:03:55.54,0:04:00.55,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 15
-Dialogue: 0,0:03:55.54,0:04:00.55,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 15
+Dialogue: 1,0:03:55.54,0:04:00.54,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 15
+Dialogue: 0,0:03:55.54,0:04:00.54,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 15
 Dialogue: 0,0:04:21.70,0:04:22.78,NanohaW Device1,,0,0,0,,Storm Tooth
 Dialogue: 0,0:04:26.81,0:04:27.80,NanohaW Device1,,0,0,0,,Protection
 Dialogue: 0,0:04:52.39,0:04:53.60,NanohaW Dialogue1,,0,0,0,,I see.

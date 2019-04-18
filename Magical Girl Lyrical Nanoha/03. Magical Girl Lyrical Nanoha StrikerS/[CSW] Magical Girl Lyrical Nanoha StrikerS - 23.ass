@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 313
-Active Line: 317
-Video Position: 34356
+Scroll Position: 257
+Active Line: 259
+Video Position: 24795
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,6 +36,7 @@ Style: NanohaW Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000
 Style: Nanoha StrikerS Title1,Bodoni Twelve ITC Std,72,&H00E4CBE0,&H000000FF,&H108C0062,&H60890B65,0,0,0,0,100,100,0,0,1,4.5,0,2,91,91,22,1
 Style: Nanoha StrikerS Title2,Bodoni Twelve ITC Std,72,&H00EFF3F7,&H000000FF,&H00183ACD,&H60203DC1,0,0,0,0,100,100,0,0,1,4.5,0,2,91,91,22,1
 Style: NanohaW Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,40,1
+Style: NanohaW Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,18,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -154,8 +155,8 @@ Dialogue: 0,0:04:14.23,0:04:15.93,NanohaW Dialogue1,,0,0,0,,Stay put.
 Dialogue: 0,0:04:15.93,0:04:20.90,NanohaW Dialogue1,,0,0,0,,The Assault Team will secure you\Nand take you to a safe place.
 Dialogue: 0,0:04:20.90,0:04:23.13,NanohaW Device1,,0,0,0,,Sealing
 Dialogue: 0,0:04:24.07,0:04:27.64,NanohaW Dialogue1,,0,0,0,,We’re going to stop this ship.
-Dialogue: 1,0:04:34.11,0:04:39.15,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 23
-Dialogue: 0,0:04:34.11,0:04:39.15,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 23
+Dialogue: 1,0:04:34.12,0:04:39.15,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 23
+Dialogue: 0,0:04:34.12,0:04:39.15,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 23
 Dialogue: 0,0:04:44.68,0:04:46.08,NanohaW Device1,,0,0,0,,Master.
 Dialogue: 0,0:04:46.09,0:04:47.29,NanohaW Dialogue1,,0,0,0,,I’m fine.
 Dialogue: 0,0:04:47.29,0:04:49.79,NanohaW Dialogue1,,0,0,0,,Maintain Blaster 1.
@@ -234,7 +235,8 @@ Dialogue: 0,0:10:39.94,0:10:42.38,NanohaW Narration1,,0,0,0,,{\pos(960,20)}until
 Dialogue: 0,0:10:42.38,0:10:44.41,NanohaW Narration1,,0,0,0,,{\pos(320,20)}We need to hurry up, kill her,\Nand move on to the next one!
 Dialogue: 0,0:10:46.53,0:10:47.62,NanohaW Narration1,,0,0,0,,Found her.
 Dialogue: 0,0:10:56.20,0:10:58.27,NanohaW Device1,,0,0,20,,They’ve confirmed our position.
-Dialogue: 0,0:10:58.27,0:11:00.28,NanohaW Device1,,0,0,20,,They are moving in our direction.
+Dialogue: 0,0:10:58.27,0:11:00.28,NanohaW Device1,,0,0,20,,They are bearing down on us at 3 o’clock.
+Dialogue: 0,0:10:58.27,0:11:00.28,NanohaW Device2,,0,0,20,,{\pos(640,595)}They are moving in our direction.
 Dialogue: 0,0:11:00.92,0:11:05.34,NanohaW Dialogue1,,0,0,0,,Shooter and silhouette control is okay.\NMaintain present status.
 Dialogue: 0,0:11:05.34,0:11:07.55,NanohaW Dialogue1,,0,0,0,,All that’s left is to take them out here.
 Dialogue: 0,0:11:07.55,0:11:08.71,NanohaW Device1,,0,0,20,,Yes.
@@ -296,8 +298,9 @@ Dialogue: 0,0:16:58.65,0:17:00.93,NanohaW Device1,,0,0,20,,Just as rehearsed.
 Dialogue: 0,0:17:01.53,0:17:03.12,NanohaW Dialogue1,,0,0,0,,Mach Caliber?
 Dialogue: 0,0:17:03.12,0:17:06.10,NanohaW Device1,,0,0,20,,We can still take actions, you and I.
 Dialogue: 0,0:17:07.24,0:17:10.16,NanohaW Device1,,0,0,20,,We can still fight, so why abandon now?
-Dialogue: 0,0:17:11.33,0:17:14.14,NanohaW Device1,,0,0,20,,You taught me the reason of my being here,
-Dialogue: 0,0:17:14.14,0:17:18.38,NanohaW Device1,,0,0,20,,my strength and power which you adore so much.
+Dialogue: 0,0:17:11.33,0:17:14.14,NanohaW Device1,,0,0,20,,You taught me the reason of my being here: 
+Dialogue: 0,0:17:14.14,0:17:18.38,NanohaW Device1,,0,0,20,,your aspiration to become strong.
+Dialogue: 0,0:17:14.14,0:17:18.38,NanohaW Device2,,0,0,20,,{\pos(640,557)}my strength and power which you adore so much.
 Dialogue: 0,0:17:18.38,0:17:20.83,NanohaW Device1,,0,0,20,,Don’t make everything a lie.
 Dialogue: 0,0:17:22.26,0:17:28.30,NanohaW Dialogue1,,0,0,0,,When a war or a disaster, something bad like that happens,
 Dialogue: 0,0:17:28.30,0:17:35.89,NanohaW Dialogue1,,0,0,0,,I want to be able to save people\Nwho are sad, in pain, and shouting “Save me!”
@@ -353,7 +356,8 @@ Dialogue: 0,0:23:00.37,0:23:03.21,NanohaW Dialogue1,,0,0,0,,She’s smart but se
 Dialogue: 0,0:23:03.21,0:23:05.40,NanohaW Dialogue1,,0,0,0,,She hasn’t changed since she was a kid.
 Dialogue: 0,0:23:05.40,0:23:07.88,NanohaW Dialogue1,,0,0,0,,I’ve just got one question.
 Dialogue: 0,0:23:08.70,0:23:16.64,NanohaW Dialogue1,,0,0,0,,Was it on {\i1}your{\i0} orders that my men and I were killed eight years ago?
-Dialogue: 0,0:23:17.95,0:23:25.05,NanohaW Dialogue1,,0,0,0,,What about the justice of ours that we spoke of, where is it now?
+Dialogue: 0,0:23:17.95,0:23:22.62,NanohaW Dialogue1,,0,0,0,,What about the justice of ours that we spoke of?
+Dialogue: 0,0:23:22.62,0:23:25.05,NanohaW Dialogue1,,0,0,0,,Where is it now?
 Dialogue: 0,0:23:28.43,0:23:34.84,Nanoha ED,,0,0,0,,Etched into this amulet, these precious times
 Dialogue: 0,0:23:34.84,0:23:40.77,Nanoha ED,,0,0,0,,In my precious days
 Dialogue: 0,0:23:52.90,0:23:56.54,Nanoha ED,,0,0,0,,“The bluebird ran away”

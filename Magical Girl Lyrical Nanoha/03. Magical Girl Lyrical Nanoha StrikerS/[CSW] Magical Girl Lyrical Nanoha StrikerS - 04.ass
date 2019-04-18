@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 391
-Active Line: 394
-Video Position: 33916
+Scroll Position: 89
+Active Line: 93
+Video Position: 3549
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -131,10 +131,10 @@ Dialogue: 0,0:03:22.09,0:03:28.97,NanohaW Narration1,,0,0,0,,As I’m on duty tw
 Dialogue: 0,0:03:28.97,0:03:33.94,NanohaW Narration1,,0,0,0,,But I’m still planning on asking for leave, so I can return home on Mom’s anniversary.
 Dialogue: 0,0:03:37.44,0:03:39.32,NanohaW Dialogue1,,0,0,0,,Let’s go all out again today!
 Dialogue: 0,0:03:40.98,0:03:45.40,NanohaW Narration1,,0,0,0,,See ya! I’ll send another letter later.\NLove, Subaru.
-Dialogue: 1,0:03:45.40,0:03:50.45,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 4
-Dialogue: 0,0:03:45.40,0:03:50.45,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 4
-Dialogue: 1,0:03:45.40,0:03:50.45,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}First Alert
-Dialogue: 0,0:03:45.40,0:03:50.45,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}First Alert
+Dialogue: 1,0:03:45.40,0:03:50.46,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 4
+Dialogue: 0,0:03:45.40,0:03:50.46,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 4
+Dialogue: 1,0:03:45.40,0:03:50.46,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}First Alert
+Dialogue: 0,0:03:45.40,0:03:50.46,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}First Alert
 Dialogue: 0,0:03:50.46,0:03:52.42,NanohaW Dialogue1,,0,0,0,,Okay, fall in!
 Dialogue: 0,0:03:53.54,0:03:54.20,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
 Dialogue: 0,0:03:58.75,0:04:02.43,NanohaW Dialogue1,,0,0,0,,We’ll do one last exercise before we wrap up this morning’s training.

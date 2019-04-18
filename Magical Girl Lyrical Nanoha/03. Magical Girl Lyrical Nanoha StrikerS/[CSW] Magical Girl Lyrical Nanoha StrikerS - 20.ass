@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 390
-Active Line: 393
-Video Position: 34356
+Scroll Position: 99
+Active Line: 103
+Video Position: 4790
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -139,10 +139,10 @@ Dialogue: 0,0:03:01.11,0:03:05.13,NanohaW Dialogue1,,0,0,0,,The ship returning f
 Dialogue: 0,0:03:05.99,0:03:10.91,NanohaW Dialogue1,,0,0,0,,From the age of Ancient Belka, the ultimate physical weapon,
 Dialogue: 0,0:03:10.91,0:03:13.84,NanohaW Dialogue1,,0,0,0,,the ship of the holy one that rules heaven and earth,
 Dialogue: 0,0:03:13.84,0:03:17.43,NanohaW Dialogue1,,0,0,0,,the {\i1}Holy King’s Cradle.{\i0}
-Dialogue: 1,0:03:19.75,0:03:24.83,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 20
-Dialogue: 0,0:03:19.75,0:03:24.83,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 20
-Dialogue: 1,0:03:19.75,0:03:24.83,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Unlimited Desire
-Dialogue: 0,0:03:19.75,0:03:24.83,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Unlimited Desire
+Dialogue: 1,0:03:19.76,0:03:24.80,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 20
+Dialogue: 0,0:03:19.76,0:03:24.80,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 20
+Dialogue: 1,0:03:19.76,0:03:24.80,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Unlimited Desire
+Dialogue: 0,0:03:19.76,0:03:24.80,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Unlimited Desire
 Dialogue: 0,0:03:25.77,0:03:29.23,NanohaW Dialogue1,,0,0,0,,This is the situation I wanted to avoid at all costs.
 Dialogue: 0,0:03:29.23,0:03:33.36,NanohaW Dialogue1,,0,0,0,,It’s the Church’s—no, it’s my fault.
 Dialogue: 0,0:03:33.36,0:03:35.65,NanohaW Dialogue1,,0,0,0,,My interpretation of the prophecy was insufficient.

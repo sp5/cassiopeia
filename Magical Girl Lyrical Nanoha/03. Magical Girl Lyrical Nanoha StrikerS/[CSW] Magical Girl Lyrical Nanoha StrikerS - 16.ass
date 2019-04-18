@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 380
-Active Line: 384
-Video Position: 34393
+Scroll Position: 395
+Active Line: 398
+Video Position: 36367
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -91,32 +91,32 @@ Dialogue: 0,0:01:44.78,0:01:51.44,Nanoha OP,Song,0,0,0,,The door to the truth wi
 Dialogue: 0,0:01:51.78,0:01:58.46,Nanoha OP,Song,0,0,0,,No matter what kind of cold darkness binds me
 Dialogue: 0,0:01:58.46,0:02:03.80,Nanoha OP,Song,0,0,0,,Because I want to know
 Dialogue: 0,0:02:03.80,0:02:08.72,Nanoha OP,Song,0,0,0,,I won’t be stopped
-Dialogue: 2,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
-Dialogue: 1,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
-Dialogue: 0,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
-Dialogue: 2,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
-Dialogue: 1,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
-Dialogue: 0,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
-Dialogue: 3,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
-Dialogue: 2,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
-Dialogue: 1,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
-Dialogue: 0,0:02:26.03,0:02:26.24,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
-Dialogue: 2,0:02:26.24,0:02:28.98,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)}Magical Girl
-Dialogue: 1,0:02:26.24,0:02:28.98,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)}Magical Girl
-Dialogue: 0,0:02:26.24,0:02:28.98,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)}Magical Girl
-Dialogue: 2,0:02:26.24,0:02:28.98,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)}Lyrical
-Dialogue: 1,0:02:26.24,0:02:28.98,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)}Lyrical
-Dialogue: 0,0:02:26.24,0:02:28.98,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&}Lyrical
-Dialogue: 3,0:02:26.24,0:02:28.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)}Nanoha
-Dialogue: 2,0:02:26.24,0:02:28.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)}Nanoha
-Dialogue: 1,0:02:26.24,0:02:28.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)}Nanoha
-Dialogue: 0,0:02:26.24,0:02:28.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)}Nanoha
-Dialogue: 1,0:02:28.99,0:02:34.02,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,229)\bord0}Episode 16
-Dialogue: 0,0:02:28.99,0:02:34.02,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,229)\c&H8C0062&}Episode 16
-Dialogue: 1,0:02:28.99,0:02:34.02,Nanoha StrikerS Title1,Title,0,0,0,,{\fs89\pos(640,572.25)\bord0\blur0.5}That Day, Riot Force 6
-Dialogue: 0,0:02:28.99,0:02:34.02,Nanoha StrikerS Title1,Title,0,0,0,,{\fs89\pos(640,572.25)\blur5\c&H8C0062&}That Day, Riot Force 6
-Dialogue: 1,0:02:28.99,0:02:34.02,Nanoha StrikerS Title1,Title,0,0,0,,{\pos(640,648.25)\bord0\blur0.5}(part 1)
-Dialogue: 0,0:02:28.99,0:02:34.02,Nanoha StrikerS Title1,Title,0,0,0,,{\pos(640,648.25)\blur5\c&H8C0062&}(part 1)
+Dialogue: 2,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
+Dialogue: 1,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
+Dialogue: 0,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Magical Girl
+Dialogue: 2,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
+Dialogue: 1,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
+Dialogue: 0,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Lyrical
+Dialogue: 3,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 2,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 1,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 0,0:02:26.07,0:02:26.28,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)\clip(383.599,85,350,216)\t(\clip(383.599,85,940,216))}Nanoha
+Dialogue: 2,0:02:26.28,0:02:29.00,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 1,0:02:26.28,0:02:29.00,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 0,0:02:26.28,0:02:29.00,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)}Magical Girl
+Dialogue: 2,0:02:26.28,0:02:29.00,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 1,0:02:26.28,0:02:29.00,Nanoha StrikerS Logo2,Song,0,0,0,,{\c&HA6E8FC&\blur0.5\pos(397.599,172)}Lyrical
+Dialogue: 0,0:02:26.28,0:02:29.00,Nanoha StrikerS Logo2,Song,0,0,0,,{\bord5.1\c&H3D3046&\blur0.5\pos(397.599,172)\3c&H3D3046&}Lyrical
+Dialogue: 3,0:02:26.28,0:02:29.00,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord0\blur0.5\pos(575.877,143)}Nanoha
+Dialogue: 2,0:02:26.28,0:02:29.00,Nanoha StrikerS Logo3,Song,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(575.877,143)}Nanoha
+Dialogue: 1,0:02:26.28,0:02:29.00,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\pos(575.877,143)}Nanoha
+Dialogue: 0,0:02:26.28,0:02:29.00,Nanoha StrikerS Logo3,Song,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(575.877,143)}Nanoha
+Dialogue: 1,0:02:29.00,0:02:34.00,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,229)\bord0}Episode 16
+Dialogue: 0,0:02:29.00,0:02:34.00,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,229)\c&H8C0062&}Episode 16
+Dialogue: 1,0:02:29.00,0:02:34.00,Nanoha StrikerS Title1,Title,0,0,0,,{\fs89\pos(640,572.25)\bord0\blur0.5}That Day, Riot Force 6
+Dialogue: 0,0:02:29.00,0:02:34.00,Nanoha StrikerS Title1,Title,0,0,0,,{\fs89\pos(640,572.25)\blur5\c&H8C0062&}That Day, Riot Force 6
+Dialogue: 1,0:02:29.00,0:02:34.00,Nanoha StrikerS Title1,Title,0,0,0,,{\pos(640,648.25)\bord0\blur0.5}(part 1)
+Dialogue: 0,0:02:29.00,0:02:34.00,Nanoha StrikerS Title1,Title,0,0,0,,{\pos(640,648.25)\blur5\c&H8C0062&}(part 1)
 Dialogue: 1,0:02:34.08,0:02:38.82,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.75\fad(533,453)\pos(640,579)}September 11, Riot Force 6 HQ, 7:14 PM
 Dialogue: 0,0:02:34.08,0:02:38.82,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(533,453)\pos(640,579)\c&H000000&\1a&HFF&\t(0,533,\1a&H00&)\t(4287,4740,\1a&HFF&)}September 11, Riot Force 6 HQ, 7:14 PM
 Dialogue: 0,0:02:38.40,0:02:42.60,NanohaW Dialogue1,,0,0,20,,So, tomorrow the public press conference finally begins.
@@ -438,8 +438,8 @@ Dialogue: 0,0:24:47.50,0:24:53.73,Nanoha ED,,0,0,0,,Etched into this amulet, the
 Dialogue: 0,0:24:53.73,0:24:58.77,Nanoha ED,,0,0,0,,Soft and secret pieces of my memory
 Dialogue: 0,0:24:58.77,0:25:04.98,Nanoha ED,,0,0,0,,No matter what type of tomorrow it is, I can walk towards it
 Dialogue: 0,0:25:04.98,0:25:10.63,Nanoha ED,,0,0,0,,In my precious days
-Dialogue: 1,0:25:16.77,0:25:21.81,Nanoha Title2,,0,0,0,,{\an1\fad(0,457)\bord0\blur0.5\pos(134.42,292.542)}Next\NEpisode\NPreview
-Dialogue: 0,0:25:16.77,0:25:21.81,Nanoha Title2,,0,0,0,,{\an1\fad(0,457)\blur0.5\c&HFFFFFF&\pos(134.42,292.542)\t(4583,5040,\1a&HFF&)}Next\NEpisode\NPreview
+Dialogue: 1,0:25:16.78,0:25:21.81,Nanoha Title2,,0,0,0,,{\an1\fad(0,457)\bord0\blur0.5\pos(134.42,292.542)}Next\NEpisode\NPreview
+Dialogue: 0,0:25:16.78,0:25:21.81,Nanoha Title2,,0,0,0,,{\an1\fad(0,457)\blur0.5\c&HFFFFFF&\pos(134.42,292.542)\t(4583,5040,\1a&HFF&)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:18.74,0:25:20.32,NanohaW Narration1,,0,0,0,,Things I wanted to protect,
 Dialogue: 0,0:25:20.32,0:25:21.82,NanohaW Narration1,,0,0,0,,and things I had to protect.
 Dialogue: 0,0:25:21.82,0:25:25.35,NanohaW Narration1,,0,0,0,,Things that are starting to crack, and things that will disappear.

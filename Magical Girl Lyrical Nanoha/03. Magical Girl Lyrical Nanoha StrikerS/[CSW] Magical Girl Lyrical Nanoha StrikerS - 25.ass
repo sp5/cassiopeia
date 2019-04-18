@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 343
-Active Line: 345
-Video Position: 33769
+Scroll Position: 138
+Active Line: 142
+Video Position: 7206
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -179,10 +179,10 @@ Dialogue: 0,0:04:45.47,0:04:49.18,NanohaW Dialogue1,,0,0,0,,Excuse me! This is L
 Dialogue: 0,0:04:49.18,0:04:50.35,NanohaW Dialogue1,,0,0,0,,Alto?
 Dialogue: 0,0:04:50.35,0:04:54.27,NanohaW Dialogue1,,0,0,0,,Commander Yagami, wait just a little longer.
 Dialogue: 0,0:04:55.44,0:04:58.63,NanohaW Dialogue1,,0,0,0,,I have an important item for you!
-Dialogue: 1,0:05:00.52,0:05:05.53,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 25
-Dialogue: 0,0:05:00.52,0:05:05.53,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 25
-Dialogue: 1,0:05:00.52,0:05:05.53,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Final Limit
-Dialogue: 0,0:05:00.52,0:05:05.53,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Final Limit
+Dialogue: 1,0:05:00.52,0:05:05.56,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 25
+Dialogue: 0,0:05:00.52,0:05:05.56,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 25
+Dialogue: 1,0:05:00.52,0:05:05.56,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Final Limit
+Dialogue: 0,0:05:00.52,0:05:05.56,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Final Limit
 Dialogue: 0,0:05:18.88,0:05:20.11,NanohaW Dialogue1,,0,0,0,,Vivio.
 Dialogue: 0,0:05:20.11,0:05:22.00,NanohaW Dialogue1,,0,0,0,,Don’t say my name!
 Dialogue: 0,0:05:25.70,0:05:26.72,NanohaW Device1,,0,0,0,,Chain Bind

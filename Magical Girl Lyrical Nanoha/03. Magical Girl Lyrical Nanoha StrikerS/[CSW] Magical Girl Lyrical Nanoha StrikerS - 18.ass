@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 421
-Active Line: 425
-Video Position: 34357
+Scroll Position: 114
+Active Line: 115
+Video Position: 5386
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -153,10 +153,10 @@ Dialogue: 0,0:03:29.26,0:03:33.23,NanohaW Dialogue1,,0,0,0,,Major Auris, may I s
 Dialogue: 0,0:03:33.23,0:03:35.80,NanohaW Dialogue1,,0,0,0,,There’s something I want to ask you.
 Dialogue: 0,0:03:35.80,0:03:39.56,NanohaW Dialogue1,,0,0,0,,I have a conference now. I’ll contact you when I’m free.
 Dialogue: 0,0:03:39.56,0:03:40.34,NanohaW Dialogue1,,0,0,0,,Very well.
-Dialogue: 1,0:03:44.60,0:03:49.64,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 18
-Dialogue: 0,0:03:44.60,0:03:49.64,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 18
-Dialogue: 1,0:03:44.60,0:03:49.64,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Wings Anew
-Dialogue: 0,0:03:44.60,0:03:49.64,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Wings Anew
+Dialogue: 1,0:03:44.62,0:03:49.62,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 18
+Dialogue: 0,0:03:44.62,0:03:49.62,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 18
+Dialogue: 1,0:03:44.62,0:03:49.62,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Wings Anew
+Dialogue: 0,0:03:44.62,0:03:49.62,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Wings Anew
 Dialogue: 0,0:04:00.41,0:04:02.93,NanohaW Dialogue1,,0,0,0,,It’s a mess.
 Dialogue: 0,0:04:03.87,0:04:07.10,NanohaW Dialogue1,,0,0,0,,Lt. Signum, how were things at the hospital?
 Dialogue: 0,0:04:07.10,0:04:10.76,NanohaW Dialogue1,,0,0,0,,All the wounded members have made it through the worst.

@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 373
-Active Line: 378
-Video Position: 33940
+Scroll Position: 372
+Active Line: 377
+Video Position: 33683
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -140,10 +140,10 @@ Dialogue: 0,0:05:22.09,0:05:28.54,NanohaW Narration1,,0,0,0,,She probably doesn�
 Dialogue: 0,0:05:30.50,0:05:33.28,NanohaW Dialogue1,,0,0,0,,Dammit, this pisses me off!
 Dialogue: 0,0:05:33.28,0:05:35.00,NanohaW Dialogue1,,0,0,0,,Stupid cross-marked midget!
 Dialogue: 0,0:05:35.00,0:05:38.60,NanohaW Dialogue1,,0,0,0,,Next time I see you, I’m gonna burn you!
-Dialogue: 1,0:05:38.60,0:05:43.61,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 13
-Dialogue: 0,0:05:38.60,0:05:43.61,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 13
-Dialogue: 1,0:05:38.60,0:05:43.61,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}The Reason I Live
-Dialogue: 0,0:05:38.60,0:05:43.61,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}The Reason I Live
+Dialogue: 1,0:05:38.60,0:05:43.60,Nanoha StrikerS Title1,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 13
+Dialogue: 0,0:05:38.60,0:05:43.60,Nanoha StrikerS Title1,,0,0,0,,{\blur5\pos(640,267.75)\c&H8C0062&}Episode 13
+Dialogue: 1,0:05:38.60,0:05:43.60,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Raison d’Être
+Dialogue: 0,0:05:38.60,0:05:43.60,Nanoha StrikerS Title1,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Raison d’Être
 Dialogue: 0,0:05:44.54,0:05:48.57,NanohaW Dialogue1,,0,0,0,,I’m sorry, Signum, for having you drive me like this.
 Dialogue: 0,0:05:48.57,0:05:52.27,NanohaW Dialogue1,,0,0,0,,Why? I’m borrowing this car from Testarossa anyway.
 Dialogue: 0,0:05:52.27,0:05:55.15,NanohaW Dialogue1,,0,0,0,,And Sister Schach is waiting there.
@@ -416,7 +416,7 @@ Dialogue: 0,0:23:04.88,0:23:06.38,NanohaW Dialogue1,,0,0,0,,This is the life tha
 Dialogue: 0,0:23:07.15,0:23:10.59,NanohaW Dialogue1,,0,0,0,,the first Reinforce, left me.
 Dialogue: 0,0:23:15.35,0:23:21.88,NanohaW Dialogue1,,0,0,0,,I don’t want anyone else in the world to be sad or have regrets like that.
 Dialogue: 0,0:23:22.73,0:23:24.83,NanohaW Dialogue1,,0,0,0,,This is my purpose,
-Dialogue: 0,0:23:24.83,0:23:28.03,NanohaW Dialogue1,,0,0,0,,the reason I live.
+Dialogue: 0,0:23:24.83,0:23:28.03,NanohaW Dialogue1,,0,0,0,,my {\i1}raison d’être.{\i0}
 Dialogue: 0,0:23:34.64,0:23:38.13,Nanoha ED,Endsong,0,0,0,,Without end, the dreams continue to weave
 Dialogue: 0,0:23:38.13,0:23:41.47,Nanoha ED,Endsong,0,0,0,,Surpassing thousands of nights
 Dialogue: 0,0:23:41.47,0:23:45.18,Nanoha ED,Endsong,0,0,0,,Like a prayer, the journey continues
