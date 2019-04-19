@@ -167,7 +167,7 @@ Dialogue: 0,0:05:56.07,0:05:56.79,NanohaW Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:05:56.79,0:05:59.79,NanohaW Dialogue1,,0,0,0,,Are you staying in the office today, Nanoha?
 Dialogue: 0,0:05:59.79,0:06:00.71,NanohaW Dialogue1,,0,0,0,,That’s right.
 Dialogue: 0,0:06:01.50,0:06:06.17,NanohaW Dialogue1,,0,0,0,,Lightning Squad is out investigating today,\Nand the lieutenants are off.
-Dialogue: 0,0:06:06.17,0:06:09.76,NanohaW Dialogue1,,0,0,0,,You and I are the only\Nfront-line soldiers here today, Subaru.
+Dialogue: 0,0:06:06.17,0:06:09.76,NanohaW Dialogue1,,0,0,0,,You and I are the only\Nfront-line troops here today, Subaru.
 Dialogue: 0,0:06:10.38,0:06:13.14,NanohaW Dialogue1,,0,0,0,,I’ll pray nothing happens.
 Dialogue: 0,0:06:13.14,0:06:17.06,NanohaW Dialogue1,,0,0,0,,By the way, what’s Vivio doing during the day?
 Dialogue: 0,0:06:17.88,0:06:19.98,NanohaW Dialogue1,,0,0,0,,She’s staying in her room.
@@ -224,7 +224,7 @@ Dialogue: 0,0:08:44.78,0:08:46.13,NanohaW Dialogue1,,0,0,0,,Nice to meetcha.
 Dialogue: 0,0:08:49.99,0:08:51.51,NanohaW Dialogue1,,0,0,0,,Thanks.
 Dialogue: 0,0:08:52.33,0:08:53.40,NanohaW Dialogue1,,0,0,0,,Have a seat.
 Dialogue: 0,0:08:53.40,0:08:55.68,NanohaW Dialogue1,,0,0,0,,No, I’ll stand here.
-Dialogue: 0,0:08:56.80,0:08:59.60,NanohaW Narration1,,0,0,0,,You told the front-line soldiers everything?
+Dialogue: 0,0:08:56.80,0:08:59.60,NanohaW Narration1,,0,0,0,,You told the front-line troops everything?
 Dialogue: 0,0:08:59.60,0:09:02.14,NanohaW Narration1,,0,0,0,,Not about the prophecy.
 Dialogue: 0,0:09:02.09,0:09:03.30,NanohaW Dialogue1,,0,0,0,,You want some too, right?
 Dialogue: 0,0:09:02.81,0:09:05.56,NanohaW Narration1,,0,0,0,,But that Surface HQ might be attacked.
@@ -381,11 +381,11 @@ Dialogue: 0,0:18:05.14,0:18:06.59,NanohaW Dialogue1,,0,0,0,,Yes, I understand.
 Dialogue: 0,0:18:06.59,0:18:12.06,NanohaW Dialogue1,,0,0,0,,“Pressure and loneliness come with that power,” is what you’re saying.
 Dialogue: 0,0:18:12.06,0:18:13.13,NanohaW Dialogue1,,0,0,0,,Yes, that’s right.
 Dialogue: 0,0:18:14.10,0:18:17.57,NanohaW Dialogue1,,0,0,0,,Anyway, so what I’m trying to say is, well...
-Dialogue: 0,0:18:18.02,0:18:23.02,NanohaW Dialogue1,,0,0,0,,I’m sure that a lot of things may happen between a commander and her front-line soldiers.
+Dialogue: 0,0:18:18.02,0:18:23.02,NanohaW Dialogue1,,0,0,0,,I’m sure that a lot of things may happen between a commander and her front-line troops.
 Dialogue: 0,0:18:23.02,0:18:30.54,NanohaW Dialogue1,,0,0,0,,But I’d like you to treat her not just as a superior,\Nbut as a person—as another girl.
 Dialogue: 0,0:18:31.46,0:18:34.29,NanohaW Dialogue1,,0,0,0,,Not just Hayate, but your captains too.
 Dialogue: 0,0:18:34.95,0:18:36.62,NanohaW Dialogue1,,0,0,0,,Roger.
-Dialogue: 0,0:18:36.62,0:18:40.18,NanohaW Dialogue1,,0,0,0,,We front-line soldiers will do the best we can.
+Dialogue: 0,0:18:36.62,0:18:40.18,NanohaW Dialogue1,,0,0,0,,We front-line troops will do the best we can.
 Dialogue: 0,0:18:45.68,0:18:47.98,NanohaW Dialogue1,,0,0,0,,I took another look at the squad data,
 Dialogue: 0,0:18:47.98,0:18:51.09,NanohaW Dialogue1,,0,0,0,,But Hayate is truly blessed to have family and staff like that.
 Dialogue: 0,0:18:51.09,0:18:51.84,NanohaW Dialogue1,,0,0,0,,Agreed.
@@ -483,7 +483,7 @@ Dialogue: 0,0:24:45.06,0:24:48.66,Nanoha ED,Endsong,0,0,0,,Watching over me
 Dialogue: 0,0:24:48.66,0:24:52.04,Nanoha ED,Endsong,0,0,0,,The thing inside my heart, overflowing
 Dialogue: 0,0:24:52.04,0:24:55.73,Nanoha ED,Endsong,0,0,0,,More than tears, I want to be loved
 Dialogue: 0,0:24:55.73,0:24:59.20,Nanoha ED,Endsong,0,0,0,,Like a prayer, the journey continues
-Dialogue: 0,0:24:59.20,0:25:05.92,Nanoha ED,Endsong,0,0,0,,Be my guide anyday, oh small jewel
+Dialogue: 0,0:24:59.20,0:25:05.92,Nanoha ED,Endsong,0,0,0,,Be my guide any day, oh small jewel
 Dialogue: 0,0:25:05.92,0:25:09.56,Nanoha ED,Endsong,0,0,0,,Spica among the stars
 Dialogue: 1,0:25:15.94,0:25:20.97,Nanoha Title2,,0,0,0,,{\an1\fad(0,494)\bord0\blur0.5\pos(134.42,292.542)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:15.94,0:25:20.93,Nanoha Title2,,0,0,0,,{\an1\fad(0,494)\blur0.5\c&HFFFFFF&\pos(134.42,292.542)\t(4496,4990,\1a&HFF&)}Next\NEpisode\NPreview
