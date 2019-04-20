@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 251
-Active Line: 254
-Video Position: 20669
+Scroll Position: 382
+Active Line: 385
+Video Position: 31507
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -117,14 +117,14 @@ Dialogue: 1,0:02:28.00,0:02:33.07,Nanoha StrikerS Title1,Title,0,0,0,,{\fs89\blu
 Dialogue: 0,0:02:28.00,0:02:33.07,Nanoha StrikerS Title1,Title,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H8C0062&}Numbers
 Dialogue: 0,0:02:54.78,0:02:56.42,NanohaW Dialogue1,first,0,0,0,,How’s this?
 Dialogue: 0,0:02:59.90,0:03:01.67,NanohaW Dialogue1,first,0,0,0,,Tia, what should we do?
-Dialogue: 0,0:03:01.67,0:03:04.36,NanohaW Dialogue1,first,0,0,0,,Our mission is to retrieve the case.
-Dialogue: 0,0:03:04.36,0:03:05.68,NanohaW Dialogue1,first,0,0,0,,We’ll fall back and draw them in.
+Dialogue: 0,0:03:01.67,0:03:04.06,NanohaW Dialogue1,first,0,0,0,,Our mission is to retrieve the case.
+Dialogue: 0,0:03:04.06,0:03:05.68,NanohaW Dialogue1,first,0,0,0,,We’ll fall back and draw them in.
 Dialogue: 0,0:03:05.68,0:03:09.24,NanohaW Dialogue1,first,0,0,0,,Lt. Vita and Command Sergeant Major Rein are on their way.
 Dialogue: 0,0:03:09.24,0:03:12.74,NanohaW Dialogue1,first,0,0,0,,If we can hook up with them,\Nwe may be able to stop them.
 Dialogue: 0,0:03:12.74,0:03:13.58,NanohaW Dialogue1,first,0,0,0,,Right?
 Dialogue: 0,0:03:13.58,0:03:14.76,NanohaW Dialogue1,first,0,0,0,,Okay.
-Dialogue: 0,0:03:14.76,0:03:15.73,NanohaW Narration1,firstitalics,0,0,0,,Alright.
-Dialogue: 0,0:03:15.73,0:03:18.11,NanohaW Narration1,firstitalics,0,0,0,,That sounds good, Subaru, Teana.
+Dialogue: 0,0:03:14.76,0:03:15.40,NanohaW Narration1,firstitalics,0,0,0,,Alright.
+Dialogue: 0,0:03:15.80,0:03:18.11,NanohaW Narration1,firstitalics,0,0,0,,That sounds good, Subaru, Teana.
 Dialogue: 0,0:03:18.84,0:03:20.71,NanohaW Narration1,firstitalics,0,0,0,,Lt. Vita!
 Dialogue: 0,0:03:20.71,0:03:22.29,NanohaW Dialogue1,first,0,0,0,,I’m here too.
 Dialogue: 0,0:03:22.29,0:03:25.89,NanohaW Dialogue1,first,0,0,0,,Both of you read the situation appropriately. Nice decision!
@@ -143,7 +143,7 @@ Dialogue: 0,0:04:00.97,0:04:02.49,NanohaW Dialogue1,first,0,0,0,,Take this!
 Dialogue: 0,0:04:15.02,0:04:16.26,NanohaW Dialogue1,first,0,0,0,,Sorry to keep you waiting.
 Dialogue: 0,0:04:16.99,0:04:19.21,NanohaW Dialogue1,first,0,0,0,,I’m glad you’re all safe.
 Dialogue: 0,0:04:21.03,0:04:24.24,NanohaW Dialogue1,first,0,0,0,,Your team is really strong, Lieutenant.
-Dialogue: 0,0:04:24.24,0:04:28.51,NanohaW Dialogue1,first,0,0,0,,But is it okay for members of the Bureau to damage public facilities like this?
+Dialogue: 0,0:04:24.24,0:04:28.51,NanohaW Dialogue1,first,0,0,0,,But is it okay for operatives of the Bureau to damage public facilities like this?
 Dialogue: 0,0:04:28.51,0:04:32.44,NanohaW Dialogue1,first,0,0,0,,Well, this place has long been abandoned anyway...
 Dialogue: 0,0:04:33.20,0:04:34.26,NanohaW Dialogue1,first,0,0,0,,Caro!
 Dialogue: 0,0:04:35.32,0:04:36.95,NanohaW Dialogue1,first,0,0,0,,Erio.
@@ -166,15 +166,15 @@ Dialogue: 0,0:05:16.44,0:05:18.95,NanohaW Dialogue1,first,0,0,0,,Thank you very 
 Dialogue: 0,0:05:18.95,0:05:22.46,NanohaW Dialogue1,first,0,0,0,,Hey, would you be able to seal the Relic for me?
 Dialogue: 0,0:05:22.46,0:05:24.63,NanohaW Dialogue1,first,0,0,0,,Yes, I can.
 Dialogue: 0,0:05:24.63,0:05:26.33,NanohaW Dialogue1,first,0,0,0,,I have an idea.
-Dialogue: 0,0:05:26.33,0:05:27.90,NanohaW Dialogue1,first,0,0,0,,Give me a hand.
-Dialogue: 0,0:05:27.90,0:05:28.88,NanohaW Dialogue1,first,0,0,0,,Okay!
+Dialogue: 0,0:05:26.33,0:05:27.36,NanohaW Dialogue1,first,0,0,0,,Give me a hand.
+Dialogue: 0,0:05:27.90,0:05:28.62,NanohaW Dialogue1,first,0,0,0,,Okay!
 Dialogue: 0,0:05:43.48,0:05:44.92,NanohaW Dialogue1,first,0,0,0,,How many left?
 Dialogue: 0,0:05:44.92,0:05:48.43,NanohaW Dialogue1,firstitalics,0,0,0,,You’ve knocked it down by nine—no, eight formations.
 Dialogue: 0,0:05:48.43,0:05:51.88,NanohaW Dialogue1,first,0,0,0,,We’ve started breaking down the illusion’s pattern.
 Dialogue: 0,0:05:51.88,0:05:53.75,NanohaW Dialogue1,first,0,0,0,,Incoming transmission from the observation team.
-Dialogue: 0,0:05:53.75,0:05:56.46,NanohaW Dialogue1,first,0,0,0,,Composite signal discrimination is proceeding as scheduled.
-Dialogue: 0,0:05:56.46,0:05:57.16,NanohaW Dialogue1,first,0,0,0,,We’re almost there!
-Dialogue: 0,0:05:57.16,0:06:00.61,NanohaW Dialogue1,first,0,0,0,,Great! You are the best operators Riot Force 6’s could have.
+Dialogue: 0,0:05:53.75,0:05:56.15,NanohaW Dialogue1,first,0,0,0,,Composite signal discrimination is proceeding as scheduled.
+Dialogue: 0,0:05:56.15,0:05:57.16,NanohaW Dialogue1,first,0,0,0,,We’re almost there!
+Dialogue: 0,0:05:57.16,0:06:00.61,NanohaW Dialogue1,first,0,0,0,,Great! You are the best operators Riot Force 6 could have.
 Dialogue: 0,0:06:01.18,0:06:03.17,NanohaW Dialogue1,first,0,0,0,,Okay, let’s keep it going.
 Dialogue: 0,0:06:03.17,0:06:04.88,NanohaW Dialogue1,first,0,0,0,,Please take care of my targeting.
 Dialogue: 0,0:06:04.88,0:06:06.05,NanohaW Dialogue1,firstitalics,0,0,0,,Yes, ma’am!
@@ -183,9 +183,9 @@ Dialogue: 0,0:06:06.20,0:06:10.49,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\fa
 Dialogue: 0,0:06:08.09,0:06:09.01,NanohaW Dialogue1,first,0,0,20,,What is it?
 Dialogue: 0,0:06:09.01,0:06:11.12,NanohaW Dialogue1,first,0,0,20,,What’s going on here?
 Dialogue: 1,0:06:11.04,0:06:16.87,NanohaW Dialogue2,Setting,0,0,0,,{\bord0\blur0.75\fad(498,494)\b1\pos(640,576)}Same place, top floor, observation room{\b0}
-Dialogue: 0,0:06:11.04,0:06:16.87,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\fad(540,494)\b1\pos(640,576)\1a&HFF&\t(0,540,\1a&H00&)\t(5336,5830,\1a&HFF&)}Same place, top floor, observation room{\b0}
+Dialogue: 0,0:06:11.04,0:06:16.87,NanohaW Dialogue2,Setting,0,0,0,,{\blur0.75\fad(540,494)\b1\pos(640,576)\1a&HFF&\t(0,540,\1a&H00&)\t(5336,5830,\1a&HFF&)\c&H000000&}Same place, top floor, observation room{\b0}
 Dialogue: 0,0:06:11.12,0:06:13.12,NanohaW Dialogue1,first,0,0,20,,This is real-time footage of the Main Office’s
-Dialogue: 0,0:06:13.12,0:06:17.04,NanohaW Dialogue1,first,0,0,20,,Antiquities Department, Riot Force 6.
+Dialogue: 0,0:06:13.12,0:06:17.04,NanohaW Dialogue1,first,0,0,20,,antiquities investigation group, Riot Force 6.
 Dialogue: 0,0:06:17.04,0:06:22.92,NanohaW Dialogue1,first,0,0,0,,What you’re seeing destroyed here are the reported A.M.F.-equipped U.F.O.s.
 Dialogue: 0,0:06:23.85,0:06:29.70,NanohaW Dialogue1,first,0,0,0,,The one performing the shooting is most likely the commander of Riot Force 6, a SS rank mage.
 Dialogue: 0,0:06:30.51,0:06:32.52,NanohaW Dialogue1,first,0,0,0,,A SS rank mage in the Ground Armed Service?
@@ -204,7 +204,7 @@ Dialogue: 0,0:07:01.48,0:07:02.94,NanohaW Dialogue1,first,0,0,0,,Yes, sir.
 Dialogue: 0,0:07:02.94,0:07:06.25,NanohaW Dialogue1,first,0,0,0,,The Hayate Yagami from the Book of Darkness Incident.
 Dialogue: 0,0:07:07.02,0:07:13.23,NanohaW Dialogue1,first,0,0,0,,The ward of Gil Graham, the man who was behind that attempted medium-scale dimensional incident.
 Dialogue: 0,0:07:13.23,0:07:15.98,NanohaW Dialogue1,first,0,0,0,,Both of them are criminals!
-Dialogue: 0,0:07:15.98,0:07:20.36,NanohaW Dialogue1,first,0,0,0,,Her suspended sentence has long since been expunged,
+Dialogue: 0,0:07:15.98,0:07:20.36,NanohaW Dialogue1,first,0,0,0,,Lt. Colonel Yagami’s suspended sentence\Nhas long since been expunged,
 Dialogue: 0,0:07:20.36,0:07:24.06,NanohaW Dialogue1,first,0,0,0,,and the incident with Admiral Graham\Nwas overlooked.
 Dialogue: 0,0:07:24.06,0:07:24.85,NanohaW Dialogue1,first,0,0,0,,So then—
 Dialogue: 0,0:07:24.85,0:07:26.06,NanohaW Dialogue1,first,0,0,0,,Irrelevant!
@@ -238,7 +238,7 @@ Dialogue: 0,0:09:09.05,0:09:12.32,NanohaW Dialogue1,first,0,0,0,,Galue, are you 
 Dialogue: 0,0:09:14.24,0:09:16.21,NanohaW Dialogue1,first,0,0,0,,You may go back.
 Dialogue: 0,0:09:16.21,0:09:18.57,NanohaW Dialogue1,first,0,0,0,,Agito is here.
 Dialogue: 0,0:09:23.90,0:09:25.36,NanohaW Dialogue1,first,0,0,0,,You too, Jirai-Oh.
-Dialogue: 0,0:09:34.76,0:09:36.20,NanohaW Dialogue1,first,0,0,0,,What?
+Dialogue: 0,0:09:34.76,0:09:36.20,NanohaW Dialogue1,first,0,0,0,,What the...?
 Dialogue: 0,0:10:20.50,0:10:21.97,NanohaW Dialogue1,first,0,0,0,,This is the end of the line.
 Dialogue: 0,0:10:24.42,0:10:25.56,NanohaW Dialogue1,first,0,0,0,,Dammit!
 Dialogue: 0,0:10:31.18,0:10:35.06,NanohaW Dialogue1,first,0,0,0,,I don’t like this. It’s like I’m beating up a little kid.
@@ -252,9 +252,9 @@ Dialogue: 0,0:11:08.27,0:11:11.62,NanohaW Dialogue1,first,0,0,0,,But are you sur
 Dialogue: 0,0:11:11.62,0:11:16.32,NanohaW Dialogue1,first,0,0,0,,The case will probably be fine,\Nbut it’ll destroy the material.
 Dialogue: 0,0:11:17.69,0:11:22.26,NanohaW Dialogue1,first,0,0,0,,According to Uno and the Doctor,\Nif that material really is the right one...
 Dialogue: 0,0:11:22.26,0:11:29.08,NanohaW Dialogue1,first,0,0,0,,If it really is the Vessel of the Holy King, then cannon fire won’t kill it. It’s okay.
-Dialogue: 0,0:11:37.76,0:11:42.61,NanohaW Dialogue1,firstitalics,0,0,0,,Quattro. Miss Lutecia and Agito were captured.
-Dialogue: 0,0:11:42.61,0:11:47.05,NanohaW Dialogue1,first,0,0,0,,Is that right?\NThat mini-knight caught them, did she?
-Dialogue: 0,0:11:47.05,0:11:49.91,NanohaW Dialogue1,firstitalics,0,0,0,,Sein is keeping an eye on them right now.
+Dialogue: 0,0:11:37.76,0:11:42.21,NanohaW Dialogue1,firstitalics,0,0,0,,Quattro. Miss Lutecia and Agito were captured.
+Dialogue: 0,0:11:42.21,0:11:46.79,NanohaW Dialogue1,first,0,0,0,,Is that right?\NThat mini-knight caught them, did she?
+Dialogue: 0,0:11:46.79,0:11:49.91,NanohaW Dialogue1,firstitalics,0,0,0,,Sein is keeping an eye on them right now.
 Dialogue: 0,0:11:49.91,0:11:51.86,NanohaW Dialogue1,first,0,0,0,,Should I give her a hand?
 Dialogue: 0,0:11:51.86,0:11:52.89,NanohaW Dialogue1,firstitalics,0,0,0,,If you please.
 Dialogue: 0,0:11:53.75,0:11:54.86,NanohaW Dialogue1,first,0,0,0,,Sein?
@@ -262,13 +262,13 @@ Dialogue: 0,0:11:54.86,0:11:57.11,NanohaW Dialogue1,first,0,0,0,,Hey there, Quat
 Dialogue: 0,0:11:57.11,0:11:59.17,NanohaW Dialogue1,firstitalics,0,0,0,,I’ll give you your orders.
 Dialogue: 0,0:11:59.17,0:12:01.90,NanohaW Dialogue1,firstitalics,0,0,0,,Do as your big sister says, okay?
 Dialogue: 0,0:12:01.90,0:12:03.64,NanohaW Dialogue1,first,0,0,0,,Hmmm... roger.
-Dialogue: 0,0:12:15.30,0:12:17.98,NanohaW Narration1,firstitalics,0,0,0,,Hi, Miss Lu!
-Dialogue: 0,0:12:17.98,0:12:19.70,NanohaW Narration1,firstitalics,0,0,0,,Quattro.
+Dialogue: 0,0:12:15.30,0:12:17.49,NanohaW Narration1,firstitalics,0,0,0,,Hi, Miss Lu!
+Dialogue: 0,0:12:17.49,0:12:19.70,NanohaW Narration1,firstitalics,0,0,0,,Quattro.
 Dialogue: 0,0:12:19.70,0:12:21.72,NanohaW Narration1,firstitalics,0,0,0,,Seems like you’re in a pinch.
-Dialogue: 0,0:12:21.72,0:12:26.04,NanohaW Narration1,firstitalics,0,0,0,,If you’d like, I’ll give you a hand.
-Dialogue: 0,0:12:26.04,0:12:27.18,NanohaW Narration1,firstitalics,0,0,0,,Yes, please.
+Dialogue: 0,0:12:21.72,0:12:25.63,NanohaW Narration1,firstitalics,0,0,0,,If you’d like, I’ll give you a hand.
+Dialogue: 0,0:12:25.63,0:12:27.18,NanohaW Narration1,firstitalics,0,0,0,,Yes, please.
 Dialogue: 0,0:12:27.87,0:12:29.10,NanohaW Narration1,firstitalics,0,0,0,,Okay!
-Dialogue: 0,0:12:29.10,0:12:36.42,NanohaW Narration1,firstitalics,0,0,0,,Then Miss, would you give my message to that red knight?
+Dialogue: 0,0:12:29.10,0:12:36.42,NanohaW Narration1,firstitalics,0,0,0,,Then, Miss, would you give my message to that red knight?
 Dialogue: 0,0:12:39.06,0:12:40.46,NanohaW Dialogue1,first,0,0,0,,I can see it.
 Dialogue: 0,0:12:41.19,0:12:43.15,NanohaW Dialogue1,first,0,0,0,,Thank goodness! The helicopter is safe.
 Dialogue: 0,0:12:45.80,0:12:48.20,NanohaW Dialogue1,first,0,0,0,,I’ve spotted an energy signal inside the city!
@@ -279,8 +279,7 @@ Dialogue: 0,0:13:03.66,0:13:05.73,NanohaW Dialogue1,first,0,0,0,,Inherent Skill:
 Dialogue: 0,0:13:05.73,0:13:07.66,NanohaW Dialogue1,Numbers,0,0,0,,executing Heavy Barrel.
 Dialogue: 0,0:13:08.19,0:13:09.97,NanohaW Dialogue1,first,0,0,0,,You can capture me if you want,
 Dialogue: 0,0:13:09.97,0:13:12.39,NanohaW Dialogue1,first,0,0,0,,{\c&HE1E1E1&}You can capture me if you want,
-Dialogue: 0,0:13:13.43,0:13:14.20,NanohaW Dialogue1,seconditalics,0,0,0,,but can you really leave that helicopter of yours alone?
-Dialogue: 0,0:13:14.20,0:13:17.73,NanohaW Dialogue1,first,0,0,0,,{\c&HE1E1E1&}but can you really leave that helicopter of yours alone?
+Dialogue: 0,0:13:13.43,0:13:17.73,NanohaW Dialogue1,seconditalics,0,0,0,,but can you really leave {\c&HE1E1E1&}that helicopter of yours alone?
 Dialogue: 0,0:13:20.26,0:13:21.83,NanohaW Dialogue1,first,0,0,0,,Twelve seconds remaining.
 Dialogue: 0,0:13:21.83,0:13:22.87,NanohaW Dialogue1,first,0,0,0,,Eleven.
 Dialogue: 0,0:13:22.87,0:13:23.57,NanohaW Dialogue1,first,0,0,0,,Ten.
@@ -327,7 +326,7 @@ Dialogue: 0,0:16:01.52,0:16:03.21,NanohaW Dialogue1,first,0,0,0,,Limiter release
 Dialogue: 0,0:16:03.21,0:16:06.32,NanohaW Dialogue1,first,0,0,0,,Nanoha’s and Raising Heart’s Exceed Mode!
 Dialogue: 0,0:16:06.32,0:16:07.64,NanohaW Dialogue1,first,0,0,0,,Oh my.
 Dialogue: 0,0:16:07.64,0:16:10.92,NanohaW Dialogue1,first,0,0,0,,Even if that’s not our full power,\Nyou’ve got to be kidding me.
-Dialogue: 0,0:16:17.55,0:16:18.58,NanohaW Dialogue1,first,0,0,0,,I’ve found you.
+Dialogue: 0,0:16:17.55,0:16:18.14,NanohaW Dialogue1,first,0,0,0,,I’ve found you.
 Dialogue: 0,0:16:19.03,0:16:20.09,NanohaW Dialogue1,first,0,0,0,,Here too?
 Dialogue: 0,0:16:20.09,0:16:20.87,NanohaW Dialogue1,first,0,0,0,,She’s fast!
 Dialogue: 0,0:16:22.95,0:16:24.41,NanohaW Dialogue1,first,0,0,0,,Stop!
@@ -378,8 +377,8 @@ Dialogue: 0,0:18:50.71,0:18:53.15,NanohaW Dialogue1,first,0,0,0,,We’ll meet up
 Dialogue: 0,0:18:54.27,0:18:56.27,NanohaW Dialogue1,first,0,0,0,,We lost the signal.
 Dialogue: 0,0:18:56.27,0:18:59.07,NanohaW Dialogue1,first,0,0,0,,The abnormal signal is gone too.
 Dialogue: 0,0:19:00.39,0:19:01.87,NanohaW Dialogue1,first,0,0,0,,They got away, huh?
-Dialogue: 0,0:19:03.17,0:19:03.90,NanohaW Dialogue1,first,0,0,0,,Sorry.
-Dialogue: 0,0:19:03.90,0:19:05.40,NanohaW Dialogue1,first,0,0,0,,We’ve totally failed here.
+Dialogue: 0,0:19:01.87,0:19:03.81,NanohaW Dialogue1,first,0,0,0,,Yeah. Sorry.
+Dialogue: 0,0:19:03.81,0:19:05.40,NanohaW Dialogue1,first,0,0,0,,We’ve totally failed here.
 Dialogue: 0,0:19:05.40,0:19:10.72,NanohaW Dialogue1,first,0,0,0,,The summoner got away,\Nand they took the case too.
 Dialogue: 0,0:19:10.72,0:19:12.46,NanohaW Dialogue1,first,0,0,0,,We can’t track them either.
 Dialogue: 0,0:19:12.46,0:19:13.86,NanohaW Dialogue1,first,0,0,0,,We failed.
@@ -389,8 +388,8 @@ Dialogue: 0,0:19:21.59,0:19:24.49,NanohaW Dialogue1,first,0,0,0,,This was totall
 Dialogue: 0,0:19:24.49,0:19:25.82,NanohaW Dialogue1,first,0,0,0,,Mine too.
 Dialogue: 0,0:19:25.82,0:19:27.70,NanohaW Dialogue1,first,0,0,0,,Lieutenant, uh...!
 Dialogue: 0,0:19:27.70,0:19:30.04,NanohaW Dialogue1,first,0,0,0,,What is it? I’m in the middle of my report!
-Dialogue: 0,0:19:31.55,0:19:36.22,NanohaW Dialogue1,first,0,0,0,,There was so much tension that we really didn’t have time to say it, but...
-Dialogue: 0,0:19:36.22,0:19:40.20,NanohaW Dialogue1,first,0,0,0,,We sort of did a little something with the Relic.
+Dialogue: 0,0:19:30.04,0:19:35.97,NanohaW Dialogue1,first,0,0,0,,Well, you see... there was so much tension that we really didn’t have time to say it, but...
+Dialogue: 0,0:19:35.97,0:19:40.20,NanohaW Dialogue1,first,0,0,0,,We sort of did a little something with the Relic.
 Dialogue: 0,0:19:46.90,0:19:48.95,NanohaW Dialogue1,first,0,0,0,,We’re finally back.
 Dialogue: 0,0:19:48.95,0:19:52.08,NanohaW Dialogue1,first,0,0,0,,It’s thanks to your mass teleportation spell, Miss.
 Dialogue: 0,0:19:52.08,0:19:53.41,NanohaW Dialogue1,first,0,0,0,,Thank you very much.
@@ -399,9 +398,9 @@ Dialogue: 0,0:19:56.75,0:19:58.60,NanohaW Dialogue1,first,0,0,0,,Take a look in 
 Dialogue: 0,0:19:58.60,0:19:59.30,NanohaW Dialogue1,first,0,0,0,,Okie-dokie!
 Dialogue: 0,0:20:09.60,0:20:10.90,NanohaW Dialogue1,first,0,0,0,,Ta-daa!
 Dialogue: 0,0:20:12.97,0:20:14.48,NanohaW Dialogue1,first,0,0,0,,It’s empty?
-Dialogue: 0,0:20:14.48,0:20:16.58,NanohaW Dialogue1,first,0,0,0,,What’s going on!
-Dialogue: 0,0:20:16.58,0:20:17.84,NanohaW Dialogue1,first,0,0,0,,Sein?
-Dialogue: 0,0:20:17.84,0:20:19.09,NanohaW Dialogue1,first,0,0,0,,You couldn’t have...
+Dialogue: 0,0:20:14.48,0:20:16.30,NanohaW Dialogue1,first,0,0,0,,What’s going on!
+Dialogue: 0,0:20:16.30,0:20:17.84,NanohaW Dialogue1,first,0,0,0,,Sein?
+Dialogue: 0,0:20:17.84,0:20:19.09,NanohaW Dialogue1,first,0,0,0,,You couldn’t have—
 Dialogue: 0,0:20:19.09,0:20:21.40,NanohaW Dialogue1,first,0,0,0,,I retrieved it perfectly!
 Dialogue: 0,0:20:21.40,0:20:25.80,NanohaW Dialogue1,first,0,0,0,,You didn’t screw up Deep Diver and drop the contents, did you?
 Dialogue: 0,0:20:25.80,0:20:28.24,NanohaW Dialogue1,first,0,0,0,,I did not!
@@ -409,13 +408,13 @@ Dialogue: 0,0:20:31.06,0:20:34.54,NanohaW Dialogue1,first,0,0,0,,I scanned it an
 Dialogue: 0,0:20:34.54,0:20:35.55,NanohaW Dialogue1,first,0,0,0,,See?
 Dialogue: 0,0:20:36.71,0:20:40.13,NanohaW Dialogue1,first,0,0,0,,Well, the case certainly is the real thing.
 Dialogue: 0,0:20:45.44,0:20:47.17,NanohaW Dialogue1,first,0,0,0,,That’s strange, isn’t it?
-Dialogue: 0,0:20:47.17,0:20:48.87,NanohaW Dialogue1,first,0,0,0,,You idiots!
+Dialogue: 0,0:20:47.17,0:20:48.13,NanohaW Dialogue1,first,0,0,0,,You idiots!
 Dialogue: 0,0:20:48.87,0:20:50.92,NanohaW Dialogue1,first,0,0,0,,Are you blind?
 Dialogue: 0,0:20:52.31,0:20:53.87,NanohaW Dialogue1,first,0,0,0,,Here!
-Dialogue: 0,0:20:54.73,0:20:58.33,NanohaW Dialogue1,first,0,0,0,,The case wasn’t a silhouette: it was real.
+Dialogue: 0,0:20:54.73,0:20:58.33,NanohaW Dialogue1,first,0,0,0,,The case wasn’t a silhouette... it was real.
 Dialogue: 0,0:20:58.33,0:21:03.70,NanohaW Dialogue1,first,0,0,0,,My silhouettes are weak to shock,\Nand they would have found out when they took it.
 Dialogue: 0,0:21:03.70,0:21:09.83,NanohaW Dialogue1,first,0,0,0,,So we opened the case and then put a heavy seal on the Relic itself.
-Dialogue: 0,0:21:09.83,0:21:11.62,NanohaW Dialogue1,first,0,0,0,,So the Relic...
+Dialogue: 0,0:21:09.83,0:21:11.62,NanohaW Dialogue1,first,0,0,0,,So, the Relic...
 Dialogue: 0,0:21:13.08,0:21:14.79,NanohaW Dialogue1,first,0,0,0,,Like this.
 Dialogue: 0,0:21:17.57,0:21:22.30,NanohaW Dialogue1,first,0,0,0,,We thought we’d have Caro hold it since she has the least direct contact with the enemy.
 Dialogue: 0,0:21:22.30,0:21:25.01,NanohaW Dialogue1,first,0,0,0,,I see!
@@ -424,10 +423,10 @@ Dialogue: 0,0:21:34.54,0:21:36.88,NanohaW Dialogue1,first,0,0,0,,The mission was
 Dialogue: 0,0:21:36.88,0:21:39.11,NanohaW Dialogue1,first,0,0,0,,Let’s be happy for it.
 Dialogue: 0,0:21:39.89,0:21:42.07,NanohaW Dialogue1,first,0,0,0,,We were tricked.
 Dialogue: 0,0:21:42.07,0:21:44.09,NanohaW Dialogue1,first,0,0,0,,I’m sorry, Miss.
-Dialogue: 0,0:21:44.09,0:21:46.05,NanohaW Dialogue1,first,0,0,0,,It was a foolish mistake.
-Dialogue: 0,0:21:46.05,0:21:47.10,NanohaW Dialogue1,first,0,0,0,,I don’t care.
-Dialogue: 0,0:21:47.10,0:21:52.18,NanohaW Dialogue1,first,0,0,0,,The only thing I’m looking for is the XI Core.
-Dialogue: 0,0:21:54.08,0:21:55.54,NanohaW Dialogue1,first,0,0,0,,This is number VI.
+Dialogue: 0,0:21:44.09,0:21:45.64,NanohaW Dialogue1,first,0,0,0,,It was a foolish mistake.
+Dialogue: 0,0:21:45.64,0:21:47.10,NanohaW Dialogue1,first,0,0,0,,I don’t care.
+Dialogue: 0,0:21:47.10,0:21:51.97,NanohaW Dialogue1,first,0,0,0,,The only thing I’m looking for is the Serial No. XI core.
+Dialogue: 0,0:21:54.08,0:21:55.54,NanohaW Dialogue1,first,0,0,0,,This is No. VI.
 Dialogue: 0,0:21:56.24,0:21:57.50,NanohaW Dialogue1,first,0,0,0,,But this is bad.
 Dialogue: 0,0:21:57.50,0:22:01.34,NanohaW Dialogue1,first,0,0,0,,If the core and the material\Nfell into the hands of the Bureau,
 Dialogue: 0,0:22:01.34,0:22:03.93,NanohaW Dialogue1,first,0,0,0,,Uno will be mad at us!

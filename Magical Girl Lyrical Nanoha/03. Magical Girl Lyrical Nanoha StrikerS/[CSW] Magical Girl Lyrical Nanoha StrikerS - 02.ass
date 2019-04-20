@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 229
-Active Line: 235
-Video Position: 16682
+Scroll Position: 319
+Active Line: 324
+Video Position: 23774
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -292,8 +292,7 @@ Dialogue: 0,0:12:39.18,0:12:45.18,NanohaW Dialogue1,,0,0,0,,Thanks! I appreciate
 Dialogue: 0,0:12:58.69,0:13:04.87,NanohaW Dialogue1,,0,0,0,,And well... because of that, Lt. Colonel Yagami put her efforts towards creating her new unit.
 Dialogue: 0,0:13:04.87,0:13:08.99,NanohaW Dialogue1,,0,0,0,,It took four years, but finally we’ve reached the start of its formation.
 Dialogue: 0,0:13:08.99,0:13:10.70,NanohaW Dialogue1,,0,0,0,,And that’s that.
-Dialogue: 0,0:13:10.70,0:13:13.53,NanohaW Dialogue1,,0,0,0,,The squad is called the Time-Space Administrative Bureau Main Office’s
-Dialogue: 0,0:13:13.53,0:13:16.19,NanohaW Dialogue1,,0,0,0,,Antiquities Department, Riot Force 6!
+Dialogue: 0,0:13:10.70,0:13:16.19,NanohaW Dialogue1,,0,0,0,,The squad is called Riot Force 6 of the Time-Space Administrative Bureau’s Antiquities Department!
 Dialogue: 0,0:13:16.19,0:13:18.02,NanohaW Dialogue1,,0,0,0,,Registered as a part of the Ground Armed Service,
 Dialogue: 0,0:13:18.02,0:13:20.94,NanohaW Dialogue1,,0,0,0,,Riot Force 6’s forward squads will work under G.A.S. mages.
 Dialogue: 0,0:13:20.94,0:13:24.95,NanohaW Dialogue1,,0,0,0,,Our job will be investigating antiquities, as well as the collection, management, and protection thereof.
@@ -364,7 +363,7 @@ Dialogue: 0,0:16:20.86,0:16:23.49,NanohaW Dialogue1,,0,0,0,,Nanoha is your hero.
 Dialogue: 0,0:16:23.49,0:16:26.02,NanohaW Dialogue1,,0,0,0,,It’d be wonderful if you end up\Nin the same unit, wouldn’t it?
 Dialogue: 0,0:16:26.02,0:16:28.12,NanohaW Dialogue1,,0,0,0,,Well, I guess so.
 Dialogue: 0,0:16:29.12,0:16:31.25,NanohaW Dialogue1,,0,0,0,,I wonder what I’ll do.
-Dialogue: 0,0:16:31.25,0:16:33.88,NanohaW Dialogue1,,0,0,0,,Normally for an antiquities management Riot Force,
+Dialogue: 0,0:16:31.25,0:16:33.88,NanohaW Dialogue1,,0,0,0,,Normally for a Riot Force in the Antiquities Department,
 Dialogue: 0,0:16:33.88,0:16:35.85,NanohaW Dialogue1,,0,0,0,,you’d have to be an expert or have special abilities.
 Dialogue: 0,0:16:35.85,0:16:39.22,NanohaW Dialogue1,,0,0,0,,Otherwise, you can’t get in, right?
 Dialogue: 0,0:16:39.22,0:16:44.64,NanohaW Dialogue1,,0,0,0,,With that said, I wonder if I can do that job the way I am now.
