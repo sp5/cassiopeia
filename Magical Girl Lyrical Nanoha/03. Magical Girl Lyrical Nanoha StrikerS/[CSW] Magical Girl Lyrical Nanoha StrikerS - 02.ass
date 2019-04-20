@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 457
-Active Line: 462
-Video Position: 36700
+Scroll Position: 229
+Active Line: 235
+Video Position: 16682
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -274,7 +274,7 @@ Dialogue: 0,0:11:23.44,0:11:25.89,NanohaW Dialogue1,,0,0,0,,Well, we {\i1}are{\i
 Dialogue: 0,0:11:25.89,0:11:28.02,NanohaW Dialogue1,,0,0,0,,And the civilians are safe.
 Dialogue: 0,0:11:28.02,0:11:31.46,NanohaW Dialogue1,,0,0,0,,You know, Nanoha, Fate,
 Dialogue: 0,0:11:31.46,0:11:35.46,NanohaW Dialogue1,,0,0,0,,I want my own unit after all.
-Dialogue: 0,0:11:35.46,0:11:41.77,NanohaW Dialogue1,,0,0,0,,For disaster relief like this time and crime investigation as well as Lost Logia investigation.
+Dialogue: 0,0:11:35.46,0:11:41.77,NanohaW Dialogue1,,0,0,0,,For disaster relief like this time, plus crimefighting,\Nas well as countermeasures for any Lost Logia we find.
 Dialogue: 0,0:11:41.77,0:11:45.96,NanohaW Dialogue1,,0,0,0,,No matter how you look at it, Midchilda’s Bureau units have too many assignments.
 Dialogue: 0,0:11:45.96,0:11:49.60,NanohaW Dialogue1,,0,0,0,,And we shouldn’t just be the rear guard\Nand do desk work all the time.
 Dialogue: 0,0:11:49.60,0:11:53.50,NanohaW Dialogue1,,0,0,0,,Unlike before, I’ve been busy\Nhere and there and have no freedom.
@@ -296,19 +296,19 @@ Dialogue: 0,0:13:10.70,0:13:13.53,NanohaW Dialogue1,,0,0,0,,The squad is called 
 Dialogue: 0,0:13:13.53,0:13:16.19,NanohaW Dialogue1,,0,0,0,,Antiquities Department, Riot Force 6!
 Dialogue: 0,0:13:16.19,0:13:18.02,NanohaW Dialogue1,,0,0,0,,Registered as a part of the Ground Armed Service,
 Dialogue: 0,0:13:18.02,0:13:20.94,NanohaW Dialogue1,,0,0,0,,Riot Force 6’s forward squads will work under G.A.S. mages.
-Dialogue: 0,0:13:20.94,0:13:24.95,NanohaW Dialogue1,,0,0,0,,Our job will be to investigate antiquities, as well as the collection, management, and protection thereof.
+Dialogue: 0,0:13:20.94,0:13:24.95,NanohaW Dialogue1,,0,0,0,,Our job will be investigating antiquities, as well as the collection, management, and protection thereof.
 Dialogue: 0,0:13:24.95,0:13:28.08,NanohaW Dialogue1,,0,0,0,,Antiquities. You mean Lost Logia, right?
 Dialogue: 0,0:13:28.08,0:13:29.27,NanohaW Dialogue1,,0,0,0,,That’s right.
 Dialogue: 0,0:13:29.27,0:13:33.20,NanohaW Dialogue1,,0,0,0,,But because large-scale investigation\Nis the job of Riot Forces 1 through 5,
-Dialogue: 0,0:13:33.20,0:13:35.07,NanohaW Dialogue1,,0,0,0,,we’ll specialize in taking action.
+Dialogue: 0,0:13:33.20,0:13:35.07,NanohaW Dialogue1,,0,0,0,,we’ll specialize in tactical work.
 Dialogue: 0,0:13:35.07,0:13:36.44,NanohaW Dialogue1,,0,0,0,,Is that so?
 Dialogue: 0,0:13:36.44,0:13:38.00,NanohaW Narration1,,0,0,0,,Tia. Tia!
-Dialogue: 0,0:13:36.99,0:13:40.10,NanohaW Dialogue1,,0,0,0,,In short, we’ll primarily be in charge of cases\Nthat specifically have to do with Lost Logia,
-Dialogue: 0,0:13:40.10,0:13:42.85,NanohaW Dialogue1,,0,0,0,,acting as a combined-arms unit.
+Dialogue: 0,0:13:36.99,0:13:41.52,NanohaW Dialogue1,,0,0,0,,In short, we’ll primarily be in charge of cases\Nthat specifically have to do with Lost Logia,
+Dialogue: 0,0:13:41.52,0:13:43.08,NanohaW Dialogue1,,0,0,0,,acting as a combined-arms unit.
 Dialogue: 0,0:13:38.00,0:13:39.10,NanohaW Narration1,,0,0,0,,What is it?
 Dialogue: 0,0:13:39.10,0:13:40.49,NanohaW Narration1,,0,0,0,,What’s a Lost Logia?
 Dialogue: 0,0:13:40.49,0:13:43.01,NanohaW Narration1,,0,0,0,,Shut up! We’re in the middle of a meeting! Save it for later!
-Dialogue: 0,0:13:43.01,0:13:43.63,NanohaW Dialogue1,,0,0,0,,Okay.
+Dialogue: 0,0:13:43.08,0:13:43.63,NanohaW Dialogue1,,0,0,0,,Okay.
 Dialogue: 0,0:13:44.72,0:13:48.17,NanohaW Dialogue1,,0,0,0,,So, Private First Class Subaru Nakajima...
 Dialogue: 0,0:13:48.17,0:13:50.72,NanohaW Dialogue1,,0,0,0,,And also, Private First Class Teana Lanster...
 Dialogue: 0,0:13:50.72,0:13:51.72,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
@@ -432,7 +432,7 @@ Dialogue: 0,0:20:11.85,0:20:16.82,NanohaW Dialogue1,,0,0,0,,So... it’s already
 Dialogue: 0,0:20:16.82,0:20:19.72,NanohaW Dialogue1,,0,0,0,,Is it okay if I go look for her?
 Dialogue: 0,0:20:19.72,0:20:20.82,NanohaW Dialogue1,,0,0,0,,Can I count on you?
 Dialogue: 0,0:20:20.82,0:20:21.84,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
-Dialogue: 0,0:20:24.07,0:20:28.32,NanohaW Dialogue1,,0,0,0,,Ah, so the forward candidates really {\i1}are{\i0} those kids.
+Dialogue: 0,0:20:24.07,0:20:28.32,NanohaW Dialogue1,,0,0,0,,Ah, so your forward candidates really {\i1}are{\i0} those kids.
 Dialogue: 0,0:20:28.32,0:20:32.08,NanohaW Dialogue1,,0,0,0,,They’re both still children, so I’m a bit worried.
 Dialogue: 0,0:20:32.08,0:20:36.08,NanohaW Dialogue1,,0,0,0,,But, ability-wise it looks like they’re no problem.
 Dialogue: 0,0:20:36.08,0:20:41.09,NanohaW Dialogue1,,0,0,0,,Well they {\i1}are{\i0} in my squad,\Nso if we’re together I can be a bit at ease.
@@ -457,7 +457,7 @@ Dialogue: 0,0:21:59.99,0:22:03.60,NanohaW Narration1,,0,0,0,,Vita, Zafira, you�
 Dialogue: 0,0:22:03.60,0:22:07.22,NanohaW Narration1,,0,0,0,,Gadgets Type 1. There are three.
 Dialogue: 0,0:22:27.73,0:22:28.49,NanohaW Dialogue1,,0,0,0,,Eisen!
 Dialogue: 0,0:22:28.49,0:22:30.48,NanohaW Device1,,0,0,0,,Flying Swallow
-Dialogue: 0,0:22:28.49,0:22:30.48,NanohaW Device2,,0,0,0,,{\pos(640,624)}Schwalbefliegen
+Dialogue: 0,0:22:28.49,0:22:30.48,NanohaW Device2,,0,0,0,,{\pos(640,627)}Schwalbefliegen
 Dialogue: 0,0:22:40.05,0:22:41.54,NanohaW Dialogue1,,0,0,0,,Have we finished cleaning up?
 Dialogue: 0,0:22:41.54,0:22:43.00,NanohaW Dialogue1,,0,0,0,,Shamal, any remaining?
 Dialogue: 0,0:22:44.38,0:22:48.03,NanohaW Dialogue1,,0,0,0,,No responses or shadows.\NWe’ve destroyed them all.

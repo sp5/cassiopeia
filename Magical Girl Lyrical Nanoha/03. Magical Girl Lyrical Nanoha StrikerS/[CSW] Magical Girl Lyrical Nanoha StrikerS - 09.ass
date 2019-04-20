@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 374
-Active Line: 375
-Video Position: 36348
+Scroll Position: 384
+Active Line: 388
+Video Position: 36741
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -127,12 +127,12 @@ Dialogue: 1,0:03:33.94,0:03:38.94,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,267.7
 Dialogue: 0,0:03:33.94,0:03:38.94,Nanoha StrikerS Title1,,0,0,0,,{\pos(640,267.75)\blur5\c&H8C0062&}Episode 9
 Dialogue: 1,0:03:33.94,0:03:38.94,Nanoha StrikerS Title1,,0,0,0,,{\fs89\pos(640,535.5)\bord0\blur0.5}A Precious Thing
 Dialogue: 0,0:03:33.94,0:03:38.94,Nanoha StrikerS Title1,,0,0,0,,{\fs89\pos(640,535.5)\blur5\c&H8C0062&}A Precious Thing
-Dialogue: 0,0:03:43.67,0:03:44.58,NanohaW Dialogue1,,0,0,0,,Nanoha?
+Dialogue: 0,0:03:43.67,0:03:44.18,NanohaW Dialogue1,,0,0,0,,Nanoha?
 Dialogue: 0,0:03:47.45,0:03:49.13,NanohaW Dialogue1,,0,0,0,,Fate.
 Dialogue: 0,0:03:50.68,0:03:53.33,NanohaW Dialogue1,,0,0,0,,Teana woke up a little while ago.
 Dialogue: 0,0:03:53.33,0:03:57.02,NanohaW Dialogue1,,0,0,0,,She came to the office with Subaru to apologize.
 Dialogue: 0,0:03:57.02,0:03:57.82,NanohaW Dialogue1,,0,0,0,,I see.
-Dialogue: 0,0:03:57.82,0:04:00.02,NanohaW Dialogue1,,0,0,0,,I told them you were at the training grounds
+Dialogue: 0,0:03:57.82,0:04:00.02,NanohaW Dialogue1,,0,0,0,,I told them you were at the training grounds, Nanoha,
 Dialogue: 0,0:04:00.02,0:04:03.24,NanohaW Dialogue1,,0,0,0,,and they should talk to you first thing tomorrow morning.
 Dialogue: 0,0:04:04.42,0:04:05.81,NanohaW Dialogue1,,0,0,0,,Thank you.
 Dialogue: 0,0:04:06.64,0:04:08.59,NanohaW Dialogue1,,0,0,0,,But I’m sorry.
@@ -143,7 +143,7 @@ Dialogue: 0,0:04:20.28,0:04:24.70,NanohaW Dialogue1,,0,0,0,,They looked like the
 Dialogue: 0,0:04:26.66,0:04:31.85,NanohaW Dialogue1,,0,0,0,,Well, I’ll make sure to talk to them tomorrow morning—to {\i1}all{\i0} the forwards.
 Dialogue: 0,0:04:45.54,0:04:49.10,NanohaW Dialogue1,,0,0,0,,Type 2 Gadget Drones have appeared over the Eastern Ocean!
 Dialogue: 0,0:04:49.10,0:04:54.19,NanohaW Dialogue1,,0,0,0,,There are twelve units this time.\NThey’re flying in a circular pattern.
-Dialogue: 0,0:04:54.19,0:04:55.58,NanohaW Dialogue1,,0,0,0,,Any Relic responses?
+Dialogue: 0,0:04:54.19,0:04:55.58,NanohaW Dialogue1,,0,0,0,,Any Relic signatures?
 Dialogue: 0,0:04:55.58,0:04:58.77,NanohaW Dialogue1,,0,0,0,,At this point, there are no responses in the vicinity.
 Dialogue: 0,0:04:58.77,0:05:00.19,NanohaW Dialogue1,,0,0,0,,However, this is...
 Dialogue: 0,0:05:00.19,0:05:02.74,NanohaW Dialogue1,,0,0,0,,The targets’ speed is a little bit—
@@ -162,7 +162,7 @@ Dialogue: 0,0:05:44.36,0:05:45.92,NanohaW Dialogue1,,0,0,0,,They’re getting de
 Dialogue: 0,0:05:47.18,0:05:51.66,NanohaW Dialogue1,,0,0,0,,I’m not expecting these scraps of metal\Nto become a force instantly.
 Dialogue: 0,0:05:52.65,0:05:57.62,NanohaW Dialogue1,,0,0,0,,They’re just junk I’m using as decoys,\Nso that my work can shine more brilliantly.
 Dialogue: 0,0:05:57.62,0:06:03.04,NanohaW Dialogue1,,0,0,0,,I see. If it’s not a Relic,\Nthen it has nothing to do with me.
-Dialogue: 0,0:06:03.04,0:06:06.51,NanohaW Dialogue1,,0,0,0,,However, try your best, Doctor.
+Dialogue: 0,0:06:03.04,0:06:06.51,NanohaW Dialogue1,,0,0,0,,However, I wish you luck, Doctor.
 Dialogue: 0,0:06:07.52,0:06:10.43,NanohaW Dialogue1,,0,0,0,,Thank you, my sweet Lutecia.
 Dialogue: 0,0:06:10.43,0:06:12.91,NanohaW Dialogue1,,0,0,0,,Well then, good day.
 Dialogue: 0,0:06:16.54,0:06:20.31,NanohaW Dialogue1,,0,0,0,,My works are indeed well made.
@@ -170,7 +170,7 @@ Dialogue: 0,0:06:21.26,0:06:25.74,NanohaW Dialogue1,,0,0,0,,Out of the Type 2 ae
 Dialogue: 0,0:06:25.74,0:06:28.02,NanohaW Dialogue1,,0,0,0,,There are no changes since the they were discovered:
 Dialogue: 0,0:06:28.02,0:06:31.20,NanohaW Dialogue1,,0,0,0,,each group is flying in its own low, circular pattern.
 Dialogue: 0,0:06:31.20,0:06:34.15,NanohaW Dialogue1,,0,0,0,,They’re located over the sea in the middle of nowhere.
-Dialogue: 0,0:06:34.15,0:06:39.15,NanohaW Dialogue1,,0,0,0,,There are no signs of a Relic, nor of any\Nmaritime facilities or boats, within the vicinity.
+Dialogue: 0,0:06:34.15,0:06:39.15,NanohaW Dialogue1,,0,0,0,,There are no signs of a Relic, nor of any\Nmaritime facilities or boats within the vicinity.
 Dialogue: 0,0:06:39.15,0:06:42.38,NanohaW Dialogue1,,0,0,0,,It’s as if they’re asking us to shoot them down.
 Dialogue: 0,0:06:42.38,0:06:46.80,NanohaW Dialogue1,,0,0,0,,Indeed. Enforcer Testarossa-Harlaown, what do you make of this?
 Dialogue: 0,0:06:46.80,0:06:53.47,NanohaW Dialogue1,,0,0,0,,If Scaglietti is responsible, then he probably wants to see what move we’ll make to test our aerial forces.
@@ -178,8 +178,8 @@ Dialogue: 0,0:06:54.29,0:07:00.00,NanohaW Dialogue1,,0,0,0,,In this situation, w
 Dialogue: 0,0:07:00.00,0:07:01.94,NanohaW Dialogue1,,0,0,0,,One blast would do it!
 Dialogue: 0,0:07:01.94,0:07:06.86,NanohaW Dialogue1,,0,0,0,,Yes, but that’s precisely why we shouldn’t show our hand.
 Dialogue: 0,0:07:06.86,0:07:08.06,NanohaW Dialogue1,,0,0,0,,Realistically speaking,
-Dialogue: 0,0:07:08.06,0:07:13.56,NanohaW Dialogue1,,0,0,0,,we can’t really lift the captains’ limiters for something at this level, anyway.
-Dialogue: 0,0:07:13.56,0:07:15.78,NanohaW Dialogue1,,0,0,0,,Instructor Takamachi, what about you?
+Dialogue: 0,0:07:08.06,0:07:13.06,NanohaW Dialogue1,,0,0,0,,we can’t really lift the captains’ limiters for something at this level, anyway.
+Dialogue: 0,0:07:13.06,0:07:15.78,NanohaW Dialogue1,,0,0,0,,Instructor Takamachi, what about you?
 Dialogue: 0,0:07:15.78,0:07:18.77,NanohaW Dialogue1,,0,0,0,,If the intent is to investigate our military forces,
 Dialogue: 0,0:07:18.77,0:07:21.28,NanohaW Dialogue1,,0,0,0,,we should prevent them from attaining any new information
 Dialogue: 0,0:07:21.28,0:07:25.00,NanohaW Dialogue1,,0,0,0,,and take care of them the way we always have, right?
@@ -189,7 +189,7 @@ Dialogue: 0,0:07:38.89,0:07:41.60,NanohaW Dialogue1,,0,0,0,,The rest of you will
 Dialogue: 0,0:07:41.60,0:07:44.86,NanohaW Dialogue1,,0,0,0,,Signum will be taking command there.\NGuard the place while we’re gone.
 Dialogue: 0,0:07:44.86,0:07:45.62,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
 Dialogue: 0,0:07:45.62,0:07:46.27,NanohaW Dialogue1,,0,0,0,,Yes, ma’am.
-Dialogue: 0,0:07:50.19,0:07:52.96,NanohaW Dialogue1,,0,0,0,,Oh, and Teana?
+Dialogue: 0,0:07:50.19,0:07:52.81,NanohaW Dialogue1,,0,0,0,,Oh, and Teana?
 Dialogue: 0,0:07:53.61,0:07:57.10,NanohaW Dialogue1,,0,0,0,,Teana, I think I’ll dismiss you for the day.
 Dialogue: 0,0:08:02.29,0:08:04.78,NanohaW Dialogue1,,0,0,0,,I think that’s a good decision. You’re dismissed.
 Dialogue: 0,0:08:04.78,0:08:08.42,NanohaW Dialogue1,,0,0,0,,After all, your physical condition and magical powers aren’t at their best tonight.
@@ -197,7 +197,7 @@ Dialogue: 0,0:08:08.42,0:08:10.34,NanohaW Dialogue1,,0,0,0,,Someone who won’t 
 Dialogue: 0,0:08:11.55,0:08:13.97,NanohaW Dialogue1,,0,0,0,,is someone you can’t use, right?
 Dialogue: 0,0:08:15.68,0:08:18.32,NanohaW Dialogue1,,0,0,0,,You said it yourself, and you still don’t understand?
 Dialogue: 0,0:08:18.32,0:08:20.12,NanohaW Dialogue1,,0,0,0,,That much is obvious.
-Dialogue: 0,0:08:20.13,0:08:26.48,NanohaW Dialogue1,,0,0,0,,I’ve been obeying orders at the scene,\Nand I haven’t been slacking off during training either.
+Dialogue: 0,0:08:20.13,0:08:26.48,NanohaW Dialogue1,,0,0,0,,I’ve been obeying orders at the scene,\Nand I haven’t been slacking off during training, either.
 Dialogue: 0,0:08:26.48,0:08:28.80,NanohaW Dialogue1,,0,0,0,,Even outside of combat and training,
 Dialogue: 0,0:08:28.80,0:08:32.38,NanohaW Dialogue1,,0,0,0,,does the amount of effort I put in have to be exactly as you dictate?
 Dialogue: 0,0:08:32.38,0:08:36.64,NanohaW Dialogue1,,0,0,0,,I’m not an elite like you and the other officers, Nanoha!
@@ -233,18 +233,18 @@ Dialogue: 0,0:10:26.71,0:10:30.40,NanohaW Dialogue1,,0,0,0,,Command Sergeant Maj
 Dialogue: 0,0:10:30.40,0:10:35.49,NanohaW Dialogue1,,0,0,0,,It just looked like everyone was so tense,\Nand I couldn’t stand seeing you all like this.
 Dialogue: 0,0:10:36.94,0:10:40.48,NanohaW Dialogue1,,0,0,0,,Everyone, would you gather in the lobby?
 Dialogue: 0,0:10:40.48,0:10:47.47,NanohaW Dialogue1,,0,0,0,,I’ll explain everything about Nanoha and the meaning behind her training.
-Dialogue: 0,0:11:08.53,0:11:09.77,NanohaW Dialogue1,,0,0,0,,Once upon a time,
+Dialogue: 0,0:11:08.53,0:11:09.33,NanohaW Dialogue1,,0,0,0,,Once upon a time,
 Dialogue: 0,0:11:09.77,0:11:17.81,NanohaW Dialogue1,,0,0,0,,there was a girl. She was just an ordinary girl\Nwho knew nothing about magic,
-Dialogue: 0,0:11:17.81,0:11:21.35,NanohaW Dialogue1,,0,0,0,,and she wasn’t the type who would get into a fight.
+Dialogue: 0,0:11:17.81,0:11:20.68,NanohaW Dialogue1,,0,0,0,,and she wasn’t the type who would get into a fight.
 Dialogue: 0,0:11:21.35,0:11:25.66,NanohaW Dialogue1,,0,0,0,,She went to school with her friends and was living happily with her family.
 Dialogue: 0,0:11:27.16,0:11:29.58,NanohaW Dialogue1,,0,0,0,,She was bound to live the rest of her life like that.
 Dialogue: 0,0:11:31.54,0:11:34.71,NanohaW Dialogue1,,0,0,0,,However, there was an incident.
 Dialogue: 0,0:11:36.72,0:11:42.11,NanohaW Dialogue1,,0,0,0,,She didn’t attend any kind of school for magic,\Nnor did she have special skills.
-Dialogue: 0,0:11:42.94,0:11:45.54,NanohaW Dialogue1,,0,0,0,,She obtained magical power from a chance encounter,
+Dialogue: 0,0:11:42.94,0:11:45.54,NanohaW Dialogue1,,0,0,0,,She obtained magical power\Nfrom a chance encounter,
 Dialogue: 0,0:11:45.54,0:11:48.49,NanohaW Dialogue1,,0,0,0,,and it just so happened that she had great capacity.
 Dialogue: 0,0:11:48.49,0:11:50.21,NanohaW Dialogue1,,0,0,0,,And she was only a nine-year-old girl.
 Dialogue: 0,0:11:52.48,0:11:55.46,NanohaW Dialogue1,,0,0,0,,Only a few months after she acquired magic,
-Dialogue: 0,0:11:55.46,0:11:58.82,NanohaW Dialogue1,,0,0,0,,she was thrown into real combat that put her life at stake.
+Dialogue: 0,0:11:55.46,0:11:58.82,NanohaW Dialogue1,,0,0,0,,she was thrown into real combat\Nthat put her life at stake.
 Dialogue: 0,0:11:58.82,0:12:00.04,NanohaW Dialogue1,,0,0,0,,Is that...?
 Dialogue: 0,0:12:00.04,0:12:01.24,NanohaW Dialogue1,,0,0,0,,Fate?
 Dialogue: 0,0:12:02.90,0:12:07.82,NanohaW Dialogue1,,0,0,0,,Fate was going through some complications with her family at the time.
@@ -255,7 +255,7 @@ Dialogue: 0,0:12:19.36,0:12:21.78,NanohaW Dialogue1,,0,0,0,,also known as the Je
 Dialogue: 0,0:12:28.59,0:12:31.54,NanohaW Dialogue1,,0,0,0,,A collection bombardment? That large?
 Dialogue: 0,0:12:31.54,0:12:34.48,NanohaW Dialogue1,,0,0,0,,By a nine-year-old?
 Dialogue: 0,0:12:34.48,0:12:39.86,NanohaW Dialogue1,,0,0,0,,A massive power bombardment puts a lot of strain on the body.
-Dialogue: 0,0:12:39.86,0:12:44.97,NanohaW Dialogue1,,0,0,0,,And then, shortly after that, the battle continued for her.
+Dialogue: 0,0:12:39.86,0:12:44.97,NanohaW Dialogue1,,0,0,0,,And then, shortly after that,\Nthe battle continued for her.
 Dialogue: 0,0:12:48.02,0:12:52.00,NanohaW Dialogue1,,0,0,0,,An incident we were deeply involved in,\Nthe Book of Darkness Incident.
 Dialogue: 0,0:12:52.00,0:12:56.42,NanohaW Dialogue1,,0,0,0,,She came close to getting shot down in an assault and was defeated.
 Dialogue: 0,0:12:57.37,0:12:59.84,NanohaW Dialogue1,,0,0,0,,What she chose to overcome that
@@ -267,8 +267,8 @@ Dialogue: 0,0:13:21.94,0:13:28.30,NanohaW Dialogue1,,0,0,0,,In order to save peo
 Dialogue: 0,0:13:28.30,0:13:31.37,NanohaW Dialogue1,,0,0,0,,704 has arrived in the destination airspace.
 Dialogue: 0,0:13:31.37,0:13:35.04,NanohaW Dialogue1,,0,0,0,,Lightning 1, Stars 2, engage.
 Dialogue: 0,0:13:37.46,0:13:40.32,NanohaW Dialogue1,,0,0,0,,Okay, Nanoha, take care.
-Dialogue: 0,0:13:40.32,0:13:43.20,NanohaW Dialogue1,,0,0,0,,Thanks, Vice.
-Dialogue: 0,0:13:43.20,0:13:44.94,NanohaW Dialogue1,,0,0,0,,Let’s go, Raising Heart.
+Dialogue: 0,0:13:40.32,0:13:42.70,NanohaW Dialogue1,,0,0,0,,Thanks, Vice.
+Dialogue: 0,0:13:42.70,0:13:44.94,NanohaW Dialogue1,,0,0,0,,Let’s go, Raising Heart.
 Dialogue: 0,0:13:44.94,0:13:47.38,NanohaW Device1,,0,0,0,,All right, my master.
 Dialogue: 0,0:13:55.14,0:13:59.83,NanohaW Dialogue1,,0,0,0,,This is Stars 1, assistance with mid-range shots, coming up!
 Dialogue: 0,0:13:59.84,0:14:01.27,NanohaW Dialogue1,,0,0,0,,Roger!
@@ -281,7 +281,7 @@ Dialogue: 0,0:14:22.88,0:14:27.65,NanohaW Dialogue1,,0,0,0,,It was an opponent t
 Dialogue: 0,0:14:27.66,0:14:29.61,NanohaW Dialogue1,,0,0,0,,or destroying if she were her usual self.
 Dialogue: 0,0:14:29.61,0:14:32.51,NanohaW Dialogue1,,0,0,0,,But the stress that she had been under
 Dialogue: 0,0:14:32.51,0:14:39.11,NanohaW Dialogue1,,0,0,0,,and the way she kept pushing herself made Nanoha slightly less capable.
-Dialogue: 0,0:14:39.85,0:14:42.98,NanohaW Dialogue1,,0,0,0,,The result was this.
+Dialogue: 0,0:14:39.85,0:14:42.21,NanohaW Dialogue1,,0,0,0,,The result was this.
 Dialogue: 0,0:14:44.44,0:14:51.78,NanohaW Dialogue1,,0,0,0,,Nanoha apologized to us for pushing herself too far and kept smiling in front of us, but
 Dialogue: 0,0:14:53.78,0:15:00.36,NanohaW Dialogue1,,0,0,0,,having been told that she might not be able to walk again, let alone be able to fly...
 Dialogue: 0,0:15:00.36,0:15:02.17,NanohaW Dialogue1,,0,0,0,,I can’t imagine how she must have felt.
@@ -297,7 +297,7 @@ Dialogue: 0,0:15:48.40,0:15:53.68,NanohaW Dialogue1,,0,0,0,,and to be absolutely
 Dialogue: 0,0:15:56.32,0:16:01.73,NanohaW Dialogue1,,0,0,0,,She has been training you with care,\Nthinking about your safety the whole time.
 Dialogue: 0,0:16:06.86,0:16:09.28,NanohaW Dialogue1,,0,0,0,,Vita, take care of that last one!
 Dialogue: 0,0:16:09.28,0:16:11.26,NanohaW Dialogue1,,0,0,0,,Of course!
-Dialogue: 0,0:16:11.26,0:16:13.92,NanohaW Dialogue1,,0,0,0,,Let’s go, Eisen! Form {\i1}Zwei!{\i0}
+Dialogue: 0,0:16:11.26,0:16:13.92,NanohaW Dialogue1,,0,0,0,,Let’s go, Eisen! Form Zwei!
 Dialogue: 0,0:16:13.92,0:16:15.74,NanohaW Device1,,0,0,0,,Explosion
 Dialogue: 0,0:16:16.98,0:16:18.68,NanohaW Device1,,0,0,0,,Rocket Form
 Dialogue: 0,0:16:16.98,0:16:18.68,NanohaW Device2,,0,0,0,,{\pos(640,627)}Raketenform
@@ -323,14 +323,14 @@ Dialogue: 0,0:18:00.82,0:18:04.34,NanohaW Dialogue1,,0,0,0,,About how it’s dan
 Dialogue: 0,0:18:05.30,0:18:06.73,NanohaW Dialogue1,,0,0,0,,I’m really sorry.
 Dialogue: 0,0:18:14.71,0:18:19.27,NanohaW Dialogue1,,0,0,0,,Well, now that you understand, I’ll comment about it a bit.
 Dialogue: 0,0:18:19.27,0:18:21.92,NanohaW Dialogue1,,0,0,0,,You know, Teana, you call yourself mediocre
-Dialogue: 0,0:18:21.92,0:18:25.68,NanohaW Dialogue1,,0,0,0,,and say you can’t do anything but shooting and illusion spells.
-Dialogue: 0,0:18:25.68,0:18:28.42,NanohaW Dialogue1,,0,0,0,,But you know that’s not true.
+Dialogue: 0,0:18:21.92,0:18:25.68,NanohaW Dialogue1,,0,0,0,,and say you can’t do anything but shooting and illusion spells,
+Dialogue: 0,0:18:25.68,0:18:28.42,NanohaW Dialogue1,,0,0,0,,but you know that’s not true.
 Dialogue: 0,0:18:28.42,0:18:33.97,NanohaW Dialogue1,,0,0,0,,You and the others are like ore right now, Teana.
 Dialogue: 0,0:18:33.97,0:18:38.34,NanohaW Dialogue1,,0,0,0,,You have a lot of rough edges,\Nand it’s hard to tell what your true values are.
 Dialogue: 0,0:18:39.04,0:18:44.31,NanohaW Dialogue1,,0,0,0,,But as you polish up, you’ll start seeing parts that shine.
 Dialogue: 0,0:18:44.31,0:18:47.27,NanohaW Dialogue1,,0,0,0,,Erio has his speed.
 Dialogue: 0,0:18:47.27,0:18:50.27,NanohaW Dialogue1,,0,0,0,,Caro has her gentle support spells.
-Dialogue: 0,0:18:50.27,0:18:53.73,NanohaW Dialogue1,,0,0,0,,Subaru has her explosive power at short range.
+Dialogue: 0,0:18:50.27,0:18:53.73,NanohaW Dialogue1,,0,0,0,,Subaru has her explosive power at close range.
 Dialogue: 0,0:18:53.73,0:18:59.14,NanohaW Dialogue1,,0,0,0,,And you, Teana, who leads the other three,\Ncan protect them with your shooting and illusion spells
 Dialogue: 0,0:18:59.14,0:19:02.32,NanohaW Dialogue1,,0,0,0,,and can get through any situation with your courage and wits.
 Dialogue: 0,0:19:03.16,0:19:08.79,NanohaW Dialogue1,,0,0,0,,That’s an ideal team, and it’s slowly starting to form.
@@ -350,7 +350,7 @@ Dialogue: 0,0:20:05.30,0:20:06.54,NanohaW Dialogue1,,0,0,0,,This is...
 Dialogue: 0,0:20:06.54,0:20:08.76,NanohaW Dialogue1,,0,0,0,,Teana, you plan to become an Enforcer, right?
 Dialogue: 0,0:20:08.76,0:20:12.44,NanohaW Dialogue1,,0,0,0,,After you leave here and pursue your path to become an Enforcer,
 Dialogue: 0,0:20:12.44,0:20:15.50,NanohaW Dialogue1,,0,0,0,,you’ll end up fighting one-on-one battles.
-Dialogue: 0,0:20:15.50,0:20:18.13,NanohaW Dialogue1,,0,0,0,,I had this prepared, with your future in mind.
+Dialogue: 0,0:20:15.50,0:20:18.13,NanohaW Dialogue1,,0,0,0,,I had this prepared with your future in mind.
 Dialogue: 0,0:20:27.92,0:20:31.90,NanohaW Dialogue1,,0,0,0,,I was thinking of training you on both close and long-range combat for a while now.
 Dialogue: 0,0:20:31.90,0:20:36.32,NanohaW Dialogue1,,0,0,0,,But there’s always the possibility that we’ll sortie anytime, right?
 Dialogue: 0,0:20:36.32,0:20:43.30,NanohaW Dialogue1,,0,0,0,,So I wanted to make sure you’re confident with the skill you excel at the most now.
@@ -364,22 +364,22 @@ Dialogue: 0,0:21:02.74,0:21:04.91,NanohaW Dialogue1,,0,0,0,,{\c&HE1E1E1&}I’m s
 Dialogue: 0,0:21:13.79,0:21:15.46,NanohaW Dialogue1,,0,0,0,,Good morning!
 Dialogue: 0,0:21:17.16,0:21:18.38,NanohaW Dialogue1,,0,0,0,,Morning.
 Dialogue: 0,0:21:20.05,0:21:22.08,NanohaW Dialogue1,,0,0,0,,Good morning.
-Dialogue: 0,0:21:23.24,0:21:24.22,NanohaW Dialogue1,,0,0,0,,Were you able to sleep well?
+Dialogue: 0,0:21:23.00,0:21:24.22,NanohaW Dialogue1,,0,0,0,,Were you able to sleep well?
 Dialogue: 0,0:21:24.22,0:21:25.88,NanohaW Dialogue1,,0,0,0,,Yes, ma’am.
-Dialogue: 0,0:21:27.67,0:21:33.30,NanohaW Dialogue1,,0,0,0,,You’re aware that high-level mages with\Nexcellent combat skills are referred to as {\i1}Aces,{\i0} right?
+Dialogue: 0,0:21:27.67,0:21:33.30,NanohaW Dialogue1,,0,0,0,,You’re aware that high-level mages with\Nexcellent combat skills are referred to as {\i1}aces,{\i0} right?
 Dialogue: 0,0:21:33.30,0:21:38.27,NanohaW Dialogue1,,0,0,0,,But do you know of another kind of excellent mage and what we call them?
 Dialogue: 0,0:21:40.19,0:21:44.54,NanohaW Dialogue1,,0,0,0,,If one of those is present, it’s possible to get through even the toughest situation.
 Dialogue: 0,0:21:44.54,0:21:47.98,NanohaW Dialogue1,,0,0,0,,It’s possible to overcome even the most intense situation.
 Dialogue: 0,0:21:47.98,0:21:51.18,NanohaW Dialogue1,,0,0,0,,Someone with that kind of reliability is called by this name:
 Dialogue: 0,0:21:54.04,0:21:55.04,NanohaW Dialogue1,,0,0,0,,{\i1}Striker.{\i0}
 Dialogue: 0,0:21:56.56,0:22:00.48,NanohaW Dialogue1,,0,0,0,,Since the start of your training,\NNanoha has been saying,
-Dialogue: 0,0:22:01.39,0:22:06.38,NanohaW Dialogue1,,0,0,0,,“The four that we have, all of them should be able to become first-class Strikers.”
+Dialogue: 0,0:22:01.39,0:22:06.38,NanohaW Dialogue1,,0,0,0,,“The four that we have, all of them should be able to become first-class strikers.”
 Dialogue: 0,0:22:09.50,0:22:16.52,NanohaW Dialogue1,,0,0,0,,“So I’ll train them very strictly,\Nbut carefully and thoroughly too.”
 Dialogue: 0,0:22:18.94,0:22:23.53,NanohaW Dialogue1,,0,0,0,,Instructors have a hard time of things, don’t they?
 Dialogue: 0,0:22:23.53,0:22:26.38,NanohaW Dialogue1,,0,0,0,,Even if you train them during difficult times,
-Dialogue: 0,0:22:26.38,0:22:31.08,NanohaW Dialogue1,,0,0,0,,they still end up going their own ways afterwards.
-Dialogue: 0,0:22:31.08,0:22:36.58,NanohaW Dialogue1,,0,0,0,,Well, it’s a bit sad that we can only spend a short amount of time together.
-Dialogue: 0,0:22:37.48,0:22:40.00,NanohaW Dialogue1,,0,0,0,,I can’t look after them forever.
+Dialogue: 0,0:22:26.38,0:22:30.73,NanohaW Dialogue1,,0,0,0,,they still end up going their own ways afterwards.
+Dialogue: 0,0:22:30.73,0:22:36.58,NanohaW Dialogue1,,0,0,0,,Well, it’s a bit sad that we can only spend a short amount of time together.
+Dialogue: 0,0:22:37.15,0:22:40.00,NanohaW Dialogue1,,0,0,0,,I can’t look after them forever.
 Dialogue: 0,0:22:40.00,0:22:45.09,NanohaW Dialogue1,,0,0,0,,So while I can be with them, I want to teach them as many things as I can.
 Dialogue: 0,0:22:47.29,0:22:49.31,NanohaW Dialogue1,,0,0,0,,Good morning!
 Dialogue: 0,0:22:50.05,0:22:52.50,NanohaW Dialogue1,,0,0,0,,Good morning!
@@ -389,7 +389,7 @@ Dialogue: 0,0:22:55.99,0:22:57.39,NanohaW Dialogue1,,0,0,0,,Did you sleep well?
 Dialogue: 0,0:22:57.39,0:22:58.45,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
 Dialogue: 0,0:22:58.45,0:23:00.54,NanohaW Dialogue1,,0,0,0,,All right, I’m gonna train you hard again today!
 Dialogue: 0,0:23:00.54,0:23:02.52,NanohaW Narration1,,0,0,0,,No matter what happens,
-Dialogue: 0,0:23:02.52,0:23:06.10,NanohaW Narration1,,0,0,0,,no matter who comes around,\NI’m not going to let anyone shoot them down.
+Dialogue: 0,0:23:02.52,0:23:05.80,NanohaW Narration1,,0,0,0,,no matter who comes around,\NI’m not going to let anyone shoot them down.
 Dialogue: 0,0:23:06.86,0:23:14.16,NanohaW Narration1,,0,0,0,,Not only while they’re around me,\Nbut when the time comes for them to fly on their own as well.
 Dialogue: 0,0:23:21.10,0:23:24.18,NanohaW Dialogue1,,0,0,0,,Well, let’s put everything into our morning training!
 Dialogue: 0,0:23:24.18,0:23:25.04,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
@@ -427,5 +427,4 @@ Dialogue: 1,0:25:29.87,0:25:36.03,Nanoha StrikerS Title2,,0,0,0,,{\fs89\pos(640,
 Dialogue: 0,0:25:29.87,0:25:36.03,Nanoha StrikerS Title2,,0,0,0,,{\fs89\pos(640,611.9)\blur5\blur5\c&H183ACD&}Riot Force 6’s Day Off
 Dialogue: 1,0:25:29.87,0:25:36.03,Nanoha StrikerS Title2,,0,0,0,,{\pos(640,681.9)\bord0\blur0.5}(part 1)
 Dialogue: 0,0:25:29.87,0:25:36.03,Nanoha StrikerS Title2,,0,0,0,,{\pos(640,681.9)\blur5\blur5\c&H183ACD&}(part 1)
-Dialogue: 0,0:25:32.00,0:25:33.62,NanohaW Narration1,,0,0,0,,To a fun day off!
-Dialogue: 0,0:25:33.62,0:25:35.09,NanohaW Narration1,,0,0,0,,Take off!
+Dialogue: 0,0:25:32.00,0:25:35.09,NanohaW Narration1,,0,0,0,,To a fun vacation day, take off!

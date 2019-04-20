@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 69
-Active Line: 70
-Video Position: 3549
+Scroll Position: 113
+Active Line: 114
+Video Position: 7165
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -124,8 +124,8 @@ Dialogue: 0,0:03:05.02,0:03:06.29,NanohaW Dialogue1,,0,0,0,,Yes, ma’am.
 Dialogue: 0,0:03:07.51,0:03:09.21,NanohaW Dialogue1,,0,0,0,,Looks like you’ve messed up.
 Dialogue: 0,0:03:10.45,0:03:11.92,NanohaW Dialogue1,,0,0,0,,I’m sorry.
 Dialogue: 0,0:03:11.92,0:03:15.17,NanohaW Dialogue1,,0,0,0,,One shot went astray.
-Dialogue: 0,0:03:15.17,0:03:19.66,NanohaW Dialogue1,,0,0,0,,I wasn’t at the scene, but Lt. Vita\Nhas already scolded you.
-Dialogue: 0,0:03:19.66,0:03:22.29,NanohaW Dialogue1,,0,0,0,,So I think you’ve already reflected on your mistake.
+Dialogue: 0,0:03:15.17,0:03:19.66,NanohaW Dialogue1,,0,0,0,,I wasn’t at the scene,\Nbut Lt. Vita has already scolded you,
+Dialogue: 0,0:03:19.66,0:03:22.29,NanohaW Dialogue1,,0,0,0,,so I think you’ve already reflected on your mistake.
 Dialogue: 0,0:03:22.29,0:03:24.76,NanohaW Dialogue1,,0,0,0,,I won’t scold you a second time.
 Dialogue: 0,0:03:25.80,0:03:29.49,NanohaW Dialogue1,,0,0,0,,But Teana, you try too hard every now and then.
 Dialogue: 0,0:03:30.31,0:03:32.57,NanohaW Dialogue1,,0,0,0,,It’s becoming a bit of a problem.
@@ -154,16 +154,16 @@ Dialogue: 0,0:04:46.93,0:04:48.26,NanohaW Dialogue1,,0,0,0,,Let’s do it togeth
 Dialogue: 0,0:04:48.26,0:04:50.10,NanohaW Dialogue1,,0,0,0,,Sure!
 Dialogue: 0,0:04:55.94,0:04:57.87,NanohaW Narration1,,0,0,0,,Hey... Shari?
 Dialogue: 0,0:04:57.87,0:04:58.81,NanohaW Dialogue1,,0,0,0,,What’s up?
-Dialogue: 0,0:04:58.81,0:05:05.24,NanohaW Narration1,,0,0,0,,The person with Fate, is that Dr. Yuuno, the archaeologist?
+Dialogue: 0,0:04:58.81,0:05:05.24,NanohaW Narration1,,0,0,0,,Is that person Fate’s with Dr. Yuuno, the archaeologist?
 Dialogue: 0,0:05:05.24,0:05:07.82,NanohaW Dialogue1,,0,0,0,,That’s right, Dr. Yuuno Scrya.
 Dialogue: 0,0:05:07.82,0:05:12.20,NanohaW Dialogue1,,0,0,0,,He manages the Time-Space Administrative Bureau’s database as the Infinity Library’s Chief Librarian.
 Dialogue: 0,0:05:12.20,0:05:16.87,NanohaW Dialogue1,,0,0,0,,He is also an accomplished archaeologist,\Nexcavating and performing research on ancient ruins.
 Dialogue: 0,0:05:16.87,0:05:22.05,NanohaW Dialogue1,,0,0,0,,A Bureau operative and a civilian scholar would be the best way to describe him.
 Dialogue: 0,0:05:22.05,0:05:25.39,NanohaW Dialogue1,,0,0,0,,He’s supposedly a childhood friend of Nanoha and Fate.
 Dialogue: 0,0:05:28.89,0:05:31.66,NanohaW Dialogue1,,0,0,0,,I see, so the Jewel Seeds were...
-Dialogue: 0,0:05:32.73,0:05:36.72,NanohaW Dialogue1,,0,0,0,,They were lent to a facility\Nalong the coast from the Bureau’s warehouse.
-Dialogue: 0,0:05:36.72,0:05:39.30,NanohaW Dialogue1,,0,0,0,,It seems they were stolen from there.
-Dialogue: 0,0:05:39.30,0:05:40.15,NanohaW Dialogue1,,0,0,0,,I see.
+Dialogue: 0,0:05:31.66,0:05:36.72,NanohaW Dialogue1,,0,0,0,,Yeah. They were lent to a facility\Nalong the coast from the Bureau’s warehouse.
+Dialogue: 0,0:05:36.72,0:05:38.80,NanohaW Dialogue1,,0,0,0,,It seems they were stolen from there.
+Dialogue: 0,0:05:38.80,0:05:40.15,NanohaW Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:05:41.88,0:05:45.23,NanohaW Dialogue1,,0,0,0,,Well, we’re investigating their whereabouts.
 Dialogue: 0,0:05:45.23,0:05:50.52,NanohaW Dialogue1,,0,0,0,,If I work with Riot Force 6 to pursue them,\Nwe should be able to retrieve them.
 Dialogue: 0,0:05:51.20,0:05:54.25,NanohaW Dialogue1,,0,0,0,,Fate, the person you’re after, Scaglietti...
@@ -185,14 +185,14 @@ Dialogue: 0,0:06:34.12,0:06:36.33,NanohaW Dialogue1,,0,0,0,,Well then, I’ll se
 Dialogue: 0,0:06:36.33,0:06:37.08,NanohaW Dialogue1,,0,0,0,,Right
 Dialogue: 0,0:06:43.18,0:06:46.31,NanohaW Dialogue1,,0,0,0,,Was today a coincidence?
 Dialogue: 0,0:06:48.49,0:06:55.43,NanohaW Dialogue1,,0,0,0,,It seems Inspector Acous knew that\NRiot Force 6 would be on guard at the auction.
-Dialogue: 0,0:06:55.43,0:07:00.61,NanohaW Dialogue1,,0,0,0,,And well, he asked me to help\Nwith the analysis of the objects being auctioned.
+Dialogue: 0,0:06:55.43,0:07:00.61,NanohaW Dialogue1,,0,0,0,,And, well, he asked me to help\Nwith the analysis of the objects being auctioned.
 Dialogue: 0,0:07:00.61,0:07:02.43,NanohaW Dialogue1,,0,0,0,,Is that so?
 Dialogue: 0,0:07:02.43,0:07:04.88,NanohaW Dialogue1,,0,0,0,,It seems your unit is doing well.
 Dialogue: 0,0:07:04.88,0:07:09.53,NanohaW Dialogue1,,0,0,0,,Yep! It’s thanks to your sister Carim’s protection, Inspector Acous.
-Dialogue: 0,0:07:10.88,0:07:13.48,NanohaW Dialogue1,,0,0,0,,It’d be great if I could do anything to help, but...
-Dialogue: 0,0:07:13.48,0:07:19.33,NanohaW Dialogue1,,0,0,0,,You’re always late or slacking off\Nbut pretty busy generally.
+Dialogue: 0,0:07:10.48,0:07:13.48,NanohaW Dialogue1,,0,0,0,,It’d be great if I could do anything to help, but...
+Dialogue: 0,0:07:13.48,0:07:19.33,NanohaW Dialogue1,,0,0,0,,You’re always late or slacking off\Nbut pretty busy generally, Inspector Acous.
 Dialogue: 0,0:07:19.33,0:07:20.43,NanohaW Dialogue1,,0,0,0,,That’s mean!
-Dialogue: 0,0:07:23.59,0:07:28.20,NanohaW Dialogue1,,0,0,0,,Carim’s worried, too, about her cute Rossa.
+Dialogue: 0,0:07:23.59,0:07:28.20,NanohaW Dialogue1,,0,0,0,,Carim’s worried, too, about her cute little Rossa.
 Dialogue: 0,0:07:28.20,0:07:30.08,NanohaW Dialogue1,,0,0,0,,I’m just as worried as she is!
 Dialogue: 0,0:07:30.08,0:07:34.63,NanohaW Dialogue1,,0,0,0,,Hayate, you’re like a little sister to Carim and me.
 Dialogue: 0,0:07:36.92,0:07:40.38,NanohaW Dialogue1,,0,0,0,,Come to think of it, Rossa, are you friends with Yuuno?
@@ -221,7 +221,7 @@ Dialogue: 0,0:08:46.30,0:08:49.70,NanohaW Dialogue1,,0,0,0,,Something’s been b
 Dialogue: 0,0:08:49.70,0:08:50.87,NanohaW Dialogue1,,0,0,0,,Concerning Teana.
 Dialogue: 0,0:08:52.20,0:08:56.46,NanohaW Dialogue1,,0,0,0,,I know that all young mages want to get stronger,
 Dialogue: 0,0:08:56.46,0:08:59.21,NanohaW Dialogue1,,0,0,0,,and they’re usually a bit reckless,
-Dialogue: 0,0:08:59.21,0:09:01.72,NanohaW Dialogue1,,0,0,0,,but occasionally she’s more than just reckless.
+Dialogue: 0,0:08:59.21,0:09:01.72,NanohaW Dialogue1,,0,0,0,,but occasionally, she’s more than just reckless.
 Dialogue: 0,0:09:01.72,0:09:05.39,NanohaW Dialogue1,,0,0,0,,Did something happen to her before she came here?
 Dialogue: 0,0:09:19.19,0:09:21.41,NanohaW Dialogue1,,0,0,0,,Tia has an older brother?
 Dialogue: 0,0:09:23.08,0:09:26.20,NanohaW Dialogue1,,0,0,0,,His ambition was to become an Enforcer. However,
@@ -238,8 +238,8 @@ Dialogue: 0,0:09:57.52,0:10:02.24,NanohaW Dialogue1,,0,0,0,,That’s right, he w
 Dialogue: 0,0:10:02.24,0:10:06.15,NanohaW Dialogue1,,0,0,0,,during the mission where Captain Tiida died,
 Dialogue: 0,0:10:06.15,0:10:10.49,NanohaW Dialogue1,,0,0,0,,he managed to injure a wanted mage but
 Dialogue: 0,0:10:10.49,0:10:12.67,NanohaW Dialogue1,,0,0,0,,wasn’t able to catch him.
-Dialogue: 0,0:10:12.67,0:10:16.79,NanohaW Dialogue1,,0,0,0,,Anyway, thanks to a lot of cooperation from the Ground Armed Service,
-Dialogue: 0,0:10:16.79,0:10:20.92,NanohaW Dialogue1,,0,0,0,,I heard that he was captured on the same day, but...
+Dialogue: 0,0:10:12.67,0:10:16.79,NanohaW Dialogue1,,0,0,0,,Anyway, I heard that thanks to a lot of cooperation\Nfrom the Ground Armed Service,
+Dialogue: 0,0:10:16.79,0:10:20.92,NanohaW Dialogue1,,0,0,0,,he was captured on the same day, but...
 Dialogue: 0,0:10:20.92,0:10:26.63,NanohaW Dialogue1,,0,0,0,,After the incident, some heartless superiors made some pretty cruel comments.
 Dialogue: 0,0:10:26.63,0:10:28.44,NanohaW Dialogue1,,0,0,0,,It became quite a problem.
 Dialogue: 0,0:10:29.34,0:10:32.61,NanohaW Dialogue1,,0,0,0,,Comments such as?
@@ -272,13 +272,13 @@ Dialogue: 0,0:12:23.96,0:12:26.80,NanohaW Dialogue1,,0,0,0,,Isn’t that what Na
 Dialogue: 0,0:12:26.80,0:12:31.11,NanohaW Dialogue1,,0,0,0,,Nanoha, Siggy, the others, and I all go way back.
 Dialogue: 0,0:12:33.12,0:12:38.29,NanohaW Dialogue1,,0,0,0,,Even so, if I don’t practice constantly, I won’t improve.
 Dialogue: 0,0:12:39.15,0:12:40.72,NanohaW Dialogue1,,0,0,0,,I’m just an average person.
-Dialogue: 0,0:12:42.44,0:12:44.10,NanohaW Dialogue1,,0,0,0,,An average person, huh?
+Dialogue: 0,0:12:42.35,0:12:44.10,NanohaW Dialogue1,,0,0,0,,An average person, huh?
 Dialogue: 0,0:12:44.10,0:12:48.36,NanohaW Dialogue1,,0,0,0,,From my perspective, you’re more than good enough.
 Dialogue: 0,0:12:48.36,0:12:50.58,NanohaW Dialogue1,,0,0,0,,So much so that I’m jealous.
-Dialogue: 0,0:12:55.74,0:12:58.00,NanohaW Dialogue1,,0,0,0,,Well, I don’t want to get in your way.
-Dialogue: 0,0:12:58.00,0:13:01.13,NanohaW Dialogue1,,0,0,0,,But for people like you,\Nyour physical condition is everything.
+Dialogue: 0,0:12:55.74,0:12:58.00,NanohaW Dialogue1,,0,0,0,,Well, I don’t want to get in your way,
+Dialogue: 0,0:12:58.00,0:13:01.13,NanohaW Dialogue1,,0,0,0,,but for people like you,\Nyour physical condition is everything.
 Dialogue: 0,0:13:01.13,0:13:02.96,NanohaW Dialogue1,,0,0,0,,Take care of yourself, okay?
-Dialogue: 0,0:13:02.96,0:13:04.44,NanohaW Dialogue1,,0,0,0,,Thank you very much!
+Dialogue: 0,0:13:02.96,0:13:04.44,NanohaW Dialogue1,,0,0,0,,Thank you, sir.
 Dialogue: 0,0:13:04.44,0:13:05.72,NanohaW Dialogue1,,0,0,0,,I’ll be fine.
 Dialogue: 0,0:13:17.06,0:13:17.71,NanohaW Dialogue1,,0,0,0,,Tia!
 Dialogue: 0,0:13:17.71,0:13:20.88,NanohaW Dialogue1,,0,0,0,,What, you’re still awake?
@@ -293,7 +293,7 @@ Dialogue: 0,0:14:09.03,0:14:10.16,NanohaW Dialogue1,,0,0,0,,Sorry.
 Dialogue: 0,0:14:10.16,0:14:11.48,NanohaW Dialogue1,,0,0,0,,I’m up.
 Dialogue: 0,0:14:11.48,0:14:13.66,NanohaW Dialogue1,,0,0,0,,Are you going to practice?
 Dialogue: 0,0:14:13.66,0:14:14.85,NanohaW Dialogue1,,0,0,0,,I am.
-Dialogue: 0,0:14:14.85,0:14:17.25,NanohaW Dialogue1,,0,0,0,,Right! Then here are your training clothes.
+Dialogue: 0,0:14:14.85,0:14:17.25,NanohaW Dialogue1,,0,0,0,,Right! Then, here are your training clothes.
 Dialogue: 0,0:14:17.25,0:14:19.00,NanohaW Dialogue1,,0,0,0,,Thanks.
 Dialogue: 0,0:14:19.00,0:14:21.29,NanohaW Dialogue1,,0,0,0,,Okay then, me too.
 Dialogue: 0,0:14:21.29,0:14:23.67,NanohaW Dialogue1,,0,0,0,,Bu—why are you coming too?
@@ -303,7 +303,7 @@ Dialogue: 0,0:14:29.08,0:14:31.04,NanohaW Dialogue1,,0,0,0,,It’s okay. I’m f
 Dialogue: 0,0:14:31.04,0:14:34.10,NanohaW Dialogue1,,0,0,0,,If you come with me, you won’t get enough sleep you know.
 Dialogue: 0,0:14:34.10,0:14:35.52,NanohaW Dialogue1,,0,0,0,,You should know already.
 Dialogue: 0,0:14:35.52,0:14:39.47,NanohaW Dialogue1,,0,0,0,,If it’s just our usual routine, I’ll be fine even if I don’t sleep for four or five days.
-Dialogue: 0,0:14:39.47,0:14:41.52,NanohaW Dialogue1,,0,0,0,,This isn’t like every day though.
+Dialogue: 0,0:14:39.47,0:14:41.52,NanohaW Dialogue1,,0,0,0,,This isn’t like every day, though.
 Dialogue: 0,0:14:41.52,0:14:45.48,NanohaW Dialogue1,,0,0,0,,Your training is especially intense. Make sure you get enough sleep.
 Dialogue: 0,0:14:45.48,0:14:46.91,NanohaW Dialogue1,,0,0,0,,Don’t wanna!
 Dialogue: 0,0:14:46.91,0:14:49.53,NanohaW Dialogue1,,0,0,0,,Because we’re a team, Tia.
@@ -312,7 +312,7 @@ Dialogue: 0,0:14:53.95,0:14:55.43,NanohaW Dialogue1,,0,0,0,,Do what you want!
 Dialogue: 0,0:14:58.28,0:15:01.42,NanohaW Dialogue1,,0,0,0,,So, what’s this thing you were thinking about, Tia?
 Dialogue: 0,0:15:01.42,0:15:06.55,NanohaW Dialogue1,,0,0,0,,For the time being, there’s a way to quickly improve our combat abilities.
 Dialogue: 0,0:15:06.55,0:15:11.47,NanohaW Dialogue1,,0,0,0,,If we can do it well, our combination attacks will be more versatile and cover a greater area.
-Dialogue: 0,0:15:11.47,0:15:14.25,NanohaW Dialogue1,,0,0,0,,Erio and Caro will be able to follow us better too.
+Dialogue: 0,0:15:11.47,0:15:14.25,NanohaW Dialogue1,,0,0,0,,Erio and Caro will be able to follow us better, too.
 Dialogue: 0,0:15:15.67,0:15:17.64,NanohaW Dialogue1,,0,0,0,,That sounds exciting.
 Dialogue: 0,0:15:17.64,0:15:20.33,NanohaW Dialogue1,,0,0,0,,Right? First...
 Dialogue: 0,0:15:21.54,0:15:24.56,NanohaW Dialogue1,,0,0,0,,Well then, let’s keep focusing on individual skills, okay?
@@ -320,7 +320,7 @@ Dialogue: 0,0:15:24.56,0:15:28.16,NanohaW Dialogue1,,0,0,0,,It might seem like w
 Dialogue: 0,0:15:28.16,0:15:28.80,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
 Dialogue: 0,0:15:31.89,0:15:34.99,NanohaW Dialogue1,,0,0,0,,Teana, Subaru, you two look in a good mood somehow.
 Dialogue: 0,0:15:34.99,0:15:36.94,NanohaW Dialogue1,,0,0,0,,Did something happen?
-Dialogue: 0,0:15:36.94,0:15:38.05,NanohaW Dialogue1,,0,0,0,,N-no.
+Dialogue: 0,0:15:36.94,0:15:38.05,NanohaW Dialogue1,,0,0,0,,N-No.
 Dialogue: 0,0:15:39.12,0:15:39.97,NanohaW Dialogue1,,0,0,0,,Nothing.
 Dialogue: 0,0:15:43.63,0:15:45.58,NanohaW Dialogue1,,0,0,0,,Teana! Be more agile!
 Dialogue: 0,0:15:43.63,0:15:47.68,NanohaW Narration1,,0,0,0,,First, I have to quickly increase the number of skills I can use.
@@ -339,7 +339,7 @@ Dialogue: 0,0:17:15.76,0:17:17.19,NanohaW Dialogue1,,0,0,0,,Tia, here.
 Dialogue: 0,0:17:18.42,0:17:19.43,NanohaW Dialogue1,,0,0,0,,Thanks.
 Dialogue: 0,0:17:21.30,0:17:23.30,NanohaW Dialogue1,,0,0,0,,I wonder if tomorrow’s mock battle
 Dialogue: 0,0:17:23.30,0:17:24.80,NanohaW Dialogue1,,0,0,0,,will go well.
-Dialogue: 0,0:17:24.80,0:17:28.65,NanohaW Dialogue1,,0,0,0,,If it goes well, the success rate is pretty borderline I guess.
+Dialogue: 0,0:17:24.80,0:17:28.65,NanohaW Dialogue1,,0,0,0,,If it goes well, the success rate is pretty borderline, I guess.
 Dialogue: 0,0:17:29.43,0:17:32.02,NanohaW Dialogue1,,0,0,0,,If it’s that much, I’m sure it’ll be fine!
 Dialogue: 0,0:17:34.02,0:17:37.36,NanohaW Dialogue1,,0,0,0,,But are you sure you’re okay with it?
 Dialogue: 0,0:17:37.98,0:17:39.12,NanohaW Dialogue1,,0,0,0,,With what?
@@ -360,20 +360,19 @@ Dialogue: 0,0:18:29.86,0:18:31.40,NanohaW Dialogue1,,0,0,0,,Let’s do it, Subar
 Dialogue: 0,0:18:31.40,0:18:32.57,NanohaW Dialogue1,,0,0,0,,Right!
 Dialogue: 0,0:18:37.35,0:18:38.93,NanohaW Dialogue1,,0,0,0,,The mock battle’s started already!
 Dialogue: 0,0:18:38.93,0:18:40.25,NanohaW Dialogue1,,0,0,0,,Fate!
-Dialogue: 0,0:18:40.25,0:18:42.37,NanohaW Dialogue1,,0,0,0,,I thought I was supposed to be helping though.
+Dialogue: 0,0:18:40.25,0:18:42.37,NanohaW Dialogue1,,0,0,0,,I thought I was supposed to be helping, though.
 Dialogue: 0,0:18:42.37,0:18:44.17,NanohaW Dialogue1,,0,0,0,,It’s Stars’s turn now.
 Dialogue: 0,0:18:44.17,0:18:48.61,NanohaW Dialogue1,,0,0,0,,I was going to be in Stars’s mock battle.
-Dialogue: 0,0:18:49.35,0:18:53.18,NanohaW Dialogue1,,0,0,0,,Nanoha really tries too hard while training sometimes.
+Dialogue: 0,0:18:48.61,0:18:53.18,NanohaW Dialogue1,,0,0,0,,Ah. Nanoha really tries too hard while training sometimes.
 Dialogue: 0,0:18:53.18,0:18:55.06,NanohaW Dialogue1,,0,0,0,,If she doesn’t get some rest...
-Dialogue: 0,0:18:55.06,0:18:59.78,NanohaW Dialogue1,,0,0,0,,Even when Nanoha gets back to our room, she’s always looking at the monitors.
+Dialogue: 0,0:18:55.06,0:18:59.78,NanohaW Dialogue1,,0,0,0,,Even when Nanoha goes back to our room, she’s always looking at the monitors.
 Dialogue: 0,0:19:00.66,0:19:05.12,NanohaW Dialogue1,,0,0,0,,Making the training plans,\Nchecking everyone’s formations on video...
 Dialogue: 0,0:19:05.12,0:19:06.33,NanohaW Dialogue1,,0,0,0,,Nanoha.
 Dialogue: 0,0:19:06.33,0:19:11.54,NanohaW Dialogue1,,0,0,0,,All through training, she’s always watching out for us.
 Dialogue: 0,0:19:11.54,0:19:13.94,NanohaW Dialogue1,,0,0,0,,She really is. Always.
-Dialogue: 0,0:19:14.74,0:19:16.30,NanohaW Dialogue1,,0,0,0,,She’s using Cross Shift.
-Dialogue: 0,0:19:17.42,0:19:19.26,NanohaW Dialogue1,,0,0,0,,{\b1}Crossfire...{\b0}
-Dialogue: 0,0:19:19.26,0:19:20.32,NanohaW Dialogue1,,0,0,0,,{\b1}...Shoot{\b0}
-Dialogue: 0,0:19:23.36,0:19:25.33,NanohaW Dialogue1,,0,0,0,,Somehow it doesn’t look very refined.
+Dialogue: 0,0:19:13.94,0:19:16.30,NanohaW Dialogue1,,0,0,0,,Hey, she’s using Cross Shift.
+Dialogue: 0,0:19:17.42,0:19:20.32,NanohaW Dialogue1,,0,0,0,,{\b1}Crossfire Shoot{\b0}
+Dialogue: 0,0:19:23.36,0:19:25.33,NanohaW Dialogue1,,0,0,0,,Somehow, it doesn’t look very refined.
 Dialogue: 0,0:19:25.33,0:19:27.75,NanohaW Dialogue1,,0,0,0,,Her control looks good, but...
 Dialogue: 0,0:19:27.75,0:19:29.71,NanohaW Dialogue1,,0,0,0,,No, even if that was it...
 Dialogue: 0,0:19:35.82,0:19:38.96,NanohaW Dialogue1,,0,0,0,,That’s not a fake! It’s really her?
