@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 328
-Active Line: 329
-Video Position: 36347
+Scroll Position: 301
+Active Line: 305
+Video Position: 32614
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,9 +43,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.54,0:00:04.60,NanohaW Narration1,,0,0,0,,Let’s rehash our mission.
 Dialogue: 0,0:00:04.60,0:00:09.98,NanohaW Narration1,,0,0,0,,This is the first step toward the Doctor’s dream\Nand our most important plan.
 Dialogue: 0,0:00:10.68,0:00:14.40,NanohaW Narration1,,0,0,0,,Out of the twelve Numbers,\Neleven participated in the operation.
-Dialogue: 0,0:00:14.40,0:00:17.85,NanohaW Narration1,,0,0,0,,Additionally, Knight Zest, as well as\Nthe summoner Lutecia, both participated.
+Dialogue: 0,0:00:14.40,0:00:17.85,NanohaW Narration1,,0,0,0,,Additionally, Knight Zest and\Nthe summoner Lutecia both participated.
 Dialogue: 0,0:00:21.30,0:00:24.08,NanohaW Narration1,,0,0,0,,The objective of our work is\Nthe neutralization of the Bureau’s Surface HQ,
-Dialogue: 0,0:00:24.08,0:00:27.04,NanohaW Narration1,,0,0,0,,as well as Riot Force 6, with minimal human collateral.
+Dialogue: 0,0:00:24.08,0:00:27.04,NanohaW Narration1,,0,0,0,,as well as Riot Force 6, with minimal human casualties.
 Dialogue: 0,0:00:27.04,0:00:30.44,NanohaW Narration1,,0,0,0,,The recovery of the Vessel of the Holy King is top priority.
 Dialogue: 0,0:00:30.44,0:00:33.16,NanohaW Narration1,,0,0,0,,If the possibility arises, any Type-0 should be captured.
 Dialogue: 0,0:00:34.34,0:00:40.04,NanohaW Narration1,,0,0,0,,The commander responsible for\Nmission control is me, the first Number, Uno.
@@ -123,14 +123,14 @@ Dialogue: 0,0:02:51.31,0:02:53.27,NanohaW Dialogue1,,0,0,0,,You’re young.
 Dialogue: 0,0:03:01.14,0:03:02.69,NanohaW Dialogue1,,0,0,0,,But you’re a good knight.
 Dialogue: 0,0:03:02.69,0:03:05.18,NanohaW Dialogue1,,0,0,0,,Now isn’t the time to be praising her, sir!
 Dialogue: 0,0:03:06.53,0:03:08.10,NanohaW Narration1,,0,0,0,,Rein, have you noticed?
-Dialogue: 0,0:03:08.70,0:03:09.56,NanohaW Narration1,,0,0,0,,Yes.
-Dialogue: 0,0:03:09.56,0:03:14.91,NanohaW Narration1,,0,0,0,,The timing in their Unison attack, although only slightly, is off.
+Dialogue: 0,0:03:08.70,0:03:09.15,NanohaW Narration1,,0,0,0,,Yes.
+Dialogue: 0,0:03:09.90,0:03:14.91,NanohaW Narration1,,0,0,0,,The timing in their Unison attack is off, although only slightly.
 Dialogue: 0,0:03:14.91,0:03:17.86,NanohaW Narration1,,0,0,0,,Their Unison compatibility doesn’t seem to be very good.
 Dialogue: 0,0:03:19.29,0:03:20.76,NanohaW Narration1,,0,0,0,,Damn them.
 Dialogue: 0,0:03:20.76,0:03:25.96,NanohaW Narration1,,0,0,0,,Their Unison compatibility seems to be good, and they’re highly skilled. They keep coming at us together.
 Dialogue: 0,0:03:25.96,0:03:28.80,NanohaW Dialogue1,,0,0,0,,Agito, let’s cancel out of Unison.
 Dialogue: 0,0:03:28.80,0:03:31.62,NanohaW Dialogue1,,0,0,0,,I’ll take her out in one hit with my Full Drive.
-Dialogue: 0,0:03:31.62,0:03:36.02,NanohaW Dialogue1,,0,0,0,,You’re kidding, right?! If you use your Full Drive, sir, your body will...
+Dialogue: 0,0:03:31.62,0:03:36.02,NanohaW Dialogue1,,0,0,0,,You’re kidding, right?!\NIf you use your Full Drive, sir, your body will...
 Dialogue: 0,0:03:36.02,0:03:37.76,NanohaW Dialogue1,,0,0,0,,I won’t go down.
 Dialogue: 0,0:03:37.76,0:03:40.73,NanohaW Dialogue1,,0,0,0,,Not until we finish what we must do.
 Dialogue: 0,0:03:40.73,0:03:46.41,NanohaW Dialogue1,,0,0,0,,Don’t even {\i1}joke{\i0} about that!\NI told you I would protect you, sir!
@@ -162,14 +162,14 @@ Dialogue: 0,0:05:22.58,0:05:23.57,NanohaW Dialogue1,,0,0,0,,{\b1}...Rage{\b0}
 Dialogue: 0,0:05:32.01,0:05:33.87,NanohaW Dialogue1,,0,0,0,,Let’s go!
 Dialogue: 0,0:05:37.88,0:05:40.31,NanohaW Dialogue1,,0,0,0,,Damn those assholes!
 Dialogue: 0,0:05:44.24,0:05:49.16,NanohaW Dialogue1,,0,0,0,,Nove, Wendi. You two, help me out a bit over here.
-Dialogue: 0,0:05:49.16,0:05:53.58,NanohaW Dialogue1,,0,0,0,,There’s another Type-0.\NI’m in combat with one of the first produced.
+Dialogue: 0,0:05:49.16,0:05:53.58,NanohaW Dialogue1,,0,0,0,,There’s another Type-0.\NI’m in combat with the first produced.
 Dialogue: 0,0:06:01.21,0:06:02.84,NanohaW Dialogue1,,0,0,0,,Captain Takamachi!
 Dialogue: 0,0:06:04.76,0:06:06.71,NanohaW Dialogue1,,0,0,0,,Sister Schach.
-Dialogue: 0,0:06:06.71,0:06:09.70,NanohaW Dialogue1,,0,0,0,,Sister, weren’t you in the Conference Room?
-Dialogue: 0,0:06:09.70,0:06:13.88,NanohaW Dialogue1,,0,0,0,,Along with some other men, we managed to open the door,
+Dialogue: 0,0:06:06.71,0:06:09.70,NanohaW Dialogue1,,0,0,0,,Sister, weren’t you in the conference room?
+Dialogue: 0,0:06:09.70,0:06:13.88,NanohaW Dialogue1,,0,0,0,,Along with some men, we managed to open the door,
 Dialogue: 0,0:06:13.88,0:06:16.60,NanohaW Dialogue1,,0,0,0,,and then I hurried after you two.
 Dialogue: 0,0:06:16.60,0:06:18.56,NanohaW Dialogue1,,0,0,0,,What about Hayate and her group?
-Dialogue: 0,0:06:18.56,0:06:22.48,NanohaW Dialogue1,,0,0,0,,The three of them are still in\Nthe Conference Room along with the representatives.
+Dialogue: 0,0:06:18.56,0:06:22.48,NanohaW Dialogue1,,0,0,0,,The three of them are still in\Nthe conference room along with the representatives.
 Dialogue: 0,0:06:22.48,0:06:25.94,NanohaW Dialogue1,,0,0,0,,They’re explaining about the Gadgets and the attackers.
 Dialogue: 0,0:06:30.56,0:06:31.82,NanohaW Dialogue1,,0,0,0,,Nice timing.
 Dialogue: 0,0:06:34.74,0:06:36.45,NanohaW Dialogue1,,0,0,0,,Sorry to make you wait.
@@ -181,15 +181,15 @@ Dialogue: 0,0:06:45.46,0:06:46.71,NanohaW Dialogue1,,0,0,0,,I will
 Dialogue: 0,0:06:46.71,0:06:48.13,NanohaW Dialogue1,,0,0,0,,Ginny?
 Dialogue: 0,0:06:48.13,0:06:49.38,NanohaW Dialogue1,,0,0,0,,Ginny!
 Dialogue: 0,0:06:49.38,0:06:50.46,NanohaW Dialogue1,,0,0,0,,Subaru?
-Dialogue: 0,0:06:50.46,0:06:53.34,NanohaW Dialogue1,,0,0,0,,Transmissions aren’t getting through to Ginny.
-Dialogue: 0,0:06:53.34,0:06:58.81,NanohaW Dialogue1,,0,0,0,,We engaged in combat with two of the combat cyborgs.\NThere should be more in the front.
+Dialogue: 0,0:06:50.46,0:06:53.08,NanohaW Dialogue1,,0,0,0,,Transmissions aren’t getting through to Ginny.
+Dialogue: 0,0:06:53.08,0:06:58.81,NanohaW Dialogue1,,0,0,0,,We engaged in combat with two of the combat cyborgs.\NThere should be more in the front.
 Dialogue: 0,0:06:58.81,0:07:02.27,NanohaW Dialogue1,,0,0,0,,Could Ginny be in combat with them?
 Dialogue: 0,0:07:02.27,0:07:05.72,NanohaW Dialogue1,,0,0,0,,Long Arch, this is Lightning 1.
 Dialogue: 0,0:07:05.72,0:07:08.31,NanohaW Dialogue1,,0,0,0,,Lightning 1, this is Long Arch.
 Dialogue: 0,0:07:08.31,0:07:11.25,NanohaW Dialogue1,,0,0,0,,Griffith? What’s wrong? You’re breaking up...
 Dialogue: 0,0:07:11.25,0:07:14.65,NanohaW Dialogue1,,0,0,0,,We’re currently taking fire from Gadgets and unknowns.
 Dialogue: 0,0:07:14.65,0:07:16.74,NanohaW Dialogue1,,0,0,0,,We’re holding out, but...
-Dialogue: 0,0:07:18.90,0:07:20.00,NanohaW Dialogue1,,0,0,0,,Let’s split up.
+Dialogue: 0,0:07:18.65,0:07:20.00,NanohaW Dialogue1,,0,0,0,,Let’s split up.
 Dialogue: 0,0:07:20.00,0:07:24.25,NanohaW Dialogue1,,0,0,0,,Stars will confirm Ginga’s well-being\Nand take down any attack force.
 Dialogue: 0,0:07:24.25,0:07:26.08,NanohaW Dialogue1,,0,0,0,,Lightning will return to Riot Force 6.
 Dialogue: 0,0:07:26.08,0:07:26.92,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
@@ -215,14 +215,14 @@ Dialogue: 0,0:09:56.07,0:09:58.90,NanohaW Dialogue1,,0,0,0,,Erio, Caro, go ahead
 Dialogue: 0,0:09:58.90,0:10:00.32,NanohaW Dialogue1,,0,0,0,,But Fate!
 Dialogue: 0,0:10:00.32,0:10:01.44,NanohaW Dialogue1,,0,0,0,,I’ll catch up to you soon.
 Dialogue: 0,0:10:01.44,0:10:01.99,NanohaW Dialogue1,,0,0,0,,Go!
-Dialogue: 0,0:10:02.79,0:10:03.85,NanohaW Dialogue1,,0,0,0,,Fried.
+Dialogue: 0,0:10:02.69,0:10:03.72,NanohaW Dialogue1,,0,0,0,,Fried.
 Dialogue: 0,0:10:06.41,0:10:08.24,NanohaW Dialogue1,,0,0,0,,Erio.
 Dialogue: 0,0:10:08.24,0:10:15.62,NanohaW Dialogue1,,0,0,0,,They’re opponents who can outrange us in air combat.\NIf we stay, Fate can’t fight to her fullest.
-Dialogue: 0,0:10:15.62,0:10:16.04,NanohaW Dialogue1,,0,0,0,,Okay,
+Dialogue: 0,0:10:15.62,0:10:16.04,NanohaW Dialogue1,,0,0,0,,Okay.
 Dialogue: 0,0:10:18.59,0:10:21.54,NanohaW Dialogue1,,0,0,0,,Bardiche, third form!
 Dialogue: 0,0:10:21.54,0:10:23.83,NanohaW Device1,,0,0,0,,Zanber Form
-Dialogue: 0,0:10:42.52,0:10:45.40,NanohaW Dialogue1,,0,0,0,,Several S+ ranks have begun to move.
-Dialogue: 0,0:10:45.40,0:10:47.64,NanohaW Dialogue1,,0,0,0,,Have their defenses already recovered enough?
+Dialogue: 0,0:10:42.52,0:10:45.15,NanohaW Dialogue1,,0,0,0,,Several S+ ranks have begun to move.
+Dialogue: 0,0:10:45.15,0:10:47.64,NanohaW Dialogue1,,0,0,0,,Have their defenses already recovered enough?
 Dialogue: 0,0:10:47.64,0:10:49.56,NanohaW Dialogue1,,0,0,0,,Oh goddammit!
 Dialogue: 0,0:10:49.56,0:10:52.96,NanohaW Dialogue1,,0,0,0,,Vita, Signum is heading this way!
 Dialogue: 0,0:10:55.38,0:10:56.95,NanohaW Dialogue1,,0,0,0,,Is this it?
@@ -233,16 +233,16 @@ Dialogue: 0,0:11:08.18,0:11:09.79,NanohaW Narration1,,0,0,0,,Vita, above you!
 Dialogue: 0,0:11:12.65,0:11:15.09,NanohaW Dialogue1,,0,0,0,,I’ll smash you down right here!
 Dialogue: 0,0:11:17.52,0:11:19.22,NanohaW Device1,,0,0,20,,Full Drive, start.
 Dialogue: 0,0:11:17.52,0:11:19.22,NanohaW Device2,,0,0,0,,{\pos(640,595)}Grenzpunkt freilassen.
-Dialogue: 0,0:11:34.59,0:11:36.86,NanohaW Dialogue1,,0,0,0,,Agito, we’re retreating.
+Dialogue: 0,0:11:34.59,0:11:36.65,NanohaW Dialogue1,,0,0,0,,Agito, we’re retreating.
 Dialogue: 0,0:11:43.44,0:11:45.22,NanohaW Dialogue1,,0,0,0,,J-Jackass...
-Dialogue: 0,0:11:46.46,0:11:47.43,NanohaW Dialogue1,,0,0,0,,Rein!
+Dialogue: 0,0:11:46.21,0:11:47.43,NanohaW Dialogue1,,0,0,0,,Rein!
 Dialogue: 0,0:11:47.43,0:11:49.37,NanohaW Dialogue1,,0,0,0,,Hey, Rein!
-Dialogue: 0,0:11:59.43,0:12:00.53,NanohaW Dialogue1,,0,0,0,,That’s...
+Dialogue: 0,0:11:59.10,0:12:00.53,NanohaW Dialogue1,,0,0,0,,That’s...
 Dialogue: 0,0:12:04.53,0:12:05.26,NanohaW Narration1,,0,0,0,,Signum.
 Dialogue: 0,0:12:06.78,0:12:08.10,NanohaW Dialogue1,,0,0,0,,Rein is...
 Dialogue: 0,0:12:08.10,0:12:09.91,NanohaW Dialogue1,,0,0,0,,..and Eisen!
 Dialogue: 0,0:12:21.55,0:12:24.34,NanohaW Dialogue1,,0,0,0,,Subaru, you’re getting too far ahead of us.
-Dialogue: 0,0:12:24.34,0:12:26.63,NanohaW Narration1,,0,0,0,,Sorry, but I’m fine.
+Dialogue: 0,0:12:24.34,0:12:26.63,NanohaW Dialogue1,,0,0,0,,Sorry, but I’m fine.
 Dialogue: 0,0:12:26.63,0:12:28.13,NanohaW Dialogue1,,0,0,0,,She can’t help it.
 Dialogue: 0,0:12:28.13,0:12:31.00,NanohaW Dialogue1,,0,0,0,,In a place like this, Subaru is faster than us.
 Dialogue: 0,0:12:31.00,0:12:33.84,NanohaW Dialogue1,,0,0,0,,It’s okay if we just hurry.
@@ -268,7 +268,7 @@ Dialogue: 0,0:14:44.89,0:14:48.55,NanohaW Dialogue1,,0,0,0,,I understand, I’ll
 Dialogue: 0,0:15:00.87,0:15:02.11,NanohaW Dialogue1,,0,0,0,,Ginny!
 Dialogue: 0,0:15:02.79,0:15:05.25,NanohaW Dialogue1,,0,0,0,,You won’t get by...
 Dialogue: 0,0:15:06.66,0:15:08.12,NanohaW Device1,,0,0,0,,Protection
-Dialogue: 0,0:15:23.34,0:15:25.39,NanohaW Dialogue1,,0,0,0,,Give her back.
+Dialogue: 0,0:15:23.34,0:15:24.75,NanohaW Dialogue1,,0,0,0,,Give her back.
 Dialogue: 0,0:15:30.36,0:15:34.35,NanohaW Dialogue1,,0,0,0,,Give Ginny back!
 Dialogue: 0,0:15:38.53,0:15:40.16,NanohaW Dialogue1,,0,0,0,,Here comes Sein!
 Dialogue: 0,0:15:40.16,0:15:41.58,NanohaW Dialogue1,,0,0,0,,I’m saved...
@@ -344,8 +344,8 @@ Dialogue: 0,0:22:12.00,0:22:15.48,NanohaW Dialogue1,,0,0,0,,While it’s somewha
 Dialogue: 0,0:22:15.48,0:22:21.40,NanohaW Dialogue1,,0,0,0,,They were oppressed under the flag of “maintaining order” and “keeping the Lost Logia from causing harm.”
 Dialogue: 0,0:22:21.40,0:22:28.88,NanohaW Dialogue1,,0,0,0,,I hope you’ll consider this present\Na gift from all the brilliant engineers
 Dialogue: 0,0:22:28.88,0:22:33.89,NanohaW Dialogue1,,0,0,0,,who brought about great advances in legitimate technology.
-Dialogue: 0,0:22:35.32,0:22:39.98,NanohaW Dialogue1,,0,0,0,,But I am also one who loves humanity and life.
-Dialogue: 0,0:22:39.98,0:22:46.67,NanohaW Dialogue1,,0,0,0,,I tried hard not to shed any blood in vain,\Nto not spill any blood and to be as humane as possible.
+Dialogue: 0,0:22:35.03,0:22:39.98,NanohaW Dialogue1,,0,0,0,,But I am also one who loves humanity and life.
+Dialogue: 0,0:22:39.98,0:22:46.67,NanohaW Dialogue1,,0,0,0,,I tried hard not to shed any blood in vain\Nand to act as bloodlessly and humanely as possible.
 Dialogue: 0,0:22:47.75,0:22:55.22,NanohaW Dialogue1,,0,0,0,,Technology can completely conquer the enemy, whom you should hate. Do you think I’ve done enough to show that?
 Dialogue: 0,0:22:55.22,0:22:57.93,NanohaW Dialogue1,,0,0,0,,I’ll leave it at this today.
 Dialogue: 0,0:22:57.93,0:23:04.44,NanohaW Dialogue1,,0,0,0,,If you have a need for this wonderful power and technology,\Nfeel free to contact me anytime with a request.
