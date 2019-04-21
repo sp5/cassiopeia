@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 99
-Active Line: 103
-Video Position: 4790
+Scroll Position: 5
+Active Line: 6
+Video Position: 1261
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,40 +51,40 @@ Dialogue: 0,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo1,Song,0,0,0,,{\fad(290,0)
 Dialogue: 2,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo2,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord0\blur6\move(12.599,143,323.599,152,34,32)}Lyrical
 Dialogue: 1,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo2,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\c&HA6E8FC&\blur6\move(12.599,143,323.599,152,34,32)\1a&HFF&\t(0,290,\1a&H00&)}Lyrical
 Dialogue: 0,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo2,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord5.1\c&H3D3046&\blur6\3c&H3D3046&\move(12.599,143,323.599,152,34,32)\1a&HFF&\t(0,290,\1a&H00&)}Lyrical
-Dialogue: 3,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord0\blur6\move(746.877,88,555.877,107,32,32)}Nanoha
-Dialogue: 2,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\c&HFFFFFF&\blur6\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,555.877,107,32,32)}Nanoha
-Dialogue: 1,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord7.1\c&H14023B&\blur6\3c&H14023B&\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,555.877,107,32,32)}Nanoha
-Dialogue: 0,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord10.1\c&HFFFFFF&\blur6\3c&HFFFFFF&\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,555.877,107,32,32)}Nanoha
+Dialogue: 3,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord0\blur6\move(746.877,88,551.871,108,32,32)}Nanoha
+Dialogue: 2,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\c&HFFFFFF&\blur6\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,551.871,108,32,32)}Nanoha
+Dialogue: 1,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord7.1\c&H14023B&\blur6\3c&H14023B&\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,551.871,108,32,32)}Nanoha
+Dialogue: 0,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord10.1\c&HFFFFFF&\blur6\3c&HFFFFFF&\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,551.871,108,32,32)}Nanoha
 Dialogue: 2,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx88\fscy132\t(\fscx84\fscy125)\bord0\blur0.5\move(323.599,75,341.599,86,34,410)}Magical Girl
 Dialogue: 1,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx88\fscy132\t(\fscx84\fscy125)\c&HCCA694&\blur0.5\move(323.599,75,341.599,86,34,410)}Magical Girl
 Dialogue: 0,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx88\fscy132\t(\fscx84\fscy125)\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\move(323.599,75,341.599,86,34,410)}Magical Girl
 Dialogue: 2,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord0\blur0.5\move(323.599,143,341.599,152,34,410)}Lyrical
 Dialogue: 1,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\c&HA6E8FC&\blur0.5\move(323.599,143,341.599,152,34,410)}Lyrical
 Dialogue: 0,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord5.1\c&H3D3046&\blur0.5\3c&H3D3046&\move(323.599,143,341.599,152,34,410)}Lyrical
-Dialogue: 3,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord0\blur0.5\move(555.877,107,563.877,119,34,410)}Nanoha
-Dialogue: 2,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\c&HFFFFFF&\blur0.5\move(555.877,107,563.877,119,34,410)}Nanoha
-Dialogue: 1,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(555.877,107,563.877,119,34,410)}Nanoha
-Dialogue: 0,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(555.877,107,563.877,119,34,410)}Nanoha
+Dialogue: 3,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord0\blur0.5\move(551.871,108,558.87,119,34,410)}Nanoha
+Dialogue: 2,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\c&HFFFFFF&\blur0.5\move(551.871,108,558.87,119,34,410)}Nanoha
+Dialogue: 1,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(551.871,108,558.87,119,34,410)}Nanoha
+Dialogue: 0,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(551.871,108,558.87,119,34,410)}Nanoha
 Dialogue: 2,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx84\fscy125\t(\fscx72\fscy108)\bord0\blur0.5\move(341.599,86,377.599,111,31,1533)}Magical Girl
 Dialogue: 1,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx84\fscy125\t(\fscx72\fscy108)\c&HCCA694&\blur0.5\move(341.599,86,377.599,111,31,1533)}Magical Girl
 Dialogue: 0,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx84\fscy125\t(\fscx72\fscy108)\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\move(341.599,86,377.599,111,31,1533)}Magical Girl
 Dialogue: 2,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord0\blur0.5\move(341.599,152,377.599,168,31,1533)}Lyrical
 Dialogue: 1,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\c&HA6E8FC&\blur0.5\move(341.599,152,377.599,168,31,1533)}Lyrical
 Dialogue: 0,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord5.1\c&H3D3046&\blur0.5\3c&H3D3046&\move(341.599,152,377.599,168,31,1533)}Lyrical
-Dialogue: 3,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord0\blur0.5\move(563.877,119,571.877,139,31,1533)}Nanoha
-Dialogue: 2,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\c&HFFFFFF&\blur0.5\move(563.877,119,571.877,139,31,1533)}Nanoha
-Dialogue: 1,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(563.877,119,571.877,139,31,1533)}Nanoha
-Dialogue: 0,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(563.877,119,571.877,139,31,1533)}Nanoha
+Dialogue: 3,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord0\blur0.5\move(558.87,119,567.871,139,31,1533)}Nanoha
+Dialogue: 2,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\c&HFFFFFF&\blur0.5\move(558.87,119,567.871,139,31,1533)}Nanoha
+Dialogue: 1,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(558.87,119,567.871,139,31,1533)}Nanoha
+Dialogue: 0,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(558.87,119,567.871,139,31,1533)}Nanoha
 Dialogue: 2,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx72\fscy108\t(\fscx67\fscy100)\bord0\blur0.5\move(377.599,111,397.599,119,34,1923)}Magical Girl
 Dialogue: 1,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx72\fscy108\t(\fscx67\fscy100)\c&HCCA694&\blur0.5\move(377.599,111,397.599,119,34,1923)}Magical Girl
 Dialogue: 0,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx72\fscy108\t(\fscx67\fscy100)\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\move(377.599,111,397.599,119,31,1923)}Magical Girl
 Dialogue: 2,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord0\blur0.5\move(377.599,168,397.599,172,31,1923)}Lyrical
 Dialogue: 1,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\c&HA6E8FC&\blur0.5\move(377.599,168,397.599,172,31,1923)}Lyrical
 Dialogue: 0,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord5.1\c&H3D3046&\blur0.5\3c&H3D3046&\move(377.599,168,397.599,172,31,1923)}Lyrical
-Dialogue: 3,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord0\blur0.5\move(571.877,139,575.877,143,34,1923)}Nanoha
-Dialogue: 2,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\c&HFFFFFF&\blur0.5\move(571.877,139,575.877,143,34,1923)}Nanoha
-Dialogue: 1,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(571.877,139,575.877,143,34,1923)}Nanoha
-Dialogue: 0,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(571.877,139,575.877,143,5,1923)}Nanoha
+Dialogue: 3,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord0\blur0.5\move(567.871,139,575.877,143,4,1923)}Nanoha
+Dialogue: 2,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\c&HFFFFFF&\blur0.5\move(567.871,139,575.877,143,4,1923)}Nanoha
+Dialogue: 1,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(567.871,139,575.877,143,4,1923)}Nanoha
+Dialogue: 0,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(567.871,139,575.877,143,4,1923)}Nanoha
 Dialogue: 2,0:00:56.48,0:00:59.81,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)}Magical Girl
 Dialogue: 1,0:00:56.48,0:00:59.81,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)}Magical Girl
 Dialogue: 0,0:00:56.48,0:00:59.81,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)}Magical Girl
