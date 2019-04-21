@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 442
-Active Line: 444
-Video Position: 36347
+Scroll Position: 377
+Active Line: 378
+Video Position: 29044
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,11 +121,11 @@ Dialogue: 0,0:03:42.06,0:03:44.16,NanohaW Dialogue1,,0,0,0,,Keep at it!
 Dialogue: 0,0:03:44.16,0:03:46.58,NanohaW Dialogue1,,0,0,0,,Thank you, ma’am!
 Dialogue: 0,0:03:46.58,0:03:50.33,NanohaW Dialogue1,,0,0,0,,I guess we’ve finally gotten used to our secondary modes.
 Dialogue: 0,0:03:50.33,0:03:51.54,NanohaW Dialogue1,,0,0,0,,Yeah.
-Dialogue: 0,0:03:51.54,0:03:58.12,NanohaW Dialogue1,,0,0,0,,It’s not a major change for Caro and I, but it must be hard for Tia and Erio.
-Dialogue: 0,0:03:58.12,0:04:00.72,NanohaW Dialogue1,,0,0,0,,The whole form’s changed.
+Dialogue: 0,0:03:51.54,0:03:58.12,NanohaW Dialogue1,,0,0,0,,It’s not a major change for Caro and I,\Nbut it must be hard for Tia and Erio.
+Dialogue: 0,0:03:58.12,0:04:00.72,NanohaW Dialogue1,,0,0,0,,The whole body’s changed.
 Dialogue: 0,0:04:00.72,0:04:02.79,NanohaW Dialogue1,,0,0,0,,To me it’s nothing.
 Dialogue: 0,0:04:02.79,0:04:05.68,NanohaW Dialogue1,,0,0,0,,Dagger Mode is just a backup.
-Dialogue: 0,0:04:06.13,0:04:07.60,NanohaW Device1,,0,0,0,,Yes!
+Dialogue: 0,0:04:06.13,0:04:07.60,NanohaW Device1,,0,0,0,,Yes.
 Dialogue: 0,0:04:07.60,0:04:10.17,NanohaW Dialogue1,,0,0,0,,It’s Erio’s that’s complicated.
 Dialogue: 0,0:04:10.17,0:04:13.77,NanohaW Dialogue1,,0,0,0,,Strada’s secondary is pretty crazy.
 Dialogue: 0,0:04:14.26,0:04:15.58,NanohaW Device1,,0,0,20,,You think?
@@ -136,42 +136,43 @@ Dialogue: 0,0:04:19.76,0:04:21.88,NanohaW Device2,,0,0,0,,{\pos(640,595)}Danke s
 Dialogue: 0,0:04:21.88,0:04:24.69,NanohaW Dialogue1,,0,0,0,,I’ll continue to train with Strada.
 Dialogue: 0,0:04:24.69,0:04:26.28,NanohaW Dialogue1,,0,0,0,,I’ll do my best!
 Dialogue: 0,0:04:33.41,0:04:34.74,NanohaW Dialogue1,,0,0,0,,Vivio!
-Dialogue: 0,0:04:40.90,0:04:43.05,NanohaW Dialogue1,,0,0,0,,Morning, Vivio.
-Dialogue: 0,0:04:43.05,0:04:44.62,NanohaW Dialogue1,,0,0,0,,Did you get yourself up today?
+Dialogue: 0,0:04:40.90,0:04:42.70,NanohaW Dialogue1,,0,0,0,,Morning, Vivio.
+Dialogue: 0,0:04:42.70,0:04:44.62,NanohaW Dialogue1,,0,0,0,,Did you get yourself up today?
 Dialogue: 0,0:04:44.62,0:04:45.88,NanohaW Dialogue1,,0,0,0,,Yep!
 Dialogue: 0,0:04:45.88,0:04:47.50,NanohaW Dialogue1,,0,0,0,,Good morning, Fate.
 Dialogue: 0,0:04:47.50,0:04:49.39,NanohaW Dialogue1,,0,0,0,,Good morning, Nanoha.
 Dialogue: 0,0:04:49.39,0:04:53.59,NanohaW Dialogue1,,0,0,0,,Vivio, say good morning to Nanoha.
 Dialogue: 0,0:04:53.59,0:04:55.31,NanohaW Dialogue1,,0,0,0,,Good morning.
 Dialogue: 0,0:04:56.01,0:04:57.23,NanohaW Dialogue1,,0,0,0,,Good morning.
-Dialogue: 0,0:04:57.23,0:05:00.78,NanohaW Dialogue1,,0,0,0,,You can eat breakfast with us, right?
+Dialogue: 0,0:04:57.23,0:05:00.34,NanohaW Dialogue1,,0,0,0,,You can eat breakfast with us, right?
+Dialogue: 0,0:05:00.34,0:05:00.78,NanohaW Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:05:00.78,0:05:02.74,NanohaW Dialogue1,,0,0,0,,Breakfast?
 Dialogue: 0,0:05:02.74,0:05:04.13,NanohaW Dialogue1,,0,0,0,,That’s right.
 Dialogue: 0,0:05:04.13,0:05:05.53,NanohaW Dialogue1,,0,0,0,,Come on, let’s go.
 Dialogue: 0,0:05:06.32,0:05:08.95,NanohaW Dialogue1,,0,0,0,,What’s on the menu today, I wonder?
 Dialogue: 0,0:05:10.99,0:05:16.04,NanohaW Dialogue1,,0,0,0,,Attention all operatives: would P.F.C. Lanster please report to the commander’s office?
-Dialogue: 0,0:05:17.58,0:05:22.13,NanohaW Dialogue1,,0,0,0,,You see, I’m heading to the Main Office today.
-Dialogue: 0,0:05:22.13,0:05:26.13,NanohaW Dialogue1,,0,0,0,,And I wanted to know if you’d come with me, Teana.
+Dialogue: 0,0:05:17.58,0:05:22.13,NanohaW Dialogue1,,0,0,0,,You see, I’m heading to the Main Office today,
+Dialogue: 0,0:05:22.13,0:05:26.13,NanohaW Dialogue1,,0,0,0,,and I wanted to know if you’d come with me, Teana.
 Dialogue: 0,0:05:27.07,0:05:28.01,NanohaW Dialogue1,,0,0,0,,I see.
-Dialogue: 0,0:05:28.01,0:05:31.13,NanohaW Dialogue1,,0,0,0,,The person we’re meeting today is Captain Fate’s brother.
+Dialogue: 0,0:05:28.01,0:05:31.13,NanohaW Dialogue1,,0,0,0,,The person we’re meeting today is Captain Fate’s brother,
 Dialogue: 0,0:05:31.13,0:05:33.93,NanohaW Dialogue1,,0,0,0,,Admiral Chrono Harlaown.
 Dialogue: 0,0:05:33.93,0:05:34.87,NanohaW Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:05:34.87,0:05:37.98,NanohaW Dialogue1,,0,0,0,,He’s a ship’s captain and an Enforcer.
 Dialogue: 0,0:05:37.98,0:05:44.44,NanohaW Dialogue1,,0,0,0,,I thought it’d be good for your future if you had some experience meeting important people like that.
 Dialogue: 0,0:05:44.44,0:05:46.52,NanohaW Dialogue1,,0,0,0,,Thank you, ma’am!
 Dialogue: 0,0:05:46.52,0:05:48.36,NanohaW Dialogue1,,0,0,0,,I’d be honored to go with you!
-Dialogue: 0,0:05:50.41,0:05:52.28,NanohaW Dialogue1,,0,0,0,,Oh, where’s Teana?
-Dialogue: 0,0:05:52.28,0:05:54.53,NanohaW Dialogue1,,0,0,0,,She seems to be accompanying Commander Yagami
-Dialogue: 0,0:05:54.53,0:05:56.07,NanohaW Dialogue1,,0,0,0,,to the Main Office or something.
+Dialogue: 0,0:05:50.41,0:05:51.94,NanohaW Dialogue1,,0,0,0,,Oh, where’s Teana?
+Dialogue: 0,0:05:51.94,0:05:54.32,NanohaW Dialogue1,,0,0,0,,She seems to be accompanying Commander Yagami
+Dialogue: 0,0:05:54.32,0:05:56.07,NanohaW Dialogue1,,0,0,0,,to the Main Office or something.
 Dialogue: 0,0:05:56.07,0:05:56.79,NanohaW Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:05:56.79,0:05:59.79,NanohaW Dialogue1,,0,0,0,,Are you staying in the office today, Nanoha?
 Dialogue: 0,0:05:59.79,0:06:00.71,NanohaW Dialogue1,,0,0,0,,That’s right.
-Dialogue: 0,0:06:01.50,0:06:06.17,NanohaW Dialogue1,,0,0,0,,Lightning Squad is out investigating today,\Nand the lieutenants are off.
-Dialogue: 0,0:06:06.17,0:06:09.76,NanohaW Dialogue1,,0,0,0,,You and I are the only\Nfront-line troops here today, Subaru.
+Dialogue: 0,0:06:01.50,0:06:06.17,NanohaW Dialogue1,,0,0,0,,Lightning is out investigating today,\Nand the lieutenants are off.
+Dialogue: 0,0:06:06.17,0:06:09.66,NanohaW Dialogue1,,0,0,0,,You and I are the only\Nfront-line troops here today, Subaru.
 Dialogue: 0,0:06:10.38,0:06:13.14,NanohaW Dialogue1,,0,0,0,,I’ll pray nothing happens.
 Dialogue: 0,0:06:13.14,0:06:17.06,NanohaW Dialogue1,,0,0,0,,By the way, what’s Vivio doing during the day?
 Dialogue: 0,0:06:17.88,0:06:19.98,NanohaW Dialogue1,,0,0,0,,She’s staying in her room.
-Dialogue: 0,0:06:19.98,0:06:26.15,NanohaW Dialogue1,,0,0,0,,The housekeeper, Aina, is looking after her, and Zafira is on guard.
+Dialogue: 0,0:06:19.98,0:06:26.15,NanohaW Dialogue1,,0,0,0,,The housekeeper, Aina, is looking after her,\Nand Zafira is on guard.
 Dialogue: 0,0:06:26.15,0:06:26.80,NanohaW Dialogue1,,0,0,0,,Did I do it?
 Dialogue: 0,0:06:28.64,0:06:29.61,NanohaW Dialogue1,,0,0,0,,I did it!
 Dialogue: 0,0:06:29.61,0:06:32.07,NanohaW Dialogue1,,0,0,0,,Oh, that’s great, sweetie!
@@ -185,17 +186,18 @@ Dialogue: 0,0:06:41.86,0:06:43.34,NanohaW Dialogue1,,0,0,20,,Initiating standby 
 Dialogue: 0,0:06:44.13,0:06:45.76,NanohaW Dialogue1,,0,0,0,,Begin resupply and inspection.
 Dialogue: 0,0:06:45.76,0:06:48.34,NanohaW Dialogue1,,0,0,0,,Everyone who’s free, go and get some rest!
 Dialogue: 0,0:06:48.34,0:06:49.26,NanohaW Dialogue1,,0,0,0,,Sir!
-Dialogue: 0,0:06:49.26,0:06:51.22,NanohaW Dialogue1,,0,0,0,,Good work, Chrono.
+Dialogue: 0,0:06:49.26,0:06:50.78,NanohaW Dialogue1,,0,0,0,,Good work, Chrono.
 Dialogue: 0,0:06:53.18,0:06:56.47,NanohaW Dialogue1,,0,0,0,,We still have some time until Hayate gets here.
 Dialogue: 0,0:06:56.47,0:06:59.10,NanohaW Dialogue1,,0,0,0,,Well, let’s just relax and wait.
-Dialogue: 0,0:06:59.10,0:07:01.10,NanohaW Dialogue1,,0,0,0,,Oh, right.
+Dialogue: 0,0:06:59.10,0:07:00.83,NanohaW Dialogue1,,0,0,0,,Oh, right.
 Dialogue: 0,0:07:02.55,0:07:04.02,NanohaW Dialogue1,,0,0,0,,Want some cake?
 Dialogue: 0,0:07:04.02,0:07:07.08,NanohaW Dialogue1,,0,0,0,,It’s homemade, but it’s pretty good.
 Dialogue: 0,0:07:07.08,0:07:10.73,NanohaW Dialogue1,,0,0,0,,I told you I don’t like sweet things.
-Dialogue: 0,0:07:10.73,0:07:12.60,NanohaW Dialogue1,,0,0,0,,It’s not too sweet.
-Dialogue: 0,0:07:12.60,0:07:14.45,NanohaW Dialogue1,,0,0,0,,I guess I’ll have some.
+Dialogue: 0,0:07:10.73,0:07:12.85,NanohaW Dialogue1,,0,0,0,,It’s not too sweet.
+Dialogue: 0,0:07:12.85,0:07:14.76,NanohaW Dialogue1,,0,0,0,,I guess I’ll have some.
+Dialogue: 0,0:07:14.76,0:07:15.48,NanohaW Dialogue1,,0,0,0,,Great!
 Dialogue: 0,0:07:15.48,0:07:20.61,NanohaW Dialogue1,,0,0,0,,Anyway, just like you asked, I secretly looked into the internal situation at Surface HQ,
-Dialogue: 0,0:07:20.61,0:07:23.08,NanohaW Dialogue1,,0,0,0,,Especially the people around Lt. General Gaiz.
+Dialogue: 0,0:07:20.61,0:07:23.08,NanohaW Dialogue1,,0,0,0,,especially the people around Lt. General Gaiz.
 Dialogue: 0,0:07:23.88,0:07:28.80,NanohaW Dialogue1,,0,0,0,,He’s quite the character, an amazing strong-arm politician.
 Dialogue: 0,0:07:28.80,0:07:32.84,NanohaW Dialogue1,,0,0,0,,He’s a powerful force and has an air of authority that draws people to him.
 Dialogue: 0,0:07:32.84,0:07:35.76,NanohaW Dialogue1,,0,0,0,,I’ll admit he’s impressive.
@@ -205,9 +207,9 @@ Dialogue: 0,0:07:45.64,0:07:48.47,NanohaW Dialogue1,,0,0,0,,And he’s well-supp
 Dialogue: 0,0:07:48.47,0:07:51.95,NanohaW Dialogue1,,0,0,0,,plus he’s in good standing with the Bureau High Council.
 Dialogue: 0,0:07:51.95,0:07:57.91,NanohaW Dialogue1,,0,0,0,,He’s definitely somebody who’s hard for the Main Office to deal with.
 Dialogue: 0,0:07:57.91,0:07:59.11,NanohaW Dialogue1,,0,0,0,,Yes.
-Dialogue: 0,0:07:59.11,0:08:03.28,NanohaW Dialogue1,,0,0,0,,We can’t intervene carelessly, with relations between the ground and naval forces being as they are.
-Dialogue: 0,0:08:03.28,0:08:07.38,NanohaW Dialogue1,,0,0,0,,And with relations between Surface HQ and\Nthe Main Office, conflict with every single thing—
-Dialogue: 0,0:08:08.33,0:08:11.30,NanohaW Dialogue1,,0,0,0,,Excuse me, Captain Chrono.
+Dialogue: 0,0:07:59.11,0:08:03.28,NanohaW Dialogue1,,0,0,0,,We can’t intervene carelessly, with relations between the ground and naval forces being as they are,
+Dialogue: 0,0:08:03.28,0:08:07.38,NanohaW Dialogue1,,0,0,0,,and with relations between Surface HQ\Nand the Main Office, conflict with every single thing—
+Dialogue: 0,0:08:08.33,0:08:10.76,NanohaW Dialogue1,,0,0,0,,Excuse me, Captain Chrono.
 Dialogue: 0,0:08:11.30,0:08:14.26,NanohaW Dialogue1,,0,0,0,,Lt. Colonel Hayate Yagami is here.
 Dialogue: 0,0:08:19.72,0:08:20.64,NanohaW Dialogue1,,0,0,0,,Hayate.
 Dialogue: 0,0:08:20.64,0:08:23.02,NanohaW Dialogue1,,0,0,0,,Welcome to the {\i1}Claudia.{\i0}
@@ -222,11 +224,11 @@ Dialogue: 0,0:08:40.44,0:08:43.71,NanohaW Dialogue1,,0,0,0,,Private First Class 
 Dialogue: 0,0:08:43.71,0:08:44.78,NanohaW Dialogue1,,0,0,0,,Hello.
 Dialogue: 0,0:08:44.78,0:08:46.13,NanohaW Dialogue1,,0,0,0,,Nice to meetcha.
 Dialogue: 0,0:08:49.99,0:08:51.51,NanohaW Dialogue1,,0,0,0,,Thanks.
-Dialogue: 0,0:08:52.33,0:08:53.40,NanohaW Dialogue1,,0,0,0,,Have a seat.
+Dialogue: 0,0:08:51.51,0:08:53.40,NanohaW Dialogue1,,0,0,0,,Oh, have a seat.
 Dialogue: 0,0:08:53.40,0:08:55.68,NanohaW Dialogue1,,0,0,0,,No, I’ll stand here.
 Dialogue: 0,0:08:56.80,0:08:59.60,NanohaW Narration1,,0,0,0,,You told the front-line troops everything?
 Dialogue: 0,0:08:59.60,0:09:02.14,NanohaW Narration1,,0,0,0,,Not about the prophecy.
-Dialogue: 0,0:09:02.09,0:09:03.30,NanohaW Dialogue1,,0,0,0,,You want some too, right?
+Dialogue: 0,0:09:01.59,0:09:03.30,NanohaW Dialogue1,,0,0,0,,You want some too, right?
 Dialogue: 0,0:09:02.81,0:09:05.56,NanohaW Narration1,,0,0,0,,But that Surface HQ might be attacked.
 Dialogue: 0,0:09:03.30,0:09:05.56,NanohaW Dialogue1,,0,0,0,,No, I’m fine.
 Dialogue: 0,0:09:05.56,0:09:07.73,NanohaW Narration1,,0,0,0,,I see.
@@ -240,8 +242,8 @@ Dialogue: 0,0:09:31.70,0:09:33.42,NanohaW Dialogue1,,0,0,0,,Mass-based weapons?
 Dialogue: 0,0:09:34.52,0:09:39.60,NanohaW Dialogue1,,0,0,0,,I guess you could say they’re\Nphysical weapons that don’t use magic, maybe.
 Dialogue: 0,0:09:40.76,0:09:45.27,NanohaW Dialogue1,,0,0,0,,They fire physical matter that strikes the enemy or explodes.
 Dialogue: 0,0:09:45.27,0:09:49.65,NanohaW Dialogue1,,0,0,0,,Historically, Midchilda made heavy use of\Nthose weapons during wartime, as did Ancient Belka.
-Dialogue: 0,0:09:49.65,0:09:55.82,NanohaW Dialogue1,,0,0,0,,I’ve heard of them. Once they’re made,\Neven a kid can use them.
-Dialogue: 0,0:09:55.82,0:09:59.99,NanohaW Dialogue1,,0,0,0,,And that moving a finger could destroy a town or an entire world.
+Dialogue: 0,0:09:49.65,0:09:55.82,NanohaW Dialogue1,,0,0,0,,I’ve heard of them. Once they’re made,\Neven a kid can use them,
+Dialogue: 0,0:09:55.82,0:09:59.99,NanohaW Dialogue1,,0,0,0,,and that moving a finger could destroy a town or an entire world.
 Dialogue: 0,0:09:59.99,0:10:01.11,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:10:01.11,0:10:05.44,NanohaW Dialogue1,,0,0,0,,Ever since its founding, the Bureau\Nhas rooted out those weapons
 Dialogue: 0,0:10:05.44,0:10:10.58,NanohaW Dialogue1,,0,0,0,,and started to regulate the use of Lost Logia\Nfor peace and safety.
@@ -251,8 +253,8 @@ Dialogue: 0,0:10:16.31,0:10:18.30,NanohaW Dialogue1,,0,0,0,,Now then, what did w
 Dialogue: 0,0:10:20.17,0:10:25.96,NanohaW Dialogue1,,0,0,0,,Being both relatively clean and safe, we encouraged society towards magic.
 Dialogue: 0,0:10:27.27,0:10:28.59,NanohaW Dialogue1,,0,0,0,,That’s right.
 Dialogue: 0,0:10:28.59,0:10:35.82,NanohaW Dialogue1,,0,0,0,,The Bureau’s effective use of magic is what enabled it to manage the various worlds.
-Dialogue: 0,0:10:35.82,0:10:39.91,NanohaW Dialogue1,,0,0,0,,They established their Main Office\Nin the Dimensional Sea where all the worlds float.
-Dialogue: 0,0:10:39.91,0:10:43.66,NanohaW Dialogue1,,0,0,0,,And on their homeworld, Midchilda, they built Surface HQ.
+Dialogue: 0,0:10:35.82,0:10:39.91,NanohaW Dialogue1,,0,0,0,,They established their Main Office\Nin the Dimensional Sea where all the worlds float,
+Dialogue: 0,0:10:39.91,0:10:44.32,NanohaW Dialogue1,,0,0,0,,and on their homeworld, Midchilda, they built Surface HQ.
 Dialogue: 0,0:10:44.32,0:10:48.80,NanohaW Dialogue1,,0,0,0,,Oh! That was the beginning of the New Calendar, 75 years ago.
 Dialogue: 0,0:10:48.80,0:10:49.57,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:10:49.57,0:10:54.58,NanohaW Dialogue1,,0,0,0,,And who was it that saw the Bureau through the beginning of the New Calendar,
@@ -271,13 +273,13 @@ Dialogue: 0,0:11:28.95,0:11:32.50,NanohaW Dialogue1,,0,0,0,,Yes, it’s true tha
 Dialogue: 0,0:11:32.50,0:11:37.45,NanohaW Dialogue1,,0,0,0,,but everyone says the notion that\Nthe Bureau might be destroyed is absurd.
 Dialogue: 0,0:11:37.45,0:11:41.38,NanohaW Dialogue1,,0,0,0,,Even if Surface HQ did fall to terrorism or a {\i1}coup d’etat,{\i0}
 Dialogue: 0,0:11:41.38,0:11:47.01,NanohaW Dialogue1,,0,0,0,,nobody’s willing to believe that\Nthe Main Office could be taken down with it.
-Dialogue: 0,0:11:47.01,0:11:50.84,NanohaW Dialogue1,,0,0,0,,Well, the Bureau {\i1}is{\i0} enhancing its defenses.
+Dialogue: 0,0:11:47.01,0:11:50.84,NanohaW Dialogue1,,0,0,0,,Well, the Main Office {\i1}is{\i0} enhancing its defenses.
 Dialogue: 0,0:11:50.84,0:11:53.09,NanohaW Dialogue1,,0,0,0,,The problem is Surface HQ.
 Dialogue: 0,0:11:53.09,0:11:56.72,NanohaW Dialogue1,,0,0,0,,Lt. General Gaiz refuses to believe the prophecy.
 Dialogue: 0,0:11:56.72,0:11:59.10,NanohaW Dialogue1,,0,0,0,,He’s not taking any special precautions.
 Dialogue: 0,0:11:59.10,0:12:03.07,NanohaW Dialogue1,,0,0,0,,It’s difficult for different organizations to cooperate.
 Dialogue: 0,0:12:03.07,0:12:10.62,NanohaW Dialogue1,,0,0,0,,If “cooperation” is recast as “interfering with our internal affairs” or “meddling”, then it becomes a matter of dispute.
-Dialogue: 0,0:12:10.62,0:12:16.54,NanohaW Dialogue1,,0,0,0,,And even without that, the military power and influence of Surface HQ has on Mid has been considered a problem.
+Dialogue: 0,0:12:10.62,0:12:16.54,NanohaW Dialogue1,,0,0,0,,And even without that, the military power and influence Surface HQ has on Mid has been considered a problem.
 Dialogue: 0,0:12:16.54,0:12:20.51,NanohaW Dialogue1,,0,0,0,,Therefore, you couldn’t offer any major help that would be noticed in terms of military forces.
 Dialogue: 0,0:12:20.51,0:12:22.21,NanohaW Dialogue1,,0,0,0,,I’m sorry.
 Dialogue: 0,0:12:22.21,0:12:26.39,NanohaW Dialogue1,,0,0,0,,I’d like to keep political problems away from the front lines.
@@ -287,7 +289,7 @@ Dialogue: 0,0:12:33.80,0:12:39.65,NanohaW Dialogue1,,0,0,0,,And if things get wo
 Dialogue: 0,0:12:39.65,0:12:42.39,NanohaW Dialogue1,,0,0,0,,And until Surface HQ starts to take things seriously
 Dialogue: 0,0:12:42.39,0:12:46.87,NanohaW Dialogue1,,0,0,0,,or the Bureau and the Church\Nsend their own forces in to keep things stable.
 Dialogue: 0,0:12:46.87,0:12:49.28,NanohaW Dialogue1,,0,0,0,,That’s what Riot Force 6 is for.
-Dialogue: 0,0:12:52.25,0:12:56.75,NanohaW Dialogue1,,0,0,0,,Of course, we won’t cause any trouble for you outside your missions.
+Dialogue: 0,0:12:52.25,0:12:56.75,NanohaW Dialogue1,,0,0,0,,Of course, we won’t cause\Nany trouble for you outside your missions.
 Dialogue: 0,0:12:56.75,0:12:58.93,NanohaW Dialogue1,,0,0,0,,Don’t worry about it.
 Dialogue: 0,0:12:58.93,0:13:03.62,NanohaW Dialogue1,,0,0,0,,We’ve received a firm promise from\NLt. Colonel Yagami that she’ll take care of her staff.
 Dialogue: 0,0:13:03.62,0:13:04.88,NanohaW Dialogue1,,0,0,0,,Yes.
@@ -331,8 +333,8 @@ Dialogue: 0,0:15:21.16,0:15:22.94,NanohaW Dialogue1,,0,0,0,,Definitely!
 Dialogue: 0,0:15:26.53,0:15:27.72,NanohaW Dialogue1,,0,0,0,,See?
 Dialogue: 0,0:15:27.72,0:15:29.60,NanohaW Dialogue1,,0,0,0,,She doesn’t really understand.
 Dialogue: 0,0:15:29.60,0:15:31.95,NanohaW Dialogue1,,0,0,0,,What should we say so that she understands?
-Dialogue: 0,0:15:33.91,0:15:38.67,NanohaW Dialogue1,,0,0,0,,So, for a while, Nanoha will be your mom, Vivio.
-Dialogue: 0,0:15:38.67,0:15:39.92,NanohaW Dialogue1,,0,0,0,,Mama?
+Dialogue: 0,0:15:33.91,0:15:38.36,NanohaW Dialogue1,,0,0,0,,So, for a while, Nanoha will be your mom, Vivio.
+Dialogue: 0,0:15:38.36,0:15:39.92,NanohaW Dialogue1,,0,0,0,,Mama?
 Dialogue: 0,0:15:44.25,0:15:46.13,NanohaW Dialogue1,,0,0,0,,You can call me that if you want.
 Dialogue: 0,0:15:49.41,0:15:53.76,NanohaW Dialogue1,,0,0,0,,Until we find your real mother, Vivio,\NI’ll be your mama for a little while.
 Dialogue: 0,0:15:53.76,0:15:55.68,NanohaW Dialogue1,,0,0,0,,Is that okay with you, Vivio?
@@ -343,14 +345,14 @@ Dialogue: 0,0:16:10.98,0:16:12.90,NanohaW Dialogue1,,0,0,0,,It’s okay, Vivio.
 Dialogue: 0,0:16:23.49,0:16:25.74,NanohaW Dialogue1,,0,0,0,,By the way, what about the {\i1}Arthra?{\i0}
 Dialogue: 0,0:16:25.74,0:16:28.09,NanohaW Dialogue1,,0,0,0,,It’s going to be dismantled next month.
 Dialogue: 0,0:16:28.09,0:16:29.09,NanohaW Dialogue1,,0,0,0,,I see.
-Dialogue: 0,0:16:29.09,0:16:32.92,NanohaW Dialogue1,,0,0,0,,It seemed like it could still work for a while longer last I saw it.
+Dialogue: 0,0:16:29.09,0:16:32.92,NanohaW Dialogue1,,0,0,0,,It seemed like it could still run\Nfor a while longer last I saw it.
 Dialogue: 0,0:16:32.92,0:16:35.76,NanohaW Dialogue1,,0,0,0,,We don’t think it could last through a long mission.
 Dialogue: 0,0:16:35.76,0:16:41.32,NanohaW Dialogue1,,0,0,0,,That’s sad. The {\i1}Arthra{\i0} holds a lot of memories for us.
 Dialogue: 0,0:16:41.32,0:16:43.23,NanohaW Dialogue1,,0,0,0,,It’s worked hard for a long time.
 Dialogue: 0,0:16:43.23,0:16:46.15,NanohaW Dialogue1,,0,0,0,,We need to let it rest.
 Dialogue: 0,0:16:46.15,0:16:48.32,NanohaW Dialogue1,,0,0,0,,Here’s your data.
 Dialogue: 0,0:16:48.32,0:16:50.61,NanohaW Dialogue1,,0,0,0,,It’s important data, so be careful.
-Dialogue: 0,0:16:50.61,0:16:52.36,NanohaW Dialogue1,,0,0,0,,Yes.
+Dialogue: 0,0:16:50.61,0:16:51.67,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:16:54.56,0:16:55.78,NanohaW Dialogue1,,0,0,0,,Teana, was it?
 Dialogue: 0,0:16:55.78,0:16:56.81,NanohaW Dialogue1,,0,0,0,,Y-Yes.
 Dialogue: 0,0:16:56.81,0:16:59.41,NanohaW Dialogue1,,0,0,0,,What do you think of Hayate?
@@ -358,12 +360,12 @@ Dialogue: 0,0:16:59.41,0:17:00.73,NanohaW Dialogue1,,0,0,0,,Well,
 Dialogue: 0,0:17:00.73,0:17:03.70,NanohaW Dialogue1,,0,0,0,,I think she’s an impressive mage and a talented commander.
 Dialogue: 0,0:17:04.75,0:17:05.62,NanohaW Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:17:05.62,0:17:09.83,NanohaW Dialogue1,,0,0,0,,Hayate, Chrono, and my stepsister Carim.
-Dialogue: 0,0:17:09.83,0:17:13.20,NanohaW Dialogue1,,0,0,0,,The three of them have been friends for a long time.
-Dialogue: 0,0:17:13.20,0:17:16.22,NanohaW Dialogue1,,0,0,0,,And thanks to that, they get along with me.
+Dialogue: 0,0:17:09.83,0:17:13.20,NanohaW Dialogue1,,0,0,0,,The three of them have been friends for a long time,
+Dialogue: 0,0:17:13.20,0:17:16.22,NanohaW Dialogue1,,0,0,0,,and thanks to that, they get along with me.
 Dialogue: 0,0:17:16.22,0:17:17.21,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:17:17.21,0:17:18.55,NanohaW Dialogue1,,0,0,0,,I know that.
 Dialogue: 0,0:17:18.55,0:17:24.06,NanohaW Dialogue1,,0,0,0,,She’s another user of Ancient Belkan magic, but more than that, Hayate is a good girl.
-Dialogue: 0,0:17:25.02,0:17:26.04,NanohaW Dialogue1,,0,0,0,,She’s a sweetheart.
+Dialogue: 0,0:17:24.55,0:17:26.04,NanohaW Dialogue1,,0,0,0,,She’s a sweetheart.
 Dialogue: 0,0:17:26.04,0:17:27.48,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:17:27.48,0:17:30.40,NanohaW Dialogue1,,0,0,0,,I think of her like a little sister.
 Dialogue: 0,0:17:30.40,0:17:32.98,NanohaW Dialogue1,,0,0,0,,So I’m kind of worried about her.
@@ -378,25 +380,25 @@ Dialogue: 0,0:17:52.48,0:17:59.38,NanohaW Dialogue1,,0,0,0,,But not as a person.
 Dialogue: 0,0:17:59.38,0:18:02.46,NanohaW Dialogue1,,0,0,0,,Of course, that’s an extreme case.
 Dialogue: 0,0:18:02.46,0:18:05.14,NanohaW Dialogue1,,0,0,0,,It’s not actually like that.
 Dialogue: 0,0:18:05.14,0:18:06.59,NanohaW Dialogue1,,0,0,0,,Yes, I understand.
-Dialogue: 0,0:18:06.59,0:18:12.06,NanohaW Dialogue1,,0,0,0,,“Pressure and loneliness come with that power,” is what you’re saying.
-Dialogue: 0,0:18:12.06,0:18:13.13,NanohaW Dialogue1,,0,0,0,,Yes, that’s right.
+Dialogue: 0,0:18:06.59,0:18:11.85,NanohaW Dialogue1,,0,0,0,,“With great power comes great pressure\Nand loneliness,” is what you’re saying.
+Dialogue: 0,0:18:11.85,0:18:13.13,NanohaW Dialogue1,,0,0,0,,Yes, that’s right.
 Dialogue: 0,0:18:14.10,0:18:17.57,NanohaW Dialogue1,,0,0,0,,Anyway, so what I’m trying to say is, well...
-Dialogue: 0,0:18:18.02,0:18:23.02,NanohaW Dialogue1,,0,0,0,,I’m sure that a lot of things may happen between a commander and her front-line troops.
+Dialogue: 0,0:18:17.57,0:18:23.02,NanohaW Dialogue1,,0,0,0,,I’m sure that a lot of things may happen between a commander and her front-line troops.
 Dialogue: 0,0:18:23.02,0:18:30.54,NanohaW Dialogue1,,0,0,0,,But I’d like you to treat her not just as a superior,\Nbut as a person—as another girl.
 Dialogue: 0,0:18:31.46,0:18:34.29,NanohaW Dialogue1,,0,0,0,,Not just Hayate, but your captains too.
 Dialogue: 0,0:18:34.95,0:18:36.62,NanohaW Dialogue1,,0,0,0,,Roger.
 Dialogue: 0,0:18:36.62,0:18:40.18,NanohaW Dialogue1,,0,0,0,,We front-line troops will do the best we can.
 Dialogue: 0,0:18:45.68,0:18:47.98,NanohaW Dialogue1,,0,0,0,,I took another look at the squad data,
-Dialogue: 0,0:18:47.98,0:18:51.09,NanohaW Dialogue1,,0,0,0,,But Hayate is truly blessed to have family and staff like that.
+Dialogue: 0,0:18:47.98,0:18:51.09,NanohaW Dialogue1,,0,0,0,,but Hayate is truly blessed to have family and staff like that.
 Dialogue: 0,0:18:51.09,0:18:51.84,NanohaW Dialogue1,,0,0,0,,Agreed.
 Dialogue: 0,0:18:51.84,0:18:53.68,NanohaW Dialogue1,,0,0,0,,Teana’s a good kid,
 Dialogue: 0,0:18:53.68,0:18:58.02,NanohaW Dialogue1,,0,0,0,,but I’m sure her guilt isn’t going to go away that easily.
 Dialogue: 0,0:18:58.02,0:19:01.11,NanohaW Dialogue1,,0,0,0,,I think Hayate is trying too hard, as always.
 Dialogue: 0,0:19:01.11,0:19:06.07,NanohaW Dialogue1,,0,0,0,,If she can make it through this incident,\Nthat will be proof of her suitability as a commander.
 Dialogue: 0,0:19:06.07,0:19:09.87,NanohaW Dialogue1,,0,0,0,,And there will be less that people can say about the Book of Darkness Incident.
-Dialogue: 0,0:19:11.08,0:19:15.16,NanohaW Dialogue1,,0,0,0,,Even if Nanoha and Fate are with her, I’m worried.
-Dialogue: 0,0:19:15.16,0:19:17.54,NanohaW Dialogue1,,0,0,0,,I’d like to help her.
-Dialogue: 0,0:19:17.54,0:19:21.51,NanohaW Dialogue1,,0,0,0,,The Main Office can’t act openly, as you just said.
+Dialogue: 0,0:19:11.08,0:19:15.03,NanohaW Dialogue1,,0,0,0,,Even if Nanoha and Fate are with her, I’m worried.
+Dialogue: 0,0:19:15.03,0:19:17.41,NanohaW Dialogue1,,0,0,0,,I’d like to help her.
+Dialogue: 0,0:19:17.41,0:19:21.51,NanohaW Dialogue1,,0,0,0,,The Main Office can’t act openly, as you just said.
 Dialogue: 0,0:19:22.21,0:19:23.83,NanohaW Dialogue1,,0,0,0,,Leave it to me.
 Dialogue: 0,0:19:23.83,0:19:27.43,NanohaW Dialogue1,,0,0,0,,The position of Inspector is suited to covert actions.
 Dialogue: 0,0:19:27.43,0:19:29.85,NanohaW Dialogue1,,0,0,0,,Thanks, I’m counting on you.
@@ -417,7 +419,7 @@ Dialogue: 0,0:19:55.32,0:19:57.82,NanohaW Dialogue2,,0,0,0,,{\blur0.75\pos(640,5
 Dialogue: 0,0:19:57.80,0:20:03.47,NanohaW Dialogue1,,0,0,0,,We’ve received data once again from Riot Force 6\Nalong with their inspection of the scene.
 Dialogue: 0,0:20:03.47,0:20:08.06,NanohaW Dialogue1,,0,0,0,,With the template they’re using for their magic circles\Nand the signals from the power source they’re using,
 Dialogue: 0,0:20:08.06,0:20:11.36,NanohaW Dialogue1,,0,0,0,,they’re at a far higher level than what we’ve run into before.
-Dialogue: 0,0:20:11.36,0:20:13.31,NanohaW Dialogue1,,0,0,0,,I guess there’s no doubt then.
+Dialogue: 0,0:20:11.36,0:20:13.31,NanohaW Dialogue1,,0,0,0,,I guess there’s no doubt, then.
 Dialogue: 1,0:20:13.30,0:20:18.13,NanohaW Dialogue2,,0,0,0,,{\bord0\blur0.75\fad(0,497)\pos(640,510.5)}Manager, Main Office Technical Department 4\NChief Engineer {\fs49}Mariel Atenza
 Dialogue: 0,0:20:13.30,0:20:18.13,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(0,497)\pos(640,510.5)\c&H000000&\t(4333,4830,\1a&HFF&)}Manager, Main Office Technical Department 4\NChief Engineer {\fs49}Mariel Atenza
 Dialogue: 0,0:20:13.31,0:20:14.26,NanohaW Dialogue1,,0,0,20,,Yes.
