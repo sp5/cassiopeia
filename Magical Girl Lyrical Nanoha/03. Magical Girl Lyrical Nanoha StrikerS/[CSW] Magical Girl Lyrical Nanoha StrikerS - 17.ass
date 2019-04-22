@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 301
-Active Line: 305
-Video Position: 32614
+Scroll Position: 94
+Active Line: 95
+Video Position: 5585
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -135,7 +135,7 @@ Dialogue: 0,0:03:36.02,0:03:37.76,NanohaW Dialogue1,,0,0,0,,I won’t go down.
 Dialogue: 0,0:03:37.76,0:03:40.73,NanohaW Dialogue1,,0,0,0,,Not until we finish what we must do.
 Dialogue: 0,0:03:40.73,0:03:46.41,NanohaW Dialogue1,,0,0,0,,Don’t even {\i1}joke{\i0} about that!\NI told you I would protect you, sir!
 Dialogue: 0,0:03:46.41,0:03:52.61,NanohaW Dialogue1,,0,0,0,,I won’t let her chip away at your life, sir!\NI’ll open a path for you, sir!
-Dialogue: 0,0:03:52.61,0:03:55.36,NanohaW Dialogue1,,0,0,0,,Extreme blaze!
+Dialogue: 0,0:03:52.61,0:03:55.36,NanohaW Dialogue1,,0,0,0,,Flame on!
 Dialogue: 0,0:03:56.79,0:03:58.71,NanohaW Dialogue1,,0,0,0,,{\b1}Raging Fire Sword{\b0}
 Dialogue: 0,0:04:06.88,0:04:07.97,NanohaW Dialogue1,,0,0,0,,He keeps moving!
 Dialogue: 0,0:04:07.97,0:04:11.54,NanohaW Dialogue1,,0,0,0,,Wendi, you piece of junk, get him already.
