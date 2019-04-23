@@ -19,15 +19,16 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 182
-Active Line: 187
-Video Position: 13777
+Scroll Position: 293
+Active Line: 297
+Video Position: 23256
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Nanoha StrikerS Title1,Bodoni Twelve ITC Std,72,&H00E4CBE0,&H000000FF,&H108C0062,&H60890B65,0,0,0,0,100,100,0,0,1,4.5,0,2,91,91,22,1
 Style: Nanoha StrikerS Title2,Bodoni Twelve ITC Std,72,&H00EFF3F7,&H000000FF,&H00183ACD,&H60203DC1,0,0,0,0,100,100,0,0,1,4.5,0,2,91,91,22,1
 Style: Nanoha OP,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.5,7,14,14,13,1
+Style: Nanoha Insert Song,Noto Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.5,7,14,14,13,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: NanohaW Dialogue1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.6,3.1,2,80,80,40,1
 Style: NanohaW Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.4,8,80,80,20,1
@@ -322,14 +323,28 @@ Dialogue: 0,0:15:31.89,0:15:34.99,NanohaW Dialogue1,,0,0,0,,Teana, Subaru, you t
 Dialogue: 0,0:15:34.99,0:15:36.94,NanohaW Dialogue1,,0,0,0,,Did something happen?
 Dialogue: 0,0:15:36.94,0:15:38.05,NanohaW Dialogue1,,0,0,0,,N-No.
 Dialogue: 0,0:15:39.12,0:15:39.97,NanohaW Dialogue1,,0,0,0,,Nothing.
+Dialogue: 0,0:15:41.50,0:15:46.22,Nanoha Insert Song,,0,0,0,,Hey, on the day we met
 Dialogue: 0,0:15:43.63,0:15:45.58,NanohaW Dialogue1,,0,0,0,,Teana! Be more agile!
-Dialogue: 0,0:15:43.63,0:15:47.68,NanohaW Narration1,,0,0,0,,First, I have to quickly increase the number of skills I can use.
+Dialogue: 0,0:15:43.63,0:15:47.68,NanohaW Narration1,,0,0,0,,{\an9}First, I have to quickly increase\Nthe number of skills I can use.
+Dialogue: 0,0:15:46.22,0:15:52.16,Nanoha Insert Song,,0,0,0,,I still remember the first time\Nyou said something to me
 Dialogue: 0,0:15:47.41,0:15:51.88,NanohaW Dialogue1,,0,0,0,,Subaru, perhaps it should move more like this.
-Dialogue: 0,0:15:48.27,0:15:50.01,NanohaW Narration1,,0,0,0,,Illusion magic can’t be my trump card.
-Dialogue: 0,0:15:50.01,0:15:56.53,NanohaW Narration1,,0,0,0,,And if I can only shoot from mid-range, I won’t be able to proceed when that doesn’t work.
-Dialogue: 0,0:16:02.51,0:16:05.85,NanohaW Narration1,,0,0,0,,My main skill will still be sharpshooting.\NFirst, last and always.
-Dialogue: 0,0:16:05.85,0:16:11.04,NanohaW Narration1,,0,0,0,,It’s the precision shooting that my brother taught me,\Nbut if that’s all I can do, then...
-Dialogue: 0,0:16:18.83,0:16:22.52,NanohaW Narration1,,0,0,0,,I have to keep improving my combat skills and movement.
+Dialogue: 0,0:15:48.27,0:15:50.01,NanohaW Narration1,,0,0,0,,{\an9}Illusion magic\Ncan’t be my trump card.
+Dialogue: 0,0:15:50.01,0:15:52.58,NanohaW Narration1,,0,0,0,,{\an9}And if I can only shoot\Nfrom mid-range,
+Dialogue: 0,0:15:52.16,0:15:56.84,Nanoha Insert Song,,0,0,0,,Yes, you looked me right in the eye
+Dialogue: 0,0:15:52.58,0:15:56.53,NanohaW Narration1,,0,0,0,,{\an9}I won’t be able to proceed\Nwhen that doesn’t work.
+Dialogue: 0,0:15:56.84,0:16:02.51,Nanoha Insert Song,,0,0,0,,You haven’t changed at all\Nsince back then, have you?
+Dialogue: 0,0:16:02.51,0:16:05.85,NanohaW Narration1,,0,0,0,,{\an9}My main skill will still be\Nsharpshooting. First, last and always.
+Dialogue: 0,0:16:02.51,0:16:05.48,Nanoha Insert Song,,0,0,0,,You’re still heading\Nright down
+Dialogue: 0,0:16:05.48,0:16:09.64,Nanoha Insert Song,,0,0,0,,The path you chose
+Dialogue: 0,0:16:05.85,0:16:08.94,NanohaW Narration1,,0,0,0,,{\an9}It’s the precision shooting\Nthat my brother taught me,
+Dialogue: 0,0:16:08.94,0:16:11.04,NanohaW Narration1,,0,0,0,,{\an9}but if that’s all I can do, then...
+Dialogue: 0,0:16:09.64,0:16:16.80,Nanoha Insert Song,,0,0,0,,I’ll find a way to\Nkeep watch over you
+Dialogue: 0,0:16:16.80,0:16:27.38,Nanoha Insert Song,,0,0,0,,As you travel down that road
+Dialogue: 0,0:16:18.83,0:16:22.52,NanohaW Narration1,,0,0,0,,{\an9}I have to keep improving\Nmy combat skills and movement.
+Dialogue: 0,0:16:28.48,0:16:34.20,Nanoha Insert Song,,0,0,0,,The promise we made under the starry sky
+Dialogue: 0,0:16:34.20,0:16:39.58,Nanoha Insert Song,,0,0,0,,To fulfill the dreams we hope to live
+Dialogue: 0,0:16:39.58,0:16:43.48,Nanoha Insert Song,,0,0,0,,The plan we came up with to reach our dreams...
+Dialogue: 0,0:16:43.48,0:16:50.44,Nanoha Insert Song,,0,0,0,,We’ll touch the sky!
 Dialogue: 0,0:16:57.31,0:17:02.92,NanohaW Dialogue1,,0,0,0,,Sorry for making you do so much work, Cross Mirage.
 Dialogue: 0,0:17:03.86,0:17:05.06,NanohaW Device1,,0,0,20,,No problem.
 Dialogue: 0,0:17:05.58,0:17:11.54,NanohaW Dialogue1,,0,0,0,,After tomorrow’s mock battle is over, I’ll ask Shari to give you a full tune-up.
