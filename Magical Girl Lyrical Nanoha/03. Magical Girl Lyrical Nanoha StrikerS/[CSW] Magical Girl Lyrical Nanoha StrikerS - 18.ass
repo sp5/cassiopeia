@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 399
-Active Line: 404
-Video Position: 31667
+Scroll Position: 445
+Active Line: 450
+Video Position: 36772
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -488,4 +488,4 @@ Dialogue: 1,0:25:31.91,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\blur0.5\pos(6
 Dialogue: 0,0:25:31.91,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\blur5\pos(640,267.75)\c&H183ACD&}Episode 19
 Dialogue: 1,0:25:31.91,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Cradle
 Dialogue: 0,0:25:31.91,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H183ACD&}Cradle
-Dialogue: 0,0:25:33.68,0:25:35.99,NanohaW Narration1,,0,0,0,,Take off.
+Dialogue: 0,0:25:33.68,0:25:35.99,NanohaW Narration1,,0,0,0,,Take off!

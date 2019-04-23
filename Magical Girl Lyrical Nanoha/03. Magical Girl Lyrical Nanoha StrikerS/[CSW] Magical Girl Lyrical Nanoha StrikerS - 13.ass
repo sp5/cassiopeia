@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 321
-Active Line: 322
-Video Position: 27978
+Scroll Position: 373
+Active Line: 377
+Video Position: 33620
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -171,7 +171,7 @@ Dialogue: 0,0:06:58.47,0:06:59.44,NanohaW Dialogue1,,0,0,0,,Yes, ma’am.
 Dialogue: 0,0:07:01.60,0:07:06.49,NanohaW Dialogue1,,0,0,0,,The examination failed to find anything dangerous, correct?
 Dialogue: 0,0:07:06.49,0:07:10.52,NanohaW Dialogue1,,0,0,0,,Indeed. Her mana capacity is higher than average,
 Dialogue: 0,0:07:10.52,0:07:13.53,NanohaW Dialogue1,,0,0,0,,but it’s well within the range of a normal child.
-Dialogue: 0,0:07:13.53,0:07:15.49,NanohaW Dialogue1,,0,0,0,,But, even so...
+Dialogue: 0,0:07:13.53,0:07:15.49,NanohaW Dialogue1,,0,0,0,,But even so...
 Dialogue: 0,0:07:15.49,0:07:20.88,NanohaW Dialogue1,,0,0,0,,I’m sorry to say it, but there’s\Nno doubt that she’s an artificial being.
 Dialogue: 0,0:07:20.88,0:07:24.29,NanohaW Dialogue1,,0,0,0,,There’s no way to tell what kind of latent threat she poses.
 Dialogue: 0,0:07:38.12,0:07:40.17,NanohaW Dialogue1,,0,0,0,,There you are.
@@ -416,8 +416,8 @@ Dialogue: 0,0:22:53.64,0:22:56.40,NanohaW Dialogue1,,0,0,0,,and the little ones 
 Dialogue: 0,0:22:56.40,0:22:59.02,NanohaW Dialogue1,,0,0,0,,Nanoha and her friends saved us.
 Dialogue: 0,0:23:04.88,0:23:06.38,NanohaW Dialogue1,,0,0,0,,This is the life that she,
 Dialogue: 0,0:23:07.15,0:23:10.59,NanohaW Dialogue1,,0,0,0,,the first Reinforce, left me.
-Dialogue: 0,0:23:15.35,0:23:21.88,NanohaW Dialogue1,,0,0,0,,I don’t want anyone else in the world to be sad or have regrets like that.
-Dialogue: 0,0:23:22.73,0:23:24.83,NanohaW Dialogue1,,0,0,0,,This is my purpose,
+Dialogue: 0,0:23:15.35,0:23:21.88,NanohaW Dialogue1,,0,0,0,,I don’t want anyone else in all the worlds to be sad or have regrets like that.
+Dialogue: 0,0:23:22.45,0:23:24.83,NanohaW Dialogue1,,0,0,0,,This is my purpose,
 Dialogue: 0,0:23:24.83,0:23:28.03,NanohaW Dialogue1,,0,0,0,,my {\i1}raison d’être.{\i0}
 Dialogue: 0,0:23:34.64,0:23:38.13,Nanoha ED,Endsong,0,0,0,,Without end, the dreams continue to weave
 Dialogue: 0,0:23:38.13,0:23:41.47,Nanoha ED,Endsong,0,0,0,,Surpassing thousands of nights
