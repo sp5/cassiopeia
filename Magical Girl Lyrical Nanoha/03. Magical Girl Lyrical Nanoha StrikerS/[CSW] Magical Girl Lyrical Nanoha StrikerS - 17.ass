@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 94
-Active Line: 95
-Video Position: 5585
+Scroll Position: 188
+Active Line: 191
+Video Position: 16245
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -231,7 +231,7 @@ Dialogue: 0,0:10:59.30,0:11:01.88,NanohaW Dialogue1,,0,0,0,,God damn...
 Dialogue: 0,0:11:01.88,0:11:04.91,NanohaW Dialogue1,,0,0,0,,At least... at least let me take them down!
 Dialogue: 0,0:11:08.18,0:11:09.79,NanohaW Narration1,,0,0,0,,Vita, above you!
 Dialogue: 0,0:11:12.65,0:11:15.09,NanohaW Dialogue1,,0,0,0,,I’ll smash you down right here!
-Dialogue: 0,0:11:17.52,0:11:19.22,NanohaW Device1,,0,0,20,,Full Drive, start.
+Dialogue: 0,0:11:17.52,0:11:19.22,NanohaW Device1,,0,0,20,,Limiter release.
 Dialogue: 0,0:11:17.52,0:11:19.22,NanohaW Device2,,0,0,0,,{\pos(640,595)}Grenzpunkt freilassen.
 Dialogue: 0,0:11:34.59,0:11:36.65,NanohaW Dialogue1,,0,0,0,,Agito, we’re retreating.
 Dialogue: 0,0:11:43.44,0:11:45.22,NanohaW Dialogue1,,0,0,0,,J-Jackass...

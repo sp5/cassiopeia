@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 328
-Active Line: 333
-Video Position: 31645
+Scroll Position: 375
+Active Line: 380
+Video Position: 36734
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -421,4 +421,4 @@ Dialogue: 0,0:25:26.12,0:25:29.19,NanohaW Narration1,,0,0,0,,Next episode of\N{\
 Dialogue: 0,0:25:29.19,0:25:32.08,NanohaW Narration1,,0,0,0,,Episode 23: Stars Strike
 Dialogue: 1,0:25:32.08,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\blur0.5\pos(640,267.75)\bord0}Episode 23
 Dialogue: 0,0:25:32.08,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\blur5\pos(640,267.75)\c&H183ACD&}Episode 23
-Dialogue: 0,0:25:32.08,0:25:35.99,NanohaW Narration1,,0,0,0,,With feeling, take off!
+Dialogue: 0,0:25:32.08,0:25:35.99,NanohaW Narration1,,0,0,0,,With heart, take off!

@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 257
-Active Line: 259
-Video Position: 24795
+Scroll Position: 345
+Active Line: 347
+Video Position: 36748
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,40 +55,40 @@ Dialogue: 0,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo1,Song,0,0,0,,{\fad(290,0)
 Dialogue: 2,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo2,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord0\blur6\move(12.599,143,323.599,152,34,32)}Lyrical
 Dialogue: 1,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo2,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\c&HA6E8FC&\blur6\move(12.599,143,323.599,152,34,32)\1a&HFF&\t(0,290,\1a&H00&)}Lyrical
 Dialogue: 0,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo2,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord5.1\c&H3D3046&\blur6\3c&H3D3046&\move(12.599,143,323.599,152,34,32)\1a&HFF&\t(0,290,\1a&H00&)}Lyrical
-Dialogue: 3,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord0\blur6\move(746.877,88,555.877,107,32,32)}Nanoha
-Dialogue: 2,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\c&HFFFFFF&\blur6\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,555.877,107,32,32)}Nanoha
-Dialogue: 1,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord7.1\c&H14023B&\blur6\3c&H14023B&\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,555.877,107,32,32)}Nanoha
-Dialogue: 0,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord10.1\c&HFFFFFF&\blur6\3c&HFFFFFF&\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,555.877,107,32,32)}Nanoha
+Dialogue: 3,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord0\blur6\move(746.877,88,551.871,108,32,32)}Nanoha
+Dialogue: 2,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\c&HFFFFFF&\blur6\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,551.871,108,32,32)}Nanoha
+Dialogue: 1,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord7.1\c&H14023B&\blur6\3c&H14023B&\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,551.871,108,32,32)}Nanoha
+Dialogue: 0,0:00:52.27,0:00:52.56,Nanoha StrikerS Logo3,Song,0,0,0,,{\fad(290,0)\fscx200\fscy200\t(\fscx125\fscy125)\bord10.1\c&HFFFFFF&\blur6\3c&HFFFFFF&\1a&HFF&\t(0,290,\1a&H00&)\move(746.877,88,551.871,108,32,32)}Nanoha
 Dialogue: 2,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx88\fscy132\t(\fscx84\fscy125)\bord0\blur0.5\move(323.599,75,341.599,86,34,410)}Magical Girl
 Dialogue: 1,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx88\fscy132\t(\fscx84\fscy125)\c&HCCA694&\blur0.5\move(323.599,75,341.599,86,34,410)}Magical Girl
 Dialogue: 0,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx88\fscy132\t(\fscx84\fscy125)\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\move(323.599,75,341.599,86,34,410)}Magical Girl
 Dialogue: 2,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord0\blur0.5\move(323.599,143,341.599,152,34,410)}Lyrical
 Dialogue: 1,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\c&HA6E8FC&\blur0.5\move(323.599,143,341.599,152,34,410)}Lyrical
 Dialogue: 0,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord5.1\c&H3D3046&\blur0.5\3c&H3D3046&\move(323.599,143,341.599,152,34,410)}Lyrical
-Dialogue: 3,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord0\blur0.5\move(555.877,107,563.877,119,34,410)}Nanoha
-Dialogue: 2,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\c&HFFFFFF&\blur0.5\move(555.877,107,563.877,119,34,410)}Nanoha
-Dialogue: 1,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(555.877,107,563.877,119,34,410)}Nanoha
-Dialogue: 0,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(555.877,107,563.877,119,34,410)}Nanoha
+Dialogue: 3,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord0\blur0.5\move(551.871,108,558.87,119,34,410)}Nanoha
+Dialogue: 2,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\c&HFFFFFF&\blur0.5\move(551.871,108,558.87,119,34,410)}Nanoha
+Dialogue: 1,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(551.871,108,558.87,119,34,410)}Nanoha
+Dialogue: 0,0:00:52.56,0:00:52.98,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx132\fscy132\t(\fscx125\fscy125)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(551.871,108,558.87,119,34,410)}Nanoha
 Dialogue: 2,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx84\fscy125\t(\fscx72\fscy108)\bord0\blur0.5\move(341.599,86,377.599,111,31,1533)}Magical Girl
 Dialogue: 1,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx84\fscy125\t(\fscx72\fscy108)\c&HCCA694&\blur0.5\move(341.599,86,377.599,111,31,1533)}Magical Girl
 Dialogue: 0,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx84\fscy125\t(\fscx72\fscy108)\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\move(341.599,86,377.599,111,31,1533)}Magical Girl
 Dialogue: 2,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord0\blur0.5\move(341.599,152,377.599,168,31,1533)}Lyrical
 Dialogue: 1,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\c&HA6E8FC&\blur0.5\move(341.599,152,377.599,168,31,1533)}Lyrical
 Dialogue: 0,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord5.1\c&H3D3046&\blur0.5\3c&H3D3046&\move(341.599,152,377.599,168,31,1533)}Lyrical
-Dialogue: 3,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord0\blur0.5\move(563.877,119,571.877,139,31,1533)}Nanoha
-Dialogue: 2,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\c&HFFFFFF&\blur0.5\move(563.877,119,571.877,139,31,1533)}Nanoha
-Dialogue: 1,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(563.877,119,571.877,139,31,1533)}Nanoha
-Dialogue: 0,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(563.877,119,571.877,139,31,1533)}Nanoha
+Dialogue: 3,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord0\blur0.5\move(558.87,119,567.871,139,31,1533)}Nanoha
+Dialogue: 2,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\c&HFFFFFF&\blur0.5\move(558.87,119,567.871,139,31,1533)}Nanoha
+Dialogue: 1,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(558.87,119,567.871,139,31,1533)}Nanoha
+Dialogue: 0,0:00:52.98,0:00:54.55,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx125\fscy125\t(\fscx108\fscy108)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(558.87,119,567.871,139,31,1533)}Nanoha
 Dialogue: 2,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx72\fscy108\t(\fscx67\fscy100)\bord0\blur0.5\move(377.599,111,397.599,119,34,1923)}Magical Girl
 Dialogue: 1,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx72\fscy108\t(\fscx67\fscy100)\c&HCCA694&\blur0.5\move(377.599,111,397.599,119,34,1923)}Magical Girl
 Dialogue: 0,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo1,Song,0,0,0,,{\fscx72\fscy108\t(\fscx67\fscy100)\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\move(377.599,111,397.599,119,31,1923)}Magical Girl
 Dialogue: 2,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord0\blur0.5\move(377.599,168,397.599,172,31,1923)}Lyrical
 Dialogue: 1,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\c&HA6E8FC&\blur0.5\move(377.599,168,397.599,172,31,1923)}Lyrical
 Dialogue: 0,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo2,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord5.1\c&H3D3046&\blur0.5\3c&H3D3046&\move(377.599,168,397.599,172,31,1923)}Lyrical
-Dialogue: 3,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord0\blur0.5\move(571.877,139,575.877,143,34,1923)}Nanoha
-Dialogue: 2,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\c&HFFFFFF&\blur0.5\move(571.877,139,575.877,143,34,1923)}Nanoha
-Dialogue: 1,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(571.877,139,575.877,143,34,1923)}Nanoha
-Dialogue: 0,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(571.877,139,575.877,143,5,1923)}Nanoha
+Dialogue: 3,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord0\blur0.5\move(567.871,139,575.877,143,4,1923)}Nanoha
+Dialogue: 2,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\c&HFFFFFF&\blur0.5\move(567.871,139,575.877,143,4,1923)}Nanoha
+Dialogue: 1,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord7.1\c&H14023B&\blur0.5\3c&H14023B&\move(567.871,139,575.877,143,4,1923)}Nanoha
+Dialogue: 0,0:00:54.55,0:00:56.48,Nanoha StrikerS Logo3,Song,0,0,0,,{\fscx108\fscy108\t(\fscx100\fscy100)\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\move(567.871,139,575.877,143,4,1923)}Nanoha
 Dialogue: 2,0:00:56.48,0:00:59.81,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord0\blur0.5\pos(397.599,119)}Magical Girl
 Dialogue: 1,0:00:56.48,0:00:59.81,Nanoha StrikerS Logo1,Song,0,0,0,,{\c&HCCA694&\blur0.5\pos(397.599,119)}Magical Girl
 Dialogue: 0,0:00:56.48,0:00:59.81,Nanoha StrikerS Logo1,Song,0,0,0,,{\bord4.1\3c&HFFFFFF&\c&HFFFFFF&\blur0.5\pos(397.599,119)}Magical Girl
@@ -146,11 +146,11 @@ Dialogue: 0,0:03:12.25,0:03:12.94,NanohaW Dialogue1,,0,0,0,,One.
 Dialogue: 0,0:03:12.94,0:03:14.36,NanohaW Dialogue1,,0,0,0,,{\b1}Excelion...{\b0}
 Dialogue: 0,0:03:14.36,0:03:15.50,NanohaW Dialogue1,,0,0,0,,Zero.
 Dialogue: 0,0:03:15.50,0:03:16.81,NanohaW Dialogue1,,0,0,0,,{\b1}...Buster{\b0}
-Dialogue: 0,0:03:27.96,0:03:32.69,NanohaW Dialogue1,,0,0,0,,Blaster System: limit 1, release!
+Dialogue: 0,0:03:28.46,0:03:32.69,NanohaW Dialogue1,,0,0,0,,Blaster System: limit 1, release!
 Dialogue: 0,0:03:32.69,0:03:34.38,NanohaW Device1,,0,0,0,,Blaster set.
 Dialogue: 0,0:03:36.26,0:03:40.22,NanohaW Dialogue1,,0,0,0,,Booster shoot!
-Dialogue: 0,0:04:02.83,0:04:06.49,NanohaW Dialogue1,,0,0,0,,This kind of power right from the start...
-Dialogue: 0,0:04:08.89,0:04:12.33,NanohaW Narration1,,0,0,0,,Is she really human?
+Dialogue: 0,0:04:02.83,0:04:06.49,NanohaW Dialogue1,,0,0,0,,This kind of power right off the bat...
+Dialogue: 0,0:04:08.89,0:04:12.33,NanohaW Narration1,,0,0,0,,Is she even human?
 Dialogue: 0,0:04:14.23,0:04:15.93,NanohaW Dialogue1,,0,0,0,,Stay put.
 Dialogue: 0,0:04:15.93,0:04:20.90,NanohaW Dialogue1,,0,0,0,,The Assault Team will secure you\Nand take you to a safe place.
 Dialogue: 0,0:04:20.90,0:04:23.13,NanohaW Device1,,0,0,0,,Sealing
@@ -162,21 +162,22 @@ Dialogue: 0,0:04:46.09,0:04:47.29,NanohaW Dialogue1,,0,0,0,,I’m fine.
 Dialogue: 0,0:04:47.29,0:04:49.79,NanohaW Dialogue1,,0,0,0,,Maintain Blaster 1.
 Dialogue: 0,0:04:49.79,0:04:51.99,NanohaW Dialogue1,,0,0,0,,We need to hurry, Raising Heart.
 Dialogue: 0,0:04:51.99,0:04:52.91,NanohaW Device1,,0,0,0,,All right.
+Dialogue: 0,0:05:01.10,0:05:02.32,NanohaW Dialogue1,,0,0,0,,Oh, come on.
 Dialogue: 0,0:05:02.32,0:05:10.03,NanohaW Dialogue1,,0,0,0,,I heard the name “Blaster System” and thought it was some advanced, incredible technology, but that’s just stupid.
 Dialogue: 0,0:05:10.03,0:05:15.35,NanohaW Dialogue1,,0,0,0,,Hey, Your Majesty? Your mom’s an idiot.
 Dialogue: 0,0:05:23.41,0:05:25.25,NanohaW Dialogue1,,0,0,0,,Welcome.
 Dialogue: 0,0:05:25.25,0:05:27.34,NanohaW Dialogue1,,0,0,0,,We’ve been waiting.
 Dialogue: 0,0:05:28.30,0:05:31.49,NanohaW Dialogue1,,0,0,0,,Thanks for coming all this way, even though it was totally pointless.
 Dialogue: 0,0:05:31.49,0:05:37.56,NanohaW Dialogue1,,0,0,0,,Now then, your companions are being beaten all over the world.
-Dialogue: 0,0:05:43.18,0:05:47.14,NanohaW Dialogue1,,0,0,0,,You’re under arrest for a large-scale disturbance of the peace!
+Dialogue: 0,0:05:43.18,0:05:47.14,NanohaW Dialogue1,,0,0,0,,You’re under arrest\Nfor a large-scale disturbance of the peace!
 Dialogue: 0,0:05:47.14,0:05:50.33,NanohaW Dialogue1,,0,0,0,,You will cease and disarm immediately.
 Dialogue: 0,0:05:50.33,0:05:53.78,NanohaW Dialogue1,,0,0,0,,Your friends are all in danger, your kid’s in trouble,
-Dialogue: 0,0:05:53.78,0:05:56.40,NanohaW Dialogue1,,0,0,0,,and you’re still worried about your job?
+Dialogue: 0,0:05:53.78,0:05:56.40,NanohaW Dialogue1,,0,0,0,,and you’re still thinking about your job?
 Dialogue: 0,0:05:56.40,0:06:00.96,NanohaW Dialogue1,,0,0,0,,How nice! That almost demonic sense of justice.
 Dialogue: 0,0:06:03.96,0:06:08.18,NanohaW Dialogue1,,0,0,0,,But I wonder if you can still stay calm.
 Dialogue: 0,0:06:11.26,0:06:12.20,NanohaW Dialogue1,,0,0,0,,Vivio?
 Dialogue: 0,0:06:20.69,0:06:22.63,NanohaW Dialogue1,,0,0,0,,Let me tell you something interesting.
-Dialogue: 0,0:06:22.86,0:06:29.97,NanohaW Dialogue1,,0,0,0,,It was {\i1}this{\i0} girl who destroyed the transport truck and the Gadgets when she was still asleep in her case.
+Dialogue: 0,0:06:22.86,0:06:29.97,NanohaW Dialogue1,,0,0,0,,It was {\i1}this{\i0} girl who destroyed the transport truck\Nand the Gadgets when she was still asleep in her pod.
 Dialogue: 0,0:06:29.98,0:06:34.28,NanohaW Dialogue1,,0,0,0,,And that attack of Dieci’s that took everything you had to block?
 Dialogue: 0,0:06:34.28,0:06:40.70,NanohaW Dialogue1,,0,0,0,,If she had been hit by it,\Nit wouldn’t have slowed her for a second.
 Dialogue: 0,0:06:40.70,0:06:44.37,NanohaW Dialogue1,,0,0,0,,That’s the unique skill of the Ancient Belkan royal family,
@@ -199,8 +200,8 @@ Dialogue: 0,0:07:44.34,0:07:45.66,NanohaW Dialogue1,,0,0,0,,Mama.
 Dialogue: 0,0:07:45.66,0:07:49.34,NanohaW Dialogue1,,0,0,0,,Oh my, Your Majesty. Don’t cry.
 Dialogue: 0,0:07:49.34,0:07:53.34,NanohaW Dialogue1,,0,0,0,,Your mother wants you to save her, Your Majesty.
 Dialogue: 0,0:07:53.34,0:07:57.81,NanohaW Dialogue1,,0,0,0,,The scary devil who kidnapped her\Nis right in front of you, Your Majesty.
-Dialogue: 0,0:07:58.61,0:08:03.45,NanohaW Dialogue1,,0,0,0,,Do your best to kick the crap out of her\Nand get your real mother back.
-Dialogue: 0,0:08:03.45,0:08:08.26,NanohaW Dialogue1,,0,0,0,,You have the power to do that now, Your Majesty.
+Dialogue: 0,0:07:58.61,0:08:03.10,NanohaW Dialogue1,,0,0,0,,Do your best to kick the crap out of her\Nand get your real mother back.
+Dialogue: 0,0:08:04.03,0:08:08.32,NanohaW Dialogue1,,0,0,0,,You have the power to do that now, Your Majesty.
 Dialogue: 0,0:08:09.21,0:08:14.40,NanohaW Dialogue1,,0,0,0,,Release that power you maintain in your heart and emotions.
 Dialogue: 0,0:08:17.89,0:08:19.08,NanohaW Dialogue1,,0,0,0,,Vivio!
 Dialogue: 0,0:08:47.45,0:08:52.66,NanohaW Dialogue1,,0,0,0,,You took my mama somewhere.
@@ -222,9 +223,9 @@ Dialogue: 0,0:09:46.44,0:09:49.64,NanohaW Dialogue1,,0,0,0,,We can deal with the
 Dialogue: 0,0:09:49.64,0:09:50.62,NanohaW Dialogue1,,0,0,0,,Yes, sir.
 Dialogue: 0,0:09:50.62,0:09:54.06,NanohaW Dialogue1,,0,0,0,,The members of our squad that your redhead trained
 Dialogue: 0,0:09:54.06,0:09:59.30,NanohaW Dialogue1,,0,0,0,,and Miss Takamachi’s students in\Nthe A.A.S. are maintaining the front lines.
-Dialogue: 0,0:09:59.30,0:10:01.73,NanohaW Dialogue1,,0,0,0,,But we’re at our limit.
-Dialogue: 0,0:10:01.73,0:10:03.98,NanohaW Dialogue1,,0,0,0,,We can’t send any additional forces elsewhere,
-Dialogue: 0,0:10:03.98,0:10:09.46,NanohaW Dialogue1,,0,0,0,,and if the combat cyborgs or that summoner show up, we may go down instantly.
+Dialogue: 0,0:09:59.30,0:10:01.36,NanohaW Dialogue1,,0,0,0,,But we’re at our limit.
+Dialogue: 0,0:10:01.36,0:10:03.61,NanohaW Dialogue1,,0,0,0,,We can’t send any additional forces elsewhere,
+Dialogue: 0,0:10:03.61,0:10:09.46,NanohaW Dialogue1,,0,0,0,,and if the combat cyborgs or that summoner show up,\Nwe may go down instantly.
 Dialogue: 0,0:10:09.46,0:10:15.76,NanohaW Dialogue1,,0,0,0,,Five of the combat cyborgs and that one summoner are fighting Riot Force 6’s front-line troops.
 Dialogue: 0,0:10:15.76,0:10:17.72,NanohaW Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:10:30.40,0:10:32.00,NanohaW Dialogue1,,0,0,0,,There’s so many.
@@ -241,7 +242,7 @@ Dialogue: 0,0:11:00.92,0:11:05.34,NanohaW Dialogue1,,0,0,0,,Shooter and silhouet
 Dialogue: 0,0:11:05.34,0:11:07.55,NanohaW Dialogue1,,0,0,0,,All that’s left is to take them out here.
 Dialogue: 0,0:11:07.55,0:11:08.71,NanohaW Device1,,0,0,20,,Yes.
 Dialogue: 0,0:11:10.60,0:11:16.73,NanohaW Narration1,,0,0,0,,I can’t run, and I’m almost out of mana and cartridges.
-Dialogue: 0,0:11:16.73,0:11:21.66,NanohaW Narration1,,0,0,0,,I’m not sure if trying a final fight with my last bullets will work.
+Dialogue: 0,0:11:16.73,0:11:21.66,NanohaW Narration1,,0,0,0,,I’m not sure if trying a final fight\Nwith the last of them will work.
 Dialogue: 0,0:11:24.65,0:11:29.16,NanohaW Dialogue1,,0,0,0,,To be honest, I’ve known for a while.
 Dialogue: 0,0:11:29.16,0:11:36.09,NanohaW Dialogue1,,0,0,0,,No matter how hard I try, I’ll never be a first-class mage.
 Dialogue: 0,0:11:36.09,0:11:40.54,NanohaW Dialogue1,,0,0,0,,It hurt, it was pathetic, and I didn’t want to accept it.
@@ -252,7 +253,7 @@ Dialogue: 0,0:12:01.82,0:12:03.68,NanohaW Dialogue1,,0,0,0,,An illusion?
 Dialogue: 0,0:12:20.75,0:12:22.02,NanohaW Narration1,,0,0,0,,She’s not running?
 Dialogue: 0,0:12:22.02,0:12:23.43,NanohaW Narration1,,0,0,0,,Is this a trap?
 Dialogue: 0,0:12:23.43,0:12:26.74,NanohaW Narration1,,0,0,0,,There’s no doubt... she’s the real one.
-Dialogue: 0,0:12:26.75,0:12:28.89,NanohaW Narration1,,0,0,0,,Yes, she is.
+Dialogue: 0,0:12:26.74,0:12:28.89,NanohaW Narration1,,0,0,0,,Yes, she is.
 Dialogue: 0,0:12:28.89,0:12:30.99,NanohaW Narration1,,0,0,0,,Don’t underestimate her.
 Dialogue: 0,0:12:30.99,0:12:33.81,NanohaW Narration1,,0,0,0,,We’ll all rush her at once and take her out.
 Dialogue: 0,0:12:34.69,0:12:38.97,NanohaW Narration1,,0,0,0,,I knew it. The same positioning as the first time.
@@ -266,7 +267,7 @@ Dialogue: 0,0:13:16.37,0:13:17.69,NanohaW Dialogue1,,0,0,0,,Ginga!
 Dialogue: 0,0:13:17.69,0:13:20.46,NanohaW Dialogue1,,0,0,0,,My, my. You slipped, didn’t you?
 Dialogue: 0,0:13:22.57,0:13:23.78,NanohaW Dialogue1,,0,0,0,,Hey, Subaru.
 Dialogue: 0,0:13:23.78,0:13:26.70,NanohaW Dialogue1,,0,0,0,,Don’t cry just because you tripped.
-Dialogue: 0,0:13:26.70,0:13:31.16,NanohaW Dialogue1,,0,0,0,,You’re my daughter and Ginga’s little sister.
+Dialogue: 0,0:13:26.70,0:13:30.47,NanohaW Dialogue1,,0,0,0,,You’re my daughter and Ginga’s little sister.
 Dialogue: 0,0:13:31.16,0:13:33.93,NanohaW Dialogue1,,0,0,0,,You’re actually a strong girl, Subaru.
 Dialogue: 0,0:13:39.04,0:13:43.71,NanohaW Narration1,,0,0,0,,The results from the test are undeniable.
 Dialogue: 0,0:13:43.71,0:13:50.64,NanohaW Narration1,,0,0,0,,Your genetic structure is identical\Nto both Subaru’s and Ginga’s.
@@ -277,16 +278,16 @@ Dialogue: 0,0:14:20.41,0:14:23.63,NanohaW Dialogue1,,0,0,0,,I don’t like pain 
 Dialogue: 0,0:14:24.54,0:14:34.01,NanohaW Dialogue1,,0,0,0,,I don’t like being hurt myself,\Nbut I hate hurting or scaring others more.
 Dialogue: 0,0:14:34.01,0:14:38.19,NanohaW Dialogue1,,0,0,0,,Our bodies aren’t normal.
 Dialogue: 0,0:14:38.19,0:14:42.86,NanohaW Dialogue1,,0,0,0,,I’m scared of breaking something I don’t want to.
-Dialogue: 0,0:14:44.56,0:14:46.28,NanohaW Dialogue1,,0,0,0,,I see.
+Dialogue: 0,0:14:44.56,0:14:45.42,NanohaW Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:14:46.28,0:14:49.73,NanohaW Dialogue1,,0,0,0,,Well, you might not need to be strong, Subaru.
 Dialogue: 0,0:14:49.73,0:14:53.94,NanohaW Dialogue1,,0,0,0,,Mom and Dad are here, and so am I.
 Dialogue: 0,0:14:53.94,0:14:56.86,NanohaW Dialogue1,,0,0,0,,Okay!
 Dialogue: 0,0:15:07.59,0:15:11.57,NanohaW Dialogue1,,0,0,0,,Cease resistance and shut down.
 Dialogue: 0,0:15:14.47,0:15:16.89,NanohaW Dialogue1,,0,0,0,,A change in operational specifics.
 Dialogue: 0,0:15:23.40,0:15:27.78,NanohaW Dialogue1,,0,0,0,,Damage until out of commission and then recover.
-Dialogue: 0,0:15:27.78,0:15:29.70,NanohaW Dialogue1,,0,0,0,,Ginny!
-Dialogue: 0,0:15:45.92,0:15:49.34,NanohaW Narration1,,0,0,0,,It was impossible after all.
-Dialogue: 0,0:15:49.34,0:15:58.37,NanohaW Narration1,,0,0,0,,I guess I’m weak and pathetic.\NAnd it’s going to end with me not being able to do anything.
+Dialogue: 0,0:15:28.43,0:15:29.70,NanohaW Dialogue1,,0,0,0,,Ginny!
+Dialogue: 0,0:15:45.92,0:15:49.34,NanohaW Narration1,,0,0,0,,It was impossible, after all.
+Dialogue: 0,0:15:49.34,0:15:58.37,NanohaW Narration1,,0,0,0,,I guess I’m weak and pathetic,\Nand it’s going to end with me not being able to do anything.
 Dialogue: 0,0:15:59.77,0:16:04.69,NanohaW Dialogue1,,0,0,0,,By the way, why did you want to get stronger, Subaru?
 Dialogue: 0,0:16:04.69,0:16:08.84,NanohaW Dialogue1,,0,0,0,,Oh! Well, that’s... because I really look up to you, Nanoha.
 Dialogue: 0,0:16:09.63,0:16:12.59,NanohaW Dialogue1,,0,0,0,,Well, that makes me happy and all, but I mean,
@@ -297,18 +298,19 @@ Dialogue: 0,0:16:40.55,0:16:41.91,NanohaW Device1,,0,0,20,,Shoot it!
 Dialogue: 0,0:16:58.65,0:17:00.93,NanohaW Device1,,0,0,20,,Just as rehearsed.
 Dialogue: 0,0:17:01.53,0:17:03.12,NanohaW Dialogue1,,0,0,0,,Mach Caliber?
 Dialogue: 0,0:17:03.12,0:17:06.10,NanohaW Device1,,0,0,20,,We can still take actions, you and I.
-Dialogue: 0,0:17:07.24,0:17:10.16,NanohaW Device1,,0,0,20,,We can still fight, so why abandon now?
-Dialogue: 0,0:17:11.33,0:17:14.14,NanohaW Device1,,0,0,20,,You taught me the reason of my being here: 
-Dialogue: 0,0:17:14.14,0:17:18.38,NanohaW Device1,,0,0,20,,your aspiration to become strong.
+Dialogue: 0,0:17:07.24,0:17:10.16,NanohaW Device1,,0,0,20,,We can still fight, so why are you giving up like this?
+Dialogue: 0,0:17:07.24,0:17:10.16,NanohaW Device2,,0,0,20,,{\pos(640,595)}We can still fight, so why abandon now?
+Dialogue: 0,0:17:11.33,0:17:14.14,NanohaW Device1,,0,0,20,,You taught me the reason of my being here,
+Dialogue: 0,0:17:14.14,0:17:18.38,NanohaW Device1,,0,0,20,,your aspiration to grow stronger.
 Dialogue: 0,0:17:14.14,0:17:18.38,NanohaW Device2,,0,0,20,,{\pos(640,557)}my strength and power which you adore so much.
 Dialogue: 0,0:17:18.38,0:17:20.83,NanohaW Device1,,0,0,20,,Don’t make everything a lie.
 Dialogue: 0,0:17:22.26,0:17:28.30,NanohaW Dialogue1,,0,0,0,,When a war or a disaster, something bad like that happens,
 Dialogue: 0,0:17:28.30,0:17:35.89,NanohaW Dialogue1,,0,0,0,,I want to be able to save people\Nwho are sad, in pain, and shouting “Save me!”
 Dialogue: 0,0:17:35.89,0:17:40.12,NanohaW Dialogue1,,0,0,0,,To take them straight to someplace safe, by my own power.
-Dialogue: 0,0:17:43.12,0:17:52.00,NanohaW Dialogue1,,0,0,0,,To be honest, I’m always scared and uneasy about fighting,\Nabout hurting somebody: my hands always shake.
+Dialogue: 0,0:17:43.12,0:17:52.00,NanohaW Dialogue1,,0,0,0,,To be honest, I’m always scared and uneasy about fighting,\Nabout hurting somebody... my hands always shake.
 Dialogue: 0,0:17:52.00,0:17:55.85,NanohaW Dialogue1,,0,0,0,,But this power in my hands isn’t to destroy.
 Dialogue: 0,0:17:55.85,0:17:57.84,NanohaW Dialogue1,,0,0,0,,It’s to protect.
-Dialogue: 0,0:17:58.97,0:18:01.99,NanohaW Dialogue1,,0,0,0,,The power to break through a sad reality.
+Dialogue: 0,0:17:58.97,0:18:01.99,NanohaW Dialogue1,,0,0,0,,The power to break through a sad situation.
 Dialogue: 0,0:18:04.98,0:18:06.85,NanohaW Dialogue1,,0,0,0,,Let’s go, Mach Caliber!
 Dialogue: 0,0:18:07.01,0:18:08.30,NanohaW Device1,,0,0,20,,All right, buddy!
 Dialogue: 0,0:18:11.90,0:18:13.06,NanohaW Dialogue1,,0,0,0,,Full Drive...
@@ -376,8 +378,8 @@ Dialogue: 0,0:24:57.93,0:25:04.14,Nanoha ED,,0,0,0,,No matter what type of tomor
 Dialogue: 0,0:25:04.14,0:25:09.79,Nanoha ED,,0,0,0,,In my precious days
 Dialogue: 1,0:25:15.94,0:25:20.97,Nanoha Title2,,0,0,0,,{\an1\fad(0,451)\bord0\blur0.5\pos(134.42,292.542)}Next\NEpisode\NPreview
 Dialogue: 0,0:25:15.94,0:25:20.97,Nanoha Title2,,0,0,0,,{\an1\fad(0,451)\blur0.5\c&HFFFFFF&\pos(134.42,292.542)\t(4579,5030,\1a&HFF&)}Next\NEpisode\NPreview
-Dialogue: 0,0:25:17.15,0:25:20.23,NanohaW Narration1,,0,0,0,,Scars that won’t go away, and pain that won’t stop.
-Dialogue: 0,0:25:20.23,0:25:22.86,NanohaW Narration1,,0,0,0,,To take them straight on without running away.
+Dialogue: 0,0:25:17.15,0:25:20.23,NanohaW Narration1,,0,0,0,,Scars that won’t go away,\Nand pain that won’t stop.
+Dialogue: 0,0:25:20.23,0:25:22.86,NanohaW Narration1,,0,0,0,,To take them straight on\Nwithout running away.
 Dialogue: 0,0:25:22.86,0:25:27.04,NanohaW Narration1,,0,0,0,,Because you taught us, we can.
 Dialogue: 0,0:25:27.04,0:25:29.88,NanohaW Narration1,,0,0,0,,Next episode of\N{\i0}Magical Girl Lyrical Nanoha StrikerS:{\i1}
 Dialogue: 0,0:25:29.88,0:25:32.68,NanohaW Narration1,,0,0,0,,Episode 24: Lightning
@@ -385,4 +387,4 @@ Dialogue: 1,0:25:32.95,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\blur0.5\pos(6
 Dialogue: 0,0:25:32.95,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\blur5\pos(640,267.75)\c&H183ACD&}Episode 24
 Dialogue: 1,0:25:32.95,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur0.5\pos(640,535.5)\bord0}Lightning
 Dialogue: 0,0:25:32.95,0:25:35.99,Nanoha StrikerS Title2,,0,0,0,,{\fs89\blur5\pos(640,535.5)\c&H183ACD&}Lightning
-Dialogue: 0,0:25:32.68,0:25:35.99,NanohaW Narration1,,0,0,0,,With courage, take off!
+Dialogue: 0,0:25:32.68,0:25:35.99,NanohaW Narration1,,0,0,0,,With guts, take off!
