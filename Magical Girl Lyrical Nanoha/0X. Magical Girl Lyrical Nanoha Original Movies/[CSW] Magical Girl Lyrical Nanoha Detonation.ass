@@ -12,14 +12,14 @@ PlayResY: 720
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: [FumeiRaws] Mahou Shoujo Lyrical Nanoha Detonation (BD 720p Hi444PP AACx2) [38806611].mkv
-Video File: [FumeiRaws] Mahou Shoujo Lyrical Nanoha Detonation (BD 720p Hi444PP AACx2) [38806611].mkv
+Audio File: ../../../mnt/archive/[FumeiRaws] Mahou Shoujo Lyrical Nanoha Detonation (BD 720p Hi444PP AACx2) [38806611].mkv
+Video File: ../../../mnt/archive/[FumeiRaws] Mahou Shoujo Lyrical Nanoha Detonation (BD 720p Hi444PP AACx2) [38806611].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 229
-Active Line: 231
-Video Position: 23313
+Scroll Position: 1346
+Active Line: 1347
+Video Position: 23764
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,6 +30,7 @@ Style: NanohaW Captions1,HelveticaNeueLT Pro 65 Md,40,&H00FFFFFF,&H000000FF,&H00
 Style: NanohaW Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.4,8,80,80,20,1
 Style: NanohaW Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,88,1
 Style: NanohaW Device2,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,40,1
+Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -267,7 +268,7 @@ Dialogue: 0,0:16:11.06,0:16:12.32,NanohaW Dialogue1,,0,0,0,,But...
 Dialogue: 0,0:16:12.32,0:16:21.33,NanohaW Dialogue1,,0,0,0,,But Kyrie, I have not yet given up on\Nour father, our mother, or our home.
 Dialogue: 0,0:16:22.80,0:16:26.54,NanohaW Dialogue1,,0,0,0,,That our father and mother would be well again together,
 Dialogue: 0,0:16:26.54,0:16:30.59,NanohaW Dialogue1,,0,0,0,,for our family dream that Eltria\Nwould once again be revived...
-Dialogue: 0,0:16:31.14,0:16:41.34,NanohaW Dialogue1,,0,0,0,,The day our parents sleep, they can sleep soundly\Nin that warm bed in our house on our planet.
+Dialogue: 0,0:16:31.14,0:16:41.34,NanohaW Dialogue1,,0,0,0,,And on the day our parents are laid to rest, they can rest in peace in that warm bed in our house on our planet.
 Dialogue: 0,0:16:41.34,0:16:47.88,NanohaW Dialogue1,,0,0,0,,And as we fantasized as children,\Nwe will grow our own flowers for decoration.
 Dialogue: 0,0:16:50.10,0:16:52.48,NanohaW Dialogue1,,0,0,0,,We are meant to rise above our failures.
 Dialogue: 0,0:16:52.48,0:16:56.11,NanohaW Dialogue1,,0,0,0,,Blaming yourself too much\Nwill only diminish the good we’ve done.
@@ -1139,7 +1140,7 @@ Dialogue: 0,1:25:45.94,1:25:48.20,NanohaW Dialogue1,,0,0,0,,{\b1}Blast Calamity{
 Dialogue: 0,1:25:48.20,1:25:50.39,NanohaW Dialogue1,,0,0,0,,Fire!
 Dialogue: 0,1:25:57.55,1:25:59.75,NanohaW Dialogue1,,0,0,0,,Shoot!
 Dialogue: 0,1:26:20.53,1:26:22.02,NanohaW Dialogue1,,0,0,0,,Iris!
-Dialogue: 0,1:26:26.62,1:26:28.62,NanohaW Dialogue1,,0,0,0,,Status of all allies confirmed.
+Dialogue: 0,1:26:26.62,1:26:28.62,NanohaW Dialogue1,,0,0,0,,Our allies are confirmed to have been cut loose.
 Dialogue: 0,1:26:28.62,1:26:30.78,NanohaW Dialogue1,,0,0,0,,Kyrie and others are safe.
 Dialogue: 0,1:26:32.13,1:26:34.62,NanohaW Dialogue1,,0,0,0,,Ready to execute Ouroboros.
 Dialogue: 0,1:26:34.62,1:26:37.52,NanohaW Dialogue1,,0,0,0,,Selecting exclusion zone. Anti-ballistics set.
@@ -1187,7 +1188,7 @@ Dialogue: 0,1:29:44.55,1:29:48.19,NanohaW Dialogue1,,0,0,0,,At least, my memorie
 Dialogue: 0,1:29:48.99,1:29:53.45,NanohaW Dialogue1,,0,0,0,,You have five minutes.\NThis shouldn’t even be a choice for you.
 Dialogue: 0,1:29:57.37,1:29:59.95,NanohaW Narration1,,0,0,0,,Everyone, sorry for taking to the skies without permission!
 Dialogue: 0,1:30:00.83,1:30:02.58,NanohaW Dialogue1,,0,0,0,,{\pos(960,680)}Nanoha! Amita!
-Dialogue: 0,1:30:03.42,1:30:06.83,NanohaW Narration1,,0,0,0,,We will not let you turn this around for you!\NWe’ll put a stop to your schemes!
+Dialogue: 0,1:30:03.42,1:30:06.83,NanohaW Narration1,,0,0,0,,We will not let him turn this around for himself!\NWe’ll put a stop to his schemes!
 Dialogue: 0,1:30:07.32,1:30:09.21,NanohaW Dialogue1,,0,0,0,,{\pos(320,680)}It’s too dangerous!\NBoth of you, come back!
 Dialogue: 0,1:30:09.84,1:30:13.46,NanohaW Narration1,,0,0,0,,There are currently no means\Nto communicate with the chairman from orbit.
 Dialogue: 0,1:30:13.46,1:30:16.60,NanohaW Narration1,,0,0,0,,The barrier jams all communication.
@@ -1247,8 +1248,8 @@ Dialogue: 0,1:35:26.16,1:35:27.76,NanohaW Dialogue1,,0,0,0,,I’m satisfied.
 Dialogue: 0,1:35:36.12,1:35:38.39,NanohaW Dialogue1,,0,0,0,,Are you really satisfied?
 Dialogue: 0,1:35:39.12,1:35:44.88,NanohaW Dialogue1,,0,0,0,,You must not really love yourself, don’t you?
 Dialogue: 0,1:35:44.88,1:35:51.88,NanohaW Dialogue1,,0,0,0,,I wonder if you don’t love yourself because you couldn’t do anything to help or support them.
-Dialogue: 0,1:35:51.88,1:35:54.09,NanohaW Dialogue1,,0,0,0,,I guess so.
-Dialogue: 0,1:35:54.90,1:35:56.13,NanohaW Dialogue1,,0,0,0,,It’s tough, isn’t it?
+Dialogue: 0,1:35:51.88,1:35:53.21,NanohaW Dialogue1,,0,0,0,,I guess so.
+Dialogue: 0,1:35:54.21,1:35:56.13,NanohaW Dialogue1,,0,0,0,,It’s tough, isn’t it?
 Dialogue: 0,1:35:56.13,1:35:57.64,NanohaW Dialogue1,,0,0,0,,A little.
 Dialogue: 0,1:35:57.64,1:36:04.65,NanohaW Dialogue1,,0,0,0,,But when I was introduced to magic\Nand met everyone, it took the edge off a bit.
 Dialogue: 0,1:36:05.74,1:36:12.91,NanohaW Dialogue1,,0,0,0,,To this day, Yuuno, who introduced me to magic,\Nis my dear friend and magical teacher.
@@ -1277,7 +1278,7 @@ Dialogue: 0,1:38:00.14,1:38:02.89,NanohaW Dialogue1,,0,0,0,,What did Little Nano
 Dialogue: 0,1:38:02.89,1:38:07.90,NanohaW Dialogue1,,0,0,0,,She told me that I’m truly blessed.
 Dialogue: 0,1:38:07.90,1:38:11.36,NanohaW Dialogue1,,0,0,0,,Let’s go. Everyone is waiting.
 Dialogue: 0,1:38:11.36,1:38:12.17,NanohaW Dialogue1,,0,0,0,,Okay.
-Dialogue: 0,1:38:23.16,1:38:26.23,NanohaW Dialogue1,,0,0,0,,Your attempt to negotiate has been thwarted.
+Dialogue: 0,1:38:23.16,1:38:26.23,NanohaW Dialogue1,,0,0,0,,Your attempt to weasel your way out has been thwarted.
 Dialogue: 0,1:38:27.66,1:38:29.67,NanohaW Dialogue1,,0,0,0,,You are under arrest for violating interdimensional law.
 Dialogue: 0,1:38:29.67,1:38:31.66,NanohaW Dialogue1,,0,0,0,,Continue monitoring the situation.
 Dialogue: 0,1:38:31.66,1:38:33.29,NanohaW Dialogue1,,0,0,0,,Send in the investigators.
@@ -1372,11 +1373,31 @@ Dialogue: 0,1:45:40.73,1:45:43.51,NanohaW Narration1,,0,0,0,,It has been a while
 Dialogue: 0,1:45:43.51,1:45:47.56,NanohaW Narration1,,0,0,0,,The Florian farm is now in harvest season.
 Dialogue: 0,1:45:47.56,1:45:52.61,NanohaW Narration1,,0,0,0,,My mother’s illness is in remission thanks to Yuri’s treatment and medicine.
 Dialogue: 0,1:45:53.15,1:45:55.74,NanohaW Narration1,,0,0,0,,And so she remains in good health.
-Dialogue: 0,1:45:57.66,1:46:03.66,NanohaW Narration1,,0,0,0,,My father was declared healthy\Nand has remained so ever since.
-Dialogue: 0,1:46:04.96,1:46:07.34,NanohaW Narration1,,0,0,0,,Yuri and Iris returned.
-Dialogue: 0,1:46:08.47,1:46:12.84,NanohaW Narration1,,0,0,0,,I am truly delighted that the hope of\Nreviving our planet has been renewed.
-Dialogue: 0,1:46:13.56,1:46:17.34,NanohaW Narration1,,0,0,0,,In the end, they were able to sleep soundly.
+Dialogue: 0,1:45:57.66,1:46:03.66,NanohaW Narration1,,0,0,0,,My father lived longer, and in more comfortable health,\Nthan we expected him to.
+Dialogue: 0,1:46:04.96,1:46:07.34,NanohaW Narration1,,0,0,0,,With the return of Yuri and Iris,
+Dialogue: 0,1:46:08.47,1:46:12.84,NanohaW Narration1,,0,0,0,,he was truly delighted that the hope of\Nreviving our planet has been renewed.
+Dialogue: 0,1:46:13.56,1:46:17.34,NanohaW Narration1,,0,0,0,,In the end, he was able to rest in peace.
 Dialogue: 0,1:46:18.77,1:46:20.85,NanohaW Narration1,,0,0,0,,How is everyone getting along?
 Dialogue: 0,1:46:20.85,1:46:24.31,NanohaW Narration1,,0,0,0,,I hope that someday, you can come and visit us.
 Dialogue: 0,1:46:24.31,1:46:26.69,NanohaW Narration1,,0,0,0,,Then you’ll all get to see what we've been telling you.
 Dialogue: 0,1:46:27.69,1:46:32.57,NanohaW Narration1,,0,0,0,,That our homeworld is a truly beautiful planet.
+Comment: 0,1:47:05.38,1:47:10.84,Nanoha ED,,0,0,0,,The circle of fate we’ve been pulled into\Nglistens like the surface of a lake
+Comment: 0,1:47:10.84,1:47:16.90,Nanoha ED,,0,0,0,,In this fleeting moment, the reflection shows\Na dream of happiness
+Comment: 0,1:47:16.90,1:47:22.54,Nanoha ED,,0,0,0,,It echoes kindly, ephemerally, and deeply
+Comment: 0,1:47:22.54,1:47:25.48,Nanoha ED,,0,0,0,,It strikes me in the heart\N(feel sharply)
+Comment: 0,1:47:25.48,1:47:28.24,Nanoha ED,,0,0,0,,I stubbornly insisted\N(happy with you)
+Comment: 0,1:47:28.24,1:47:34.83,Nanoha ED,,0,0,0,,Our loneliness linkes us together,\Nand the cycle of sadness crumbles away
+Comment: 0,1:47:34.83,1:47:36.96,Nanoha ED,,0,0,0,,I wish...
+Comment: 0,1:47:36.96,1:47:42.56,Nanoha ED,,0,0,0,,Being held close night after night,\Nlike the day I was born
+Comment: 0,1:47:42.56,1:47:47.94,Nanoha ED,,0,0,0,,Snuggling up to you lights up my world
+Comment: 0,1:47:47.94,1:47:51.38,Nanoha ED,,0,0,0,,Even under the pounding rains of regret
+Comment: 0,1:47:51.38,1:47:56.92,Nanoha ED,,0,0,0,,As we guide our undying love
+Comment: 0,1:47:56.92,1:48:08.08,Nanoha ED,,0,0,0,,I just have to keep believing\Nin the promise we made that day
+Comment: 0,1:48:17.90,1:48:23.30,Nanoha ED,,0,0,0,,People are always chasing after that\Nwhich they let slip through their grasp
+Comment: 0,1:48:23.30,1:48:28.52,Nanoha ED,,0,0,0,,At the whims and mercy\Nof an irrevocable “if”
+Comment: 0,1:48:29.48,1:48:34.90,Nanoha ED,,0,0,0,,Without any of that\Nprecious, brilliant healing
+Comment: 0,1:48:34.90,1:48:36.90,Nanoha ED,,0,0,0,,What we call “eternity”
+Comment: 0,1:48:36.90,1:48:39.24,Nanoha ED,,0,0,0,,{\pos(14,56)}(desired place)
+Comment: 0,1:48:37.78,1:48:39.80,Nanoha ED,,0,0,0,,Doing nothing but searching for tomorrow
+Comment: 0,1:48:39.80,1:48:41.98,Nanoha ED,,0,0,0,,{\pos(14,56)}(seeking answer)
+Comment: 0,1:48:40.54,1:48:47.28,Nanoha ED,,0,0,0,,Afraid to confront the truth we call “today”
