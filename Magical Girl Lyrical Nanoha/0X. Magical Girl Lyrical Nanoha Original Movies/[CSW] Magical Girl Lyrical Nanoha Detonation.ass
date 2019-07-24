@@ -17,9 +17,9 @@ Video File: ../../../mnt/archive/[FumeiRaws] Mahou Shoujo Lyrical Nanoha Detonat
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 1346
-Active Line: 1347
-Video Position: 23764
+Scroll Position: 1390
+Active Line: 1391
+Video Position: 155794
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,6 +31,7 @@ Style: NanohaW Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000
 Style: NanohaW Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,88,1
 Style: NanohaW Device2,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,80,80,40,1
 Style: Nanoha ED,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
+Style: Nanoha Insert Song,Noto Serif,48,&H00FFFFFF,&H000000FF,&H09000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -43,7 +44,7 @@ Dialogue: 0,0:00:48.98,0:00:50.98,NanohaW Narration1,,0,0,0,,Fate Testarossa-Har
 Dialogue: 0,0:00:50.98,0:00:53.74,NanohaW Narration1,,0,0,0,,Hayate Yagami, and her guardian knights,
 Dialogue: 0,0:00:53.74,0:00:57.74,NanohaW Narration1,,0,0,0,,plus Kyrie’s sister, Amitie Florian.
 Dialogue: 0,0:00:57.74,0:01:01.62,NanohaW Narration1,,0,0,0,,Kyrie was injured in battle and had her spirit broken.
-Dialogue: 0,0:01:01.62,0:01:04.37,NanohaW Narration1,,0,0,0,,However, she obtained the Eternity Crystal.
+Dialogue: 0,0:01:01.62,0:01:04.37,NanohaW Narration1,,0,0,0,,However, she obtained the key to the Eternity Crystal.
 Dialogue: 0,0:01:04.37,0:01:07.76,NanohaW Narration1,,0,0,0,,By Iris’s hand, the three souls that form the key:
 Dialogue: 0,0:01:07.76,0:01:12.38,NanohaW Narration1,,0,0,0,,Dearche, Stern, and Levi, were successfully revived.
 Dialogue: 0,0:01:13.38,0:01:16.26,NanohaW Narration1,,0,0,0,,While the battle in the sky took place,
@@ -75,15 +76,15 @@ Dialogue: 0,0:03:24.80,0:03:26.69,NanohaW Dialogue1,,0,0,0,,I’ll save you as s
 Dialogue: 0,0:03:26.69,0:03:28.72,NanohaW Dialogue1,,0,0,0,,Sorry, it might take a bit!
 Dialogue: 0,0:03:35.05,0:03:37.71,NanohaW Device1,,0,0,0,,There seems to be regeneration capacity.
 Dialogue: 0,0:03:37.71,0:03:38.44,NanohaW Dialogue1,,0,0,0,,Yeah.
-Dialogue: 0,0:03:38.44,0:03:41.45,NanohaW Narration1,,0,0,0,,Nanoha, Iris is mine!
+Dialogue: 0,0:03:38.44,0:03:40.60,NanohaW Narration1,,0,0,0,,Nanoha, Iris is mine!
 Dialogue: 0,0:03:41.45,0:03:43.41,NanohaW Narration1,,0,0,0,,Thanks, Amita!
-Dialogue: 0,0:03:43.41,0:03:46.78,NanohaW Narration1,,0,0,0,,If I stop Iris, I can stop her too!
+Dialogue: 0,0:03:43.41,0:03:46.78,NanohaW Narration1,,0,0,0,,If I stop Iris, I can stop {\i0}her{\i1} too!
 Dialogue: 0,0:03:49.57,0:03:50.85,NanohaW Dialogue2,,0,0,0,,Flaming arrow.
 Dialogue: 0,0:03:49.57,0:03:50.85,NanohaW Dialogue3,,0,0,0,,Flammenpfeil.
 Dialogue: 0,0:03:57.92,0:03:59.16,NanohaW Dialogue1,,0,0,0,,Shamal!
 Dialogue: 0,0:03:59.16,0:03:59.80,NanohaW Dialogue1,,0,0,0,,Yes!
-Dialogue: 0,0:04:03.56,0:04:05.60,NanohaW Dialogue1,,0,0,0,,What immense power.
-Dialogue: 0,0:04:05.60,0:04:09.27,NanohaW Dialogue1,,0,0,0,,But the girl is crying.
+Dialogue: 0,0:04:03.56,0:04:05.17,NanohaW Dialogue1,,0,0,0,,What immense power.
+Dialogue: 0,0:04:05.17,0:04:09.27,NanohaW Dialogue1,,0,0,0,,But the girl is crying.
 Dialogue: 0,0:04:17.68,0:04:20.71,NanohaW Device1,,0,0,0,,Master, I have good news and bad news.
 Dialogue: 0,0:04:20.71,0:04:22.06,NanohaW Dialogue1,,0,0,0,,Let’s hear the good news.
 Dialogue: 0,0:04:22.06,0:04:26.72,NanohaW Device1,,0,0,0,,Formula Mode operational.\NI am able to perform above expectancy.
@@ -126,7 +127,7 @@ Dialogue: 0,0:08:00.40,0:08:01.69,NanohaW Dialogue1,,0,0,0,,Let’s go!
 Dialogue: 0,0:08:02.15,0:08:03.12,NanohaW Dialogue1,,0,0,0,,Okay!
 Dialogue: 0,0:08:10.88,0:08:12.62,NanohaW Dialogue1,,0,0,0,,Yuri.
 Dialogue: 0,0:08:12.62,0:08:14.64,NanohaW Dialogue1,,0,0,0,,Hey, Yuri!
-Dialogue: 0,0:08:19.14,0:08:22.01,NanohaW Dialogue1,,0,0,0,,Yuri, are you okay?
+Dialogue: 0,0:08:19.14,0:08:21.66,NanohaW Dialogue1,,0,0,0,,Yuri, are you okay?
 Dialogue: 0,0:08:26.51,0:08:28.96,NanohaW Dialogue1,,0,0,0,,It can’t be. Dearche?
 Dialogue: 0,0:08:29.60,0:08:31.21,NanohaW Dialogue1,,0,0,0,,Stern.
 Dialogue: 0,0:08:31.85,0:08:33.40,NanohaW Dialogue1,,0,0,0,,Levi.
@@ -135,7 +136,7 @@ Dialogue: 0,0:08:36.63,0:08:40.16,NanohaW Dialogue1,,0,0,0,,Hayate Yagami, Mistr
 Dialogue: 0,0:08:40.16,0:08:44.58,NanohaW Dialogue1,,0,0,0,,Hayate! I have a request.
 Dialogue: 0,0:08:44.58,0:08:47.41,NanohaW Dialogue1,,0,0,0,,Of Dearche and the others too...
 Dialogue: 0,0:08:47.41,0:08:50.30,NanohaW Dialogue1,,0,0,0,,And of that girl, Iris...
-Dialogue: 0,0:08:54.06,0:08:55.51,NanohaW Dialogue1,,0,0,0,,Do not speak.
+Dialogue: 0,0:08:54.06,0:08:55.51,NanohaW Dialogue1,,0,0,0,,Stay your tongue.
 Dialogue: 0,0:08:55.51,0:08:57.30,NanohaW Dialogue1,,0,0,0,,I do not wish to hear any more lies.
 Dialogue: 0,0:09:00.02,0:09:01.60,NanohaW Dialogue1,,0,0,0,,You!
 Dialogue: 0,0:09:01.60,0:09:05.17,NanohaW Dialogue1,,0,0,0,,The plan got a little messed up. I must redo it.
@@ -150,7 +151,7 @@ Dialogue: 0,0:09:39.34,0:09:43.10,NanohaW Dialogue1,,0,0,0,,The mastermind of th
 Dialogue: 0,0:09:43.73,0:09:46.48,NanohaW Dialogue1,,0,0,0,,Five material witnesses have been secured.
 Dialogue: 0,0:09:46.48,0:09:51.10,NanohaW Dialogue1,,0,0,0,,From Eltria, the Florian sisters, Amitie and Kyrie.
 Dialogue: 0,0:09:51.10,0:09:56.74,NanohaW Dialogue1,,0,0,0,,It seems that three persons of unknown identity\Nwill also cooperate during the interview and investigation.
-Dialogue: 0,0:09:57.60,0:09:58.86,NanohaW Dialogue1,,0,0,0,,The site bases?
+Dialogue: 0,0:09:57.60,0:09:58.86,NanohaW Dialogue1,,0,0,0,,Where is our forward base?
 Dialogue: 0,0:09:58.86,0:10:01.89,NanohaW Dialogue1,,0,0,0,,I stationed the command ship in Tokyo Bay.
 Dialogue: 0,0:10:02.83,0:10:05.58,NanohaW Dialogue1,,0,0,0,,Its main crew members are already there.
 Dialogue: 0,0:10:07.04,0:10:08.44,NanohaW Dialogue1,,0,0,0,,Right, we’re here.
@@ -158,15 +159,15 @@ Dialogue: 0,0:10:11.37,0:10:13.04,NanohaW Dialogue1,,0,0,0,,Take your time.
 Dialogue: 0,0:10:15.18,0:10:16.37,NanohaW Dialogue1,,0,0,0,,Dearche.
 Dialogue: 0,0:10:16.37,0:10:17.39,NanohaW Dialogue1,,0,0,0,,Your Majesty!
 Dialogue: 0,0:10:17.39,0:10:19.22,NanohaW Dialogue1,,0,0,0,,Hey, you guys.
-Dialogue: 0,0:10:20.14,0:10:21.55,NanohaW Dialogue1,,0,0,0,,This way, please.
-Dialogue: 0,0:10:21.55,0:10:22.38,NanohaW Dialogue1,,0,0,0,,Thanks.
+Dialogue: 0,0:10:20.14,0:10:21.25,NanohaW Dialogue1,,0,0,0,,This way, please.
+Dialogue: 0,0:10:21.25,0:10:22.38,NanohaW Dialogue1,,0,0,0,,Thanks.
 Dialogue: 0,0:10:23.56,0:10:27.38,NanohaW Dialogue1,,0,0,0,,Stern. Any thoughts on how to proceed from here?
 Dialogue: 0,0:10:27.38,0:10:32.17,NanohaW Dialogue1,,0,0,0,,I am positive that Iris summoned us from within the Book.
 Dialogue: 0,0:10:32.56,0:10:39.53,NanohaW Dialogue1,,0,0,0,,It was to find the girl named Yuri and to make us fight her.
 Dialogue: 0,0:10:39.53,0:10:44.02,NanohaW Dialogue1,,0,0,0,,I am sure we have a strong connection to Yuri.
-Dialogue: 0,0:10:44.02,0:10:48.28,NanohaW Dialogue1,,0,0,0,,There is also our objective to find the “Great Power”.
+Dialogue: 0,0:10:44.02,0:10:48.28,NanohaW Dialogue1,,0,0,0,,There is also our objective to find a large source of power.
 Dialogue: 0,0:10:48.28,0:10:51.53,NanohaW Dialogue1,,0,0,0,,First, we need to know what Iris’s plan is.
-Dialogue: 0,0:10:51.53,0:10:52.53,NanohaW Dialogue1,,0,0,0,,Right
+Dialogue: 0,0:10:51.53,0:10:52.53,NanohaW Dialogue1,,0,0,0,,Right.
 Dialogue: 0,0:10:52.53,0:10:54.53,NanohaW Dialogue1,,0,0,0,,And what we are.
 Dialogue: 0,0:10:54.53,0:10:58.01,NanohaW Dialogue1,,0,0,0,,I still remember the both of you so well!
 Dialogue: 0,0:10:58.01,0:11:00.54,NanohaW Dialogue1,,0,0,0,,Your names, personalities, and the time we spent together.
@@ -196,7 +197,7 @@ Dialogue: 0,0:12:23.25,0:12:24.72,NanohaW Dialogue1,,0,0,0,,Take care.
 Dialogue: 0,0:12:24.72,0:12:25.90,NanohaW Dialogue1,,0,0,0,,Amita.
 Dialogue: 0,0:12:25.90,0:12:27.01,NanohaW Dialogue1,,0,0,0,,Nanoha.
 Dialogue: 0,0:12:27.01,0:12:29.50,NanohaW Dialogue1,,0,0,0,,Can you already move about?
-Dialogue: 0,0:12:29.50,0:12:32.29,NanohaW Dialogue1,,0,0,0,,Yes, I’m strong!
+Dialogue: 0,0:12:29.50,0:12:32.29,NanohaW Dialogue1,,0,0,0,,Yes, I’m fairly hardy.
 Dialogue: 0,0:12:36.26,0:12:39.15,NanohaW Dialogue1,,0,0,0,,I’m sorry I couldn’t stop Iris.
 Dialogue: 0,0:12:39.15,0:12:40.77,NanohaW Dialogue1,,0,0,0,,No, you’re fine.
 Dialogue: 0,0:12:40.77,0:12:42.39,NanohaW Dialogue1,,0,0,0,,Those crutches...
@@ -215,7 +216,7 @@ Dialogue: 0,0:13:06.42,0:13:07.35,NanohaW Dialogue1,,0,0,0,,Go ahead.
 Dialogue: 0,0:13:07.35,0:13:09.04,NanohaW Dialogue1,,0,0,0,,The Formula you gave to Nanoha...
 Dialogue: 0,0:13:09.04,0:13:12.44,NanohaW Dialogue1,,0,0,0,,Could you give it to me as well?
 Dialogue: 0,0:13:12.44,0:13:13.92,NanohaW Dialogue1,,0,0,0,,Fate.
-Dialogue: 0,0:13:13.92,0:13:16.65,NanohaW Dialogue1,,0,0,0,,I hate to be out of fighting strength.
+Dialogue: 0,0:13:13.92,0:13:16.65,NanohaW Dialogue1,,0,0,0,,I hate being stuck on the sidelines.
 Dialogue: 0,0:13:16.65,0:13:18.51,NanohaW Dialogue1,,0,0,0,,I want to help you,
 Dialogue: 0,0:13:18.51,0:13:24.18,NanohaW Dialogue1,,0,0,0,,but you’d need an injection of nanomachines into your bloodstream to operate the Formula.
 Dialogue: 0,0:13:25.22,0:13:30.00,NanohaW Dialogue1,,0,0,0,,The nanomachines I was able to bring over\Nare the few we have left.
@@ -239,11 +240,11 @@ Dialogue: 0,0:14:21.96,0:14:24.46,NanohaW Dialogue1,,0,0,0,,I don’t feel like 
 Dialogue: 0,0:14:25.59,0:14:27.47,NanohaW Dialogue1,,0,0,0,,But I wish to know something.
 Dialogue: 0,0:14:27.47,0:14:32.49,NanohaW Dialogue1,,0,0,0,,About the book you own.\NTell me about the Book of the Night Sky.
 Dialogue: 0,0:14:32.49,0:14:33.37,NanohaW Dialogue1,,0,0,0,,Sure.
-Dialogue: 0,0:14:35.56,0:14:38.94,NanohaW Dialogue1,,0,0,0,,It’s a magical tome that originated\Nin an ancient world known as Belka,
+Dialogue: 0,0:14:35.56,0:14:38.94,NanohaW Dialogue1,,0,0,0,,It’s a magical tome that originated\Non an ancient world known as Belka,
 Dialogue: 0,0:14:38.94,0:14:40.91,NanohaW Dialogue1,,0,0,0,,which has long since been destroyed.
 Dialogue: 0,0:14:40.91,0:14:46.66,NanohaW Dialogue1,,0,0,0,,Even after Belka was destroyed,\Nthe Book was passed to various masters on various worlds.
 Dialogue: 0,0:14:46.66,0:14:50.19,NanohaW Dialogue1,,0,0,0,,Ten years ago, it came into my possession.
-Dialogue: 0,0:14:52.50,0:14:57.77,NanohaW Dialogue1,,0,0,0,,Within its pages are manifold magic and knowledge.
+Dialogue: 0,0:14:52.50,0:14:57.77,NanohaW Dialogue1,,0,0,0,,Within its pages are manifold spells and knowledge.
 Dialogue: 0,0:14:57.77,0:15:01.99,NanohaW Dialogue1,,0,0,0,,My powers as the mistress\Nand the guardian knights came with it.
 Dialogue: 0,0:15:01.99,0:15:04.43,NanohaW Dialogue1,,0,0,0,,We four are the guardian knights.
 Dialogue: 0,0:15:04.43,0:15:05.24,NanohaW Dialogue1,,0,0,0,,Knights?
@@ -560,7 +561,7 @@ Dialogue: 0,0:34:11.55,0:34:13.54,NanohaW Dialogue1,,0,0,0,,Fire!
 Dialogue: 0,0:34:15.03,0:34:17.44,NanohaW Dialogue1,,0,0,0,,An attack! From where?
 Dialogue: 0,0:34:24.50,0:34:26.90,NanohaW Dialogue1,,0,0,0,,Team A and Team B are under sniper attack!
 Dialogue: 0,0:34:26.90,0:34:28.10,NanohaW Dialogue1,,0,0,0,,Rush in!
-Dialogue: 0,0:34:34.30,0:34:37.17,NanohaW Dialogue1,,0,0,0,,No equipment nor vehicles?
+Dialogue: 0,0:34:34.30,0:34:37.17,NanohaW Dialogue1,,0,0,0,,No equipment or vehicles?
 Dialogue: 0,0:34:37.66,0:34:40.68,NanohaW Dialogue1,,0,0,0,,My copies are also working hard.
 Dialogue: 0,0:34:40.68,0:34:42.45,NanohaW Dialogue1,,0,0,0,,Split up and work.
 Dialogue: 0,0:34:45.52,0:34:50.69,NanohaW Dialogue1,,0,0,0,,Yuri, kill the witches.\NI would be happy if you killed the king too.
@@ -635,13 +636,13 @@ Dialogue: 0,0:39:54.33,0:39:55.49,NanohaW Dialogue1,,0,0,0,,What a nuisance.
 Dialogue: 0,0:39:56.79,0:40:00.12,NanohaW Dialogue1,,0,0,0,,There’s plenty of good iron here.
 Dialogue: 0,0:40:00.12,0:40:03.27,NanohaW Dialogue1,,0,0,0,,I will break it down and put it to good use.
 Dialogue: 0,0:40:17.39,0:40:20.27,NanohaW Dialogue1,,0,0,0,,Stop destroying the facility and kindly surrender,
-Dialogue: 0,0:40:20.27,0:40:23.40,NanohaW Dialogue1,,0,0,0,,then contact Iris.
-Dialogue: 0,0:40:25.64,0:40:29.90,NanohaW Dialogue1,,0,0,0,,Everyone will be pleased if I take you down.
+Dialogue: 0,0:40:20.27,0:40:23.40,NanohaW Dialogue1,,0,0,0,,then put us in touch with Iris.
+Dialogue: 0,0:40:25.64,0:40:29.90,NanohaW Dialogue1,,0,0,0,,All of us will be pleased if I take you down.
 Dialogue: 0,0:40:35.41,0:40:37.91,NanohaW Dialogue1,,0,0,0,,Do it, Excavator!
 Dialogue: 0,0:40:52.55,0:40:53.93,NanohaW Dialogue1,,0,0,0,,Cannon, shoot!
 Dialogue: 0,0:41:01.42,0:41:03.31,NanohaW Dialogue1,,0,0,0,,{\pos(1110,680)}Yuuno, go for it!
 Dialogue: 0,0:41:03.31,0:41:04.94,NanohaW Dialogue1,,0,0,0,,{\pos(398,680)}Lock!
-Dialogue: 0,0:41:09.68,0:41:11.07,NanohaW Dialogue1,,0,0,0,,What?!
+Dialogue: 0,0:41:09.68,0:41:11.07,NanohaW Dialogue1,,0,0,0,,Oh, come on!
 Dialogue: 0,0:41:40.77,0:41:41.97,NanohaW Dialogue1,,0,0,0,,You little...
 Dialogue: 0,0:41:49.51,0:41:50.98,NanohaW Dialogue1,,0,0,0,,Comin’ at ya!
 Dialogue: 0,0:41:56.45,0:41:58.86,NanohaW Dialogue1,,0,0,0,,What? Still here?
@@ -654,12 +655,12 @@ Dialogue: 0,0:42:29.64,0:42:32.90,NanohaW Dialogue1,,0,0,0,,But I want to change
 Dialogue: 0,0:42:32.90,0:42:35.40,NanohaW Dialogue1,,0,0,0,,I {\i1}have{\i0} to change!
 Dialogue: 0,0:42:36.28,0:42:37.90,NanohaW Dialogue1,,0,0,0,,It’s not a choice!
 Dialogue: 0,0:42:58.56,0:43:01.54,NanohaW Dialogue1,,0,0,0,,Seriously! You guys are too weak.
-Dialogue: 0,0:43:01.54,0:43:03.95,NanohaW Dialogue1,,0,0,0,,I’ll help you out here, so be grateful!
+Dialogue: 0,0:43:01.54,0:43:03.95,NanohaW Dialogue1,,0,0,0,,Be grateful I’m helping you out here!
 Dialogue: 0,0:43:07.02,0:43:09.94,NanohaW Dialogue1,,0,0,0,,I mean, aren’t we outnumbered here?!
 Dialogue: 0,0:43:09.94,0:43:13.40,NanohaW Dialogue1,,0,0,0,,It’s also because this area is the fulcrum of the barrier!
 Dialogue: 0,0:43:24.54,0:43:25.71,NanohaW Dialogue1,,0,0,0,,Fate.
 Dialogue: 0,0:43:25.71,0:43:27.75,NanohaW Dialogue1,,0,0,0,,We will intercept!
-Dialogue: 0,0:43:27.75,0:43:30.18,NanohaW Dialogue1,,0,0,0,,Armed Services, everyone, defend the barrier!
+Dialogue: 0,0:43:27.75,0:43:30.18,NanohaW Dialogue1,,0,0,0,,Everyone from the Armed Services, defend the barrier!
 Dialogue: 0,0:43:30.18,0:43:30.83,NanohaW Dialogue1,,0,0,0,,Yes, ma’am!
 Dialogue: 0,0:43:30.83,0:43:34.08,NanohaW Dialogue1,,0,0,0,,Levi, why aren’t you going to Yuri?
 Dialogue: 0,0:43:34.08,0:43:38.30,NanohaW Dialogue1,,0,0,0,,I dropped in from across the street\Nbecause they seemed to be in trouble.
@@ -701,25 +702,47 @@ Dialogue: 0,0:46:57.46,0:47:01.50,NanohaW Dialogue1,,0,0,0,,To regain our past a
 Dialogue: 0,0:47:01.50,0:47:03.84,NanohaW Dialogue1,,0,0,0,,please just endure this for a moment.
 Dialogue: 0,0:47:03.84,0:47:05.76,NanohaW Dialogue1,,0,0,0,,Let’s end this, Yuri!
 Dialogue: 0,0:47:09.37,0:47:12.03,NanohaW Dialogue2,,0,0,0,,Eliminating three hostile elements.
-Dialogue: 0,0:47:09.37,0:47:12.03,NanohaW Dialogue3,,0,0,0,,Vernichtung von drei feindlichen Giften
+Dialogue: 0,0:47:09.37,0:47:12.03,NanohaW Dialogue3,,0,0,0,,Vernichtung von drei feindlichen Giften.
 Dialogue: 0,0:47:20.23,0:47:22.02,NanohaW Dialogue1,,0,0,0,,{\b1}Arondight{\b0}
+Dialogue: 0,0:47:32.00,0:47:38.84,Nanoha Insert Song,,0,0,0,,Your stolen smile was locked up without a place to go
+Dialogue: 0,0:47:38.84,0:47:46.18,Nanoha Insert Song,,0,0,0,,Closing your eyes and praying\Ndoesn’t change anything, even now
 Dialogue: 0,0:47:44.25,0:47:45.69,NanohaW Dialogue1,,0,0,0,,Come down, lightning!
+Dialogue: 0,0:47:46.18,0:47:53.06,Nanoha Insert Song,,0,0,0,,Let’s wipe away the weakness we fear,
 Dialogue: 0,0:47:52.93,0:47:57.27,NanohaW Dialogue1,,0,0,0,,{\b1}Thor’s Hammer{\b0}
+Dialogue: 0,0:47:53.06,0:47:59.30,Nanoha Insert Song,,0,0,0,,In order to get it back without fail,\NI want to yearn more for strength
+Dialogue: 0,0:47:59.30,0:48:02.84,Nanoha Insert Song,,0,0,0,,Until the day we fight, I want to offer
+Dialogue: 0,0:48:02.84,0:48:06.40,Nanoha Insert Song,,0,0,0,,All the limited time we have to you
 Dialogue: 0,0:48:03.77,0:48:07.65,NanohaW Dialogue1,,0,0,0,,{\pos(1067,680)}I’m sorry!\NThat has to hurt...
+Dialogue: 0,0:48:06.40,0:48:13.16,Nanoha Insert Song,,0,0,0,,I really feel like this,\NI just want you to smile like you used to
 Dialogue: 0,0:48:07.65,0:48:09.27,NanohaW Dialogue1,,0,0,0,,{\pos(213,680)}Yuri is being\Ncontrolled by
 Dialogue: 0,0:48:09.27,0:48:12.41,NanohaW Dialogue1,,0,0,0,,{\pos(213,680)}the Formula System’s\Naction force program.
 Dialogue: 0,0:48:12.41,0:48:15.04,NanohaW Dialogue1,,0,0,0,,If we keep up\Nthe attacks on her,
+Dialogue: 0,0:48:13.16,0:48:16.46,Nanoha Insert Song,,0,0,0,,As long as there’s an answer, I don’t feel pain
 Dialogue: 0,0:48:15.04,0:48:17.54,NanohaW Dialogue1,,0,0,0,,the thread binding\NYuri will burn out!
+Dialogue: 0,0:48:16.46,0:48:20.24,Nanoha Insert Song,,0,0,0,,There’s also no use in worrying anymore
 Dialogue: 0,0:48:20.03,0:48:22.04,NanohaW Dialogue1,,0,0,0,,Don’t cry!
+Dialogue: 0,0:48:20.24,0:48:23.66,Nanoha Insert Song,,0,0,0,,It dashed out, my unwavering heart
 Dialogue: 0,0:48:22.04,0:48:25.29,NanohaW Dialogue1,,0,0,0,,If Yuri cries, we will also be sad!
+Dialogue: 0,0:48:23.66,0:48:30.00,Nanoha Insert Song,,0,0,0,,I won’t give this up,\Nlet’s make it come true, I’ll keep going after it
+Dialogue: 0,0:48:40.72,0:48:47.64,Nanoha Insert Song,,0,0,0,,You changed the me from that time\Nwho was bursting with weakness
 Dialogue: 0,0:48:44.40,0:48:48.54,NanohaW Dialogue1,,0,0,0,,Stern, Levi, Dearche.
+Dialogue: 0,0:48:47.64,0:48:54.42,Nanoha Insert Song,,0,0,0,,The overflowing feeling\N that taught me happiness, even now
 Dialogue: 0,0:48:48.54,0:48:52.94,NanohaW Dialogue1,,0,0,0,,I will definitely stop Iris! So...!
+Dialogue: 0,0:48:54.42,0:49:01.56,Nanoha Insert Song,,0,0,0,,You’re my beloved person,\Nthese feelings well up my heart
 Dialogue: 0,0:48:56.54,0:48:58.23,NanohaW Dialogue1,,0,0,0,,Are you pushing us away?
 Dialogue: 0,0:48:58.23,0:49:00.16,NanohaW Dialogue1,,0,0,0,,Don’t do this!
 Dialogue: 0,0:49:00.16,0:49:04.08,NanohaW Dialogue1,,0,0,0,,Fool! Who would listen to a child\Nwho only whines and does nothing to better her situation?!
+Dialogue: 0,0:49:01.56,0:49:07.30,Nanoha Insert Song,,0,0,0,,“Do miracles not happen?” And you laughed, “Why don’t you make them happen!”
 Dialogue: 0,0:49:04.08,0:49:07.84,NanohaW Dialogue1,,0,0,0,,I don’t want to lose you guys either!
+Dialogue: 0,0:49:07.30,0:49:11.28,Nanoha Insert Song,,0,0,0,,Let’s leave this parched city and fulfill our wishes
+Dialogue: 0,0:49:11.28,0:49:14.92,Nanoha Insert Song,,0,0,0,,That’s right, we can’t go turn back, let’s open our eyes
 Dialogue: 0,0:49:12.85,0:49:15.70,NanohaW Dialogue1,,0,0,0,,Wait for us! We’ll definitely save you!
-Dialogue: 0,0:49:37.75,0:49:44.29,NanohaW Dialogue1,,0,0,0,,Caught up in this tragedy\Nare Iris’s heart and the three of you!
+Dialogue: 0,0:49:14.92,0:49:21.70,Nanoha Insert Song,,0,0,0,,We have no need for regrets,\Nlet’s fight the place the two of us belong
+Dialogue: 0,0:49:21.70,0:49:25.10,Nanoha Insert Song,,0,0,0,,I wish in the moonlight, this time it’s my turn
+Dialogue: 0,0:49:25.10,0:49:28.82,Nanoha Insert Song,,0,0,0,,I won’t lose anymore, I’ll come out to meet it
+Dialogue: 0,0:49:28.82,0:49:32.06,Nanoha Insert Song,,0,0,0,,No matter what happens, I won’t waver
+Dialogue: 0,0:49:32.06,0:49:39.16,Nanoha Insert Song,,0,0,0,,If we take our souls into our arms,\Nlet’s raise them up ahead
+Dialogue: 0,0:49:37.75,0:49:44.29,NanohaW Dialogue1,,0,0,0,,Iris’s heart and the three of you\Nare caught up in this tragedy!
 Dialogue: 0,0:49:45.29,0:49:47.96,NanohaW Dialogue1,,0,0,0,,In order to someday return home...
 Dialogue: 0,0:49:47.96,0:49:50.18,NanohaW Dialogue1,,0,0,0,,To fulfill my sworn dream!
 Dialogue: 0,0:49:50.18,0:49:53.67,NanohaW Dialogue1,,0,0,0,,If you guys die, I will...!
@@ -727,22 +750,22 @@ Dialogue: 0,0:50:02.27,0:50:04.30,NanohaW Dialogue1,,0,0,0,,I’m so glad they�
 Dialogue: 0,0:50:04.30,0:50:05.11,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:50:05.11,0:50:07.61,NanohaW Dialogue1,,0,0,0,,Once again, your magic is amazing.
 Dialogue: 0,0:50:07.61,0:50:09.11,NanohaW Dialogue1,,0,0,0,,They were too weak.
-Dialogue: 0,0:50:09.11,0:50:11.53,NanohaW Dialogue1,,0,0,0,,It’s unbelievable how they could be healed this much.
-Dialogue: 0,0:50:11.53,0:50:13.32,NanohaW Dialogue1,,0,0,0,,I did my best!
-Dialogue: 0,0:50:13.32,0:50:15.32,NanohaW Narration1,,0,0,0,,What are they talking about?
+Dialogue: 0,0:50:09.11,0:50:11.43,NanohaW Dialogue1,,0,0,0,,It’s unbelievable that they recovered this much.
+Dialogue: 0,0:50:11.43,0:50:12.81,NanohaW Dialogue1,,0,0,0,,I did my best!
+Dialogue: 0,0:50:12.81,0:50:15.32,NanohaW Narration1,,0,0,0,,What are they talking about?
 Dialogue: 0,0:50:15.32,0:50:18.20,NanohaW Narration1,,0,0,0,,My body cannot move, and I feel cold.
 Dialogue: 0,0:50:18.20,0:50:21.32,NanohaW Dialogue1,,0,0,0,,Is the one in the middle saying something?
 Dialogue: 0,0:50:21.32,0:50:23.32,NanohaW Dialogue1,,0,0,0,,Maybe she’s cold.
 Dialogue: 0,0:50:23.32,0:50:26.07,NanohaW Dialogue1,,0,0,0,,Wait. Let me get a towel.
 Dialogue: 0,0:50:26.07,0:50:29.94,NanohaW Dialogue1,,0,0,0,,Don’t worry. You’ll be warm soon enough!
 Dialogue: 0,0:50:37.56,0:50:39.11,NanohaW Dialogue1,,0,0,0,,Want to read together?
-Dialogue: 0,0:50:41.94,0:50:45.81,NanohaW Dialogue1,,0,0,0,,Little ones! You have something\Nagainst me in this room or what?!
+Dialogue: 0,0:50:41.94,0:50:45.81,NanohaW Dialogue1,,0,0,0,,You little rascals! You have something\Nagainst me in this room or what?!
 Dialogue: 0,0:50:45.81,0:50:49.38,NanohaW Dialogue1,,0,0,0,,I’m sorry! They all wanted to play.
 Dialogue: 0,0:50:49.38,0:50:50.48,NanohaW Dialogue1,,0,0,0,,Grrrrrr!
 Dialogue: 0,0:50:51.48,0:50:54.32,NanohaW Dialogue1,,0,0,0,,They always stick together, don’t they?
 Dialogue: 0,0:50:54.32,0:50:57.24,NanohaW Dialogue1,,0,0,0,,The one in the middle is like a little king,
 Dialogue: 0,0:50:57.24,0:50:59.73,NanohaW Dialogue1,,0,0,0,,always looking after the other two.
-Dialogue: 0,0:50:59.73,0:51:02.64,NanohaW Dialogue1,,0,0,0,,They are so cute when they sleep like this.
+Dialogue: 0,0:50:59.73,0:51:02.64,NanohaW Dialogue1,,0,0,0,,They’re so cute when they sleep like this.
 Dialogue: 0,0:51:04.71,0:51:08.61,NanohaW Dialogue1,,0,0,0,,The Book of the Night Sky is a child\Nbound with a chain of hatred and death.
 Dialogue: 0,0:51:08.61,0:51:15.29,NanohaW Dialogue1,,0,0,0,,However, the magic the Night Sky and I perform\Nis something that has the power to save planets and lives.
 Dialogue: 0,0:51:16.47,0:51:21.01,NanohaW Dialogue1,,0,0,0,,Those little ones and yourself\Nserve as a reminder for me, Iris.
@@ -753,16 +776,26 @@ Dialogue: 0,0:51:34.22,0:51:37.15,NanohaW Dialogue1,,0,0,0,,Stop it, you’re em
 Dialogue: 0,0:51:38.78,0:51:42.70,NanohaW Dialogue1,,0,0,0,,Seeing how healthy and happy\Nthe little ones are is proof of that.
 Dialogue: 0,0:51:42.70,0:51:44.46,NanohaW Dialogue1,,0,0,0,,You’ve given them names, haven’t you?
 Dialogue: 0,0:51:44.46,0:51:45.54,NanohaW Dialogue1,,0,0,0,,What are they?
-Dialogue: 0,0:51:45.54,0:51:49.44,NanohaW Dialogue1,,0,0,0,,Stern, Levi, and also Dearche.
-Dialogue: 0,0:51:50.82,0:51:55.07,NanohaW Narration1,,0,0,0,,That’s it. She gave us life and raised us.
-Dialogue: 0,0:51:55.34,0:52:00.05,NanohaW Narration1,,0,0,0,,She gave us a warm life without hunger or thirst.
-Dialogue: 0,0:52:00.31,0:52:03.51,NanohaW Narration1,,0,0,0,,In order to repay her for that, I want to become strong.
-Dialogue: 0,0:52:03.51,0:52:06.05,NanohaW Narration1,,0,0,0,,That’s why I wanted it.
-Dialogue: 0,0:52:06.05,0:52:10.69,NanohaW Narration1,,0,0,0,,Not weak hands and feet,\Nnor a mouth that can’t speak a word.
-Dialogue: 0,0:52:13.69,0:52:16.82,NanohaW Narration1,,0,0,0,,Not a tail that is only fit for play.
-Dialogue: 0,0:52:16.82,0:52:19.78,NanohaW Narration1,,0,0,0,,So I can protect this sweet girl,
-Dialogue: 0,0:52:19.78,0:52:23.87,NanohaW Narration1,,0,0,0,,I will obtain much power to make her dreams come true.
-Dialogue: 0,0:52:23.87,0:52:26.37,NanohaW Narration1,,0,0,0,,An infinite amount of power!
+Dialogue: 0,0:51:45.54,0:51:49.44,NanohaW Dialogue1,,0,0,0,,Stern, Levi, and that one’s Dearche.
+Dialogue: 0,0:51:46.18,0:51:52.88,Nanoha Insert Song,,0,0,0,,I want to be stronger together,\Nthe beating in my chest won’t stop
+Dialogue: 0,0:51:50.82,0:51:55.07,NanohaW Narration1,,0,0,0,,{\an9}That’s it.\NShe gave us life and raised us.
+Dialogue: 0,0:51:52.88,0:52:00.56,Nanoha Insert Song,,0,0,0,,Let’s make a promise,\Nwe’ll make it to a beautiful future
+Dialogue: 0,0:51:55.34,0:52:00.05,NanohaW Narration1,,0,0,0,,{\an9}She gave us a warm life\Nwithout hunger or thirst.
+Dialogue: 0,0:52:00.31,0:52:03.51,NanohaW Narration1,,0,0,0,,{\an9}In order to repay her for that,\NI want to become strong.
+Dialogue: 0,0:52:00.56,0:52:04.46,Nanoha Insert Song,,0,0,0,,The day to fight has come,\Npiercing our determination
+Dialogue: 0,0:52:03.51,0:52:06.05,NanohaW Narration1,,0,0,0,,{\an9}That’s why I wanted it.
+Dialogue: 0,0:52:04.46,0:52:08.20,Nanoha Insert Song,,0,0,0,,That’s right, I want to offer\Neverything to you
+Dialogue: 0,0:52:06.05,0:52:10.69,NanohaW Narration1,,0,0,0,,{\an9}Not weak hands and feet,\Nnor a mouth that can’t speak a word.
+Dialogue: 0,0:52:08.20,0:52:11.34,Nanoha Insert Song,,0,0,0,,We’ll get stronger again\Nif we make it through the night
+Dialogue: 0,0:52:11.34,0:52:15.02,Nanoha Insert Song,,0,0,0,,I want to protect only you
+Dialogue: 0,0:52:13.69,0:52:16.82,NanohaW Narration1,,0,0,0,,{\an9}Not a tail that is only fit for play.
+Dialogue: 0,0:52:15.02,0:52:18.30,Nanoha Insert Song,,0,0,0,,I wish in the moonlight,\Nthis time it’s my turn
+Dialogue: 0,0:52:16.82,0:52:19.78,NanohaW Narration1,,0,0,0,,{\an9}So I can protect this sweet girl,
+Dialogue: 0,0:52:18.30,0:52:21.98,Nanoha Insert Song,,0,0,0,,I won’t lose anymore,\NI’ll come out to meet it
+Dialogue: 0,0:52:19.78,0:52:23.87,NanohaW Narration1,,0,0,0,,{\an9}I will obtain much power\Nto make her dreams come true.
+Dialogue: 0,0:52:21.98,0:52:25.52,Nanoha Insert Song,,0,0,0,,No matter what happens,\NI won’t waver
+Dialogue: 0,0:52:23.87,0:52:26.37,NanohaW Narration1,,0,0,0,,{\an9}An infinite amount of power!
+Dialogue: 0,0:52:25.52,0:52:32.16,Nanoha Insert Song,,0,0,0,,If we take our souls into our arms,\Nlet’s raise them up ahead
 Dialogue: 0,0:52:30.00,0:52:33.59,NanohaW Dialogue1,,0,0,0,,{\pos(853,680)}Dearche!\NWe must help our owner!
 Dialogue: 0,0:52:33.59,0:52:35.50,NanohaW Dialogue1,,0,0,0,,{\pos(228,680)}Our precious little girl!
 Dialogue: 0,0:52:35.50,0:52:36.59,NanohaW Dialogue1,,0,0,0,,Right!
@@ -796,10 +829,10 @@ Dialogue: 0,0:54:51.47,0:54:54.60,NanohaW Dialogue1,,0,0,0,,{\b1}Accelerator Alt
 Dialogue: 0,0:55:04.52,0:55:05.53,NanohaW Dialogue1,,0,0,0,,You cur!
 Dialogue: 0,0:55:12.27,0:55:13.43,NanohaW Dialogue1,,0,0,0,,Stern...
 Dialogue: 0,0:55:30.60,0:55:32.52,NanohaW Dialogue1,,0,0,0,,I will take her and leave.
-Dialogue: 0,0:55:32.52,0:55:38.72,NanohaW Dialogue1,,0,0,0,,All this trouble will be worthwhile,\Nas long as I have the last laugh.
-Dialogue: 0,0:55:42.94,0:55:45.53,NanohaW Dialogue1,,0,0,0,,Yuri is unconscious.
-Dialogue: 0,0:55:45.53,0:55:47.71,NanohaW Dialogue1,,0,0,0,,Dearche’s group is also dying of serious injury.
-Dialogue: 0,0:55:48.56,0:55:52.94,NanohaW Dialogue1,,0,0,0,,Some of us may have secured Yuri,\Nbut communication has yet to be established.
+Dialogue: 0,0:55:32.52,0:55:38.72,NanohaW Dialogue1,,0,0,0,,All this trouble will be worthwhile\Nas long as I have the last laugh.
+Dialogue: 0,0:55:42.94,0:55:45.53,NanohaW Dialogue1,,0,0,0,,Yuri has lost consciousness.
+Dialogue: 0,0:55:45.53,0:55:47.68,NanohaW Dialogue1,,0,0,0,,Dearche’s group is also dying of serious injury.
+Dialogue: 0,0:55:47.68,0:55:53.22,NanohaW Dialogue1,,0,0,0,,Some of us may have secured Yuri,\Nbut communications have yet to be established.
 Dialogue: 0,0:55:54.94,0:55:56.70,NanohaW Dialogue1,,0,0,0,,What is going on?
 Dialogue: 0,0:56:05.59,0:56:07.09,NanohaW Dialogue1,,0,0,0,,Secure the base!
 Dialogue: 0,0:56:08.68,0:56:10.13,NanohaW Dialogue1,,0,0,0,,You.
@@ -829,7 +862,7 @@ Dialogue: 0,0:57:21.08,0:57:22.79,NanohaW Dialogue1,,0,0,0,,I won’t let anyone
 Dialogue: 0,0:57:28.88,0:57:30.17,NanohaW Dialogue1,,0,0,0,,Kyrie?
 Dialogue: 0,0:57:34.76,0:57:36.30,NanohaW Dialogue1,,0,0,0,,Why have you come here?
 Dialogue: 0,0:57:39.23,0:57:40.56,NanohaW Dialogue1,,0,0,0,,I came to help.
-Dialogue: 0,0:57:43.15,0:57:45.83,NanohaW Dialogue1,,0,0,0,,Who are you trying to help now?
+Dialogue: 0,0:57:42.92,0:57:45.83,NanohaW Dialogue1,,0,0,0,,Who are you trying to help now?
 Dialogue: 0,0:57:49.55,0:57:53.07,NanohaW Dialogue1,,0,0,0,,I know everything, Iris! About your past and about Yuri!
 Dialogue: 0,0:58:07.01,0:58:11.31,NanohaW Dialogue1,,0,0,0,,Iris, listen to me. Yuri told me.
 Dialogue: 0,0:58:11.31,0:58:13.92,NanohaW Dialogue1,,0,0,0,,Mama told me too, back home.
@@ -837,11 +870,11 @@ Dialogue: 0,0:58:13.92,0:58:16.70,NanohaW Dialogue1,,0,0,0,,You have misundersto
 Dialogue: 0,0:58:17.92,0:58:20.32,NanohaW Dialogue1,,0,0,0,,No, you were actively misled.
 Dialogue: 0,0:58:20.32,0:58:21.68,NanohaW Dialogue1,,0,0,0,,By a specific individual.
 Dialogue: 0,0:58:30.03,0:58:31.07,NanohaW Dialogue1,,0,0,0,,Right.
-Dialogue: 0,0:58:32.49,0:58:34.31,NanohaW Dialogue1,,0,0,0,,Is the pace of production going smoothly?
-Dialogue: 0,0:58:34.31,0:58:35.57,NanohaW Dialogue1,,0,0,0,,Yes.
+Dialogue: 0,0:58:32.49,0:58:34.68,NanohaW Dialogue1,,0,0,0,,Is the pace of production going smoothly?
+Dialogue: 0,0:58:34.68,0:58:35.57,NanohaW Dialogue1,,0,0,0,,Yes.
 Dialogue: 0,0:58:35.57,0:58:40.95,NanohaW Dialogue1,,0,0,0,,Apart from the diversion force,\Nwe have established a mining and production base.
 Dialogue: 0,0:58:40.95,0:58:43.83,NanohaW Dialogue1,,0,0,0,,Also, the barrier will be destroyed in due time.
-Dialogue: 0,0:58:43.83,0:58:45.87,NanohaW Dialogue1,,0,0,0,,Wonderful.
+Dialogue: 0,0:58:43.83,0:58:45.87,NanohaW Dialogue1,,0,0,0,,Fantastic.
 Dialogue: 0,0:58:50.92,0:58:53.46,NanohaW Dialogue1,,0,0,0,,It’s all right! Let her through.
 Dialogue: 0,0:58:57.08,0:59:00.97,NanohaW Dialogue1,,0,0,0,,It’s you, isn’t it? The one responsible for all of this.
 Dialogue: 0,0:59:00.97,0:59:04.60,NanohaW Dialogue1,,0,0,0,,I don’t think I’ve met you before.
@@ -877,7 +910,7 @@ Dialogue: 0,1:01:00.68,1:01:06.60,NanohaW Dialogue1,,0,0,0,,Rather, they want us
 Dialogue: 0,1:01:06.60,1:01:08.46,NanohaW Dialogue1,,0,0,0,,How ridiculous!
 Dialogue: 0,1:01:08.46,1:01:11.37,NanohaW Dialogue1,,0,0,0,,Chairman, you’ve been doing\Nyour best along with everyone else.
 Dialogue: 0,1:01:11.89,1:01:14.00,NanohaW Dialogue1,,0,0,0,,That is why I will continue negotiations.
-Dialogue: 0,1:01:14.60,1:01:19.61,NanohaW Dialogue1,,0,0,0,,We have first-rate technical staff here.\NAlong with Yuri, our new hope.
+Dialogue: 0,1:01:14.60,1:01:19.61,NanohaW Dialogue1,,0,0,0,,We have first-rate technical staff here,\Nalong with Yuri, our new hope.
 Dialogue: 0,1:01:20.32,1:01:22.51,NanohaW Dialogue1,,0,0,0,,And you too, Iris.
 Dialogue: 0,1:01:23.85,1:01:25.60,NanohaW Dialogue1,,0,0,0,,It will be all right.
 Dialogue: 0,1:01:25.60,1:01:30.39,NanohaW Dialogue1,,0,0,0,,I will not allow my children and those under me to suffer.
@@ -894,8 +927,8 @@ Dialogue: 0,1:02:04.65,1:02:10.12,NanohaW Dialogue1,,0,0,0,,Also, as for the mac
 Dialogue: 0,1:02:10.12,1:02:13.66,NanohaW Dialogue1,,0,0,0,,it will be considered a government asset,
 Dialogue: 0,1:02:13.66,1:02:17.32,NanohaW Dialogue1,,0,0,0,,along with all the technical staff. Transfer them over to us.
 Dialogue: 0,1:02:18.88,1:02:19.69,NanohaW Dialogue1,,0,0,0,,Chairman.
-Dialogue: 0,1:02:21.30,1:02:23.54,NanohaW Dialogue1,,0,0,0,,Just like that, all hope is lost.
-Dialogue: 0,1:02:23.54,1:02:24.67,NanohaW Dialogue1,,0,0,0,,It is too bad.
+Dialogue: 0,1:02:21.03,1:02:23.29,NanohaW Dialogue1,,0,0,0,,Just like that, all our hopes go up in smoke.
+Dialogue: 0,1:02:23.29,1:02:24.67,NanohaW Dialogue1,,0,0,0,,It’s too bad.
 Dialogue: 0,1:02:25.41,1:02:31.18,NanohaW Dialogue1,,0,0,0,,But it’s fine. As long as we have\Nthe last laugh, all will be well.
 Dialogue: 0,1:02:33.68,1:02:36.52,NanohaW Dialogue1,,0,0,0,,I guess our job is over now.
 Dialogue: 0,1:02:36.52,1:02:38.90,NanohaW Dialogue1,,0,0,0,,Iris will be sad, won’t she?
@@ -919,20 +952,20 @@ Dialogue: 0,1:03:54.63,1:03:57.80,NanohaW Dialogue1,,0,0,0,,Iris and I have deci
 Dialogue: 0,1:03:57.80,1:04:01.31,NanohaW Dialogue1,,0,0,0,,Of course, I want you to come with us, Yuri.
 Dialogue: 0,1:04:02.49,1:04:04.06,NanohaW Dialogue1,,0,0,0,,Is it a military group?
 Dialogue: 0,1:04:05.82,1:04:08.82,NanohaW Dialogue1,,0,0,0,,Even where the people of this planet are heading,
-Dialogue: 0,1:04:08.82,1:04:12.90,NanohaW Dialogue1,,0,0,0,,war is everywhere, no matter how distant the world.
+Dialogue: 0,1:04:08.82,1:04:12.90,NanohaW Dialogue1,,0,0,0,,no matter how distant the world, war is everywhere.
 Dialogue: 0,1:04:12.90,1:04:18.12,NanohaW Dialogue1,,0,0,0,,My skills and experience\Nwill be useful in such an environment.
 Dialogue: 0,1:04:19.00,1:04:23.58,NanohaW Dialogue1,,0,0,0,,Iris design concept is that of\Nan artificial soldier with unlimited growth.
 Dialogue: 0,1:04:24.38,1:04:26.93,NanohaW Dialogue1,,0,0,0,,With the materials and energy you provide,
 Dialogue: 0,1:04:26.93,1:04:29.79,NanohaW Dialogue1,,0,0,0,,she can destroy or create at will.
 Dialogue: 0,1:04:29.79,1:04:32.59,NanohaW Dialogue1,,0,0,0,,A convenient and useful soldier in any condition.
 Dialogue: 0,1:04:35.48,1:04:39.34,NanohaW Dialogue1,,0,0,0,,I am aware that Iris was created for that reason.
-Dialogue: 0,1:04:39.34,1:04:43.48,NanohaW Dialogue1,,0,0,0,,But, you love Iris and everybody else!
-Dialogue: 0,1:04:43.48,1:04:45.70,NanohaW Dialogue1,,0,0,0,,That’s right.
-Dialogue: 0,1:04:45.70,1:04:47.98,NanohaW Dialogue1,,0,0,0,,So why did you do this?!
+Dialogue: 0,1:04:39.34,1:04:43.48,NanohaW Dialogue1,,0,0,0,,But you love Iris and everybody else!
+Dialogue: 0,1:04:43.48,1:04:45.47,NanohaW Dialogue1,,0,0,0,,That’s right.
+Dialogue: 0,1:04:45.47,1:04:47.98,NanohaW Dialogue1,,0,0,0,,So why did you do this?!
 Dialogue: 0,1:04:47.98,1:04:51.90,NanohaW Dialogue1,,0,0,0,,Love is the fuel that inspires the human mind.
 Dialogue: 0,1:04:52.62,1:04:56.90,NanohaW Dialogue1,,0,0,0,,Iris received my affection, and as a result,\Nshe performed beyond expectations.
-Dialogue: 0,1:04:57.74,1:05:01.29,NanohaW Dialogue1,,0,0,0,,That is why I love Iris.
-Dialogue: 0,1:05:01.29,1:05:03.49,NanohaW Dialogue1,,0,0,0,,She is my child...
+Dialogue: 0,1:04:57.74,1:05:01.24,NanohaW Dialogue1,,0,0,0,,That is why I love Iris.
+Dialogue: 0,1:05:01.24,1:05:03.49,NanohaW Dialogue1,,0,0,0,,She is my child...
 Dialogue: 0,1:05:03.49,1:05:06.01,NanohaW Dialogue1,,0,0,0,,as well as a very good tool.
 Dialogue: 0,1:05:06.01,1:05:08.09,NanohaW Dialogue1,,0,0,0,,Maxwell! You...!
 Dialogue: 0,1:05:21.84,1:05:23.14,NanohaW Dialogue1,,0,0,0,,This is...
@@ -960,7 +993,7 @@ Dialogue: 0,1:07:42.53,1:07:43.38,NanohaW Dialogue1,,0,0,0,,Iris!
 Dialogue: 0,1:07:44.21,1:07:45.79,NanohaW Dialogue1,,0,0,0,,Iris!
 Dialogue: 0,1:07:54.09,1:07:57.04,NanohaW Dialogue1,,0,0,0,,I’m sorry, Iris!
 Dialogue: 0,1:08:00.18,1:08:03.00,NanohaW Dialogue1,,0,0,0,,I will make sure I come back here.
-Dialogue: 0,1:08:03.00,1:08:05.12,NanohaW Dialogue1,,0,0,0,,So, please wait.
+Dialogue: 0,1:08:03.00,1:08:05.12,NanohaW Dialogue1,,0,0,0,,So please wait.
 Dialogue: 0,1:08:06.31,1:08:08.93,NanohaW Dialogue1,,0,0,0,,I {\i1}know{\i0} I’ll be back!
 Dialogue: 0,1:08:15.82,1:08:19.50,NanohaW Dialogue1,,0,0,0,,Yuri went on a journey, and Iris rested at that place.
 Dialogue: 0,1:08:19.50,1:08:23.32,NanohaW Dialogue1,,0,0,0,,After time had passed, she met my daughter.
@@ -1009,19 +1042,19 @@ Dialogue: 0,1:12:30.78,1:12:33.43,NanohaW Dialogue1,,0,0,0,,Just get out of here
 Dialogue: 0,1:12:36.75,1:12:38.53,NanohaW Dialogue1,,0,0,0,,Come on!
 Dialogue: 0,1:12:44.92,1:12:46.42,NanohaW Dialogue1,,0,0,0,,Iris!
 Dialogue: 0,1:12:50.04,1:12:52.78,NanohaW Dialogue1,,0,0,0,,I don’t deserve your sympathy.
-Dialogue: 0,1:12:52.78,1:12:58.69,NanohaW Dialogue1,,0,0,0,,I deceived you for a long time,\Nso I could to use you for my own gain.
+Dialogue: 0,1:12:52.78,1:12:58.69,NanohaW Dialogue1,,0,0,0,,I deceived you for a long time\Nso I could to use you for my own gain.
 Dialogue: 0,1:12:58.69,1:13:02.73,NanohaW Dialogue1,,0,0,0,,But you never caught on, and you fell for it all.
 Dialogue: 0,1:13:02.73,1:13:05.19,NanohaW Dialogue1,,0,0,0,,This is what I deserve.
 Dialogue: 0,1:13:07.03,1:13:08.80,NanohaW Dialogue1,,0,0,0,,Right, I will tell you.
-Dialogue: 0,1:13:09.91,1:13:15.20,NanohaW Dialogue1,,0,0,0,,When you first came to where I was,\NI saw you only as a small child I can use.
+Dialogue: 0,1:13:09.91,1:13:15.20,NanohaW Dialogue1,,0,0,0,,When you first came to where I was,\NI saw you only as a small child I could use.
 Dialogue: 0,1:13:15.20,1:13:19.95,NanohaW Dialogue1,,0,0,0,,I only thought of ways to trick you.
 Dialogue: 0,1:13:23.13,1:13:26.25,NanohaW Dialogue1,,0,0,0,,Every time you depended on me,
-Dialogue: 0,1:13:26.25,1:13:29.68,NanohaW Dialogue1,,0,0,0,,When you first came to where I was,\NI saw you only as a small child I can use.
+Dialogue: 0,1:13:26.25,1:13:29.68,NanohaW Dialogue1,,0,0,0,,every time I told you something dumb,
 Dialogue: 0,1:13:29.68,1:13:32.72,NanohaW Dialogue1,,0,0,0,,I thought that once again, I was someone you trusted.
 Dialogue: 0,1:13:33.25,1:13:35.74,NanohaW Dialogue1,,0,0,0,,I also took care of you.
 Dialogue: 0,1:13:36.21,1:13:38.74,NanohaW Dialogue1,,0,0,0,,We laughed together.
 Dialogue: 0,1:13:39.71,1:13:40.77,NanohaW Dialogue1,,0,0,0,,All of it.
-Dialogue: 0,1:13:40.77,1:13:44.60,NanohaW Dialogue1,,0,0,0,,I did {\i1}all{\i0} of it, because I wanted to use you.
+Dialogue: 0,1:13:40.77,1:13:44.60,NanohaW Dialogue1,,0,0,0,,I did {\i1}all{\i0} of it because I wanted to use you.
 Dialogue: 0,1:13:44.60,1:13:49.15,NanohaW Dialogue1,,0,0,0,,So, hurry! Run away!
 Dialogue: 0,1:13:56.54,1:13:58.12,NanohaW Dialogue1,,0,0,0,,I will not run away!
 Dialogue: 0,1:13:59.86,1:14:04.62,NanohaW Dialogue1,,0,0,0,,The time we spent together was {\i1}not{\i0} a lie!
@@ -1029,7 +1062,7 @@ Dialogue: 0,1:14:05.34,1:14:08.04,NanohaW Dialogue1,,0,0,0,,I learned all sorts 
 Dialogue: 0,1:14:08.04,1:14:09.80,NanohaW Dialogue1,,0,0,0,,We laughed together.
 Dialogue: 0,1:14:10.93,1:14:15.18,NanohaW Dialogue1,,0,0,0,,Those were the best times of my life!
 Dialogue: 0,1:14:21.43,1:14:23.85,NanohaW Dialogue1,,0,0,0,,I don’t care what your opinion of that Iris is.
-Dialogue: 0,1:14:23.85,1:14:26.71,NanohaW Dialogue1,,0,0,0,,To me, she is an important friend!
+Dialogue: 0,1:14:23.85,1:14:26.71,NanohaW Dialogue1,,0,0,0,,To me, she’s a close friend!
 Dialogue: 0,1:14:31.74,1:14:33.69,NanohaW Dialogue1,,0,0,0,,My best friend!
 Dialogue: 0,1:14:33.69,1:14:35.61,NanohaW Dialogue1,,0,0,0,,My friend who’s crying!
 Dialogue: 0,1:14:35.61,1:14:37.45,NanohaW Dialogue1,,0,0,0,,I can’t leave her alone!
@@ -1041,9 +1074,9 @@ Dialogue: 0,1:15:17.61,1:15:18.73,NanohaW Dialogue1,,0,0,0,,{\pos(1120,680)}Let�
 Dialogue: 0,1:15:18.73,1:15:20.98,NanohaW Dialogue1,,0,0,0,,{\pos(1120,680)}I’ll take\Nthe ground.
 Dialogue: 0,1:15:20.98,1:15:21.86,NanohaW Dialogue1,,0,0,0,,{\pos(1120,680)}What about\NYuri?
 Dialogue: 0,1:15:21.86,1:15:23.37,NanohaW Dialogue1,,0,0,0,,{\pos(480,680)}Leave that to me.
-Dialogue: 0,1:15:23.37,1:15:27.02,NanohaW Dialogue1,,0,0,0,,{\pos(480,680)}Neutralization will be difficult,\Nbut I can get her attention.
-Dialogue: 0,1:15:27.02,1:15:29.36,NanohaW Dialogue1,,0,0,0,,{\pos(1120,680)}Nanoha, go after\Nthe mastermind!
-Dialogue: 0,1:15:29.36,1:15:30.12,NanohaW Dialogue1,,0,0,0,,{\an8\pos(427,20)}Right!
+Dialogue: 0,1:15:23.37,1:15:26.69,NanohaW Dialogue1,,0,0,0,,{\pos(480,680)}Neutralization will be difficult,\Nbut I can get her attention.
+Dialogue: 0,1:15:26.69,1:15:29.11,NanohaW Dialogue1,,0,0,0,,{\pos(1120,680)}Nanoha, go after\Nthe mastermind!
+Dialogue: 0,1:15:29.11,1:15:30.12,NanohaW Dialogue1,,0,0,0,,{\an8\pos(427,20)}Right!
 Dialogue: 0,1:15:30.92,1:15:32.18,NanohaW Dialogue1,,0,0,0,,Let me go!
 Dialogue: 0,1:15:32.18,1:15:35.01,NanohaW Dialogue1,,0,0,0,,No! You’re seriously injured.
 Dialogue: 0,1:15:35.01,1:15:38.31,NanohaW Dialogue1,,0,0,0,,Yuri is crying. I must go!
@@ -1061,13 +1094,13 @@ Dialogue: 0,1:16:06.16,1:16:07.63,NanohaW Dialogue1,,0,0,0,,Fools.
 Dialogue: 0,1:16:07.63,1:16:11.67,NanohaW Dialogue1,,0,0,0,,If you do that, you will lose your current bodies.
 Dialogue: 0,1:16:11.67,1:16:15.18,NanohaW Dialogue1,,0,0,0,,They were only temporary bodies to begin with.
 Dialogue: 0,1:16:15.18,1:16:18.39,NanohaW Dialogue1,,0,0,0,,It’s a pity that we won’t be able to talk anymore.
-Dialogue: 0,1:16:18.39,1:16:19.92,NanohaW Dialogue1,,0,0,0,,But it’ll be right.
+Dialogue: 0,1:16:18.39,1:16:19.92,NanohaW Dialogue1,,0,0,0,,But it’ll be all right.
 Dialogue: 0,1:16:23.18,1:16:28.93,NanohaW Dialogue1,,0,0,0,,The power we always wanted,\Nthe power to defend the one we care about.
 Dialogue: 0,1:16:28.93,1:16:33.81,NanohaW Dialogue1,,0,0,0,,We entrust our wishes to your wings.
 Dialogue: 0,1:16:33.81,1:16:37.57,NanohaW Dialogue1,,0,0,0,,We will simply go back to being cats.
 Dialogue: 0,1:16:37.57,1:16:42.38,NanohaW Dialogue1,,0,0,0,,We believe that we will once again\Nbe able to live peacefully in our home.
-Dialogue: 0,1:16:47.04,1:16:49.84,NanohaW Dialogue1,,0,0,0,,Just wait. I’ll make sure that Yuri...
-Dialogue: 0,1:16:49.84,1:16:53.21,NanohaW Dialogue1,,0,0,0,,No, I will bring both Yuri and Iris back!
+Dialogue: 0,1:16:47.04,1:16:49.84,NanohaW Dialogue1,,0,0,0,,Just wait. I’ll make sure to bring Yuri...
+Dialogue: 0,1:16:49.84,1:16:53.21,NanohaW Dialogue1,,0,0,0,,No, I will bring {\i1}both{\i0} Yuri and Iris back!
 Dialogue: 0,1:16:56.63,1:16:58.26,NanohaW Dialogue1,,0,0,0,,They’re multiplying.
 Dialogue: 0,1:16:58.26,1:17:00.72,NanohaW Dialogue1,,0,0,0,,Speed has also increased rapidly.
 Dialogue: 0,1:17:01.21,1:17:05.05,NanohaW Dialogue1,,0,0,0,,Use Ouroboros to blast the enemy\Nonce it gets within visual range!
@@ -1101,23 +1134,23 @@ Dialogue: 0,1:20:00.59,1:20:02.93,NanohaW Dialogue1,,0,0,0,,But... I still...!
 Dialogue: 0,1:20:02.93,1:20:05.53,NanohaW Dialogue1,,0,0,0,,It’s all right. I understand.
 Dialogue: 0,1:20:05.53,1:20:07.32,NanohaW Device2,,0,0,0,,Unit set.
 Dialogue: 0,1:20:13.71,1:20:17.29,NanohaW Dialogue1,,0,0,0,,Right now, it’s just that\Nmy physical condition is better than yours.
-Dialogue: 0,1:20:18.03,1:20:22.25,NanohaW Dialogue1,,0,0,0,,Maginifcent. You were just magnificent!
+Dialogue: 0,1:20:18.03,1:20:22.25,NanohaW Dialogue1,,0,0,0,,Magnifcent. You were just magnificent!
 Dialogue: 0,1:20:22.25,1:20:24.40,NanohaW Dialogue1,,0,0,0,,I want that power.
 Dialogue: 0,1:20:27.68,1:20:30.88,NanohaW Dialogue1,,0,0,0,,I want you to be my child too.
 Dialogue: 0,1:21:24.90,1:21:26.11,NanohaW Dialogue1,,0,0,0,,Dearche!
 Dialogue: 0,1:21:26.99,1:21:29.86,NanohaW Dialogue1,,0,0,0,,Thank you for your trouble. Leave it to me from here.
 Dialogue: 0,1:21:29.86,1:21:32.30,NanohaW Dialogue1,,0,0,0,,You can’t do this alone. I’ll join you!
-Dialogue: 0,1:21:32.43,1:21:37.20,NanohaW Dialogue1,,0,0,0,,I’m not alone. With Stern and Levi, we are a team.
+Dialogue: 0,1:21:32.43,1:21:37.20,NanohaW Dialogue1,,0,0,0,,I’m not alone. Stern and Levi are at my side.
 Dialogue: 0,1:21:49.13,1:21:52.62,NanohaW Dialogue1,,0,0,0,,From the beginning, our duty has been to save Yuri.
 Dialogue: 0,1:21:52.62,1:21:55.64,NanohaW Dialogue1,,0,0,0,,It is Nanoha and the others who need help.
 Dialogue: 0,1:21:56.25,1:21:57.51,NanohaW Dialogue1,,0,0,0,,Go to them!
 Dialogue: 0,1:21:58.76,1:22:01.59,NanohaW Dialogue1,,0,0,0,,Dearche, you guys too. Take care!
 Dialogue: 0,1:22:01.59,1:22:02.37,NanohaW Dialogue1,,0,0,0,,I shall.
 Dialogue: 0,1:22:47.84,1:22:49.72,NanohaW Dialogue1,,0,0,0,,Listen here, Yuri!
-Dialogue: 0,1:22:49.72,1:22:56.10,NanohaW Dialogue1,,0,0,0,,I shall put the powers I got from Stern and Levi,\Njoined to all of mine, into this attack!
+Dialogue: 0,1:22:49.72,1:22:56.10,NanohaW Dialogue1,,0,0,0,,I shall put the mana I got from Stern and Levi,\Njoined to all of mine, into this attack!
 Dialogue: 0,1:22:56.10,1:22:58.62,NanohaW Dialogue1,,0,0,0,,I will surely rescue you.
 Dialogue: 0,1:22:58.62,1:23:01.64,NanohaW Dialogue1,,0,0,0,,Just in a moment. Hang in there!
-Dialogue: 0,1:23:02.46,1:23:06.62,NanohaW Dialogue1,,0,0,0,,Dearche. It’s no use! If you do this...
+Dialogue: 0,1:23:02.46,1:23:06.62,NanohaW Dialogue1,,0,0,0,,Dearche. You can’t! If you do this...
 Dialogue: 0,1:23:09.34,1:23:12.25,NanohaW Dialogue1,,0,0,0,,If I can wipe away all the tears from the past,
 Dialogue: 0,1:23:13.37,1:23:18.88,NanohaW Dialogue1,,0,0,0,,I shall not regret discarding\Nwhatever life and transient power we have gathered.
 Dialogue: 0,1:23:19.63,1:23:22.64,NanohaW Dialogue1,,0,0,0,,You gave your life and heart,
@@ -1132,7 +1165,7 @@ Dialogue: 0,1:24:23.25,1:24:28.66,NanohaW Dialogue1,,0,0,0,,I was always the one
 Dialogue: 0,1:24:51.77,1:24:54.52,NanohaW Dialogue1,,0,0,0,,What? What in the blue hell is up with her?
 Dialogue: 0,1:24:56.02,1:25:01.65,NanohaW Dialogue1,,0,0,0,,Nanoha is pushing herself, but she’s way past her limit.
 Dialogue: 0,1:25:01.65,1:25:03.90,NanohaW Dialogue1,,0,0,0,,I must help.
-Dialogue: 0,1:25:08.96,1:25:10.04,NanohaW Dialogue1,,0,0,0,,I can’t move.
+Dialogue: 0,1:25:08.96,1:25:10.04,NanohaW Dialogue1,,0,0,0,,Move!
 Dialogue: 0,1:25:13.76,1:25:16.40,NanohaW Dialogue1,,0,0,0,,Move!
 Dialogue: 0,1:25:39.78,1:25:40.76,NanohaW Dialogue1,,0,0,0,,{\b1}Hornet Javelin{\b0}
 Dialogue: 0,1:25:41.87,1:25:43.70,NanohaW Dialogue1,,0,0,0,,{\b1}Exceed Estrella{\b0}
@@ -1143,7 +1176,7 @@ Dialogue: 0,1:26:20.53,1:26:22.02,NanohaW Dialogue1,,0,0,0,,Iris!
 Dialogue: 0,1:26:26.62,1:26:28.62,NanohaW Dialogue1,,0,0,0,,Our allies are confirmed to have been cut loose.
 Dialogue: 0,1:26:28.62,1:26:30.78,NanohaW Dialogue1,,0,0,0,,Kyrie and others are safe.
 Dialogue: 0,1:26:32.13,1:26:34.62,NanohaW Dialogue1,,0,0,0,,Ready to execute Ouroboros.
-Dialogue: 0,1:26:34.62,1:26:37.52,NanohaW Dialogue1,,0,0,0,,Selecting exclusion zone. Anti-ballistics set.
+Dialogue: 0,1:26:34.62,1:26:37.52,NanohaW Dialogue1,,0,0,108,,Selecting exclusion zone. Anti-ballistics set.
 Dialogue: 0,1:26:38.62,1:26:43.63,NanohaW Dialogue1,,0,0,0,,Counting down to launch. Six, five, four, three,
 Dialogue: 0,1:26:43.63,1:26:45.88,NanohaW Dialogue1,,0,0,0,,two, one,
 Dialogue: 0,1:26:45.88,1:26:46.66,NanohaW Dialogue1,,0,0,0,,zero!
@@ -1164,7 +1197,7 @@ Dialogue: 0,1:28:03.34,1:28:09.40,NanohaW Dialogue1,,0,0,0,,Did you not realize 
 Dialogue: 0,1:28:10.34,1:28:11.87,NanohaW Dialogue1,,0,0,0,,Stop all this!
 Dialogue: 0,1:28:11.87,1:28:13.20,NanohaW Dialogue1,,0,0,0,,He’s still...!
 Dialogue: 0,1:28:13.20,1:28:15.47,NanohaW Dialogue1,,0,0,0,,It’s too late to do anything about it.
-Dialogue: 0,1:28:15.47,1:28:17.25,NanohaW Dialogue1,,0,0,0,,Look at the sky.
+Dialogue: 0,1:28:15.47,1:28:17.25,NanohaW Dialogue1,,0,0,0,,Look up.
 Dialogue: 0,1:28:24.28,1:28:28.11,NanohaW Dialogue1,,0,0,0,,Huh, that’s weird. What a bright star...
 Dialogue: 0,1:28:28.73,1:28:32.89,NanohaW Dialogue1,,0,0,0,,Fortunately, this planet also has satellite technology.
 Dialogue: 0,1:28:34.00,1:28:37.64,NanohaW Dialogue1,,0,0,0,,When Iris came here, she planted seeds.
@@ -1240,7 +1273,7 @@ Dialogue: 0,1:33:59.11,1:34:01.21,NanohaW Dialogue1,,0,0,0,,...I have magic for!
 Dialogue: 0,1:34:49.46,1:34:50.74,NanohaW Dialogue1,,0,0,0,,Nanoha.
 Dialogue: 0,1:35:05.26,1:35:09.76,NanohaW Dialogue1,,0,0,0,,Finally, it’s over.
 Dialogue: 0,1:35:10.00,1:35:11.58,NanohaW Device1,,0,0,0,,I’m truly sorry.
-Dialogue: 0,1:35:11.58,1:35:14.12,NanohaW Dialogue1,,0,0,0,,Same here.
+Dialogue: 0,1:35:11.58,1:35:14.12,NanohaW Dialogue1,,0,0,0,,Yeah, so am I.
 Dialogue: 0,1:35:15.06,1:35:19.34,NanohaW Dialogue1,,0,0,0,,I guess I just saved everyone.
 Dialogue: 0,1:35:19.34,1:35:20.38,NanohaW Device1,,0,0,0,,Without doubt.
 Dialogue: 0,1:35:21.60,1:35:22.86,NanohaW Dialogue1,,0,0,0,,It’s fine then.
@@ -1307,7 +1340,7 @@ Dialogue: 0,1:39:48.38,1:39:51.87,NanohaW Dialogue1,,0,0,0,,I knew them from con
 Dialogue: 0,1:39:52.53,1:39:56.63,NanohaW Dialogue1,,0,0,0,,I feel as though the time that had ground to a halt\Nis finally running again.
 Dialogue: 0,1:39:56.63,1:39:58.20,NanohaW Dialogue1,,0,0,0,,I have all of you to thank for that.
 Dialogue: 0,1:40:00.22,1:40:03.54,NanohaW Dialogue1,,0,0,0,,But I already feel lonely\Nthinking of being apart from you guys.
-Dialogue: 0,1:40:03.54,1:40:08.73,NanohaW Dialogue1,,0,0,0,,I want to hear more about\Nthe Book of the Night Sky’s guardians.
+Dialogue: 0,1:40:03.54,1:40:08.73,NanohaW Dialogue1,,0,0,0,,I want to hear more about\Nthe Book of the Night Sky’s guardian.
 Dialogue: 0,1:40:08.73,1:40:11.56,NanohaW Dialogue1,,0,0,0,,There’s almost nothing more I can tell.
 Dialogue: 0,1:40:11.56,1:40:14.68,NanohaW Dialogue1,,0,0,0,,I was a mere chaperone, after all.
 Dialogue: 0,1:40:14.68,1:40:18.32,NanohaW Dialogue1,,0,0,0,,I could not make her happy.
@@ -1333,9 +1366,9 @@ Dialogue: 0,1:41:16.73,1:41:18.49,NanohaW Dialogue1,,0,0,0,,Fate sure is strict.
 Dialogue: 0,1:41:18.49,1:41:21.76,NanohaW Dialogue1,,0,0,0,,Well, an ounce of prevention is better than a pound of cure.
 Dialogue: 0,1:41:21.76,1:41:24.27,NanohaW Dialogue1,,0,0,0,,There’s still plenty of summer vacation left!
 Dialogue: 0,1:41:24.27,1:41:25.51,NanohaW Dialogue1,,0,0,0,,{\i1}Fine.{\i0}
-Dialogue: 0,1:41:28.65,1:41:34.15,NanohaW Dialogue1,,0,0,0,,Following this, witnesses were questioned,\Nprocedures carried out, things discussed...
-Dialogue: 0,1:41:34.15,1:41:35.52,NanohaW Dialogue1,,0,0,0,,So much has happened.
-Dialogue: 0,1:41:36.95,1:41:39.84,NanohaW Dialogue1,,0,0,0,,The time has come for us to go home.
+Dialogue: 0,1:41:28.65,1:41:34.15,NanohaW Narration1,,0,0,0,,Following this, witnesses were questioned,\Nprocedures carried out, things discussed...
+Dialogue: 0,1:41:34.15,1:41:35.52,NanohaW Narration1,,0,0,0,,So much has happened.
+Dialogue: 0,1:41:36.95,1:41:39.84,NanohaW Narration1,,0,0,0,,The time has come for us to go home.
 Dialogue: 0,1:41:44.45,1:41:45.70,NanohaW Dialogue1,,0,0,0,,Nanoha.
 Dialogue: 0,1:41:45.70,1:41:49.37,NanohaW Dialogue1,,0,0,0,,It’s too bad we can’t have a rematch.
 Dialogue: 0,1:41:49.37,1:41:51.29,NanohaW Dialogue1,,0,0,0,,We’ll see each other again.
@@ -1346,8 +1379,8 @@ Dialogue: 0,1:41:59.80,1:42:02.64,NanohaW Dialogue1,,0,0,0,,Kyrie, Yuri.
 Dialogue: 0,1:42:02.64,1:42:04.30,NanohaW Dialogue1,,0,0,0,,There is one more person.
 Dialogue: 0,1:42:08.44,1:42:09.63,NanohaW Dialogue1,,0,0,0,,Iris!
 Dialogue: 0,1:42:11.06,1:42:15.81,NanohaW Dialogue1,,0,0,0,,I have my trial and other things going on,\Nso I will be staying here for the time being.
-Dialogue: 0,1:42:16.65,1:42:21.78,NanohaW Dialogue1,,0,0,0,,But I need to address the matter after all this is over.
-Dialogue: 0,1:42:21.78,1:42:23.56,NanohaW Dialogue1,,0,0,0,,The matter after all this is over?
+Dialogue: 0,1:42:16.65,1:42:21.78,NanohaW Dialogue1,,0,0,0,,But I need to address matters after all this is over.
+Dialogue: 0,1:42:21.78,1:42:23.56,NanohaW Dialogue1,,0,0,0,,What kind of matters?`
 Dialogue: 0,1:42:23.56,1:42:27.06,NanohaW Dialogue1,,0,0,0,,I deceived everyone and caused so much trouble.
 Dialogue: 0,1:42:27.06,1:42:30.58,NanohaW Dialogue1,,0,0,0,,I did many things that can never be undone.
 Dialogue: 0,1:42:30.58,1:42:34.02,NanohaW Dialogue1,,0,0,0,,Although I will be judged by the law,
@@ -1371,8 +1404,8 @@ Dialogue: 0,1:43:42.20,1:43:44.15,NanohaW Dialogue1,,0,0,0,,Everyone, welcome ho
 Dialogue: 0,1:43:47.74,1:43:49.16,NanohaW Dialogue1,,0,0,0,,We’re home!
 Dialogue: 0,1:45:40.73,1:45:43.51,NanohaW Narration1,,0,0,0,,It has been a while since then.
 Dialogue: 0,1:45:43.51,1:45:47.56,NanohaW Narration1,,0,0,0,,The Florian farm is now in harvest season.
-Dialogue: 0,1:45:47.56,1:45:52.61,NanohaW Narration1,,0,0,0,,My mother’s illness is in remission thanks to Yuri’s treatment and medicine.
-Dialogue: 0,1:45:53.15,1:45:55.74,NanohaW Narration1,,0,0,0,,And so she remains in good health.
+Dialogue: 0,1:45:47.56,1:45:52.61,NanohaW Narration1,,0,0,0,,My mother’s illness is in remission thanks to Yuri’s treatment and medicine,
+Dialogue: 0,1:45:53.15,1:45:55.74,NanohaW Narration1,,0,0,0,,and so she remains in good health.
 Dialogue: 0,1:45:57.66,1:46:03.66,NanohaW Narration1,,0,0,0,,My father lived longer, and in more comfortable health,\Nthan we expected him to.
 Dialogue: 0,1:46:04.96,1:46:07.34,NanohaW Narration1,,0,0,0,,With the return of Yuri and Iris,
 Dialogue: 0,1:46:08.47,1:46:12.84,NanohaW Narration1,,0,0,0,,he was truly delighted that the hope of\Nreviving our planet has been renewed.
@@ -1381,23 +1414,38 @@ Dialogue: 0,1:46:18.77,1:46:20.85,NanohaW Narration1,,0,0,0,,How is everyone get
 Dialogue: 0,1:46:20.85,1:46:24.31,NanohaW Narration1,,0,0,0,,I hope that someday, you can come and visit us.
 Dialogue: 0,1:46:24.31,1:46:26.69,NanohaW Narration1,,0,0,0,,Then you’ll all get to see what we've been telling you.
 Dialogue: 0,1:46:27.69,1:46:32.57,NanohaW Narration1,,0,0,0,,That our homeworld is a truly beautiful planet.
-Comment: 0,1:47:05.38,1:47:10.84,Nanoha ED,,0,0,0,,The circle of fate we’ve been pulled into\Nglistens like the surface of a lake
-Comment: 0,1:47:10.84,1:47:16.90,Nanoha ED,,0,0,0,,In this fleeting moment, the reflection shows\Na dream of happiness
-Comment: 0,1:47:16.90,1:47:22.54,Nanoha ED,,0,0,0,,It echoes kindly, ephemerally, and deeply
-Comment: 0,1:47:22.54,1:47:25.48,Nanoha ED,,0,0,0,,It strikes me in the heart\N(feel sharply)
-Comment: 0,1:47:25.48,1:47:28.24,Nanoha ED,,0,0,0,,I stubbornly insisted\N(happy with you)
-Comment: 0,1:47:28.24,1:47:34.83,Nanoha ED,,0,0,0,,Our loneliness linkes us together,\Nand the cycle of sadness crumbles away
-Comment: 0,1:47:34.83,1:47:36.96,Nanoha ED,,0,0,0,,I wish...
-Comment: 0,1:47:36.96,1:47:42.56,Nanoha ED,,0,0,0,,Being held close night after night,\Nlike the day I was born
-Comment: 0,1:47:42.56,1:47:47.94,Nanoha ED,,0,0,0,,Snuggling up to you lights up my world
-Comment: 0,1:47:47.94,1:47:51.38,Nanoha ED,,0,0,0,,Even under the pounding rains of regret
-Comment: 0,1:47:51.38,1:47:56.92,Nanoha ED,,0,0,0,,As we guide our undying love
-Comment: 0,1:47:56.92,1:48:08.08,Nanoha ED,,0,0,0,,I just have to keep believing\Nin the promise we made that day
-Comment: 0,1:48:17.90,1:48:23.30,Nanoha ED,,0,0,0,,People are always chasing after that\Nwhich they let slip through their grasp
-Comment: 0,1:48:23.30,1:48:28.52,Nanoha ED,,0,0,0,,At the whims and mercy\Nof an irrevocable “if”
-Comment: 0,1:48:29.48,1:48:34.90,Nanoha ED,,0,0,0,,Without any of that\Nprecious, brilliant healing
-Comment: 0,1:48:34.90,1:48:36.90,Nanoha ED,,0,0,0,,What we call “eternity”
-Comment: 0,1:48:36.90,1:48:39.24,Nanoha ED,,0,0,0,,{\pos(14,56)}(desired place)
-Comment: 0,1:48:37.78,1:48:39.80,Nanoha ED,,0,0,0,,Doing nothing but searching for tomorrow
-Comment: 0,1:48:39.80,1:48:41.98,Nanoha ED,,0,0,0,,{\pos(14,56)}(seeking answer)
-Comment: 0,1:48:40.54,1:48:47.28,Nanoha ED,,0,0,0,,Afraid to confront the truth we call “today”
+Dialogue: 0,1:47:05.38,1:47:10.84,Nanoha ED,,0,0,0,,The wheel of destiny that pulled us in in an instant
+Dialogue: 0,1:47:10.84,1:47:16.90,Nanoha ED,,0,0,0,,Reflects our dreams on the ever-changing\Nhappiness as if on a glistening lake
+Dialogue: 0,1:47:16.90,1:47:22.54,Nanoha ED,,0,0,0,,It reverberates deeply, almost gently,\Nalmost fleetingly
+Dialogue: 0,1:47:22.54,1:47:25.48,Nanoha ED,,0,0,0,,It digs into my chest\N(feel sharply)
+Dialogue: 0,1:47:25.48,1:47:28.24,Nanoha ED,,0,0,0,,Stubbornly yearning\N(happy with you)
+Dialogue: 0,1:47:28.24,1:47:34.83,Nanoha ED,,0,0,0,,Erasing the cycle of sadness\Nthat loneliness connected me to
+Dialogue: 0,1:47:34.83,1:47:36.96,Nanoha ED,,0,0,0,,What I wish is
+Dialogue: 0,1:47:36.96,1:47:42.56,Nanoha ED,,0,0,0,,Embracing numerous nights\Nlike the newborn sun
+Dialogue: 0,1:47:42.56,1:47:47.94,Nanoha ED,,0,0,0,,I want to snuggle close to you\Nand illuminate everything
+Dialogue: 0,1:47:47.94,1:47:51.38,Nanoha ED,,0,0,0,,Even if we get hit by\Nthe grieving, violent rain
+Dialogue: 0,1:47:51.38,1:47:56.92,Nanoha ED,,0,0,0,,This love that never withers will guide us
+Dialogue: 0,1:47:56.92,1:48:08.08,Nanoha ED,,0,0,0,,Keep believing in the promise\Nwe made that day
+Dialogue: 0,1:48:17.90,1:48:23.30,Nanoha ED,,0,0,0,,People always feel sorrow in chasing that\Nwhich they let slip through their grasp
+Dialogue: 0,1:48:23.30,1:48:28.52,Nanoha ED,,0,0,0,,They cower while being swept around\Nby “what ifs” they can’t return to
+Dialogue: 0,1:48:29.48,1:48:34.90,Nanoha ED,,0,0,0,,Their wounds don’t heal,\Nalmost nobly, almost dazzlingly
+Dialogue: 0,1:48:34.90,1:48:36.90,Nanoha ED,,0,0,0,,They only ever searched for
+Dialogue: 0,1:48:36.90,1:48:39.24,Nanoha ED,,0,0,0,,{\pos(14,56)}(desired place)
+Dialogue: 0,1:48:37.78,1:48:39.80,Nanoha ED,,0,0,0,,A tomorrow called “eternity”
+Dialogue: 0,1:48:39.80,1:48:41.98,Nanoha ED,,0,0,0,,{\pos(14,56)}(seeking answer)
+Dialogue: 0,1:48:40.54,1:48:47.28,Nanoha ED,,0,0,0,,They fear to confront the truth that is today…
+Dialogue: 0,1:48:47.28,1:48:49.18,Nanoha ED,,0,0,0,,What I pledge is
+Dialogue: 0,1:48:49.18,1:48:54.96,Nanoha ED,,0,0,0,,I won’t let the future I’ll paint with you\Nlike a flowing fountain
+Dialogue: 0,1:48:54.96,1:49:00.18,Nanoha ED,,0,0,0,,Be destroyed by the cruel hands of time
+Dialogue: 0,1:49:00.18,1:49:06.44,Nanoha ED,,0,0,0,,That’s my resolution for\Nprotecting the one place we belong
+Dialogue: 0,1:49:06.44,1:49:09.24,Nanoha ED,,0,0,0,,I won’t avert my eyes anymore
+Dialogue: 0,1:49:09.24,1:49:21.16,Nanoha ED,,0,0,0,,From the end of this path I headed for,\Nno matter what’s waiting for me
+Dialogue: 0,1:49:31.80,1:49:37.80,Nanoha ED,,0,0,0,,Just as the shining stars\Nare calling out to each other,
+Dialogue: 0,1:49:37.80,1:49:47.68,Nanoha ED,,0,0,0,,Your smiling face always beckons me
+Dialogue: 0,1:49:47.68,1:49:51.54,Nanoha ED,,0,0,0,,What I wish is
+Dialogue: 0,1:49:51.54,1:49:57.18,Nanoha ED,,0,0,0,,Embracing numerous nights\Nlike the newborn sun
+Dialogue: 0,1:49:57.18,1:50:02.34,Nanoha ED,,0,0,0,,I want to snuggle close to you\Nand illuminate everything
+Dialogue: 0,1:50:02.34,1:50:05.92,Nanoha ED,,0,0,0,,Even if we get hit by\Nthe grieving, violent rain
+Dialogue: 0,1:50:05.92,1:50:11.54,Nanoha ED,,0,0,0,,This love that never withers will guide us
+Dialogue: 0,1:50:11.54,1:50:19.74,Nanoha ED,,0,0,0,,Please never forget the promise\Nwe made that day
+Dialogue: 0,1:50:19.74,1:50:29.64,Nanoha ED,,0,0,0,,I will definitely come to meet you
